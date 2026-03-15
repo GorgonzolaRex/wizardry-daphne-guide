@@ -160,9 +160,6 @@
         - Can be silenced.
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
         
-    === "Map Location"
-        ![](./img/skeleton-archmage-loc.png)
-        
 ??? danger "Six-Limbed Storm (180 Tokens)" 
 
     === "Bounty Picture" 
