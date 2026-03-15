@@ -233,7 +233,7 @@
         - Stationary, indicated as an NPC on the map
         - 4800 Gold Reward
         - 110 Token Reward
-        - Appears at Bounty Rank ???
+        - Appears at Bounty Rank 4
         
     === "Fight Details"
         - HP: ~5k (can be captured after ~3k)
