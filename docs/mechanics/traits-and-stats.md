@@ -19,7 +19,7 @@ Trait Points are the core seven attributes that influence an adventurer's stats.
 
 ### Base Trait Points
 
-The base trait points an adventurer starts with considers multiple factors, including gender, race, class, and element type. Using this table, we can calculate the base traits for an given adventurer.
+The base trait points an adventurer starts with considers multiple factors, including gender, race, class, and element type. Using this table, we can calculate the base traits for any given adventurer.
 
 |        |                       | Strength |  IQ | Piety | Vitality | Dexterity | Speed | Luck |
 |:------:|:---------------------:|:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
