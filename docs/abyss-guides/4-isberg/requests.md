@@ -1,22 +1,18 @@
 # Deepersnow Hinterlands
 
 !!! warning "Work In Progress"
-    - Ctrl + F5 to refresh the page for new updates
+    - Ctrl + F5 to refresh for updates
     - Major spoilers ahead
-
-!!! warning "Bugs Fixed"
-    - The bugged requests appear to be fixed as of the 1/30 patch
 
 ??? tip "Things To Know In Advance"
 
-    - We recommend you wait to do the Guild requests until after you have beaten the Abyss at least once 
-    - Several requests require: 
-        - The second reversal power, which can only be received after clearing GWO 4-3 
-        - Successful completion of other requests, which are listed as "pre-requisites" 
-    - The enemy difficulty is overall much higher with many requests requiring challenging back-to-back fights  
+    - We recommend you wait to do the Guild requests until after you have beaten the Abyss at least once. Several requests require: 
+        - The second reversal power, which requires clearing GWO 4-3 
+        - Completion of other requests, which are listed as "pre-requisites" 
+    - The enemy difficulty is on par or higher than mobs found on the final set of floors
     - All requests are reset if you Cursed Wheel to a different Abyss 
-    - The game saves the state of the map after defeating the GWO, including unlocked shortcuts (stumps, mines)
-        - To update the map you have to "wheel-in-place" twice on Truth of the Beautiful Ore
+    - The game saves the state of the entrire map after defeating the GWO, including unlocked shortcuts (stumps, mines)
+        - To update the map you have to "wheel-in-place" 2x on Truth of the Beautiful Ore
         - Before starting a request (or multiple requests) do the above step and then Cursed Wheel to your desired node
     
 ## Snowy Forest Minor Harken
