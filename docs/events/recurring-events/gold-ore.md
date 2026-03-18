@@ -1,19 +1,19 @@
 !!! warning "Work in Progress"
-    - Ctrl + F5 to refresh for updates
-
-### Overview
+    - Ctrl + F5 to refresh for updates.
 
 !!! danger "Warning - Read Me" 
 
-    - The request location and rewards are based on the further Abyss reached. 
-    - If you are in A1-3 and plan to start the next Abyss during the event period, then wait to accept the request to maximize your rewards. The Abyss location cannot be changed once accepted.  
-    - Do not submit the request until you have collected the maximum amount of Gold Ore. Do not listen to Lulu. The additional gold reward is substantial and can be missed if the request is submitted prematurely.
+    - It is very easy to mess up this request and lose out on the maximum additional gold reward, which is substantial. 
+    - The request location and rewards are based on the furthest Abyss reached. If you are in A1-3 and plan to start the next Abyss during the event period, then wait to accept the request to maximize your reward. The Abyss location cannot be changed once accepted.  
+    - Do not submit the request until you have collected the maximum amount of Gold Ore. Do not listen to Lulu!
+
+### Overview
 
 ??? note "How to Accept the Request" 
 
     - Accept at the Royal Capital under the Featured Requests tab. 
     - Available for a limited time through 3/18 (23:59) and cannot be discarded after accepting. 
-    - This is not a Daily request. You have the entire 2-week period to complete. 
+    - This is **not** a Daily request. You have the entire 2-week period to complete. Once it is submitted you cannot re-accept.  
 
 ??? note "Important Notes" 
 
@@ -21,25 +21,27 @@
     
         - Objective
             - The goal is to reclaim the Gold Ore that a group of thieves has stolen. They are now hiding in the Abyss and it is your job to track them down and recover as much of it as possible.
-            - After accepting the request Arna will direct you to the correct Abyss to search, which will be the highest Abyss you have reached to-date. There are no changes to the enemies or their levels in the Abyss while the requests is active. 
+            - Arna will direct you to the correct Abyss to search, which will be the the furthest one you have reached to-date. There are no changes to the enemies or their levels in the Abyss while the requests is active. 
 
         - Task
             - Go to Abyss floor listed under the Guides section. You will know you are on the correct floor because Lulu will comment that she senses the presence of thieves in the area.
-            - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. After defeating your first group the request will be completed. This is "technically" true, but misleading. Do not submit at this point! See Additional Reward tab for details.
+            - Search the floor until you find a group of thieves. After defeating them you will recover a small amount of Gold Ore. 
+            - After defeating your first group the request will be completed. This is "technically" true, but misleading. Do not submit at this point! See Additional Reward tab for details.
 
     === "Additional Reward"
     
-        - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportional to the % of the maximum Gold Ore you collected. 
+        - Each Abyss has a maximum amount of Gold Ore that can be recovered. The size of your additional reward is roughly proportional to the % of the maximum Gold Ore collected. 
         - Abyss 3 Example:
-            - The maximum Gold Ore you can collect is 24,000. 
-            - If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 Gold versus 1,000,000 Gold as an additional reward.  
-        - It takes 60 encounters to collect the maximum amount. Fortunately, there are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see tabs). 
-        - You can check how much total Gold Ore you have collected under your Valuables inventory. 
+            - Mximum Gold Ore is 24,000. 
+            - If you submitted 12,000 Gold Ore (50% of the maximum) you would receive 500,000 gold versus 1,000,000 gold as an additional reward.  
+        - It takes 60 encounters to collect the maximum amount. There are ways to bring this number down to 20 using Marianne and speaking with the Old Man in the Tavern (see tabs). 
+        - You can check how much total Gold Ore you have collected under your Valuables in the inventory menu. 
         - If you submit the request accidentally or prematurely you will be locked out for the rest of the event. It cannot be reactivated. 
 
     === "Marianne (Optional)" 
 
-        - If Marianne is in your party it will increase the amount of Gold Ore collected after each fight by 50% of the base amount. She is not required to get the maximum amount of Gold Ore.  
+        - If Marianne is in your party it will increase the amount of Gold Ore collected after each fight by 50% of the base amount. 
+        - Marianne is not required to get the maximum amount of Gold Ore.  
         - A low-level Marianne might be at risk of dying, especially in Abyss 3 or 4. Give her EXP books and/or strong gear to make sure can survive all of the encounters.
 
     === "Old Man's Stash (Optional)"
@@ -50,7 +52,7 @@
             - Abyss 3: 2,000 Gold
             - Abyss 4: 4,000 Gold 
         - Once you reach the marked "!" location you will see a glowing, white object (a "shiny") on the ground. The stash contains 4x the amount of Gold Ore that you recieve from a single fight.
-        - After 10% of the max Gold Ore is collected Lulu will prompt you to check-in with the Old Man. This happens after 6 fights or 4 with Marianne in the party. You must return to the Royal Capital. He will re-mark your map with the location of the next stash. You can do this up to 5 times. 
+        - After 10% of the maximum Gold Ore is collected Lulu will prompt you to check-in with the Old Man. This happens after 6 fights or 4 with Marianne in the party. You must return to the Royal Capital. He will re-mark your map with the location of the next stash. You can do this up to 5 times. 
         - We recommend you collect all 5 stashes. Returning to the Royal Capital can be an inconvenience but, on net, it is faster than having to do 4 or 6 fights for an equivalent amount of Gold Ore.
 
     === "Total Required Fights"
