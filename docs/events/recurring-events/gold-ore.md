@@ -1,9 +1,13 @@
-!!! warning "Warning - Read Me"
-    - Do not submit the request until you have collected the maximum amount of Gold Ore. Do not listen to Lulu.  
-    - The additional gold reward is substantial and can be missed if the request is submitted prematurely.
-    - This is a WIP and being updated for Abyss 4. Ctrl + F5 to refresh. 
+!!! warning "Work in Progress"
+    - Ctrl + F5 to refresh for updates
 
 ### Overview
+
+!!! danger "Warning - Read Me" 
+
+    - The request location and rewards are based on the further Abyss reached. 
+    - If you are in A1-3 and plan to start the next Abyss during the event period, then wait to accept the request to maximize your rewards. The Abyss location cannot be changed once accepted.  
+    - Do not submit the request until you have collected the maximum amount of Gold Ore. Do not listen to Lulu. The additional gold reward is substantial and can be missed if the request is submitted prematurely.
 
 ??? note "How to Accept the Request" 
 
