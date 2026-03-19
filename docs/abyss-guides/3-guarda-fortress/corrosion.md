@@ -114,38 +114,41 @@
     - Picture of the Cursed Wheel entry 
     - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
-??? warning "Read Me - Cursed Wheel Manipulation + GWO Versions"
+??? warning "GWO Versions Guide"
 
     === "Basics" 
     
-    - The overall Abyss corrosion level impacts what version of the GWO you fight, which becomes more challenging at lower corrosion levels.
-    - You will often see references on this website, Discord, and Reddit to GWO #. This refers to the number of corrosion sentries that need to be set to "Spotted" (out of 13) for that specific version of the fight.  
-    - GWO 6: Required for the Mastermind ending. 
-    - GWO 8: Required for the Blackmail ending. 
-    - GWO 0: Required on the Mastermind ending to get the "super" version of the fight for the hidden achievement and access to the Rank 12 Bounty Cyclops. 
-        - Fighting GWO 0 on the Blackmail ending is a different, easier fight and does not count. 
-        - GWO 0 means that every single toggle is set to "Not Spotted" aka zero (0) set to "Spotted". 
-    - A low Abyss corrosion level is needed to access some rooms or side areas throughout the Abyss. 
+        - The overall Abyss corrosion level impacts what version of the GWO you fight, which becomes more challenging at lower corrosion levels.
+        - You will often see references on this website, Discord, and Reddit to GWO #. This refers to the number of corrosion sentries that need to be set to "Spotted" (out of 13) for that specific version of the fight.  
+        - GWO 8: Required for the Blackmail ending. 
+        - GWO 6: Required for the Mastermind ending. 
+        - GWO 0: Required on the Mastermind ending to get the "super" version of the fight for the hidden achievement and access to the Rank 12 Bounty Cyclops. 
+            - Fighting GWO 0 on the Blackmail ending is a different, easier fight and does not count. 
+            - GWO 0 means that every single toggle is set to "Not Spotted" aka zero (0) set to "Spotted". 
+        - A low Abyss corrosion level is needed to access some rooms or side areas throughout the Abyss. 
 
     === "How to Calculate"
 
         - If you have registered all 13 corrosion sentries, then things are straight forward - just toggle the desired number of corrosion sentries to "Spotted". 
         - If you do _not_ have all 13 registered, then you need to do a little math. 
         - Any corrosion sentry that you have not registered is automatically counted as "Spotted". 
-        - Example 1
-            - You have 10 registered and want to fight GWO 8. 
-            - The 3 (out of 13) not registered count toward the "Spotted" total. 
-            - Therefore, you would need to toggle 5 to "Spotted" and 5 to "Not Spotted". 
-            - 3 not registered (automatically set to "Spotted") + 5 registered and set to "Spotted" = 8 total "Spotted"
-        - Example 2 
-            - You have 8 registered and want to fight GWO 6. 
-            - The 5 (out of 13) not registered count toward the "Spotted" total. 
-            - You would toggle 1 of your registered sentries to "Spotted" and the other 7 to "Not Spotted". 
-            - 5 not registered (automatically set to "Spotted") + 1 registered and set to "Spotted" = 6 total "Spotted"
         - You need to change your toggles _before_ you jump to Fortress Third Floor Arrival (Zone 10 Fountain) to fight the GWO. 
+        - See Example tabs for the basic math. 
         - There is another way to quickly double-check you have the correct room size by jumping to Zone 10 and looking at the size of Ixion's room. See tabs for the picture. 
+
+    === "Example 1"
+        - You have 10 registered and want to fight GWO 8. 
+        - The 3 (out of 13) not registered count toward the "Spotted" total. 
+        - Therefore, you would need to toggle 5 to "Spotted" and 5 to "Not Spotted". 
+        - 3 not registered (automatically set to "Spotted") + 5 registered and set to "Spotted" = 8 total "Spotted"
+
+    === "Example 2" 
+        - You have 8 registered and want to fight GWO 6. 
+        - The 5 (out of 13) not registered count toward the "Spotted" total. 
+        - You would toggle 1 of your registered sentries to "Spotted" and the other 7 to "Not Spotted". 
+        - 5 not registered (automatically set to "Spotted") + 1 registered and set to "Spotted" = 6 total "Spotted"
             
-    === "Duke's Room Size "
+    === "Ixion's Room Size "
         
         - The red numbers refer to how many sentries have been toggled (or defaulted) to "Spotted." 
         
@@ -164,7 +167,7 @@
         - Greater Warped One: GWO
         - GWO #: The # refers to the number of "Spotted" corrosion sentries out of 13
 
-??? tip "Low Corrosion Level [LC][LC]<span style="color: LimeGreen">*</span> Required"
+??? tip "Low Corrosion Level [LC]<span style="color: LimeGreen">*</span> Required"
     
     - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room. 
     - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
