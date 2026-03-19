@@ -105,14 +105,33 @@
 ## Corrosion Sentry Guide
 
 ??? warning "Topics Covered"
+
+    === "Overview" 
     
-    - Locations of all 13 corrosion sentries 
-    - Pathing instructions for confusing areas with all steps based on the cardinal directions of the map
-    - Golem power reversal directions 
-    - Registration nodes and directions for "Spotted" and "Not Spotted" runs 
-    - Important time-saving tips, warnings, and other notes
-    - Picture of the Cursed Wheel entry 
-    - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
+        - Locations of all 13 corrosion sentries 
+        - Pathing instructions for confusing areas with all steps based on the cardinal directions of the map
+        - Golem power reversal directions 
+        - Registration nodes and directions for "Spotted" and "Not Spotted" runs 
+        - Important time-saving tips, warnings, and other notes
+        - Picture of the Cursed Wheel entry 
+        - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
+
+    === "Terms" 
+    
+        - The guide uses the full name where possible of each floor and Cursed Wheel node. 
+        - In Abyss 3 the floors are called "Zones". 
+        - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
+        - Common Abbreviations:
+            - Abyss #: Abyss 3 would be "A3"
+            - Cursed Wheel: CW 
+            - Greater Warped One: GWO
+            - GWO #: The # refers to the number of "Spotted" corrosion sentries out of 13
+
+    === "Low Corrosion Level [LC]<span style="color: LimeGreen">*</span> Required"
+    
+        - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room. 
+        - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
+        - We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems. 
 
 ??? warning "Read Me - GWO Versions Guide"
 
@@ -156,22 +175,9 @@
         ![](./img/corruption-levels.png)
         </div>
 
-??? note "Terms"
 
-    - The guide uses the full name where possible of each floor and Cursed Wheel node. 
-    - In Abyss 3 the floors are called "Zones". 
-    - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
-    - Common Abbreviations:
-        - Abyss #: Abyss 3 would be "A3"
-        - Cursed Wheel: CW 
-        - Greater Warped One: GWO
-        - GWO #: The # refers to the number of "Spotted" corrosion sentries out of 13
 
-??? note "Low Corrosion Level [LC]<span style="color: LimeGreen">*</span> Required"
-    
-    - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room. 
-    - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
-    - We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems.  
+
 
 ### Secret Passage Minor Harken
 
