@@ -114,7 +114,7 @@
     - Picture of the Cursed Wheel entry 
     - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
-??? warning "GWO Versions Guide"
+??? warning "Read Me - GWO Versions Guide"
 
     === "Basics" 
     
@@ -167,7 +167,7 @@
         - Greater Warped One: GWO
         - GWO #: The # refers to the number of "Spotted" corrosion sentries out of 13
 
-??? tip "Low Corrosion Level [LC]<span style="color: LimeGreen">*</span> Required"
+??? note "Low Corrosion Level [LC]<span style="color: LimeGreen">*</span> Required"
     
     - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room. 
     - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
