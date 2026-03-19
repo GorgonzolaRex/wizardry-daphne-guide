@@ -447,7 +447,7 @@ Goetia -> Admiral Route
 - Head to Edge of Town to see that monsters are attacking and blocking the harken so take the Back Alley  
 - The nearest Harken is broken so repair that and travel back to Rickert  
 - Give Knightquil to Butch  
-- Fight Bonney/Clyde  
+- Fight Arena round 2
 - Talk to goblin to find out about your next opponent. A scene should trigger where your missing person wins  
 - Talk to your missing person after the fight and he'll mention he's withdrawing from arena
 
