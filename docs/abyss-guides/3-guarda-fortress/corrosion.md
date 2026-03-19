@@ -874,9 +874,6 @@
         - This bug has been present since A3 launched and it is unlikely that it will be fixed in a future patch
     
     === "How to Register"
-
-        
-    
     
         Cursed Wheel Settings: 
         
@@ -925,34 +922,36 @@
         </div>
     
     ??? warning "Cursed Wheel Registration"
+
+        === "Requirements" 
+
+            - Encountered during the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request 
+            - Requires low Abyss corrosion to enter the room. 
     
         === "Spotted"
+                        
+            Cursed Wheel 
             
-            === "Guide" 
+            - Start: Fortress 2F Minor Harken (Zone 9 Harken) 
+            - Register: Triumphant Return (Blackmail or Mastermind ending)
+            - Important! Make sure all of your registered corrosion sentries are toggled to "Not Spotted" before you leap otherwise the door may be corroded over and inaccessible
+
+            Directions 
             
-                Cursed Wheel 
-                
-                - Start: Fortress 2F Minor Harken (Zone 9 Harken) 
-                - Register: Triumphant Return (Blackmail or Mastermind ending)
-                - Important! Make sure all of your registered corrosion sentries are toggled to "Not Spotted" before you leap otherwise the door may be corroded over and inaccessible
-    
-                Directions 
-                
-                - Visiting this room is a required step to complete the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request
-                - Inspect the bookcase and pick up the Tattered Rag (Valuable) > "Spotted" flag triggered 
-                - Proceed to the Zone 10 Fountain to register
-                - To exit:
-                    - From the Fountain go across the hallway and take the southern purple portal  
-                    - The inaccessible rooms, northern 2 portals, and statues are tied to the Mastermind ending and can be ignored
-                    - You will be teleported to Zone 9 and can take the nearby Harken to exit
-                - Warning! If you use a Hook of Harken to exit, then it is unknown whether the "Spotted" flag is saved or not
+            - Visiting this room is a required step to complete the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request
+            - Inspect the bookcase and pick up the Tattered Rag (Valuable) > "Spotted" flag triggered 
+            - Proceed to the Zone 10 Fountain to register
+            - To exit:
+                - From the Fountain go across the hallway and take the southern purple portal  
+                - The inaccessible rooms, northern 2 portals, and statues are tied to the Mastermind ending and can be ignored
+                - You will be teleported to Zone 9 and can take the nearby Harken to exit
+            - Warning! If you use a Hook of Harken to exit, then it is unknown whether the "Spotted" flag is saved or not
 
-                Time-saver
+            Time-saver
 
-                - After you drop down to Zone 8 and visit the Servant's Room the only way to exit is via the Zone 10 portal
-                - You will encounter corrosion sentries [10] and [13] along your way since their rooms are required to pass through to progress to Zone 10. Be sure to do both of them using the "Not Spotted" directions and they should register properly in the Cursed Wheel. 
+            - After you drop down to Zone 8 and visit the Servant's Room the only way to exit is via the Zone 10 portal
+            - You will encounter corrosion sentries [10] and [13] along your way since their rooms are required to pass through to progress to Zone 10. Be sure to do both of them using the "Not Spotted" directions and they should register properly in the Cursed Wheel. 
 
-        
         === "Not Spotted"
         
             Cursed Wheel 
@@ -984,7 +983,6 @@
         ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
 
-Encountered during the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request and requires low Abyss corrosion to enter the room. 
 
 #### 1F Southwest Corrosion Sentry 
 
@@ -1050,7 +1048,11 @@ Encountered during the [Search for the Missing Girl](./requests.md#search-for-th
         </div>
     
     ??? warning "Cursed Wheel Registration"
-    
+
+        === "Requirements" 
+        
+            - Requires a key from the [Blackmail Resolution](./requests.md#blackmail-resolution) request to enter the room   
+
         === "Spotted"
 
             Cursed Wheel 
@@ -1092,7 +1094,6 @@ Encountered during the [Search for the Missing Girl](./requests.md#search-for-th
         ![](./img/corrosion-cw/cw-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
         </div>
 
-Requires a key from the [Blackmail Resolution](./requests.md#blackmail-resolution) request to enter the room.   
 
 
 #### 2F Imprisoning Trap Corrosion Sentry 
