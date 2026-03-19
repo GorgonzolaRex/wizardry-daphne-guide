@@ -104,6 +104,8 @@
 
 ## Corrosion Sentry Guide
 
+### Before You Begin
+
 ??? warning "Topics Covered"
 
     === "Overview" 
@@ -133,7 +135,7 @@
         - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. 
         - We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems. 
 
-??? warning "Read Me - GWO Versions Guide"
+??? warning "Greater Warped One Variations"
 
     === "Basics" 
     
@@ -174,10 +176,6 @@
         <div align="center">
         ![](./img/corruption-levels.png)
         </div>
-
-
-
-
 
 ### Secret Passage Minor Harken
 
