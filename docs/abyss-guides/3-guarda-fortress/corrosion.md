@@ -107,21 +107,21 @@
 
 ??? warning "Topics Covered"
 
-    Summary 
+    === "Summary" 
     
-    - Locations of all 13 corrosion sentries 
-    - Pathing instructions for confusing areas with all steps based on the cardinal directions of the map
-    - Golem power reversal directions 
-    - Registration nodes and directions for "Spotted" and "Not Spotted" runs 
-    - Important time-saving tips, warnings, and other notes
-    - Picture of the Cursed Wheel entry 
+        - Locations of all 13 corrosion sentries 
+        - Pathing instructions for confusing areas with all steps based on the cardinal directions of the map
+        - Golem power reversal directions 
+        - Registration nodes and directions for "Spotted" and "Not Spotted" runs 
+        - Important time-saving tips, warnings, and other notes
+        - Picture of the Cursed Wheel entry 
 
-    Notes
+    === "Notes"
     
-    - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
-    - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
+        - A few of the Cursed Wheel nodes have more than one corrosion sentry. These corrosion sentries have an additional prefix ("2F North" Corrosion Sentry) to distinguish them from each other.
+        - The guide is structured as a series of nested drop-down menus that can be kept open or collapsed. Each entry has a [#] that follows the order of appearance in the Cursed Wheel.   
 
-!!! tip "Low Corrosion Level Required"
+!!! tip "Low Corrosion Level [LC] Required"
     - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room
     - They are marked with a [LC] tag. We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems.  
 
@@ -388,7 +388,7 @@
 
 #### Central Corrosion Sentry 
 
-??? note "Central Corrosion Sentry [4][LC]"
+??? note "Central Corrosion Sentry [4] [LC]"
 
     ??? map "Location"
     
@@ -723,7 +723,7 @@
 
 #### 3F West Corrosion Sentry
 
-??? note "3F West Corrosion Sentry [9][LC]"
+??? note "3F West Corrosion Sentry [9] [LC]"
 
     ??? map "Location"
     
@@ -822,6 +822,7 @@
     === "How to Register"
     
         Cursed Wheel Settings: 
+        
         - Toggle your Cursed Wheel for the GWO 8 (Blackmail) or GWO 6 (Mastermind) version of the fight
             - This means that you have 8 or 6 corrosion sentries toggled to "Spotted" in your Cursed Wheel 
             - Any corrosion sentries you do not have registered are automatically set to "Spotted"
@@ -834,13 +835,11 @@
         - Use the Fountain on Floor 10 to heal up, dodge all the roaming corrosion sentries per usual, and reach Ixion's room
         - Give the evidence to Dalian (GWO 8, Blackmai) or Clemente (GWO 6, Mastermind)
         - Reach and defeat the GWO
-    - The best time to do this is during the Blackmail ending since you will have encountered both and can ignore them on your way to the GWO  
+        - The best time to do this is during the Blackmail ending since you will have encountered both and can ignore them on your way to the GWO  
     
 ??? warning "Important Notes for [10]-[13]"
 
     === "Register" 
-
-
     
         - While you can register [11] and [13] with a separate "Not Spotted" run it is not necessary 
         - When you go to register [10] and [12] their rooms are required to pass through to reach the GWO. You still need to take the steps to block their field of view or crush them ("Not Spotted"), but they ([11] and [13]) will both register once you reach or kill the GWO 
@@ -860,7 +859,7 @@
 
 #### 1F Servant's Quarters Corrosion Sentry 
 
-??? note "1F Servant's Quarters Corrosion Sentry [10][LC]"
+??? note "1F Servant's Quarters Corrosion Sentry [10] [LC]"
 
     ??? map "Location"
     
@@ -911,27 +910,16 @@
             - We recommend you do this run when you are ready to complete the "Blackmail" ending. If done properly you can register all 4 of them at the same time.  You can register [12] at the same time and complete [11] and [13] if they are not already registered properly
             - This one run allows you to complete the last set of 4 corrosion sentries
 
-
-
             Directions 
             
+            - Start at the Zone 9 Harken. Your goal is to make it to the end of the hallway and use the drop-down hole to reach Zone 8. 
+            - The long hallway has a roaming sentry that paces up and down. You can follow behind it and immediately hide in the first alcove. Once it passes by again continue south to the next side hallway and drop down the hole. 
             - When you drop-down to Zone 8 do NOT enter the room > "Not Spotted" flag triggered
             - To register you must head to the Zone 10 Fountain (do NOT exit) and then fight GWO 6 (Mastermind ending) or GWO 8 (Blackmail ending) as the registration node is Triumphant Return  
 
             Notes
 
             - Corrosion sentry [12] (2F Soldier's Room) also requires a separate "Not Spotted" run where you ignore the corrosion sentry and do not enter its room. It is recommended to do both at the same time  
-
-        === "Path to Zone 9 - 1F Servant's Quarters"
-        
-            <div align="center">
-            ![](./img/corrosion-golem/golem-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
-            </div>
-
-            - You can ignore the directions above, but they are being kept for anyone that wants to take this route. 
-            - The simplest approach is to follow behind the sentry until you can make it to the first side hallway with the drop-down
-            - Wait for the sentry to pass and head to the second drop-down at the bottom
-            - Note that the locked room you pass by in the hallway is the location of the Soldier's Room for [12]
 
     ??? note "Cursed Wheel Entry"
     
