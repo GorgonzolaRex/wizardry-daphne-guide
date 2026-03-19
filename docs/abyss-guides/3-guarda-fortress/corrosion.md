@@ -123,7 +123,7 @@
 
 !!! tip "Low Corrosion Level [LC] Required"
     - Some corrosion sentries require a low Abyss corrosion level to access their hallway or room
-    - They are marked with a [LC] tag. We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems.  
+    - They are marked with a [LC]<span style="color: LimeGreen">*</span> tag. We do not know the exact values for each one. Before you try to register them make sure you have set all available corrosion sentries to "Not spotted" and you should have no problems.  
 
 ### Secret Passage Minor Harken
 
@@ -388,7 +388,7 @@
 
 #### Central Corrosion Sentry 
 
-??? note "Central Corrosion Sentry [4] [LC]"
+??? note "Central Corrosion Sentry [4] [LC]<span style="color: LimeGreen">*</span>"
 
     ??? map "Location"
     
@@ -723,7 +723,7 @@
 
 #### 3F West Corrosion Sentry
 
-??? note "3F West Corrosion Sentry [9] [LC]"
+??? note "3F West Corrosion Sentry [9] [LC]<span style="color: LimeGreen">*</span>"
 
     ??? map "Location"
     
@@ -859,7 +859,7 @@
 
 #### 1F Servant's Quarters Corrosion Sentry 
 
-??? note "1F Servant's Quarters Corrosion Sentry [10] [LC]"
+??? note "1F Servant's Quarters Corrosion Sentry [10] [LC]<span style="color: LimeGreen">*</span>"
 
     ??? map "Location"
     
@@ -926,6 +926,8 @@
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
+
+Encountered during the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request and requires low Abyss corrosion to enter the room. 
 
 #### 1F Southwest Corrosion Sentry 
 
@@ -1032,6 +1034,9 @@
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-12-fortress-3rd-floor-arrival-2F-soldier.jpg)
         </div>
+
+Requires a key from the [Blackmail Resolution](./requests.md#blackmail-resolution) request to enter the room.   
+
 
 #### 2F Imprisoning Trap Corrosion Sentry 
 
