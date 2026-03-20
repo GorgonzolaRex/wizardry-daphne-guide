@@ -900,13 +900,13 @@
     === "Before you Begin "
     
         - Corrosion sentries [10]-[13] are the most time-intensive to register 
-        - Corrosion sentries [10] and [12] you will not be "Spotted" on a first run as they are inaccessible and tied to requests related to the endings:
-            - Corrosion sentry [10]: [Search for the Missing Girl](./requests.md#search-for-the-missing-girl)
-                - Request must be active
-                - Requires low Abyss corrosion to enter the door 
-            - Corrosion sentry [12]: [Blackmail Resolution](./requests.md#blackmail-resolution)        
-                - Request must be active
-                - Requires a key to enter that you will receive as part of the request
+        - Corrosion sentries [10] and [12] you will not be "Spotted" on a first run as they are inaccessible and tied to requests related to the endings
+        - Corrosion sentry [10]: [Search for the Missing Girl](./requests.md#search-for-the-missing-girl)
+            - Request must be active
+            - Requires low Abyss corrosion to enter the door 
+        - Corrosion sentry [12]: [Blackmail Resolution](./requests.md#blackmail-resolution)        
+            - Request must be active
+            - Requires a key to enter that you will receive as part of the request
     === "Register" 
     
         - It is more time efficient to register all 4 corrosion sentries using the steps listed under "Read Me - Critical Bug"
