@@ -867,30 +867,32 @@
 
     === "What is the bug?"
         - Corrosion sentries [10] and [12] _cannot_ be registered properly at the Zone 10 Fountain (Fortress 3rd Floor Arrival)
-        - Normally you would reach the Fountain and take the nearby portal to register
+        - Normally you would reach the Fountain and take the nearby portal to register, which works properly with [11] and [13]. 
         - The actual registration node is reaching the GWO fight. You do not have to kill him or survive the battle. You can let your MC die and "Accept Death" to speed things up
         - This bug has been present since A3 launched and it is unlikely that it will be fixed in a future patch
     
     === "How to Register"
-
+    
         When should I attempt this?
 
         - The best time is during your first run of the Blackmail ending. 
         - It is possible to register the final 4 corrosion sentries [10]-[13] in one run. 
         
         Cursed Wheel Settings
-            - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending
-            - See ["Greater Warped One Variations"] (./corrosion.md#before-you-begin) for details instructions
-            - Toggle Abducted Child to "Rescued Safely"
-            - Leap to Fortress 2F Minor Harken (Zone 9 Harken)
-
+        
+        - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending
+        - See ["Greater Warped One Variations"] (./corrosion.md#before-you-begin) for details instructions
+        - Toggle Abducted Child to "Rescued Safely"
+        - Leap to Fortress 2F Minor Harken (Zone 9 Harken)
+        
         Guide
-            - The goal is to go from the Zone 9 Harken, rest at the Zone 10 Fountain, and proceed onward to Ixion's room and the GWO fight
-            - It is critical that you _not_ enter the Solider's Room or Servant's Quarters
-            - When you reach Ixion's speak to Dalian (GWO 8, Blackmail) or Clemente (GWO 6, Mastermind) and have over the evidence
-            - Proceed to the GWO
-            - As noted, defeating the GWO is optional
-            - When you're back in town check to see if the corrosion sentries were registered properly 
+        
+        - The goal is to go from the Zone 9 Harken, rest at the Zone 10 Fountain, and proceed onward to Ixion's room and the GWO fight
+        - It is critical that you _not_ enter the Solider's Room or Servant's Quarters
+        - When you reach Ixion's speak to Dalian (GWO 8, Blackmail) or Clemente (GWO 6, Mastermind) and have over the evidence
+        - Proceed to the GWO
+        - As noted, defeating the GWO is optional
+        - When you're back in town check to see if the corrosion sentries were registered properly 
 
     
 ??? warning "Important Notes for [10]-[13]"
@@ -983,7 +985,6 @@
         <div align="center">
         ![](./img/corrosion-cw/cw-corr-10-fortress-3rd-floor-arrival-1F-servant.jpg)
         </div>
-
 
 #### 1F Southwest Corrosion Sentry 
 
