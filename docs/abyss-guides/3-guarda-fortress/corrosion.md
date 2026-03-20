@@ -881,7 +881,7 @@
         Cursed Wheel Settings
         
         - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending
-        - See ["Greater Warped One Variations"] (./corrosion.md#before-you-begin) for details instructions
+        - See ["Greater Warped One Variations"](./corrosion.md#before-you-begin) for details instructions
         - Toggle Abducted Child to "Rescued Safely"
         - Leap to Fortress 2F Minor Harken (Zone 9 Harken)
         
@@ -890,8 +890,7 @@
         - The goal is to go from the Zone 9 Harken, rest at the Zone 10 Fountain, and proceed onward to Ixion's room and the GWO fight
         - It is critical that you _not_ enter the Solider's Room or Servant's Quarters
         - When you reach Ixion's speak to Dalian (GWO 8, Blackmail) or Clemente (GWO 6, Mastermind) and have over the evidence
-        - Proceed to the GWO
-        - As noted, defeating the GWO is optional
+        - Proceed to the GWO and either kill it or let MC die ("Accept death")
         - When you're back in town check to see if the corrosion sentries were registered properly 
 
     
