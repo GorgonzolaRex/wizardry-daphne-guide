@@ -863,39 +863,37 @@
 
 ### Fortress 3rd Floor Arrival
 
-!!! danger "Critical Bug - Read Me"
+!!! danger "Read Me - Critical Bug"
 
-    === "What is the problem?"
+    === "What is the bug?"
         - Corrosion sentries [10] and [12] _cannot_ be registered properly at the Zone 10 Fountain (Fortress 3rd Floor Arrival)
         - Normally you would reach the Fountain and take the nearby portal to register
-        - The actual registration node is reaching the GWO 3 fight. You do not have to kill him or survive the battle. You can let your MC die and "Accept Death" to speed things up
+        - The actual registration node is reaching the GWO fight. You do not have to kill him or survive the battle. You can let your MC die and "Accept Death" to speed things up
         - This bug has been present since A3 launched and it is unlikely that it will be fixed in a future patch
     
     === "How to Register"
-    
-        Cursed Wheel Settings: 
+
+        When should I attempt this?
+
+        - The best time is during your first run of the Blackmail ending. 
+        - It is possible to register the final 4 corrosion sentries [10]-[13] in one run. 
         
-        - Toggle your Cursed Wheel for the GWO 8 (Blackmail) or GWO 6 (Mastermind) version of the fight
-            - This means that you have 8 or 6 corrosion sentries toggled to "Spotted" in your Cursed Wheel 
-            - Any corrosion sentries you do not have registered are automatically set to "Spotted"
-            - See the last tab for an example
-        - Wheel to the Zone 9 Harken (Fortress 2F Minor Harken)
-        - Critical Step!
-            - Ignore the Soldier's Room as you go down the hallway and drop-down to Zone 8 
-            - Ignore the Servant's Quarters to the left when you land 
-            - Ignoring both will trigger the "Not Spotted" flag 
-        - Use the Fountain on Floor 10 to heal up, dodge all the roaming corrosion sentries per usual, and reach Ixion's room
-        - Give the evidence to Dalian (GWO 8, Blackmai) or Clemente (GWO 6, Mastermind)
-        - Reach and defeat the GWO
-        - The best time to do this is during the Blackmail ending since you will have encountered both and can ignore them on your way to the GWO  
+        Cursed Wheel Settings
+            - Toggle the corrosion sentries to 8 "Spotted" for the Blackmail ending or 6 "Spotted" for the Mastermind ending
+            - See ["Greater Warped One Variations"] (./corrosion.md#before-you-begin) for details instructions
+            - Toggle Abducted Child to "Rescued Safely"
+            - Leap to Fortress 2F Minor Harken (Zone 9 Harken)
+
+        Guide
+            - The goal is to go from the Zone 9 Harken, rest at the Zone 10 Fountain, and proceed onward to Ixion's room and the GWO fight
+            - It is critical that you _not_ enter the Solider's Room or Servant's Quarters
+            - When you reach Ixion's speak to Dalian (GWO 8, Blackmail) or Clemente (GWO 6, Mastermind) and have over the evidence
+            - Proceed to the GWO
+            - As noted, defeating the GWO is optional
+            - When you're back in town check to see if the corrosion sentries were registered properly 
+
     
 ??? warning "Important Notes for [10]-[13]"
-
-    === "Register" 
-    
-        - While you can register [11] and [13] with a separate "Not Spotted" run it is not necessary 
-        - When you go to register [10] and [12] their rooms are required to pass through to reach the GWO. You still need to take the steps to block their field of view or crush them ("Not Spotted"), but they ([11] and [13]) will both register once you reach or kill the GWO 
-        - Remember that you cannot exit, wheel, or "accept death" at any point on this run until you reach the GWO 
         
     === "Before you Begin "
     
@@ -907,7 +905,12 @@
             - Corrosion sentry [12]: [Blackmail Resolution](./requests.md#blackmail-resolution)        
                 - Request must be active
                 - Requires a key to enter that you will receive as part of the request
-        - For corrosion sentries [11] and [13] you will be "Spotted" on a first run. As noted, you can include their "Not Spotted" runs when registering corrosion sentry [10] and [12] as previously noted 
+    === "Register" 
+    
+        - It is more time efficient to register all 4 corrosion sentries using the steps listed under "Read Me - Critical Bug"
+        - When you go to register [10] and [12] their ([11] and [13] rooms are required to pass through to reach the GWO 
+        - You still need to take the steps to block their field of view or crush them ("Not Spotted")
+        - Remember that you cannot exit, wheel, or "accept death" at any point on this run until you reach the GWO 
 
 #### 1F Servant's Quarters Corrosion Sentry 
 
@@ -924,7 +927,7 @@
         === "Requirements" 
 
             - Encountered during the [Search for the Missing Girl](./requests.md#search-for-the-missing-girl) request 
-            - Requires low Abyss corrosion to enter the room. 
+            - Requires low Abyss corrosion to enter the room 
     
         === "Spotted"
                         
