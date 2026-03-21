@@ -164,7 +164,7 @@
 
 ### Old District (Slum) Faction Quests
 
-Upon reaching Zone 4's Harken and returning, you will receive a message from the respective faction to return to the Royal Capital to receive a request, all of which take part in a slum and then immediately a cave. Normally, the reward for all of them are just gold, but upon doing them all correctly, not only do you receive more gold in general but also receive a LUK lantern if all are done perfectly.
+Upon stepping foot into Zone 5 and returning, you will receive a message from the respective faction to return to the Royal Capital to receive a request, all of which take part in a slum and then immediately a cave. Normally, the reward for all of them are just gold, but upon doing them all correctly, not only do you receive more gold in general but also receive a LUK lantern if all are done perfectly.
 
 ##### Royal Family Route (Perfect Run)
 - Get briefed on the mission at the Royal Capital by accepting the request at the Tavern.
