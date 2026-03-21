@@ -29,12 +29,12 @@ This is the same exact event than ran last year with no known changes to its req
     === "Guide"
     
         1. Select the Event button (yellow shield in town menu) and Watch the introductory cutscene. 
-        2. Head to the Royal Capital Guild > Featured tab and accept Retrieval of Abuducted People request. 
+        2. Head to the Royal Capital Guild > Featured tab and accept Retrieval of Abducted People request. 
         3. Go to the Edge of Town in the Royal Capital to access the event dungeon, Sahuagin's Cave. 
         4. Find 3 people on B1F to save. Their locations are shown on the map.
         5. Find 2 people on B2F to save. They are both dead.
         6. At the end of B2F you will see a burned body. It is Iarumas. Head down to B3F. 
-        7. Go to the large, southern area of B3F. The Fire Dragon will appear and start breathing fire everywhere. Tthe game may lag at this point depending on your device.
+        7. Go to the large, southern area of B3F. The Fire Dragon will appear and start breathing fire everywhere. The game may lag at this point depending on your device.
         8. You must quickly reach the non-red tiles on the mini-map otherwise you will be killed instantly (do this 3 times). You have a few seconds to reach each one. It is not as stressful as it sounds. 
         9. Return to the Royal Capital and watch the cutscene. Next, head to the Guild, turn in the abducted people request, and accept the new Slay the Fire Dragon request. 
         10. Go to the Tavern and talk to Iarumas.
@@ -163,7 +163,7 @@ This is the same exact event than ran last year with no known changes to its req
 
 !!! warning "To access Part 2 you will need to clear the best ending (3rd Run) of Part 1 (Berkanan Route)."
 
-Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Blackdragon Superboss fight in the Otherworld side dungeon zone. 
+Part 2 only requires two runs to fully complete. Afterwards, you will gain access to the Black Dragon Superboss fight in the Otherworld side dungeon zone. 
 
 ??? note "1st Run"
 
@@ -177,10 +177,10 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         6. Turn in the abducted people request and accept the Slay the Fire Dragon request. Head to the Tavern, talk to Iarumas, and ask for his help in killing the Black Dragon.
         7. [Warning! Forced Loss Ahead] Return to the Black Dragon's chamber on B3F. You will need to navigate the black fog to reach the boss fight. If you bump into the wall 3 times, then you will be instantly killed. 
             - You can bring a Ranger with Milwa to improve visibility. 
-            - There are white glowing interactable on the floor that serve as guide points that signal when you you need to turn. 
+            - There are white glowing interactable on the floor that serve as guide points that signal when you need to turn. 
             - If you are on PC you can increase the game's brightness settings.
             - Mobile players may not be able to see _anything_ even with device and in-game brightness settings set to max. There are step-by-step directions in the B3F map tab.
-        8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath attack (deals extremely high damage). It's recommended to bring as few unit as possible to cut down on revival costs. However, there are 2-3 enemies (unavoidable) in the corridor to the Black Dragon's room, so adjust accordingly based on your team's power level. A unit can survive if Sanctuary's Blessing or Sheli's passive procs, but he will continue to spam the breath attack until everyone is dead.   
+        8. The next fight will be a FORCED LOSS. The Black Dragon is unkillable and can instantly kill your entire party with its breath attack (deals extremely high damage). It's recommended to bring as few units as possible to cut down on revival costs. However, there are 2-3 enemies (unavoidable) in the corridor to the Black Dragon's room, so adjust accordingly based on your team's power level. A unit can survive if Sanctuary's Blessing or Sheli's passive procs, but he will continue to spam the breath attack until everyone is dead.   
         9. You will have to reset using the Event button (yellow shield icon) to get Ainikki's help on the 2nd Run. 
 
     === "B1F"
@@ -206,7 +206,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 
     === "Guide"
         1. Go to the Guild, accept the abducted people request, and save all of them on B1F and B2F per usual. 
-        2. When you encounter the Knight on B2F you will now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map. Note: Some users have reported the MC's alignment shifting toward Evil if you opt to abandom him, but this has not been verified.
+        2. When you encounter the Knight on B2F you will now have the option to help or abandon him. Helping the Knight leads to an ambush fight with the Red Dragon, while abandoning will skip the fight entirely. However, the Red Dragon will now become a wandering mob on the map. Note: Some users have reported the MC's alignment shifting toward Evil if you opt to abandon him, but this has not been verified.
         3. Collect Ainikki's body in front of the stairs to B3F, view the Black Dragon spewing fog scene on B3F, retreat, exit, and Ainikki will be automatically revived at the Temple.
         4. Turn in the request and accept the Slay the Fire Dragon request. Head to the Tavern and ask Iarumas for help. Leave the Guild and an automatic cutscene will start where you can ask Ainikki for help. This time, Iarumas will ask her to help as well.
         5. Ainikki agrees, but requires equipment to defeat the Black Dragon. Head to the Blacksmith to help her craft a Morningstar. You will need several ore on B2F and B3F. See map tabs for locations.
@@ -297,7 +297,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
                 - Tail
                 - ST physical attack (Claw or basic attack) 
             - Magic Phase
-                - 2x MA spell on either row (RNG-based). If it uses a Type advantage MA spell on your backrow it is likely one or more units will die if it targes the same row again. 
+                - 2x MA spell on either row (RNG-based). If it uses a Type advantage MA spell on your backrow it is likely one or more units will likely die if it targets the same row again. 
                 - Debuff spell on a row. These need to be removed immediately. They are extremely powerful and reduce the stat by roughly 90%. 
             - Low HP Trigger
                 - At low HP it will use Roar, BFB, or Bite for its third action during _any_ phase. 
@@ -333,7 +333,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
                 - May want to bring more than one in case the debuff gets knocked off.  
             - SP pots 
                 - Maintain Knight's Defense, refresh MC if using Chrono 2, or top-off any unit that is running low.
-                - There are 6 SP pots that you can farm faily from A1 and A3. See Respawning Tracker for details. 
+                - There are 6 SP pots that you can farm daily from A1 and A3. See Respawning Tracker for details. 
             - MP pots (optional)
             - 1x Sacred Tree Sap (600 HP) for emergency healing on everyone.
             - 1x Batilgref scrolls on every unit and multiple (3-5x) copies on your Mage/Priests.
@@ -369,13 +369,13 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - Knight's Defense 
             - With the Amulet you do not need to use each round. This helps conserve SP for the DPS race at the end of the fight (~10-15% HP left). 
             - The Unique phase (Roar + BFB) is the most dangerous if any of your units are low HP or get stunned. 
-            - It may be helpful during its Physical phase if it uses Bite on MC and a defensive passives does not proc. It's Tail attack will likely finish off a unit. 
-            - Generally not needed for its Magic phase. If you are having issues, then you can use Cortu. If the dragon uses a Type advantage spell - even with KD up - the unit may still die, especially if Weakened has been stacked. This is pure RNG and difficult to control or mitigate. 
+            - It may be helpful during its Physical phase if it uses Bite on MC and a defensive passive does not proc. Its Tail attack will likely finish off a unit. 
+            - Generally, not needed for its Magic phase. If you are having issues, then you can use Cortu. If the dragon uses a Type advantage spell - even with KD up - the unit may still die, especially if Weakened has been stacked. This is pure RNG and difficult to control or mitigate. 
             - At some point in the fight your team's action order is going to get screwed up with units moving after your Knight. It is manageable, but just know in advance that some units will not always be under KD's protection. If this becomes a major issue, then running 2x Knights (high ASPD, low ASPD) is an option. 
         - Buffs 
             - You will need to pick a lane on your approach to the fight. Trying to manage DPS, speed, and protection buffs at the same time means something important will get knocked off at the worst possible time. 
             - To maximize damage, then run Prayer of Rebellion (PoR) and Macaldia in that order on your DPS. Shop scrolls are an alternative since it only applies ATK up. 
-            - To maximize the number of extra turn, then Porto and Macaldia is the best combination for ASPD and DPS. 
+            - To maximize the number of extra turns, then Porto and Macaldia is the best combination for ASPD and DPS. 
             - To minimize damage, then use Cortu or Makalatu on whatever phase is giving you more problems. Note that Agora applies to all shop scrolls, so you can get 8 turns of Cortu with Agora 7.  
         - Other
             - This battle is a marathon not a race. Get comfortable using your DPS to provide support. The goal is to never have more than one unit die at a time. 
@@ -389,7 +389,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
             - Otherworld Dragon Blood, which is a one-time consumable that lower's a target's damage by ~10% for 4 turns. Drop rate seems to be about 20-25%. 
             - Ebonsteel tier 2H Mace (Black Dragon Warhammer). It has -25 Surety, but comes with Defense Penetration. Can also drop from the normal Black Dragon (~6-7% drop rate).  
         - How to Reset
-            - To reset the fight you need to use the "Event" button (yellow shield icon) and re-do Ainkki's Second Run including the Ore Collection fetch quest. 
+            - To reset the fight, you need to use the "Event" button (yellow shield icon) and re-do Ainikki's Second Run including the Ore Collection fetch quest. 
             - Cursed Wheeling from the Ruins does not work, but it will reset the 2 chests. 
         - Requires 5 fights for max Compendium pips and 3D viewer. 
 
@@ -444,8 +444,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         | 8 | Six Energies  | 6.0% |  |    
         | 9 | Luminaries*   | 5.8% | Only drops the enhanced version |   
         
-        - Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollin King. The chance to get at least one of these items is 17.5439%. 
-        - To see the detailed drop rate % chances for all items, please go to offical website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
+        - Luminaries has a 5.8480% chance to drop the Refined Saber, Augmented Dragon Slayer, or Exquisite Trollkin King. The chance to get at least one of these items is 17.5439%. 
+        - To see the detailed drop rate % chances for all items, please go to the official website [here](https://wizardry.info/daphne/gacha_rates/en/equipments.html) and use Ctrl + F to search for "Scorched [Junk Name]". 
 
 ??? note "Optimal Farming Routes" 
 
@@ -483,7 +483,7 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
     
         - The majority of the data testing comes from our Discord members @slimwaldi, @liezeith, and @genosis who have collectively spent dozens of hours farming, tracking, and sharing their data. 
         - Data covers roughly 8,000 junk collected across all 3 floors with and without wheeling-in-place to reset the fixed chests on each floor. 
-        - If you are interested in learning more about the methodology please see the #B&B Event Farming Data channel.
+        - If you are interested in learning more about the methodology, please see the #B&B Event Farming Data channel.
         - Any major corrections or new findings please contact @lightbearer or post in the Discord channel above. 
 
 ## Junk Tiers
@@ -495,8 +495,8 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
 Since the event is available to all players at every stage of the game Drecom has implemented a matrix or 3D-array system for unlocking junk tiers. In basic terms, it means they are using a set of multiple variables that require a minimum amount of progress for each one. 
 
 - We have limited insight into how this system works. 
-    - Thanks to our Discord members we have been able to collect enough data to offer some basic guidlines and troubleshooting tips. 
-    - Know in advance that these guidlines may not work for you.
+    - Thanks to our Discord members we have been able to collect enough data to offer some basic guidelines and troubleshooting tips. 
+    - Know in advance that these guidelines may not work for you.
 - Primary Variables
     - MC's Grade, Abyss progression, and Reputation level are the primary factors in determining your junk tier. Each one appears to have equal weighting.
 
@@ -523,7 +523,7 @@ Since the event is available to all players at every stage of the game Drecom ha
             - First clear of GWO 3 
         - True Endings
             - Getting the True endings for both A1 and A2 count as "points" towards unlocking higher tiers of junk. 
-            - If you have a strong team these are both easy to do fairly quickly since you can auto-battle through all the enemies. 
+            - If you have a strong team, these are both easy to do fairly quickly since you can auto-battle through all the enemies. 
             - For A2 we strongly recommend starting a new faction since the Mermaid statues are located on each of the lower floors. 
     
     ??? note "Reputation Level" 
@@ -539,7 +539,7 @@ Since the event is available to all players at every stage of the game Drecom ha
         
         === "Priorities" 
         
-            - If you are grinding Reputation points we recommend you start with getting the True endings for the Special Requests (Fordaig, Malice, etc.). Note that these are reset in the Ruins > Cursed Wheel > Special Request button located at the bottom-right of the page.  
+            - If you are grinding Reputation points, we recommend you start with getting the True endings for the Special Requests (Fordaig, Malice, etc.). Note that these are reset in the Ruins > Cursed Wheel > Special Request button located at the bottom-right of the page.  
             - The standard approach has been to pick fast A1 Guild requests and repeat them over and over again until the next Grade Exam or junk tier unlocks. 
             - If you are going to be putting in the time to grind Reputation points, then we recommend you at least pick up the Mel (+13-14 Trap Disarm) and Mudd (+10 Detect) bondmates and take them to level 5. They are both useful for your chest opener and long-term account development. 
 
@@ -586,7 +586,7 @@ Since the event is available to all players at every stage of the game Drecom ha
         - Both tiers of Ebon junk (Five Blossoms, Six Energies) unlock at the same time as the Silver-tier (Seven Luminaries). The exact requirements for unlocking Ebon junk separately are not known to-date although some Discord members have been able to do so. 
         - Variables we suspect might have an influence, but have not been tested include: 
             - MC being at the max level for each Grade 
-            - Completing all the request in each Abyss as a seperate, but related trigger to Reputation level 
+            - Completing all the request in each Abyss as a separate, but related trigger to Reputation level 
 
 ??? note "Junk Tier 9 (Seven Luminaries)" 
 
@@ -624,7 +624,7 @@ Since the event is available to all players at every stage of the game Drecom ha
             - Has not refreshed to-date, but may in the future. 
         - Spell Books
             - Cones (5,000) and Macones (10,000) can be helpful for your MC, Iaramus, or primary spellcaster. 
-            - Halito (5,000) can only be upgraded via the Jewler (Limited Time Offer - Daily) with 240 purple gems. Mahalito (10,000) is only from Asha's alternative style banner. 
+            - Halito (5,000) can only be upgraded via the Jeweler (Limited Time Offer - Daily) with 240 purple gems. Mahalito (10,000) is only from Asha's alternative style banner. 
             - Maerlik (10,000) is best-suited for Yekaterina or a multi-element Mage. 
             - Dialko (5,000) is helpful on any support unit or Knight that does not have access to the Priest class for clearing Sleep or Stun. 
             - Porto (10,000) is best-suited for a support Knight or to round out Ainikki's spell kit. It is one of the best spells in the game and can only be bought (rarely) on limited banners for 30 tokens.
