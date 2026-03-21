@@ -4,9 +4,9 @@ Grade Exams are part of the process to continue leveling a character. They occur
 
 !!! note "Grade Exams may have additional requirements besides reaching the necessary level. Requirements like completing more guild requests (to 'increase your reputation') may be needed. Arna may mention these. In these situations, adventurers should try to complete as many different requests as possible."
 
-Adventures can only attempt a Grade Exam as high as the MC has attained. However, unlike the MC, they do not need to complete every grade exam in order and may simply complete the latest grade exam available (e.g., If the MC is level 60 already, and a fresh level 1 adventurer on the team completes the level 60 exam with the help of other team members, that level 1 adventurer will receive permission to grade up at every level 10 interval starting at lvl 20 without having to complete the previous exams.) If exams are skipped this way, the adventurer will still need the corresponding grade tags every 10 levels along with the corresponding level requirement to grade up.
+Adventures can only attempt a Grade Exam as high as the MC has attained. However, unlike the MC, they do not need to complete every grade exam in order and may simply complete the latest grade exam available (e.g., if the MC is level 60 already, and a fresh level 1 adventurer on the team completes the level 60 exam with the help of other team members, that level 1 adventurer will receive permission to grade up at every level 10 interval starting at lvl 20 without having to complete the previous exams.) If exams are skipped this way, the adventurer will still need the corresponding grade tags every 10 levels along with the corresponding level requirement to grade up.
 
-The Grade Exam can also be passed by purchasing the corresponding Grade Marker from the Jeweler.  The marker will be made available after the Grade Exam has been successfully completed once. This allows the playern to skip repeat runs of the Grade Exam fo allies that did not accompany the MC the first time.  Visit the Jeweler for the current pricing.  Note, however, that becauee subsequent Grade Exam completions are generally much easier 5o complete with higher level MC and allies, prichasing Markers is  considered an inefficient use of resources and is not recommended.
+The Grade Exam can also be passed by purchasing the corresponding Grade Marker from the Jeweler.  The marker will be made available after the Grade Exam has been successfully completed once. This allows the player to skip repeat runs of the Grade Exam for allies that did not accompany the MC the first time.  Visit the Jeweler for the current pricing.  Note, however, that because subsequent Grade Exam completions are generally much easier to complete with higher level MC and allies, purchasing Markers is considered an inefficient use of resources and is not recommended.
 
 ## Lead Exam
 
@@ -16,11 +16,12 @@ The Grade Exam can also be passed by purchasing the corresponding Grade Marker f
 
 **Special Notes:**
 
-- Boss summons adds every few rounds. Save AoE clears for them. If have legendary units with Secret Arts, place them in back middle position to use them here.  
+- Boss summons additional enemies every few rounds. Save AoE clears for them. If you have legendary units with Secret Arts, place them in back middle position to use them here.  
 - Boss is undead. Bring undead slayer weapons if possible, or a lot of magic scrolls.  
 - Boss sometimes skips turn.  
 - Boss only has 2 moves, both attack 1 unit on the front row. 1 is a multihit, 1 is a normal hit. Not really threatening, just heal up after.
-- Running away from the fight will reset the adds he spawns with. You can use this to your advantage and keep running away until he spawns with only Vorpal Bunnies, as they can be killed very quickly and easily.
+- Defrnding for "Openings" is a viable strategy.
+- Running away from the fight will reset the additiona enemies he starts the battle with. You can use this to your advantage and keep running away until he spawns with only Vorpal Bunnies, as they can be killed very quickly and easily.
 
 ## Bronze Exam
 
@@ -33,7 +34,8 @@ The Grade Exam can also be passed by purchasing the corresponding Grade Marker f
 - Boss doesn’t summon any adds  
 - Boss is weak to air  
 - Boss is susceptible to Opening
-- Mobs on the way to boss can mostly be dealt with Scroll of Rockfall, except Air Entities. Those need Fire.  
+- Mobs on the way to boss can mostly be dealt with Scroll of Rockfall, except Air Entities. Those need Fire.
+- Large groups of casters can be handled at low cost with Montino.
 - Boss hits like a truck.  
   - Tail Swipe AoE hits all front row with chance to stun.  
   - Jump attack hits 1 front row, swaps that column’s front and back.  
