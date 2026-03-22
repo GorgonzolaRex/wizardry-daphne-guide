@@ -806,7 +806,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
     - Samurai: 5 ATK, 5 MAG, 5 ACC
     - Ranger: 5 ACC, 5 ASPD
     - Priest: 5 DIV, 5 RES
-    - Mage: 10 MP (bugged), 5 MAG
+    - Mage: 10 MP, 5 MAG
 
 ## Farming Information
 
