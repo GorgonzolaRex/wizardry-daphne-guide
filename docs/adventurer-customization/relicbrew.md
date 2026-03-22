@@ -84,10 +84,10 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     
         - List of all registered adventurers
         - Number of equipped Relic Powers
-        - Penalty stage status
+        - Penalty Stage status
         - Relic Power history via a small bottle icon over the class name
-            - Golden bottle - currently equipped Relic Power
-            - Dark grey bottle - extracted Relic Power 
+            - Golden bottle: Currently equipped Relic Power
+            - Dark grey bottle: Extracted Relic Power 
         -  Up to 6 people can consume a relicbrew, but the MC is always a fixed member that can be de-selected
     
     === "Guide" 
@@ -158,9 +158,9 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
     
         - Possible Extraction Outcomes
     
-            - Failure - Lose 5 max Fortitude for 2 weeks.
-            - Success - Lose 1 max Fortitude for 2 weeks.
-            - Great Success - No Fortitude loss.
+            - Failure: Lose 5 max Fortitude for 2 weeks.
+            - Success: Lose 1 max Fortitude for 2 weeks.
+            - Great Success: No Fortitude loss.
     
         - Notes
         
@@ -188,7 +188,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
 
     === "Overview" 
     
-        - Any relic in the game can appear, including one that is unique to the Exchange (Flower of the Abyss; MP and SP Up, ASPD Down).
+        - Any relic in the game from Abyss 1-3 can appear, including one that is unique to the Exchange (Flower of the Abyss; MP and SP Up, ASPD Down).
         - There are 4 rows of varying ★ quality with 3 relics per row.
         - Standard costs per ★ quality:
             - 4★: 1000 slag
@@ -220,7 +220,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
     === "Penalty Stages"
     
         - Maximum Fortitude is instantly reduced at Stage 2 (50 Fortitude) and Stage 3 (0 Fortitude). There does not appear to be any other negative side effects outside of combat.
-        - The success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 50 and 20.
+        - The success rate of enemy debuffs and status ailments increases significantly when Fortitude is below 51 and 20.
         - The MC has a hidden Fortitude value. The current, but not maximum, Fortitude can be viewed by your friends in the Tavern under Friendships.
         - Recommendations:
             - Remove Relic Powers first before equipping new ones to avoid Fortitude penalties if planning to return to combat.
@@ -254,7 +254,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 ??? warning "Experience Mechanics"
 
     - Each relic has an associated ★ quality that gives different amounts of Power Density, which function as experience points. 
-    - Relic Powers require a certain amount of EXP to reach the next level with a maximum level of 7.
+    - Relic Powers require a certain amount of EXP to reach the next level with a maximum level of 6.
     - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. 
     - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
 
@@ -375,7 +375,7 @@ Note: The stat that is negatively impacted is usually -1 per level (max of -6 at
 | SP                               |     2     |    12    |        14        |
 | MP                               |     2     |    12    |        14        |
 | ATK                              |     2     |    12    |        14        |
-| SUR<sup>†</sup>                  |     1     |     8    |         9        |
+| SUR<sup>†</sup>                  |     1     |     8    |        9?        |
 | ACC                              |     2     |    12    |        14        |
 | EVA                              |     2     |    12    |        14        |
 | MAG                              |     2     |    12    |        14        |
@@ -385,8 +385,8 @@ Note: The stat that is negatively impacted is usually -1 per level (max of -6 at
 | MDEF                             |     4     |    24    |        28        |
 | RES                              |     2     |    12    |        14        |
 | Detect	     	               |     2     |    12    |        14        |
-| Disarm Trap                      |           |          |                  |
-| Evade Trap                       |           |          |                  |
+| Disarm Trap                      |     2     |    12    |        14        |
+| Evade Trap                       |     2     |    12    |        14        |
 | Elemental tolerance<sup>††</sup> |    1%     |    6%    |        7%        |
 | Status tolerance<sup>††</sup>    |    1%     |    6%    |        7%        |
 <sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6
