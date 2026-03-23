@@ -543,38 +543,49 @@ Since the event is available to all players at every stage of the game Drecom ha
             - If you get more Reputation points from the later Abysses. 
             - If completing all Guild request in an Abyss gives you extra Reputation points as a one-time "bonus". 
 
-??? "Priorities Guide" 
+??? note "Priorities Guide" 
 
-    - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
-    - This guide is essentially a check-list of what you should focus on first in order of importance. 
+    === "How to Use" 
+    
+        - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
+        - The tabs are organized by priority from left-to-right. 
+        - Once you can no longer progress on a given tab proceed to the next one. 
+        - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
+        - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
 
-    Priorities:
+    === "True Endings" 
 
-    - True Endings
         - Complete the True endings for both A1 and A2. It should not take that much time if you are in A3 or A4. 
         - This is the only requirement that functions as a Yes/No flag. 
         - For A2 we recommend you do it with a new faction since the last Mermaid statue is located on F6. 
-    - MC's Grade
+        
+    === "MC's Grade"
+    
         - For newer players Steel is sufficient.
         - For vets promote MC to Copper as soon as possible, especially if you just started A4.
-        - The event cave, especially B3F, gives good EXP so it is possible to raise your MC to level 60 during the event period. 
-    - Abyss Progression 
+        - The event cave, especially B3F, gives good EXP so it is possible to raise your MC to level 60 during the event period.
+        
+    === "Abyss Progression"
+
         - Progress in A3 as much as you can until you hit a hard stopping point. This will usually be the F7 Doll boss for new players.
         - Once you hit a stopping point, then proceed to do doing the Special Requests.
         - Clear A3 F3 Necrocore boss and step foot into F5. 
         - Clear A3 F7 Doll boss and step foot into F8. 
         - Reach the F10 Fountain. 
         - Defeat the GWO 3 once. 
-    - Special Requests (Reputation)
+
+    === "Special Requests (Reputation)"
+
         - Complete the "Best" endings for the Special Requests, which are listed under the Events section of the navigation list.
         - Special Requests are only given at the Capital Luknalia Guild under the "Featured" tab.
         - To reset them you need to go to the Ruins > Cursed Wheel and select the Special Request button located at the bottom-right of the page. 
-    - Other Reputation Grinding 
+
+    === "Other Reputating Grinding" 
+    
         - The standard approach has been to pick fast A1 Guild requests and repeat them over and over again until the next Grade Exam or junk tier unlocks. 
         - If you are going to be putting in the time to grind Reputation points, then we recommend you at least pick up the Mel (+13-14 Trap Disarm) and Mudd (+10 Detect) bondmates and take them to level 5. They are both useful for your chest opener and long-term account development.
         - If that does not work, then complete all the requests you have not yet done for every Abyss. 
-    - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
-    - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
+
 
 ### Unlocking Requirements
 
