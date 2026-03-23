@@ -456,29 +456,37 @@ Part 2 only requires two runs to fully complete. Afterwards, you will gain acces
         - B1F is the least efficient due to fewer respawning chests versus B2F and higher mob density. 
         - B3F is the most efficient, see tab for details. 
     
-    === "B3F (Ainikki Route)"
+    === "Strong A3-A4 Teams"
     
-        - Routing: Select B2F, grab nearby chests, go to B3F, kill all the enemies, exit, and repeat until you need to recover at the Inn.
-        - Most efficient route for currency and Seven Luminaries Fey junk (9.17% versus 5.3% for B1F and B2F). It is superior to farming B1F and/or B2F due to its small size, fixed mob density, easy enemies, and higher rates of both currency and Fey Seven Luminaries junk. 
-        - Minimum of 9 enemies per run, but up to 11.  
-        - Enemy chest drop rate is ~50% or 4.5-5 chests, on average, per run. 
-        - Roughly ~1,000 currency per run. 
-        - Clear times will depend on your account's strength, but end game users have reported 4-6 minutes per run.
-        - Requires no Cursed Wheeling or resets. 
-        - See next tab for the auto-pathing map. 
+        === "B3F (Ainikki Route)"
+        
+            - Routing: Select B2F, grab nearby chests, go to B3F, kill all the enemies, exit, and repeat until you need to recover at the Inn.
+            - Most efficient route for currency and Seven Luminaries Fey junk (9.17% versus 5.3% for B1F and B2F). It is superior to farming B1F and/or B2F due to its small size, fixed mob density, easy enemies, and higher rates of both currency and Fey Seven Luminaries junk. 
+            - Minimum of 9 enemies per run, but up to 11.  
+            - Enemy chest drop rate is ~50% or 4.5-5 chests, on average, per run. 
+            - Roughly ~1,000 currency per run. 
+            - Clear times will depend on your account's strength, but end game users have reported 4-6 minutes per run.
+            - Requires no Cursed Wheeling or resets. 
+            - See next tab for the auto-pathing map. 
     
-    === "B3F (Ainikki Route) Auto-Path Map"
+        === "B3F (Ainikki Route) Auto-Path Map"
+        
+            ![](img/B3F-optimal-routing.png)
+        
+            - Routing path consistently gets all enemies 95% of the time unless one gets stuck in a corner. 
+            - Easy to tweak as needed if you are encountering too many ambushes.  
+            - Once you are at the final checkmark (far left) you will need to auto-exit to ensure you take the northern path back to the exit. 
     
-        ![](img/B3F-optimal-routing.png)
+    === "A1-A3 Teams"
     
-        - Routing path consistently gets all enemies 95% of the time unless one gets stuck in a corner. 
-        - Easy to tweak as needed if you are encountering too many ambushes.  
-        - Once you are at the final checkmark (far left) you will need to auto-exit to ensure you take the northern path back to the exit. 
-    
-    === "B3F (Berkanan Route)"
-    
-        - If you cannot defeat the Red Dragon (Berkanan Route) to progress to Part 2, then the best farming spot will still be B3F. 
-        - The B3F Part 1 map is smaller and only includes 5 enemy encounters. Fewer enemies can be a positive if you are using all of your MP/SP to complete a single run since you may encounter a Scorpion Lady or Minotaur, which are tougher enemies.  
+        - If you cannot defeat the Red Dragon (Berkanan Route) to progress to Part 2, then you have two options based on the strength of your team. 
+        - Option 1: B3F Only
+            - The B3F Part 1 map is smaller and only includes 5 enemy encounters. 
+            - Fewer enemies can be a positive if you are using all of your MP/SP to complete a single run since you may encounter a Scorpion Lady or Minotaur, which are tougher enemies. 
+        - Option 2: B2F Only w/ Reset
+            - The goal here is to take advantage of the fixed chests that respawn when you wheel-in-place. That means going to the Ruins and clicking on your current node in the Cursed Wheel and leaping. 
+            - B2F will often populate up to 8 chests and whatever you get from enemy encounters, so it is good for both junk and currency. 
+            - It is a less mob dense floor and does not have any Scorpion Lady or Minotaur encounters. 
     === "Data Testing"
     
         - The majority of the data testing comes from our Discord members @slimwaldi, @liezeith, and @genosis who have collectively spent dozens of hours farming, tracking, and sharing their data. 
