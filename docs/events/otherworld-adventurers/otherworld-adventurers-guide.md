@@ -506,63 +506,73 @@ Since the event is available to all players at every stage of the game Drecom ha
     - Thanks to our Discord members we have been able to collect enough data to offer some basic guidelines and troubleshooting tips. 
     - Know in advance that these guidelines may not work for you.
 - Primary Variables
-    - MC's Grade, Abyss progression, and Reputation level are the primary factors in determining your junk tier. Each one appears to have equal weighting.
+    - MC's Grade, Abyss progression, and Reputation level are the primary factors in determining your junk tier.
+    - Each one appears to have equal weighting.
+- Fixed Requirements
+    - The True endings for A1 and A2 must be completed to unlock Luminaries junk. 
+    - The only exception might be a player that has cleared A4 at Copper Grade with high Reputation. We had no testers with that profile to verify. 
 
 !!! tip "New and Returning Players - Read Me"
 
-    - The unlocking system requires a minimum amount of progress across **all** 3 primary variables. For example, the lower your Reputation level the higher the requirements for Grade and Abyss progression.   
+    - The unlocking system requires a minimum amount of progress across **all** 3 primary variables. For example, the lower your Reputation level the higher the requirements for MC's Grade and Abyss progression.   
     - Newer players tend to get stuck at Four Scales (Steel) junk because they meet the requirements for Grade and Abyss progression, but have a low Reputation level if Guild requests or Special Requests have been deprioritized.
     - The Event button (yellow shield icon) is required to see if a new tier of junk has unlocked. The game is inconsistent with updating junk tiers automatically. **Wheeling-in-place does not work**. 
 
 ??? warning "Primary Variables" 
 
-    ??? note "Grade"
+    === "Grade"
     
         - The most straight forward variable to progress. It is based only on the MC's Grade and not the rest of your team. Passing the Grade Exam is not sufficient. You must spend the tags and promote your MC. 
         - New players will want to target Steel Grade, if possible. If you already at Copper Grade, then you will likely have Seven Luminaries junk unlocked. 
         - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your Reputation level is lagging. You will likely have to do additional Reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Seven Luminaries. 
     
-    ??? note "Abyss Progression" 
+    === "Abyss Progression" 
     
         - Key Abyss milestones for Seven Luminaries junk:
             - Clear A3 F3 Necrocore - Step foot into F5 before exiting. 
             - Clear A3 F7 Doll - Step foot into F8 before exiting. 
             - Reach A3 F10 Fountain 
             - First clear of GWO 3 
-        - True Endings
-            - Getting the True endings for both A1 and A2 count as "points" towards unlocking higher tiers of junk. 
-            - If you have a strong team, these are both easy to do fairly quickly since you can auto-battle through all the enemies. 
-            - For A2 we strongly recommend starting a new faction since the Mermaid statues are located on each of the lower floors. 
     
-    ??? note "Reputation Level" 
-    
-        === "Basics" 
+    === "Reputation Level" 
         
-            - Reputation level is a hidden mechanic in the game. You receive Reputation points every time you complete a Guild Request or a Special Request.
-            - Arna will not offer you the next Grade Exam until you have accumulated a certain amount of Reputation points.  
-            - Special Requests, particularly the True endings, seem to give more "points" than standard Guild Requests. 
-            - We do not know:
-                - If you get more Reputation points from the later Abysses. 
-                - If completing all Guild request in an Abyss gives you extra Reputation points as a one-time "bonus". 
-        
-        === "Priorities" 
-        
-            - If you are grinding Reputation points, we recommend you start with getting the True endings for the Special Requests (Fordaig, Malice, etc.). Note that these are reset in the Ruins > Cursed Wheel > Special Request button located at the bottom-right of the page.  
-            - The standard approach has been to pick fast A1 Guild requests and repeat them over and over again until the next Grade Exam or junk tier unlocks. 
-            - If you are going to be putting in the time to grind Reputation points, then we recommend you at least pick up the Mel (+13-14 Trap Disarm) and Mudd (+10 Detect) bondmates and take them to level 5. They are both useful for your chest opener and long-term account development. 
+        - Reputation level is a hidden mechanic in the game. You receive Reputation points every time you complete a Guild Request or a Special Request.
+        - Arna will not offer you the next Grade Exam until you have accumulated a certain amount of Reputation points.  
+        - Special Requests, particularly the True endings, seem to give more "points" than standard Guild Requests. 
+        - We do not know:
+            - If you get more Reputation points from the later Abysses. 
+            - If completing all Guild request in an Abyss gives you extra Reputation points as a one-time "bonus". 
 
-??? note "Troubleshooting" 
+??? "Priorities Guide" 
 
     - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
-    - If your junk is not updating, then here is a list of things to test in order of importance:
-        - Increase MC's Grade to Steel or Copper, ideally. 
-        - Make more progress in your current Abyss. 
-            - The game is built around unlocking new Guild requests, side dungeons, etc. once you reach a Major Harken in an Abyss or defeat the GWO. We suspect the junk unlocking system also uses these event flags. 
-            - The primary floors to progress toward would be F3-4, F6-7, and restoring the Major Harken on F10 after defeating a GWO. 
-        - Complete the "True" endings for A1 and A2. 
-        - Complete the "Best" endings for the Special Requests, which are listed under the Events section in the navigation list.
-        - Grind Reputation using fast Guild requests in A1 or A2. It is also a good way to increase bondmate levels, particularly Mel who only takes a few minutes and gives +13-14 Disarm Trap at level 5.  
-        - Complete all Guild requests you have access to at least once. 
+    - This guide is essentially a check-list of what you should focus on first in order of importance. 
+
+    Priorities:
+
+    - True Endings
+        - Complete the True endings for both A1 and A2. It should not take that much time if you are in A3 or A4. 
+        - This is the only requirement that functions as a Yes/No flag. 
+        - For A2 we recommend you do it with a new faction since the last Mermaid statue is located on F6. 
+    - MC's Grade
+        - For newer players Steel is sufficient.
+        - For vets promote MC to Copper as soon as possible, especially if you just started A4.
+        - The event cave, especially B3F, gives good EXP so it is possible to raise your MC to level 60 during the event period. 
+    - Abyss Progression 
+        - Progress in A3 as much as you can until you hit a hard stopping point. This will usually be the F7 Doll boss for new players.
+        - Once you hit a stopping point, then proceed to do doing the Special Requests.
+        - Clear A3 F3 Necrocore boss and step foot into F5. 
+        - Clear A3 F7 Doll boss and step foot into F8. 
+        - Reach the F10 Fountain. 
+        - Defeat the GWO 3 once. 
+    - Special Requests (Reputation)
+        - Complete the "Best" endings for the Special Requests, which are listed under the Events section of the navigation list.
+        - Special Requests are only given at the Capital Luknalia Guild under the "Featured" tab.
+        - To reset them you need to go to the Ruins > Cursed Wheel and select the Special Request button located at the bottom-right of the page. 
+    - Other Reputation Grinding 
+        - The standard approach has been to pick fast A1 Guild requests and repeat them over and over again until the next Grade Exam or junk tier unlocks. 
+        - If you are going to be putting in the time to grind Reputation points, then we recommend you at least pick up the Mel (+13-14 Trap Disarm) and Mudd (+10 Detect) bondmates and take them to level 5. They are both useful for your chest opener and long-term account development.
+        - If that does not work, then complete all the requests you have not yet done for every Abyss. 
     - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
     - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
 
