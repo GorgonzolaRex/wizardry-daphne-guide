@@ -22,7 +22,7 @@ Trait Points are the core seven attributes that influence an adventurer's stats.
 The base trait points an adventurer starts with considers multiple factors, including gender, race, class, and element type. Using this table, we can calculate the base traits for any given adventurer.
 
 |        |                       | Strength |  IQ | Piety | Vitality | Dexterity | Speed | Luck |
-|:------:|:---------------------:|:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
+|:-------|:----------------------|:--------:|:---:|:-----:|:--------:|:---------:|:-----:|:----:|
 |  Base  |                       |    11    |  11 |   11  |    11    |     11    |   11  |  11  |
 |        |                       |          |     |       |          |           |       |      |
 | Gender |          Male         |    +1    |     |       |    +1    |     +1    |       |      |
@@ -39,7 +39,6 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |         Water         |          |  +2 |   +1  |          |           |       |      |
 |        |         Light         |          |     |   +2  |          |           |       |  +1  |
 |        |          Dark         |          |  +2 |       |          |           |       |  +1  |
-|        |          Void         |     ?    |  ?  |   ?   |     ?    |     ?     |   ?   |   ?  |
 |        |                       |          |     |       |          |           |       |      |
 |  Class |        Fighter        |    +2    |     |       |    +1    |     +1    |       |      |
 |        |         Knight        |    +2    |     |   +1  |    +2    |           |       |      |
@@ -49,9 +48,9 @@ The base trait points an adventurer starts with considers multiple factors, incl
 |        |         Ninja         |    +1    |     |       |          |     +1    |   +2  |  +1  |
 |        |        Samurai        |    +2    |  +1 |       |    +1    |     +1    |       |      |
 |        |         Ranger        |    +1    |     |       |          |     +2    |   +1  |  +1  |
-|        | Mage of the Black Rod |     ?    |  ?  |   ?   |     ?    |     ?     |   ?   |   ?  |
 |        |       Tall Mage       |    +1    |  +1 |       |          |     +1    |       |      |
 |        |   Silver-Haired Nun   |    +1    |  +1 |   +2  |    +2    |     +1    |       |  +1  |
+
 
 ## Stats
 
