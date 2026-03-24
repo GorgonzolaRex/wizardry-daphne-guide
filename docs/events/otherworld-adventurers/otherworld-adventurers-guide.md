@@ -523,8 +523,8 @@ Since the event is available to all players at every stage of the game Drecom ha
     === "Grade"
     
         - The most straight forward variable to progress. It is based only on the MC's Grade and not the rest of your team. Passing the Grade Exam is not sufficient. You must spend the tags and promote your MC. 
-        - New players will want to target Steel Grade, if possible. If you already at Copper Grade, then you will likely have Seven Luminaries junk unlocked. 
-        - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your Reputation level is lagging. You will likely have to do additional Reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll to unlock Seven Luminaries. 
+        - New players will want to target Steel Grade, if possible. If you already at Copper Grade, then you will likely have Seven Luminaries junk unlocked. If not, then you are likely missing the A1 or A2 True ending.  
+        - If Arna does not immediately offer you the Grade Exam at level 40 or 50 this is a helpful indicator that your Reputation level is lagging. You will likely have to do additional Reputation grinding after hitting Steel Grade and clearing A3 F3 Necrocore or A3 F7 Doll.
     
     === "Abyss Progression" 
     
@@ -537,26 +537,24 @@ Since the event is available to all players at every stage of the game Drecom ha
     === "Reputation Level" 
         
         - Reputation level is a hidden mechanic in the game. You receive Reputation points every time you complete a Guild Request or a Special Request.
-        - Arna will not offer you the next Grade Exam until you have accumulated a certain amount of Reputation points.  
-        - Special Requests, particularly the True endings, seem to give more "points" than standard Guild Requests. 
+        - Arna will not offer you the next Grade Exam until you have earned a certain amount of Reputation points.  
+        - Special Requests, especially their True endings, seem to give more "points" than standard Guild Requests. 
         - We do not know:
             - If you get more Reputation points from the later Abysses. 
-            - If completing all Guild request in an Abyss gives you extra Reputation points as a one-time "bonus". 
+            - If completing all Guild request in an Abyss gives you extra Reputation points as a one-time bonus. 
 
 ??? note "Priorities Guide" 
 
     === "How to Use" 
     
-        - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want access to Seven Luminaries junk. 
-        - The tabs are organized by priority from left-to-right. 
-        - Once you can no longer progress on a given tab proceed to the next one. 
-        - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon). Some Discord members have it happen automatically, but many do not. 
+        - Know upfront that this can be a frustrating and time-consuming process, especially if you are in A3 and want to unlock Seven Luminaries junk. 
+        - The tabs are organized by priority from left-to-right. Once you can no longer progress on a given tab proceed to the next one. 
+        - Remember! The junk pool will not update unless you reset the entire event using the Event button (yellow shield icon) and selecting Cursed Wheel. Some Discord members have it happen automatically, but many do not. 
         - As a last resort you can send an [Inquiry](https://support.wizardry.info/en/inquiry) to Drecom if you have tried everything listed above as it could be a bug. 
 
     === "True Endings" 
 
-        - Complete the True endings for both A1 and A2. It should not take that much time if you are in A3 or A4. 
-        - This is the only requirement that functions as a Yes/No flag. 
+        - Complete the True endings for both A1 and A2. It should not take that much time if you are in A3 or A4. This is the only requirement that functions as a Yes/No flag versus "points" toward one of the primary variables. 
         - The A1 True ending requires everyone to be alive and Alabno's sub-quest chain to be completed. 
         - The A2 True ending requires a series of sub-quests to unlock the second GWO boss battle (not Melgina). 
         - For A2 we recommend you do it with a new faction since the last Mermaid statue is located on F6. 
@@ -571,6 +569,9 @@ Since the event is available to all players at every stage of the game Drecom ha
 
         - Progress in A3 as much as you can until you hit a hard stopping point. This will usually be the F7 Doll boss for new players.
         - Once you hit a stopping point, then proceed to do doing the Special Requests.
+
+        Key Milestoens: 
+        
         - Clear A3 F3 Necrocore boss and step foot into F5. 
         - Clear A3 F7 Doll boss and step foot into F8. 
         - Reach the F10 Fountain. 
@@ -578,7 +579,7 @@ Since the event is available to all players at every stage of the game Drecom ha
 
     === "Special Requests (Reputation)"
 
-        - Complete the "Best" endings for the Special Requests, which are listed under the Events section of the navigation list.
+        - Complete the "True" endings for the Special Requests, which are listed under the Events section of the navigation list.
         - Special Requests are only given at the Capital Luknalia Guild under the "Featured" tab.
         - To reset them you need to go to the Ruins > Cursed Wheel and select the Special Request button located at the bottom-right of the page. 
 
