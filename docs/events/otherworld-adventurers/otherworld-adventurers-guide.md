@@ -557,6 +557,8 @@ Since the event is available to all players at every stage of the game Drecom ha
 
         - Complete the True endings for both A1 and A2. It should not take that much time if you are in A3 or A4. 
         - This is the only requirement that functions as a Yes/No flag. 
+        - The A1 True ending requires everyone to be alive and Alabno's sub-quest chain to be completed. 
+        - The A2 True ending requires a series of sub-quests to unlock the second GWO boss battle (not Melgina). 
         - For A2 we recommend you do it with a new faction since the last Mermaid statue is located on F6. 
         
     === "MC's Grade"
