@@ -1046,12 +1046,13 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             
                 - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
                 
-                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                    - (X:25, Y:4) - 4 steps north of Route 10 entrance by a fence 
                     - (X:20, Y:6) - Tile left of the first Stone God altar
+                    - If you auto-move through the blizzard area you can easily avoid the Nullshadow
                     - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                    - (X:2, Y:16) - First tile in the northwest blizzard zone; you must be standing directly on top of it to interact 
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                    - (X:1, Y:24) - On the nullstone 
+                    - (X:1, Y:24) - On top of the nullstone 
 
                     ??? note "Tablet Troubleshooting"
 
@@ -1180,12 +1181,13 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             
                 - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
                 
-                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                    - (X:25, Y:4) - 4 steps north of Route 10 entrance by a fence 
                     - (X:20, Y:6) - Tile left of the first Stone God altar
+                    - If you auto-move through the blizzard area you can easily avoid the Nullshadow
                     - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                    - (X:2, Y:16) - First tile in the northwest blizzard zone; you must be standing directly on top of it to interact 
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                    - (X:1, Y:24) - On the nullstone 
+                    - (X:1, Y:24) - On top of the nullstone 
 
                     ??? note "Tablet Troubleshooting"
 
@@ -1313,13 +1315,13 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             ??? note "Route 3"
             
                 - Harken to Route 2 and enter Route 3, then look for the tablets in this order: 
-                    - (X:6, Y:17) - Located behind the 2nd house by the entrance
-                    - (X:2,Y:2) - Located a few steps from the Route 3 entrance
+                    - (X:5, Y:16) - Located in the woodpile to the side of the 3rd house by the entrance
+                    - (X:2,Y:2) - Located by a crate a few steps from the Route 3 entrance (it can be a little difficult to see)
             
             ??? note "Route 2" 
             
                 - Return to Route 2 and find a tablet at: 
-                    - (X:21, Y:19) - Few steps southwest of the reversal tree stump
+                    - (X:21, Y:19) - Few steps southwest of the reversal tree stump in a woodpile
 
             ??? note "Route 7"
             
@@ -1328,8 +1330,9 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                     - (X:13, Y:23) - Central 3x3 room 
                     - (X:16, Y:22) - Right-hand dead-end of 3x3 room
                 - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
-                    - (X:19, Y:7) - Northwest of Route 8 stairs
+                    - (X:19, Y:7) - SE quadrant. In a corner in the area before the 2 small rooms and stairs to Route 8
                     - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                    - (X:15, Y:24) - Few steps south of the Harken
                 - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
     
             ??? note "Route 9"
@@ -1341,13 +1344,14 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             
                 - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
                 
-                    - (X:25, Y:4) - Few steps north of Route 10 entrance 
+                    - (X:25, Y:4) - 4 steps north of Route 10 entrance by a fence 
                     - (X:20, Y:6) - Tile left of the first Stone God altar
-                    - (X:4, Y:3) - On the bridge to the far left house
+                    - If you auto-move through the blizzard area you can easily avoid the Nullshadow
+                    - (X:4, Y:3) - Tile after crossing the bridge on the way to the far left house
                     - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                    - (X:2, Y:15) - First tile in the northwest blizzard zone 
+                    - (X:2, Y:16) - First tile in the northwest blizzard zone; you must be standing directly on top of it to interact 
                     - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                    - (X:1, Y:24) - Check the nullstone 
+                    - (X:1, Y:24) - On top of the nullstone 
     
                     ??? note "Tablet Troubleshooting"
 
@@ -1359,9 +1363,10 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                         
                 - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.
                 - Defeat the Bigfoot boss. 
-                - Examine the pile of poop in the next room
-                - Dig deeper into the pile 3 times to discover the body of Laurent
-                - Exit the cave and return to the Royal Capital to delivery the dead body
+                - Examine the pile of poop in the next room.
+                - Select the 4th option, "Search the pile of heads a little more", 3 times to discover the body of Laurent if you want the "Good" bondmate ending. 
+                - The nullstone behind the poo pile is tied to the Pontiff route and can be ignored.
+                - Exit the cave and return to the Royal Capital to deliver Laurent's body to his father.
 
             ??? warning "Rewards"
 
@@ -1374,7 +1379,14 @@ Upon entering the Royal Capital, the faction representative will appear to discu
     === "Boss: Bigfoot" 
 
         - The fight has a normal Bigfoot in the front row and the Elder Bigfoot in the backrow. 
-        - Upon taking enough damage, the Elder Bigfoot will summon another Bigfoot. He can do this multiple times.
+        - Stacking RES buffs is recommended before starting the fight in case they use Horrendous Breath on their first turn, which can paralyze, stun, and poison an entire row.  
+        - The Bigfoots use their Hip attack (physical row AOE) on a regular basis so Knight's Defense is recommended to avoid being 1-shot. It can target both the front and backrow. Note that All-Around Cover does not protect against AOE row attacks.  
+        - The normal Bigfoots are susceptible to Sleep (Katino 5 lands regularly) and confuse (Kantios), which can deny their turn and allow you to kill them faster. 
+        - OOT Actions
+            - At certain HP thresholds the Elder Bigfoot will summon another Bigfoot. This can happen several times if you are unable to do major burst DPS damage. 
+            - At 30-40% HP it will use a self-buff that increases its ASPD, DEF, and MDEF. You will want to remove at least the ASPD buff immediately with Dissipation or Maelfic Wind. 
+            - At low HP (~20%) it will summon 1 in the front row and 1 in the back row. 
+        - Overall, it is on the easier side of the faction Bigfoot boss fights. The only danger is that sometimes its attack can SUR hit, which will instantly kill anyone that is not under the protection of Knight's Defense.
 
     === "Bondmate Farming"
 
