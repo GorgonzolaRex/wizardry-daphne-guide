@@ -20,8 +20,8 @@
 ### Recovery of Salted Pork
 
 !!! danger "Bug - Automatic Failure"
-            - Confirmed 3/25 that even if you retrieve the Salted Pork correctly the request will auto-fail when you return to the Guild.
-            - The Bigfoot's Offspring bondmate cannot be farmed either.
+    - Confirmed 3/25 that even if you retrieve the Salted Pork correctly the request will auto-fail when you return to the Guild.
+    - The Bigfoot's Offspring bondmate cannot be farmed either.
 
 ??? warning "Important Notes"
 
