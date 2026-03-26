@@ -20,7 +20,7 @@
         - Wanted Posters provide the following information:
             - Name
             - Gold Reward
-            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](LINK HERE). 
+            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#exchange-bounty-medal-shop). 
             - Bounty Markers: One-time only points used to increase your Bounty Rank. 
             - Skull Icon
                 - Located in the upper-left of the wanted poster. 
