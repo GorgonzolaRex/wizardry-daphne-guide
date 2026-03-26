@@ -924,12 +924,12 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
 !!! warning "Important Notes - Read Me"
 
-    ??? warning "Requirements"
+    === "Requirements"
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) (clear GWO 4-3)
         - Knowledge of [shortcuts](./important-request-gwo.md#learning-the-truth) to open the mine walls on Route 7 to speed up the search (optional)
 
-    ??? note "Cursed Wheel Settings - First Run and Resets" 
+    === "Cursed Wheel Settings - First Run and Resets" 
 
         === "First Run"
 
@@ -967,7 +967,7 @@ Upon entering the Royal Capital, the faction representative will appear to discu
             - As a worst case option you can wheel to "Fresh Start" in Abyss 1 to clear any broken flags or bugs, but it will reset all of your map data.
             - Wheeling in place twice on Short Rest in the Cabin should open all the mine shortcuts if they were previously unlocked prior to defeating the GWO on your most recent clear
 
-    ??? note "Warning! Blind Runs" 
+    === "Warning! Blind Runs" 
     
         - Strongly recommend NOT doing a blind run. 
         - The majority of the second part of the request is searching for interactable objects (white shiny stars) on 4-5 floors. They are easy to miss in snowy environments, do not have sound cues, and often do not appear unless you are standing directly on its tiles.  
