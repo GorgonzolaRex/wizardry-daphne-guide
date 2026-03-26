@@ -8,10 +8,9 @@
 ### How to Unlock 
 
 - Defeat the GWO of Abyss 2 (Port Town Grand Legion), go to the Royal Capital, and speak with Arna who will give an introduction to the bounty system.
-- At the Guild select Requests and you will see a new tab called Bounties.
-- Every Guild in each major city has its own set of bounties for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
+- At the Guild select Requests and you will see a new tab called Bounties. Every Guild in each major city has its own set of bounties for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
 
- ### Bounty System
+### Bounty System
 
 ??? note "Basics"
 
