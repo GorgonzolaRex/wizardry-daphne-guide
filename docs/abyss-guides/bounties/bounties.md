@@ -43,7 +43,7 @@
             - To wheel-in-place go to the Ruins - Cursed Wheel, select your current or furthest node, and Leap. 
             - Note that bounties are tied to specific floors, so if you Cursed Wheel to an earlier point where that floor is not accessible it will not appear on the Bounties tab. 
             
-            !!! warning "Each time you reset you must return to the Guild - Requests and selected the Bounties tab again."
+                !!! warning "Each time you reset you must return to the Guild - Requests and selected the Bounties tab again."
 
     === "Bounty Rank" 
 
