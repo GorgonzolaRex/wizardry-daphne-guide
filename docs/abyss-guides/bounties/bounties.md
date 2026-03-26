@@ -27,7 +27,7 @@
                 - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
             - Reported Sightings: Lists the specific floor the bounty can be encountered. 
             - Star Icon
-                - Relative measure of the bounties difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
+                - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
                 - Note that 5 small stars are equal to 1 large, glowing star. 
 
     === "How to Accept, Submit, and Reset"
@@ -696,6 +696,7 @@
         - Roamer, doesn't appear on the minimap.
         - 17,000 Gold Reward
         - 950 Bounty Medals
+        - 13 Bounty Markers 
         - Appears at Bounty Rank 13
         - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
 
@@ -713,6 +714,7 @@
         - Stationary, indicated as an NPC on the map.
         - 26,700 Gold Reward
         - 1,140 Bounty Medals
+        - 18 Bounty Markers
         - Appears at Bounty Rank ???
 
     === "Fight Details"
@@ -734,6 +736,7 @@
         - Stationary, but not indicated on the map nor minimap.
         - 28,000 Gold Reward
         - 1,380 Bounty Medals
+        - 21 Bounty Markers
         - Appears at Bounty Rank 14
 
     === "Fight Details"
@@ -754,6 +757,7 @@
         - Stationary-ish, shows up as a flying shaped enemy when you are nearby. Will be in the same area of the map every time.
         - 32,100 Gold Reward
         - 1,550 Bounty Medals
+        - 23 Bounty Markers
         - Appears at Bounty Rank 14
 
     === "Fight Details"
