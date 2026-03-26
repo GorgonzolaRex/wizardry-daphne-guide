@@ -20,7 +20,7 @@
         - Wanted Posters provide the following information:
             - Name
             - Gold Reward
-            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#exchange-bounty-medal-shop). 
+            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
             - Bounty Markers: One-time only points used to increase your Bounty Rank. 
             - Skull Icon
                 - Located in the upper-left of the wanted poster. 
@@ -788,7 +788,7 @@
         - Looking south from entrance:
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
-## Exchange Bounty Medal Shop
+## Bounty Medal Exchange Shop
 
 ### Permanent Items
 
