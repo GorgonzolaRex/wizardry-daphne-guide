@@ -3,19 +3,21 @@
 !!! warning "Work in Progress"
     - Ctrl + F5 to refresh
 
-## How to Unlock 
+## Overview
+
+### How to Unlock 
 
 - Defeat the GWO of Abyss 2 (Port Town Grand Legion), go to the Royal Capital, and speak with Arna who will give an introduction to the bounty system.
-- Select Requests and you will see a new tab called Bounties. 
- 
-## Overview 
+- At the Guild select Requests and you will see a new tab called Bounties.
+- Every Guild in each major city has its own set of bounties for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
+
+ ### Bounty System
 
 ??? note "Basics"
 
     === "Wanted Posters"
 
-        - The Guild in each major city has its own Bounties tab with a unique list of enemies for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
-        - Wanted Posters
+        - Wanted Posters provide the following information:
             - Name
             - Gold Reward
             - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](LINK HERE). 
@@ -32,30 +34,31 @@
     === "How to Accept, Submit, and Reset"
 
         - Accept 
-            - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check what bounties are active you can go to your Log - Bounty List. 
-            - Active bounties are denoted by a black skull on both the world map and dungeon floor selection screen.  
+            - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check what bounties are active you can check your Log - Bounty List. 
+            - Active bounties are denoted by a black skull on both the world map and the dungeon floor selection screen.  
         - Submit 
-            - After defeating or capturing a bounty simply return to the Bounties tab and you will see that the wanted poster is glowing.
-            - Select the wanted poster to submit the bounty to receive your rewards. 
+            - After defeating or capturing a bounty return to the appropriate Guild, select the Bounties tab, and you will see that the wanted poster is glowing.
+            - Select the wanted poster to submit the bounty and receive your rewards. 
         - Reset 
             - Bounties can be reset by wheeling-in-place on the same Cursed Wheel node. 
             - To wheel-in-place go to the Ruins - Cursed Wheel, select your current or furthest node, and Leap. 
             - Note that bounties are tied to specific floors, so if you Cursed Wheel to an earlier point where that floor is not accessible it will not appear on the Bounties tab. 
-            - [Important!] Each time you reset you must return to the Guild - Requests and selected the Bounties tab again.
+            
+            !!! warning "Each time you reset you must return to the Guild - Requests and selected the Bounties tab again."
 
     === "Bounty Rank" 
 
-        - Progression metric that unlocks additional bounties, adds Bounty Medal exchange items, and grants milestone rewards.   
+        - A progression metric that unlocks additional bounties, adds new items to the Bounty Medal Exchange, and grants milestone rewards.   
         - Ranges from Level 1-15 (current max). 
-        - Defeating a bounty for the first time gives one-time only Bounty Markers, which function as experience points. As they are one-time only you cannot farm a bounty repeatedly for additional Bounty Markers.  
+        - Defeating a bounty for the first time gives one-time only Bounty Markers, which function as experience points. You cannot farm a bounty repeatedly for additional Bounty Markers.  
         - Each Bounty Rank generally requires defeating all the available bounties in each city. If you are stuck, then revisit each location or make additional Abyss progression. 
-        - Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](LINK) select "Check Rewards".  
+- Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](#one-time-bounty-rank-rewards) select "Check Rewards".  
 
 ??? warning "Mechanics"
 
     === "Battle" 
     
-        - Cannot ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
+        - You cannot be ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
         - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
         - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
 
@@ -93,10 +96,10 @@
     - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
     - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations.
 
-## Bounty Rank Unlock Conditions
+### Bounty Rank Unlock Conditions
 
-| Bounty Rank | Unlock Conditions |
-|:--:|:--|
+| Rank | Unlock Conditions |
+|:--|:--|
 | 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
 | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
@@ -638,7 +641,7 @@
     === "Map Location"
         ![](./img/veigar-the-sorcerer-who-rules-the-dead-loc.png)
 
-??? danger "Mad, Rampaging, Thunderous Fiend (1200 Bounty Medals)"
+??? danger "Mad, Rampaging, Thunderous Fiend (1,200 Bounty Medals)"
 
     === "Wanted Poster" 
         ![](./img/mad-rampaging-thunderous-fiend.png)
@@ -702,7 +705,7 @@
         - Spawns with 2 Ice Entities in the same row.
         - Has quite a lot of HP, otherwise acts like its normal counterpart.
 
-??? danger "Dutz, the Honey Tonic Savant (1140 Bounty Medals)"
+??? danger "Dutz, the Honey Tonic Savant (1,140 Bounty Medals)"
 
     === "Wanted Poster" 
         ![](./img/dutz-the-honey-tonic-savant.png)
@@ -723,7 +726,7 @@
     === "Map Location"
         ![](./img/dutz-the-honey-tonic-savant-loc.png)
 
-??? danger "Spirit Realm Automaton (1380 Bounty Medals)"
+??? danger "Spirit Realm Automaton (1,380 Bounty Medals)"
 
     === "Wanted Poster" 
         ![](./img/spirit-realm-automaton.png)
@@ -743,7 +746,7 @@
     === "Map Location"
         ![](./img/spirit-realm-automaton-loc.png)
 
-??? danger "Wailing Twin Dolls (1550 Bounty Medals)"
+??? danger "Wailing Twin Dolls (1,550 Bounty Medals)"
 
     === "Wanted Poster" 
         ![](./img/wailing-twin-dolls.png)
@@ -789,12 +792,11 @@
 
 ### Permanent Items
 
-The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disarm Trap and unlocks at Bounty Rank 5 ("Rank"). It is a permanent item and does not reset each month. Please remember to lock each copy after purchasing to avoid accidentally bulk-selling them in the Item Shop. There is no known way to gain extra copies and you will be unable to reach max unification (3/3) and enhancement (+20).
-
-The Master Ring Unification Material is an item that is used specifically for unifying the Master Ring obtained at Rank 13 to 1/3 Strength. It cannot be used for anything else.
+- The Hound Mask is a unique piece of Ebonsteel cloth headgear that increases Disarm Trap and unlocks at Bounty Rank 5 ("Rank"). It is a permanent item and does not reset each month. Please remember to lock each copy after purchasing to avoid accidentally bulk-selling them in the Item Shop. There is no known way to gain extra copies and you will be unable to reach max unification (3/3) and enhancement (+20).
+- The Master Ring Unification Material is an item that is used specifically for unifying the Master Ring obtained at Rank 13 to 1/3 Strength. It cannot be used for anything else.
 
 | Item | Rank | Bounty Medals | # Copies | Total Bounty Medals |
-|:-----|:----:|:-------------:|:--------:|:-------------------:|
+|:-----|:----:|:-------------|:--------:|:-------------------|
 | Hound Mask | 5 | 1,500 | 1  | 1,500   |  
 | Hound Mask | 5 | 3,000 | 2  | 6,000   | 
 | Hound Mask | 5 | 4,000 | 24 | 96,000  |
@@ -802,7 +804,8 @@ The Master Ring Unification Material is an item that is used specifically for un
 
 ### Monthly Items
 
-Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher Bounty Rank unlocks additional items and several of them can be purchased multiple times ("# Copies"). The total cost to clear the shop each month is 45,000 Bounty Medals. Excluding the High, Mid, and Low Iron Ore the total cost is 40,500.   
+- Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher Bounty Rank unlocks additional items and several of them can be purchased multiple times ("# Copies").
+- The total cost to clear the shop each month is 45,000 Bounty Medals. Excluding the High, Mid, and Low Iron Ore the total cost is 40,500.   
 
 | Item | Rank | Bounty Medals | # Copies | Total Bounty Medals |
 |:-----|:----:|:-------------:|:--------:|:-------------------:|
@@ -845,7 +848,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
 ??? note "Master Ring" 
 
-    -Silver-rank ring that is fixed at 5* White and 0/3 Strength level.  
+    - Silver-rank ring that is fixed at 5* White and 0/3 Strength level.  
     - +13 to every stat aside from DEF and MDEF, which are higher. 
     - If the first blessing line at +5 rolls an undesirable blessing you can use an LFAS to re-roll. Not recommended for the average player. Do not attempt to use a FAS as you will not get the additional enhancement bonus. 
     - Primarily used on the team's chest opener (for the Detect and Disarm) or to boost a stat that may be seriously lagging. 
@@ -863,7 +866,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
 ??? note "Book of Honed Ability Secrets" 
 
-    - Stats vary by the unit's class. 
+    - Stats vary by the unit's class and will be updated automatically when class changing a unit, including the MC. 
     - Fighter: 5 ATK, 5 ACC
     - Knight: 10 HP, 5 DEF, 5 MDEF
     - Thief: 5 Disarm Trap, 5 Evade Trap, 5 Detect
@@ -875,26 +878,32 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
 ## Farming Information
 
+!!! warning "Work In Progress" 
+
 ??? note "Overview"
 
-    - There are a handful of well-established farming loops depending on your team's power level and Abyss progression.
-    - To reset a bounty you need to: 
-        - Wheel-in-place to the node where the bounty first unlocks or later
-        - Return to the Guild > Requests > Bounties in order for the bounty to show up. 
-    - It is strongly recommend you do a little each day as part of your daily routine versus long marathon sessions. 
-    - It costs 45,000 points (40,500 with no ore) to buy out the respawning items in the shop every month.
+    === "Basics" 
+    
+        - There are a handful of well-established farming loops depending on your team's power level and Abyss progression.
+        - To reset a bounty you need to: 
+            - Wheel-in-place to the node where the bounty first unlocks or later
+            - Return to the Guild > Requests > Bounties in order for the bounty to show up. 
+        - It is strongly recommend you do a little each day as part of your daily routine versus long marathon sessions. 
+        - It costs 45,000 points (40,500 with no ore) to buy out the respawning items in the shop every month.
+
+    === "Other Notes" 
+
+        - It's possible to farm a specific bounty by cursed wheeling in place, typically to Triumphant Return
+        - There is no limit to the number of Bounty Medals you can farm
+        - It's possible for bounty monsters to spawn as a relic version. Note that relic monsters can only spawn in the first row
+        - It costs 45,000 points (40,500 with no ore) to buy out the respawning items in the shop every month.
+        - It's recommended to farm Veigar as he is always in a set location close to a Harken and easier to deal with than some other bounties. Alternatively, you can farm Peerless Scorpionesses.
+
 
 ??? note "Scorpion Lady + Minotaur (460 Bounty Medals)"
 
     - Most straight forward loop as both bounties are located right next to their Harkens in A1 at F2 and F5, respectively. 
     - Morgus ATK contract can be run safely if the MC is put in the backrow. This allows you to kill both in 1 round depending on your team's power level. However, you can be ambushed with it active. 
-
-
-- It's possible to farm a specific bounty by cursed wheeling in place, typically to Triumphant Return
-- There is no limit to the number of Bounty Medals you can farm
-- It's possible for bounty monsters to spawn as a relic version. Note that relic monsters can only spawn in the first row
-- It costs 45,000 points (40,500 with no ore) to buy out the respawning items in the shop every month.
-- It's recommended to farm Veigar as he is always in a set location close to a Harken and easier to deal with than some other bounties. Alternatively, you can farm Peerless Scorpionesses.
 
 
 
