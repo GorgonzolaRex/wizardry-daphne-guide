@@ -51,7 +51,7 @@
         - Ranges from Level 1-15 (current max). 
         - Defeating a bounty for the first time gives one-time only Bounty Markers, which function as experience points. You cannot farm a bounty repeatedly for additional Bounty Markers.  
         - Each Bounty Rank generally requires defeating all the available bounties in each city. If you are stuck, then revisit each location or make additional Abyss progression. 
-- Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](#one-time-bounty-rank-rewards) select "Check Rewards".  
+        - Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](#one-time-bounty-rank-rewards) select "Check Rewards".  
 
 ??? warning "Mechanics"
 
