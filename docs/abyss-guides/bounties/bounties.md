@@ -1,43 +1,99 @@
 # Bounties
 
-!!! warning "This page is a Work in Progress and updated regular (Ctrl + F5 to refresh)."
+!!! warning "Work in Progress"
+    - Ctrl + F5 to refresh
 
+## How to Unlock 
 
-### How to Unlock the Bounties Feature
+- Defeat the GWO of Abyss 2 (Port Town Grand Legion), go to the Royal Capital, and speak with Arna who will give an introduction to the bounty system.
+- Select Requests and you will see a new tab called Bounties. 
+ 
+## Overview 
 
-    - Clear Abyss 2 (Port Town Grand Legion). 
+??? note "Basics"
 
-### Overview 
+    === "Wanted Posters"
 
-??? note "How to Accept Bounties" 
+        - The Guild in each major city has its own Bounties tab with a unique list of enemies for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
+        - Wanted Posters
+            - Name
+            - Gold Reward
+            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](LINK HERE). 
+            - Bounty Markers: One-time only points used to increase your Bounty Rank. 
+            - Skull Icon
+                - Located in the upper-left of the wanted poster. 
+                - Red: Must be killed.
+                - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
+            - Reported Sightings: Lists the specific floor the bounty can be encountered. 
+            - Star Icon
+                - Relative measure of the bounties difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
+                - Note that 5 small stars are equal to 1 large, glowing star. 
 
-    - After clearing Abyss 2 go to the Royal Capital Guild and speak with Arna.
-    - Select Requests and you will see a new tab called Bounties. 
+    === "How to Accept, Submit, and Reset"
 
-??? note "Basics" 
+        - Accept 
+            - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check what bounties are active you can go to your Log - Bounty List. 
+            - Active bounties are denoted by a black skull on both the world map and dungeon floor selection screen.  
+        - Submit 
+            - After defeating or capturing a bounty simply return to the Bounties tab and you will see that the wanted poster is glowing.
+            - Select the wanted poster to submit the bounty to receive your rewards. 
+        - Reset 
+            - Bounties can be reset by wheeling-in-place on the same Cursed Wheel node. 
+            - To wheel-in-place go to the Ruins - Cursed Wheel, select your current or furthest node, and Leap. 
+            - Note that bounties are tied to specific floors, so if you Cursed Wheel to an earlier point where that floor is not accessible it will not appear on the Bounties tab. 
+            - [Important!] Each time you reset you must return to the Guild - Requests and selected the Bounties tab again.
 
-    - Each town has its own set of bounties, which requires the player to find and defeat a specific enemy. Submitting a defeated bounty at the Guild will reward the player with gold and Bounty Medals to redeem for items at the Jeweler under Exchange > Bounty Medal. 
-    - Each bounty provides Bounty Marks (one-time only) that serve as experience points to increase the player's Bounty Rank. The Bounty Rank ranges from 1-13 with higher ranks unlocking new bounties, adding new items to the Bounty Medal shop, and granting milestone rewards that can be viewed under the Bounty List > Check Rewards menu.
-    - To reset bounties you need to Cursed Wheel on the node where it first unlocks or later. Next, you need to return to the Guild and view the Bounties page for the bounty to appear again in the Abyss. 
-    - Bounties cannot ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
-    - Bounties can be run away from 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to re-appear.
-    - Bounties fall into 3 types:
-        - Wandering: Can appear anywhere on the floor map, but can be reset with changing floors or re-entering. They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
-        - Fixed: Populate on a specific tile set and will never move. A handful (like Minotaur) can be aggro'd and will chase you. 
-        - Event: There will be a brief interaction before the battle where you will be offered the option to fight or let them go. 
-    - Bounties can drop relics, but only if they are in the front row. Event bounties will never drop relics. 
-    - Do not forget to turn in your bounties before Cursed Wheeling to reset them!
+    === "Bounty Rank" 
 
-??? note "Capturing Mechanics" 
+        - Progression metric that unlocks additional bounties, adds Bounty Medal exchange items, and grants milestone rewards.   
+        - Ranges from Level 1-15 (current max). 
+        - Defeating a bounty for the first time gives one-time only Bounty Markers, which function as experience points. As they are one-time only you cannot farm a bounty repeatedly for additional Bounty Markers.  
+        - Each Bounty Rank generally requires defeating all the available bounties in each city. If you are stuck, then revisit each location or make additional Abyss progression. 
+        - Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](LINK) select "Check Rewards".  
 
-    - Forthcoming. 
+??? warning "Mechanics"
+
+    === "Battle" 
+    
+        - Cannot ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
+        - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
+        - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
+
+    === "Capturing"
+
+        - Only human bounties can be captured. The process can be tedious since it is easy to accidentally kill a bounty unless you are tracking its HP.  
+        - Steps
+            - Weaken an enemy to 10-15% of its HP.
+            - Use a Binding Rope (consumable item) until it is successfully captured.  
+            - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
+        - Binding Rope
+            - Sold at the Item Shop for 200 gold. 
+            - The capture rate is (allegedly) higher if used by a high DEX unit, so Ninjas and Thiefs are good candidates. 
+            - It make take several attempts to successfully capture a bounty even at very low HP. 
+        - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
+        - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
+        
+    === "Map Types"
+
+        - Fixed
+            - Populate on a specific tile set and will never move. 
+            - Displayed on the mini-map as a green arrow. 
+        - Wandering
+            - Can appear anywhere on the floor map, but their location can be reset with changing floors or exiting and re-entering.  
+            - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
+            - Not displayed on the mini-map. 
+        - Person
+            - Populate on a specific tile set and will never move. 
+            - Appear as a "person icon" on the mini-map if that part of the floor has been explored.
+            - These encounters are always against human enemies. There will often be a brief interaction when you encounter them where you will be offered the choice to fight or let them go. 
+            - Can never drop relics. 
 
 ??? note "Map Variations" 
 
     - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
     - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations.
 
-### Bounty Rank Unlock Conditions
+## Bounty Rank Unlock Conditions
 
 | Bounty Rank | Unlock Conditions |
 |:--:|:--|
@@ -47,17 +103,19 @@
 | 13-14 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
 | 15 | Clear Abyss 4 (Save Iris Ending) |
 
-## Abyss 1 Bounties
+## Bounties
 
-??? danger "Goblin Daddy (45 Tokens)" 
+### Abyss 1
 
-    === "Bounty Picture" 
+??? danger "Goblin Daddy (45 Bounty Medals)" 
+
+    === "Wanted Poster" 
         ![](./img/goblin-daddy.png)
 
     === "Bounty Details"
         - Stationary, indicated by green mob on minimap, he will always be in the same location.
-        - 2000 Gold Reward
-        - 45 Token Reward
+        - 2,000 Gold Reward
+        - 45 Bounty Medals
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -67,15 +125,15 @@
     === "Map Location"
         ![](./img/goblin-daddy-loc.png)
 
-??? danger "Warped One Burning with Vengeance (30 Tokens)" 
+??? danger "Warped One Burning with Vengeance (30 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/warped-one-burning-with-vengeance.png)
 
     === "Bounty Details"
-        - Stationary, indicated by green mob on minimap, will always be in the same location
-        - 1800 Gold Reward
-        - 30 Token Reward
+        - Stationary, indicated by green mob on minimap, and will always be in the same location.
+        - 1,800 Gold Reward
+        - 30 Bounty Medals
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -85,15 +143,15 @@
     === "Map Location"
         ![](./img/warped-one-burning-with-vengeance-loc.png)
         
-??? danger "Jhael, The Novice Slayer (30 Tokens)" 
+??? danger "Jhael, The Novice Slayer (30 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/jhael-the-novice-slayer.png)
 
     === "Bounty Details"
         - Stationary, appears as a NPC on the map, can show up in two static locations
-        - 1800 Gold Reward
-        - 30 Token Reward
+        - 1,800 Gold Reward
+        - 30 Bounty Medals
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -103,34 +161,34 @@
     === "Map Location"
         ![](./img/jhael-the-novice-slayer-loc.png)
 
-??? danger "Grudge-Bearing Sack Doll (100 Tokens)" 
+??? danger "Grudge-Bearing Sack Doll (100 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
          ![](./img/grudge-bearing-sack-doll.png)
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap.
         - Frequently appears to the south and east of the F5 Harken. Use the stairs to reset its location.
-        - 1900 Gold Reward
-        - 100 Token Reward
+        - 1,900 Gold Reward
+        - 100 Bounty Medals
         - Appears at Bounty Rank 2
 
     === "Fight Details"
         - Bounty HP: 6.5k; Adds: 2.5-3K 
         - Spawns as three Cursed Dolls that can move twice each. They are extremely fast.
         - Remember that Cursed status harms you when you attack an enemy.
-        - Seems to have a week long cooldown before respawning.
-        - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to reset.
+        - Seems to have a 7-day cooldown before respawning.
+        - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to respawn.
         
-??? danger "Brokk, The Shrewd Swindler (55 Tokens)" 
+??? danger "Brokk, The Shrewd Swindler (55 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/brokk-the-shrewd-swindler.png)
 
     === "Bounty Details"
         - Stationary, indicated by NPC on the map. He will always be in a corridor near the harken.
-        - 2300 Gold Reward
-        - 55 Token Reward
+        - 2,300 Gold Reward
+        - 55 Bounty Medals
         - Appears at Bounty Rank 2
 
     === "Fight Details"
@@ -140,17 +198,17 @@
     === "Map Location"
         ![](./img/brokk-the-shrewd-swindler-loc.png)
         
-??? danger "Skeleton Archmage (90 Tokens)" 
+??? danger "Skeleton Archmage (90 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/skeleton-archmage.png)
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap.
         - Tends to show up around the poison hallways and areas connected by the F8 rocks.
         - Can sometimes spawn inside a wall, reset to fix.
-        - 2700 Gold Reward
-        - 90 Token Reward
+        - 2,700 Gold Reward
+        - 90 Bounty Medals
         - Appears at Bounty Rank 3
 
     === "Fight Details"
@@ -160,38 +218,38 @@
         - Can be silenced.
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
         
-??? danger "Six-Limbed Storm (180 Tokens)" 
+??? danger "Six-Limbed Storm (180 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/six-limbed-storm.png)
 
     === "Bounty Details"
         - Stationary, indicated as a green mob on the minimap. It always appears in the big room to the right of the harken.
-        - 6800 Gold Reward
-        - 180 Token Reward
+        - 6,800 Gold Reward
+        - 180 Bounty Medals
         - Appears at Bounty Rank 5
 
     === "Fight Details"
         - HP: 12K
         - Spawns as a Minotaur by itself.
-        - Is immune to magic damage.
-        - Has very high EVA and ACC, need 140-150 ACC. 
+        - Immune to magic damage.
+        - Has very high EVA and ACC, need 140-150 ACC to hit it consistently. 
         - Use Masolotu, Batilgref, Dilto, Heavy Attack 3+ and Decisive Torso Strike 2+ for the ACC bonus.
         - Maces are useful as they cannot miss.
-        - Will get stronger and faster as turns pass.
-
+        - Will get stronger and faster as the fight progresses. 
+        
     === "Map Location"
         ![](./img/six-limbed-storm-loc.png)
 
-??? danger "Host of the Cursed Banquet (200 Tokens)" 
+??? danger "Host of the Cursed Banquet (200 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/host-of-the-cursed-banquet.png)
 
     === "Bounty Details"
         - Stationary, indicated as a green mob on the minimap. Appears right next to the staircase after going from B7 to B6.
-        - 5100 Gold Reward
-        - 200 Token Reward
+        - 5,100 Gold Reward
+        - 200 Bounty Medals
         - Appears at Bounty Rank 6
 
     === "Fight Details"
@@ -203,15 +261,15 @@
     === "Map Location"
         ![](./img/host-of-the-cursed-banquet-loc.png)
         
-??? danger "Peerless Scorpionesses (280 Tokens)" 
+??? danger "Peerless Scorpionesses (280 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/peerless-scorpionesses.png)
 
     === "Bounty Details"
         - Stationary, indicated as a green mob on the minimap.
-        - 10800 Gold Reward
-        - 280 Token Reward
+        - 10,800 Gold Reward
+        - 280 Bounty Medals
         - Appears at Bounty Rank 7
 
     === "Fight Details"
@@ -224,15 +282,15 @@
     === "Map Location"
         ![](./img/peerless-scorpionesses-loc.png)
 
-??? danger "Saige the Sacker (110 Tokens)"
+??? danger "Saige the Sacker (110 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/saige-the-sacker.png)
 
     === "Bounty Details"
         - Stationary, indicated as an NPC on the map
-        - 4800 Gold Reward
-        - 110 Token Reward
+        - 4,800 Gold Reward
+        - 110 Bounty Medals
         - Appears at Bounty Rank 4
         
     === "Fight Details"
@@ -242,81 +300,87 @@
     === "Map Location"
         ![](./img/saige-the-sacker-loc.png)
 
-## Abyss 2 Bounties
+### Abyss 2 
 
-??? danger "The Unpierceable One (40 Tokens)" 
+??? danger "The Unpierceable One (40 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/the-unpierceable-one.png)
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap, can appear in water current portions of the map.
-        - 2000 Gold Reward
-        - 40 Token Reward
+        - 2,000 Gold Reward
+        - 40 Bounty Medals
         - Appears at Bounty Rank 1
 
     === "Fight Details"
-        - HP: ???
-        - Spawns with 3 Floating Coins in the back.
+        - HP: 5.5K
+        - Spawns with 3 Floating Coins (500 HP) in the back.
         - Has very high defense.
+        - Susceptible to Kantios (Confusion). 
 
-??? danger "Patti, Apostate of the Sea (35 Tokens)" 
+??? danger "Patti, Apostate of the Sea (35 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/patti-apostate-of-the-sea.png)
 
     === "Bounty Details"
         - Stationary, indicated by the NPC by the statue on the left of the map. Enter from B4. On fail, must reenter the Abyss.
-        - 2000 Gold Reward
-        - 35 Token Reward
+        - 2,000 Gold Reward
+        - 35 Bounty Medals
         - Appears at Bounty Rank 1
 
     === "Fight Details"
-        - HP: ???
+        - HP: 2.5K
         - Spawns with two rows of hostile adventurers in the front and middle row. The Pirate Deacon will be in the backmost row.
+        - The adds have roughly 1-1.5K HP. 
+        - Susceptible to be Kantios (Confusion). 
 
     === "Map Location"
         ![](./img/patti-apostate-of-the-sea-loc.png)
 
-??? danger "The Unending Breath of Stone (70 Tokens)" 
+??? danger "The Unending Breath of Stone (70 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/the-unending-breath-of-stone.png)
 
     === "Bounty Details"
         - Roamer, does not show on the minimap.
-        - 3500 Gold Reward
-        - 70 Token Reward
+        - 3,500 Gold Reward
+        - 70 Bounty Medals
         - Appears at Bounty Rank 2
 
     === "Fight Details"
-        - HP: ???
-        - Spawns with 2 Chimeras in the front row, and 1 Chimera in the middle row. The Gorgon is in the backmost row.
+        - HP: 25K HP
+        - Spawns with 2 Chimeras (5.5K HP) in the front row, and 1 Chimera in the middle row. The Gorgon is in the backmost row.
+        - Extremely weak to Kantios (Confuse), which will disable its stone breath and force it to use physical attacks. Have your Kantios user move last, but before the Gorgon to keep it applied each turn.  
 
-??? danger "The Champion (80 Tokens)" 
+??? danger "The Champion (80 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/the-champion.png)
 
     === "Bounty Details"
         - Roamer, does not show on the minimap.
-        - 4100 Gold Reward
-        - 80 Token Reward
+        - 4,100 Gold Reward
+        - 80 Bounty Medals
         - Appears at Bounty Rank 3
 
     === "Fight Details"
-        - HP: ???
-        - Spawns by itself initially, but will summon two weaker Lizardman Champions, one of which is in the same row and one in the back. It can summon multiple times in a fight.
+        - HP: 35K
+        - Spawns by itself initially, but will summon two weaker Lizardman Champions, one of which is in the same row and one in the back. It can summon multiple times in a fight at roughly 25K and 10K HP.
+        - Acts twice per turn. 
+        - Susceptible to Kantios (Confusion). 
 
-??? danger "Dungeon-Stalkers (115 Tokens)" 
+??? danger "Dungeon-Stalkers (115 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/dungeon-stalkers.png)
 
     === "Bounty Details"
         - Stationary, indicated by NPC icon on map. Typically appears in a small dead end corridor.
-        - 4800 Gold Reward
-        - 115 Token Reward
+        - 4,800 Gold Reward
+        - 115 Bounty Medals
         - Appears at Bounty Rank 4
 
     === "Fight Details"
@@ -326,15 +390,15 @@
     === "Map Location"
         ![](./img/dungeon-stalkers-loc.png)
 
-??? danger "Fallen Princess of Bewitching Dreams (120 Tokens)" 
+??? danger "Fallen Princess of Bewitching Dreams (120 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/fallen-princess-of-bewitching-dreams.png)
 
     === "Bounty Details"
         - Stationary, appears as a green mob on the minimap. Will always be in the room that requires the Vernant sidequest to open.
-        - 4800 Gold Reward
-        - 120 Token Reward
+        - 4,800 Gold Reward
+        - 120 Bounty Medals
         - Appears at Bounty Rank 4
 
     === "Fight Details"
@@ -345,52 +409,52 @@
     === "Map Location"
         ![](./img/fallen-princess-of-bewitching-dreams-loc.png)
         
-??? danger "Dolan, the Long-Lost Sailor (215 Tokens)" 
+??? danger "Dolan, the Long-Lost Sailor (215 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/dolan-the-long-lost-sailor.png)
 
     === "Bounty Details"
         - Roamer, does not show on the minimap.
-        - 7000 Gold Reward
-        - 215 Token Reward
+        - 7,000 Gold Reward
+        - 215 Bounty Medals
         - Appears at Bounty Rank 6
 
     === "Fight Details"
-        - HP: ???
+        - HP: 21K
         - Spawns as an Oar Collector by itself.
-        - When it takes enough damage, it will flood the battlefield out of turn.
+        - At ~3K HP it will flood the battlefield out of turn.
         
-??? danger "Ecstatic Blazing Eye (310 Tokens)" 
+??? danger "Ecstatic Blazing Eye (310 Bounty Medals)" 
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/ecstatic-blazing-eye.png)
 
     === "Bounty Details"
         - Stationary, but does not appear on the map. It will always be in the small room that is accessed by heading to the bottom right staircase from the Upper Deck Arena.
-        - 8000 Gold Reward
-        - 310 Token Reward
+        - 8,000 Gold Reward
+        - 310 Bounty Medals
         - Appears at Bounty Rank 8
 
     === "Fight Details"
         - HP: ???
         - Spawns as a Corrosion Eye by itself.
         - It can move three times per turn.
-        - As the Boss does Dark Element damage, it is not recommended to bring a light element character as they will be killed easily. 
+        - Does Dark Type (element) damage and will easily kill any Light Type units (Abenius, Debra, Clarissa, etc.)
         - The strategy [Ninja Crit Fishing](../../strategies/combat-strategies.md#ninja-crit-fishing) can be utilized to great effect to kill this bounty and save some time. Recommended aspd > ~80.
 
     === "Map Location"
         ![](./img/ecstatic-blazing-eye-loc.png)
 
-??? danger "Monica, the Self-Proclaimed Enforcer (210 Tokens)"    
+??? danger "Monica, the Self-Proclaimed Enforcer (210 Bounty Medals)"    
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/monica-the-self-proclaimed-enforcer.png)
 
     === "Bounty Details"
         - Stationary, indicated as an NPC on the map.
-        - 9500 Gold Reward
-        - 210 Token Reward
+        - 9,500 Gold Reward
+        - 210 Bounty Medals
         - Appears at Bounty Rank 6
 
     === "Fight Details"
@@ -401,50 +465,50 @@
     === "Map Location"
         ![](./img/monica-the-self-proclaimed-enforcer-loc.png)
 
-## Abyss 3 Bounties
+### Abyss 3 
 
-??? danger "Reaper Bunny (65 Tokens)" 
+??? danger "Reaper Bunny (65 Bounty Medals)" 
     
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/reaper-bunny.png)
 
     === "Bounty Details"
         - Roamer, does not show up on the minimap.
-        - 2000 Gold Reward
-        - 65 Token Reward
+        - 2,000 Gold Reward
+        - 65 Bounty Medals
         - Appears at Bounty Rank 1
 
     === "Fight Details"
-        - HP: ???
-        - Spawns with 1 normal Vorpal Bunny on each side. The boss Vorpal Bunny is light element.
+        - HP: 6.5K
+        - Spawns with 1 normal Vorpal Bunny on each side (3K HP). The boss Vorpal Bunny is Light Type (element).
         - Acts twice on its turn and has extremely high evasion.
         
-??? danger "Sand Shadow that Calls Scorched Earth (60 Tokens)"
+??? danger "Sand Shadow that Calls Scorched Earth (60 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/sand-shadow-that-calls-scorched-earth.png)
 
     === "Bounty Details"
-        - Roamer, does not show up on the minimap, can show up in caged areas as well.
-        - 3500 Gold Reward
-        - 60 Token Reward
+        - Roamer, does not show up on the minimap, can show up in the caged areas as well.
+        - 3,500 Gold Reward
+        - 60 Bounty Medals
         - Appears at Bounty Rank 2
 
     === "Fight Details"
-        - HP: ???
-        - Spawns as a group of 7 Sand Apparitions
+        - HP: 15K HP
+        - Spawns as a group of 7 Sand Apparitions (1.1K HP)
         - There are 3 in the front row, 3 in the middle row, with the boss in the back.
-        - The boss can re-summon Sand Apparitions.
+        - The minions will do a suicide attack at low HP, which can be defended against. 
         
-??? danger "Petz, the Mook who Flaunts Authority (145 Tokens)"
+??? danger "Petz, the Mook who Flaunts Authority (145 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/petz-the-mook-who-flaunts-authority.png)
 
     === "Bounty Details"
         - Stationary, appears as an NPC icon on the map.
-        - 3560 Gold Reward
-        - 145 Token Reward
+        - 3,560 Gold Reward
+        - 145 Bounty Medals
         - Appears at Bounty Rank 5
 
     === "Fight Details"
@@ -455,15 +519,15 @@
     === "Map Location"
         ![](./img/petz-the-mook-who-flaunts-authority-loc.png)
 
-??? danger "Timid Crimson Fang (240 Tokens)"
+??? danger "Timid Crimson Fang (240 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/timid-crimson-fang.png)
 
     === "Bounty Details"
         - Stationary, doesn't appear on the minimap. However, he's always located in the same map structure.
-        - 7200 Gold Reward
-        - 240 Token Reward
+        - 7,200 Gold Reward
+        - 240 Bounty Medals
         - Appears at Bounty Rank 7
 
     === "Fight Details"
@@ -475,15 +539,15 @@
     === "Map Location"
         ![](./img/timid-crimson-fang-loc.png)
 
-??? danger "Insatiable Gorger (360 Tokens)"
+??? danger "Insatiable Gorger (360 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/insatiable-gorger.png)
 
     === "Bounty Details"
         - Roamer, doesn't appear on the minimap.
-        - 12000 Gold Reward
-        - 360 Token Reward
+        - 12,000 Gold Reward
+        - 360 Bounty Medals
         - Appears at Bounty Rank 8
 
     === "Fight Details"
@@ -491,15 +555,15 @@
         - Spawns by itself as an Ent.
         - It can move twice per turn, and tends to cast Breath of Gluttony, which is a row damaging skill that guarantees Critical Poison with a chance to also Confuse.
 
-??? danger "Shadow-Lurking Operative (400 Tokens)"
+??? danger "Shadow-Lurking Operative (400 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/shadow-lurking-operative.png)
 
     === "Bounty Details"
         - Stationary, appears on the minimap as an NPC. Will always be inside a 2x1 small room.
-        - 9000 Gold Reward
-        - 400 Token Reward
+        - 9,000 Gold Reward
+        - 400 Bounty Medals
         - Appears at Bounty Rank 9
 
     === "Fight Details"
@@ -507,15 +571,15 @@
         - Spawns with a front row and middle row of Indigo and Amber ninjas. The boss ninja will be in the backmost row.
         - This fight is very similar to that of the Sand Shadow Cave boss fight. There is a lot of confusion/critical.
 
-??? danger "Indolent Demon Marquis (425 Tokens)"
+??? danger "Indolent Demon Marquis (425 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/indolent-demon-marquis.png)
 
     === "Bounty Details"
         - Stationary, but doesn't appear on the map. Appears in the alarm trap room of the floor.
-        - 13500 Gold Reward
-        - 425 Token Reward
+        - 13,500 Gold Reward
+        - 425 Bounty Medals
         - Appears at Bounty Rank 9
 
     === "Fight Details"
@@ -529,15 +593,15 @@
     === "Map Location"
         ![](./img/indolent-demon-marquis-loc.png)
 
-??? danger "Mellie, the Coin-Counting Killer (500 Tokens)"
+??? danger "Mellie, the Coin-Counting Killer (500 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/mellie-the-coin-counting-killer.png)
 
     === "Bounty Details"
         - Stationary, appears as an NPC on the map in a specific structure.
-        - 16400 Gold Reward
-        - 500 Token Reward
+        - 16,400 Gold Reward
+        - 500 Bounty Medals
         - Appears at Bounty Rank 10
         - Requires A3 True Ending
 
@@ -550,38 +614,39 @@
     === "Map Location"
         ![](./img/mellie-the-coin-counting-killer-loc.png)
 
-??? danger "Veigar, the Sorceror Who Rules the Dead (800 Tokens, 1,200 Captured)"
+??? danger "Veigar, the Sorceror Who Rules the Dead (800 Bounty Medals, 1,200 Captured)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/veigar-the-sorcerer-who-rules-the-dead.png)
 
     === "Bounty Details"
         - Stationary, appears as an NPC on the map in a specific 2x1 room
         - Requires very low corrosion level (max 1 "Spotted") to ensure a direct path to him
         - 17,000 Gold Reward
-        - 800 Token Reward; 1,200 if captured alive
+        - 800 Bounty Medals; 1,200 if Captured
         - Appears at Bounty Rank 11
         - Requires A3 True Ending
 
     === "Fight Details"
-        - HP: ~13.5k (~8.5k Right Necrocore; ~9.5k Left Necrocore)
+        - HP: 15-16K (~8.5k Right Necrocore; ~9.5k Left Necrocore)
         - Spawns with 2 Necrocores in the front row. The necromancer will be in the back row.
         - Can randomly cast Lazelos.
         - When both Necrocores are dead, he can summon skeletons like a typical necromancer.
         - Both Necromancer + Necrocore cannot spawn as a relic monster.
+        - 2H Expulsion weapons are helpful to bring for the Necrocores. 
 
     === "Map Location"
         ![](./img/veigar-the-sorcerer-who-rules-the-dead-loc.png)
 
-??? danger "Mad, Rampaging, Thunderous Fiend (1200 Tokens)"
+??? danger "Mad, Rampaging, Thunderous Fiend (1200 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/mad-rampaging-thunderous-fiend.png)
 
     === "Bounty Details"
         - Stationary, but doesn't appear on the map. Appears right outside the Zone 10 Greater Harken.
-        - 18900 Gold Reward
-        - 1200 Token Reward
+        - 18,900 Gold Reward
+        - 1200 Bounty Medals
         - Appears at Bounty Rank 12
         - Requires A3 True Ending
 
@@ -597,15 +662,15 @@
     === "Map Location"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
 
-??? danger "Ross, the Twisted Knight of Justice (400 Tokens)"
+??? danger "Ross, the Twisted Knight of Justice (400 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/ross-the-twisted-knight-of-justice.png)
 
     === "Bounty Details"
         - Stationary, indicated as an NPC on the map.
-        - 12000 Gold Reward
-        - 400 Token Reward
+        - 12,000 Gold Reward
+        - 400 Bounty Medals
         - Appears at Bounty Rank ???
 
     === "Fight Details"
@@ -618,17 +683,17 @@
         ![](./img/ross-the-twisted-knight-of-justice-loc.png)
 
 
-## Abyss 4 Bounties
+### Abyss 4
 
-??? danger "Ice Frost and Potent Venom Strangler Vine (950 Tokens)"
+??? danger "Ice Frost and Potent Venom Strangler Vine (950 Bounty Medals)"
 
-    === "Bounty Picture"
+    === "Wanted Poster"
         ![](./img/ice-frost-and-potent-venom-strangler-vine.png)
         
     === "Bounty Details"
         - Roamer, doesn't appear on the minimap.
-        - 17000 Gold Reward
-        - 950 Token Reward
+        - 17,000 Gold Reward
+        - 950 Bounty Medals
         - Appears at Bounty Rank 13
         - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
 
@@ -637,15 +702,15 @@
         - Spawns with 2 Ice Entities in the same row.
         - Has quite a lot of HP, otherwise acts like its normal counterpart.
 
-??? danger "Dutz, the Honey Tonic Savant (1140 Tokens)"
+??? danger "Dutz, the Honey Tonic Savant (1140 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/dutz-the-honey-tonic-savant.png)
 
     === "Bounty Details"
         - Stationary, indicated as an NPC on the map.
-        - 26700 Gold Reward
-        - 1140 Token Reward
+        - 26,700 Gold Reward
+        - 1,140 Bounty Medals
         - Appears at Bounty Rank ???
 
     === "Fight Details"
@@ -658,15 +723,15 @@
     === "Map Location"
         ![](./img/dutz-the-honey-tonic-savant-loc.png)
 
-??? danger "Spirit Realm Automaton (1380 Tokens)"
+??? danger "Spirit Realm Automaton (1380 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/spirit-realm-automaton.png)
 
     === "Bounty Details"
         - Stationary, but not indicated on the map nor minimap.
-        - 28000 Gold Reward
-        - 1380 Token Reward
+        - 28,000 Gold Reward
+        - 1,380 Bounty Medals
         - Appears at Bounty Rank 14
 
     === "Fight Details"
@@ -678,15 +743,15 @@
     === "Map Location"
         ![](./img/spirit-realm-automaton-loc.png)
 
-??? danger "Wailing Twin Dolls (1550 Tokens)"
+??? danger "Wailing Twin Dolls (1550 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/wailing-twin-dolls.png)
 
     === "Bounty Details"
         - Stationary-ish, shows up as a flying shaped enemy when you are nearby. Will be in the same area of the map every time.
-        - 32100 Gold Reward
-        - 1550 Token Reward
+        - 32,100 Gold Reward
+        - 1,550 Bounty Medals
         - Appears at Bounty Rank 14
 
     === "Fight Details"
@@ -699,28 +764,28 @@
     === "Map Location"
         ![](./img/wailing-twin-dolls-loc.png)
 
-## Other Bounties
+### Other Bounties
 
-??? danger "The Lurking Flutter Hunting-Fey (80 Tokens)"
+??? danger "The Lurking Flutter Hunting-Fey (80 Bounty Medals)"
 
-    === "Bounty Picture" 
+    === "Wanted Poster" 
         ![](./img/the-lurking-flutter-hunting-fey.png)
 
     === "Bounty Details"
         - Roaming, but will turn white and attempt to run away. Other enemies will turn red and attempt to chase you.
-        - 1600 Gold Reward
-        - 80 Token Reward
+        - 1,600 Gold Reward
+        - 80 Bounty Medals
         - Appears at Bounty Rank 1
 
     === "Fight Details"
-        - HP: ???
-        - Spawns with 2 Dragonflies and 2 Vorpal Bunnies in the front row. The Pixie is in the back row.
+        - HP: 3.5K
+        - Spawns with 2 Dragonflies (900 HP) and 2 Vorpal Bunnies (300 HP) in the front row. The Pixie is in the back row.
 
     === "Map Location"
         - Looking south from entrance:
         ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
-## Bounty Medal Shop
+## Exchange Bounty Medal Shop
 
 ### Permanent Items
 
@@ -796,7 +861,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
     !!! warning "It's entirely possible to buy all 27 Hound Masks and not receive a 4* Purple."
 
-??? "Book of Honed Ability Secrets" 
+??? note "Book of Honed Ability Secrets" 
 
     - Stats vary by the unit's class. 
     - Fighter: 5 ATK, 5 ACC
@@ -810,7 +875,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
 
 ## Farming Information
 
-??? "Overview"
+??? note "Overview"
 
     - There are a handful of well-established farming loops depending on your team's power level and Abyss progression.
     - To reset a bounty you need to: 
@@ -819,7 +884,7 @@ Monthly items reset on the first of each month at 0:00 (midnight) JST. A higher 
     - It is strongly recommend you do a little each day as part of your daily routine versus long marathon sessions. 
     - It costs 45,000 points (40,500 with no ore) to buy out the respawning items in the shop every month.
 
-??? "Scorpion Lady + Minotaur (460 Bounty Medals)"
+??? note "Scorpion Lady + Minotaur (460 Bounty Medals)"
 
     - Most straight forward loop as both bounties are located right next to their Harkens in A1 at F2 and F5, respectively. 
     - Morgus ATK contract can be run safely if the MC is put in the backrow. This allows you to kill both in 1 round depending on your team's power level. However, you can be ambushed with it active. 
