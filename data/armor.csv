@@ -194,7 +194,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 212,Feet!A212,Feet,,Shrouded Ninja Tabi,Silver,Cloth,,,0,0,0,5,0,3,0,4,1,0,0,0,0,9,0,3,0,4,7,0,0,0,0,13,0,3,0,4,13,0,0,0,0,19,0,3,0,4,21,0,0,0,0,32,0,3,0,4,34,0,
 218,Feet!A218,Feet,Ex.,High Boots of the Winter Night,Silver,Cloth,,,0,0,0,8,0,8,0,0,2,0,0,0,0,14,0,10,0,0,13,0,0,0,0,20,0,11,0,0,18,0,0,0,0,24,0,12,0,0,23,0,,,,,,,,,,,Stone Tolerance
 224,Feet!A224,Feet,Ex.,Boots of the First Wind,Silver,Cloth,,,0,0,5,5,0,2,0,0,4,0,0,0,7,11,0,2,0,0,15,0,,,,,,,,,,,0,0,9,21,0,2,0,0,25,0,0,0,10,24,0,2,0,0,27,0,Pious Swiftness
-230,Feet!A230,Feet,Ex.,Boots of the Vanishing,Silver,Cloth,,,0,0,0,12,0,4,0,0,4,0,,,,,,,,,,,,,,,,,,,,,0,0,0,28,0,8,0,0,25,0,,,,,,,,,,,Agile Heavy Strike
+230,Feet!A230,Feet,Ex.,Boots of the Vanishing,Silver,Cloth,,,0,0,0,12,0,4,0,0,4,0,0,0,0,18,0,6,0,0,15,0,0,0,0,24,0,7,0,0,20,0,0,0,0,28,0,8,0,0,25,0,,,,,,,,,,,Agile Heavy Strike
 236,Feet!A236,Feet,,Silver Light Armor Boots,Silver,Light,,,0,0,0,14,0,0,0,0,0,0,0,0,0,21,0,0,0,0,7,0,0,0,0,26,0,0,0,0,12,0,0,0,0,33,0,0,0,0,19,0,0,0,0,39,0,0,0,0,25,0,
 242,Feet!A242,Feet,,Flame Demon Greaves,Silver,Light,,,0,0,0,17,8,0,0,0,2,0,,,,,,,,,,,,,,,,,,,,,0,0,0,36,8,0,0,0,21,0,,,,,,,,,,,Passive MP Up
 248,Feet!A248,Feet,,Silver Heavy Armor Boots,Silver,Heavy,,,0,0,0,21,0,0,0,0,-2,0,0,0,0,30,0,0,0,0,3,0,0,0,0,35,0,0,0,0,8,0,0,0,0,42,0,0,0,0,14,0,0,0,0,48,0,0,0,0,20,0,
@@ -337,7 +337,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 242,Body!A242,Body,Ex.,Lord of the Deep Forest's Thief Garb,Ebonsteel,Cloth,,,0,0,0,16,0,1,0,0,4,0,,,,,,,,,,,0,0,0,36,13,1,0,0,4,0,0,0,0,46,19,1,0,0,4,0,,,,,,,,,,,
 248,Body!A248,Body,Ex.,Comfort of the Endless Rain,Ebonsteel,Cloth,,,0,6,0,11,0,2,0,0,0,5,,,,,,,,,,,0,9,0,22,13,2,0,0,0,14,,,,,,,,,,,,,,,,,,,,,
 254,Body!A254,Body,3069,Ebonsteel Light Armor,Ebonsteel,Light,,1310,0,0,0,35,0,-1,-2,0,-2,0,0,0,0,45,6,-1,-2,0,-2,0,0,0,0,55,13,-1,-2,0,-2,0,0,0,0,65,19,-1,-2,0,-2,0,0,0,0,75,26,-1,-2,0,-2,0,
-260,Body!A260,Body,3113,Desert Mail,Ebonsteel,Light,49125,4913,0,0,0,37,1,-3,-2,0,-2,0,0,0,0,47,7,-3,-2,0,-2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+260,Body!A260,Body,3113,Desert Mail,Ebonsteel,Light,49125,4913,0,0,0,37,1,-3,-2,0,-2,0,0,0,0,47,7,-3,-2,0,-2,0,0,0,0,57,14,-3,-2,0,-2,0,0,0,0,67,20,-3,-2,0,-2,0,0,0,0,77,27,-3,-2,0,-2,0,
 266,Body!A266,Body,3116,Exorcism Mail,Ebonsteel,Light,,1310,0,0,0,33,0,-1,-2,0,-2,0,0,0,0,43,6,-1,-2,0,-2,0,0,0,0,53,13,-1,-2,0,-2,0,0,0,0,63,19,-1,-2,0,-2,0,0,0,0,73,26,-1,-2,0,-2,0,Demon Resistance
 272,Body!A272,Body,3182,Mail of the Light Spirit,Ebonsteel,Light,,1638,0,0,0,33,0,-1,-2,0,-2,0,0,0,0,43,6,-1,-2,0,-2,0,0,0,0,53,13,-1,-2,0,-2,0,0,0,0,63,19,-1,-2,0,-2,0,0,0,0,73,26,-1,-2,0,-2,0,Dark Type Reduction
 278,Body!A278,Body,3187,Umbral Mail,Ebonsteel,Light,,1638,0,0,0,33,0,0,-2,0,-2,0,0,0,0,43,6,0,-2,0,-2,0,0,0,0,53,13,0,-2,0,-2,0,0,0,0,63,19,0,-2,0,-2,0,0,0,0,73,26,0,-2,0,-2,0,Light Type Reduction
@@ -408,7 +408,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,Armor Type,Buy Price,
 74,Accessories!A74,Accessories,3139,Protection Charm,Steel,Accessory,,735,0,0,0,2,12,0,0,0,4,0,0,0,0,8,12,0,0,0,4,0,0,0,0,15,12,0,0,0,4,0,0,0,0,21,12,0,0,0,4,0,0,0,0,28,12,0,0,0,4,0,Bind Tolerance
 80,Accessories!A80,Accessories,3140,Bracelet of Battle,Steel,Accessory,,753,4,0,0,2,0,0,4,0,0,0,6,0,0,8,0,0,6,0,0,0,7,0,0,15,0,0,7,0,0,0,8,0,0,21,0,0,8,0,0,0,9,0,0,28,0,0,9,0,0,0,
 86,Accessories!A86,Accessories,3141,Melgina's Choker,Steel,Accessory,,753,0,0,0,1,16,0,0,0,0,0,0,0,0,7,18,0,0,0,0,0,0,0,0,14,19,0,0,0,0,0,,,,,,,,,,,,,,,,,,,,,Reward for defeating Melgina in Trade Waterways
-92,Accessories!A92,Accessories,3142,Octonarus's Necklace,Steel,Accessory,,753,0,0,0,10,4,0,0,0,4,0,0,0,0,16,6,0,0,0,6,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,Accessories!A92,Accessories,3142,Octonarus's Necklace,Steel,Accessory,,753,0,0,0,10,4,0,0,0,4,0,0,0,0,16,6,0,0,0,6,0,0,0,0,23,7,0,0,0,7,0,,,,,,,,,,,,,,,,,,,,,Reward for defeating Octonarus in Trade Waterways
 98,Accessories!A98,Accessories,3143,Goatskin Cloak,Steel,Accessory,,1838,0,0,0,2,12,0,0,0,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,15,12,0,0,0,0,0,0,0,0,21,12,0,0,0,0,0,0,0,0,28,12,0,0,0,0,0,Stone Tolerance
 104,Accessories!A104,Accessories,3144,Skull Necklace,Steel,Accessory,,2352,0,0,0,2,12,0,0,0,0,0,0,0,0,8,12,0,0,0,0,0,0,0,0,15,12,0,0,0,0,0,0,0,0,21,12,0,0,0,0,0,0,0,0,28,12,0,0,0,0,0,Insta-Kill Tolerance
 110,Accessories!A110,Accessories,3145,Royal Herald Amulet,Steel,Accessory,,2352,1,1,1,1,1,1,1,1,1,1,1,1,1,7,1,1,1,1,1,1,1,1,1,14,1,1,1,1,1,1,1,1,1,20,1,1,1,1,1,1,1,1,1,27,1,1,1,1,1,1,"Reward for Saving the King in Beginning Abyss, Sure Evasion +1, Detect +1, Disarm Trap +1, Evade Trap +1"
