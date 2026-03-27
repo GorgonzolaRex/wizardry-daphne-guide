@@ -9,7 +9,7 @@ def define_env(env):
 
         df = pd_read_csv('data/skills.csv')
 
-        skill = df.query('Name == @skill_name')
+        skill = df[df['Name'].str.strip().str.lower() == skill_name.strip().lower()]
 
         # Guard: no matching skill → don’t crash MkDocs
         if skill.empty:
@@ -33,11 +33,17 @@ def define_env(env):
             else ''
         )
 
-        if restriction:
-            restriction = f'<{restriction}>'
+        # Normalizer as safety against hidden spaces and stuff
+        restriction = str(restriction).strip()
 
-        return f"{effect} {details} {restriction}".strip()
- 
+        # Removes issue of being treated like html and safeguards against formatting issues
+        parts = [effect, details]
+        if restriction:
+            parts.append(f"({restriction})")
+
+        # Keeps spacing clean in case of trailing spaces or leading spaces because I don't wish to be welcomed to the space jam
+        return " ".join(part for part in parts if part).strip()
+
     @env.macro
     def populate_quicklist(file,return_columns,filter_column=None,filter_values=[]):
 
