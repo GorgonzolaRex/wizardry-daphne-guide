@@ -69,6 +69,20 @@
 
     One neat thing is that in camp, she does play her lute and provide some music, which is a nice little aesthetic touch!
 
+??? info "Shiro's Analysis"
+
+    So as people expected we got thief with lute… I want to praise devs on start for visual design and the audio coming along with this character. It surely is a really nice add-on to the game and will be highly appreciated by some people.
+
+    But now going to practice, she’s dark element which is the best option for thieves, followed by the human race, so nice luck growth on top of the dark element already supporting it, which means solid stats for chest opening. 
+
+    Her passive is kind of nice… but I’m not that big fan of heavy RNG in fights so I’m not losing my mind over it and I find it whatever… unless she’ll get knight later on which can be a really interesting option.
+
+    Her discipline is ASPD and SP which push her more into the support side which is something I’m really happy about too, Devs did know what to do with it this time.
+
+    The interesting thing is her inheritance. It’s not ATK or MATK buff but ALL DMG UP. What does it mean in practice? First it’s active so it’s not worse than passive Lana and Alice in that matter, secondly it buffs characters that are next to her not including her, which means you can pick whichever 3 units you want to buff, cutting her off while she’s supported anyway so no buff slot is wasted. Lastly there’s no personality requested unlike in case of Lana or Alice. And also I might call it kind of future proof thanks to it. Might be better to grab her mainly for inheritance over character and just feed it to Alice. Especially looking how for example Dwarf Cave boss shows that devs might want us to stack damage buffs and supports and focus on 1-2 DPS.
+
+    Overall in my opinion the new character is really good with the main selling point being her inheritance. Her being a thief is even better because she can reach high ASPD and have better rotations. And in my opinion thieves are better as controllers and sub-dps or full supports with main selling point being delay and all kind of status/debuff skills supporting your main DPS over thieves doing DMG themselves, which Linaria leans towards, so while I wouldn’t pull for her or go crazy over her I’m really happy that developers know what they are doing.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
