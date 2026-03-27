@@ -118,6 +118,7 @@
         - Stationary, indicated by green mob on minimap, he will always be in the same location.
         - 2,000 Gold Reward
         - 45 Bounty Medals
+        - 2 Bounty Markers
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -136,6 +137,7 @@
         - Stationary, indicated by green mob on minimap, and will always be in the same location.
         - 1,800 Gold Reward
         - 30 Bounty Medals
+        - 1 Bounty Marker
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -154,6 +156,7 @@
         - Stationary, appears as a NPC on the map, can show up in two static locations
         - 1,800 Gold Reward
         - 30 Bounty Medals
+        - 1 Bounty Marker
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -173,6 +176,7 @@
         - Frequently appears to the south and east of the F5 Harken. Use the stairs to reset its location.
         - 1,900 Gold Reward
         - 100 Bounty Medals
+        - 1 Bounty Marker
         - Appears at Bounty Rank 2
 
     === "Fight Details"
@@ -182,7 +186,7 @@
         - Seems to have a 7-day cooldown before respawning.
         - Can be farmed for EXP, but the bounty cannot be turned in. Must wheel to "Fresh Start" to respawn.
         
-??? danger "Brokk, The Shrewd Swindler (55 Bounty Medals)" 
+??? danger "Brokk, The Shrewd Swindler (55 Bounty Medals, 105 if Captured)" 
 
     === "Wanted Poster" 
         ![](./img/brokk-the-shrewd-swindler.png)
@@ -191,6 +195,10 @@
         - Stationary, indicated by NPC on the map. He will always be in a corridor near the harken.
         - 2,300 Gold Reward
         - 55 Bounty Medals
+        - 3 Bounty Markers
+        - Capture Bonus
+            - 3,200 Gold
+            - 50 Bounty Medals
         - Appears at Bounty Rank 2
 
     === "Fight Details"
@@ -211,6 +219,7 @@
         - Can sometimes spawn inside a wall, reset to fix.
         - 2,700 Gold Reward
         - 90 Bounty Medals
+        - 6 Bounty Markers
         - Appears at Bounty Rank 3
 
     === "Fight Details"
@@ -229,6 +238,7 @@
         - Stationary, indicated as a green mob on the minimap. It always appears in the big room to the right of the harken.
         - 6,800 Gold Reward
         - 180 Bounty Medals
+        - 8 Bounty Markers
         - Appears at Bounty Rank 5
 
     === "Fight Details"
@@ -252,6 +262,7 @@
         - Stationary, indicated as a green mob on the minimap. Appears right next to the staircase after going from B7 to B6.
         - 5,100 Gold Reward
         - 200 Bounty Medals
+        - 8 Bounty Markers
         - Appears at Bounty Rank 6
 
     === "Fight Details"
@@ -272,6 +283,7 @@
         - Stationary, indicated as a green mob on the minimap.
         - 10,800 Gold Reward
         - 280 Bounty Medals
+        - 11 Bounty Markers
         - Appears at Bounty Rank 7
 
     === "Fight Details"
@@ -293,6 +305,7 @@
         - Stationary, indicated as an NPC on the map
         - 4,800 Gold Reward
         - 110 Bounty Medals
+        - 4 Bounty Markers
         - Appears at Bounty Rank 4
         
     === "Fight Details"
