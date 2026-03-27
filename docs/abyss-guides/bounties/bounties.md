@@ -714,9 +714,9 @@
         - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
 
     === "Fight Details"
-        - HP: ???
+        - HP: 38.5k
         - Spawns with 2 Ice Entities in the same row.
-        - Has quite a lot of HP, otherwise acts like its normal counterpart.
+        - High HP, but otherwise acts like its normal counterpart.
 
 ??? danger "Dutz, the Honey Tonic Savant (1,140 Bounty Medals)"
 
