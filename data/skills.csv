@@ -413,7 +413,7 @@ Way of the Knight,Passive,True,Chance to reduce damage when user is attacked (af
 Way of the Mage,Passive,,Continuously reduces the MP cost of attack and debuff spells.,MP cost reduced further based on skill level.,25,Mage,,,
 Way of the Priest,Passive,True,Reduces the MP cost of recovery and support spells.,MP cost reduced further based on skill level.,25,Priest,,,Marianne
 Way of the Thief,Passive,,Increases decisive damage during a decisive hit.,Decisive damage increased further based on skill level.,25,Thief,,,
-Way of the Warrior,Passive,True,Increases close-range damage when equipped with close or mid-range weapon.,Damage increased further based on skill level.,25,Fighter,,,"Gandolfo, Ophelia"
+Way of the Warrior,Passive,True,Increases close/mid-range damage when equipped with close/mid-range weapon.,Damage increased further based on skill level.,25,Fighter,,,"Gandolfo, Ophelia"
 Wayfaring Hunter's Savvy,Passive,,"If there are 4 or more enemies during an ambush, for 1 turn, all allies greatly reduce damage taken 1 time.",,,,,Heinrico,
 Weaponmaster,Discipline,,Continuously increases each stat. Accuracy and Surety increased further.,Accuracy and Surety increased further based on skill level.,,,,Gandolfo,
 Wide Volley,Active,True,Minor physical attack on 1 enemy row. Efficacy Increases with Attack Power and Accuracy.,Efficacy increased based on skill level.,10,Ranger,Bow-specific,,Heinrico
