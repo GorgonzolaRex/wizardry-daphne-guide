@@ -243,6 +243,40 @@ These are some parties I have personally and successfully used to clear progress
         - Yuzunamiki (Ninja)
         - Shelirionach (Priest/Mage)
 
+??? note "Godefroi Round 4 Fight"
+
+    Party 1:
+        - Front Row
+            - MC (Priest)
+            - Rinne (Ninja/Thief)
+            - Shiou (Samurai/Fighter)
+        - Back Row
+            - Alice (Priest/Mage)
+            - Yuzunamiki (Ninja)
+            - Shelirionach (Mage/Priest)
+
+    Party 2:
+        - Front Row
+            - Ainikki
+            - Rinne (Ninja/Thief)
+            - Shiou (Samurai/Fighter)
+        - Back Row
+            - MC (Priest)
+            - Yuzunamiki (Ninja)
+            - Shelirionach (Mage/Priest)
+
+??? note "Linaria Release"
+
+    Planned:
+        - Front Row
+            - Shiou (Samurai/Fighter)
+            - Linaria (Thief)
+            - Rinne (Ninja/Thief)
+        - Back Row
+            - MC (Priest)
+            - Yuzunamiki (Ninja)
+            - Shelirionach (Mage/Priest)
+
 ### Additional Considerations
 
 Now that you've decided on your party formation, there are two other major components. Equipment and Skill Inheritance.
