@@ -1378,20 +1378,37 @@ Upon entering the Royal Capital, the faction representative will appear to discu
 
             ??? note "Route 7"
             
-                - If all the shorcuts are open and/or you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
-                - If the shortcuts are not open, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-                    - (X:13, Y:23) - Central 3x3 room 
-                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-                - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
-                    - (X:19, Y:7) - SE quadrant. In a corner in the area before the 2 small rooms and stairs to Route 8
-                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                    - (X:15, Y:24) - Few steps south of the Harken
-                - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
+                === "Directions" 
+                
+                    - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
+                    - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                        - (X:13, Y:23) - Central 3x3 room 
+                        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+                    - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
+                        - (X:19, Y:7) - Northwest of Route 8 stairs 
+                        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                        - (X:15, Y:24) - Few steps south of the Harken
+                    - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
+
+                === "Map"
+
+                    <div align="center">
+                    ![](./faction/princess-r7.png)
+                    </div>
     
             ??? note "Route 9"
             
-                - Find the tablet at: 
-                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+                === "Directions" 
+                
+                    - Find the tablet at: 
+                        - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+                    - Return to the Route 7 Harken. 
+
+                === "Map"
+
+                    <div align="center">
+                    ![](./faction/all-r9.png)
+                    </div>
     
             ??? note "Route 10"
             
