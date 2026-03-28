@@ -1193,49 +1193,64 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                 
             ??? note "Route 7"
             
-                - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
-                - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
-                    - (X:13, Y:23) - Central 3x3 room 
-                    - (X:16, Y:22) - Right-hand dead-end of 3x3 room
-                - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
-                    - (X:19, Y:7) - Northwest of Route 8 stairs 
-                    - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
-                    - (X:15, Y:24) - Few steps south of the Harken
-                - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
+                === "Directions" 
+                
+                    - If you have the shortcut ability, then Harken to Route 7 as you can collect all 5 tablets in one run. 
+                    - If not, then Harken to Route 6 and enter Route 7. Find the tablets in this order: 
+                        - (X:13, Y:23) - Central 3x3 room 
+                        - (X:16, Y:22) - Right-hand dead-end of 3x3 room
+                    - Return to the Route 6 Harken and select Route 7. Find the tablets in this order: 
+                        - (X:19, Y:7) - Northwest of Route 8 stairs 
+                        - (X:18, Y:19) - Northwest of the nullstone icon in a small (2x1) dead-end 
+                        - (X:15, Y:24) - Few steps south of the Harken
+                    - When finished return to the Route 7 Harken, go left, and exit to Route 9. 
+
+                === "Map"
+
+                    <div align="center">
+                    ![](./faction/princess-r7.png)
+                    </div>
     
             ??? note "Route 9"
             
-                - Find the tablet at: 
-                    - (X:1, Y:7) - Upper left-hand side of the first house in the grass
-                - Return to the Route 7 Harken. 
+                === "Directions" 
+                
+                    - Find the tablet at: 
+                        - (X:1, Y:7) - Upper left-hand side of the first house in the grass
+                    - Return to the Route 7 Harken. 
+
+                === "Map"
+
+                    <div align="center">
+                    ![](./faction/all-r9.png)
+                    </div>
     
             ??? note "Route 10"
-            
-                - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
+
+                === "Directions" 
                 
-                    - (X:25, Y:4) - 4 steps north of Route 10 entrance by a fence 
-                    - (X:20, Y:6) - Tile left of the first Stone God altar
-                    - If you auto-move through the blizzard area you can easily avoid the Nullshadow
-                    - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
-                    - (X:2, Y:16) - First tile in the northwest blizzard zone; you must be standing directly on top of it to interact 
-                    - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
-                    - (X:1, Y:24) - On top of the nullstone 
-
-                    ??? note "Tablet Troubleshooting"
-
-                        - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
-                        - If you were missing a tablet and reversed the nullstone do the following steps: 
-                            - Find the tablet you missed 
-                            - Re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected
-                        - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
-                - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
-                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right. 
+                    - From the Route 7 Harken, select Route 9, and then exit to Route 10. Find the tablets in this order: 
                     
-                - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight.
-                - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
-                - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
-                - Defeat the Bigfoot boss. 
-                - The next set of actions determines what ending you receive.
+                        - (X:25, Y:4) - 4 steps north of Route 10 entrance by a fence 
+                        - (X:20, Y:6) - Tile left of the first Stone God altar
+                        - If you auto-move through the blizzard area you can easily avoid the Nullshadow
+                        - (X:1, Y:9) -  From the top of the bottom-left house walk 1 step north 
+                        - (X:2, Y:16) - First tile in the northwest blizzard zone; you must be standing directly on top of it to interact 
+                        - (X:3, Y:24) - Directly ahead after exiting the northwest blizzard zone  
+                        - (X:1, Y:24) - On top of the nullstone 
+
+                        ??? note "Tablet Troubleshooting"
+    
+                            - If there is no tablet on the nullstone, then one of them was missed on Route 10. 
+                            - If you were missing a tablet and reversed the nullstone do the following steps: 
+                                - Find the tablet you missed 
+                                - Re-enter Route 10 and the tablet will spawn on the tile where the nullstone was collected
+                            - If everything was done correctly, then you will receive Lulu text when you step on the pool of blood at the entrance otherwise the Bigfoot boss will not spawn.
+                    - Optional: Return to town via the shortcut or use the Route 6 Fountain to recover your team's health for the upcoming boss fight. You may also want to revisit the Hotspring on Route 10 to remove any chill or frozen status. 
+                    - Reverse the nullstone and head into the Bigfoot Cave. You will need to make your way to the very last room on the bottom right.  
+                    - Note: At the entrance is a pool of blood and you will get Lulu text. If this does not happen, then you missed on the tablets and the Bigfoot boss will not appear. 
+                    - Defeat the Bigfoot boss. 
+                    - The next set of actions determines what ending you receive.
     
                     ??? note "Good Ending"
         
@@ -1268,6 +1283,12 @@ Upon entering the Royal Capital, the faction representative will appear to discu
                                 - Gem of Org x50 (one-time only)
                                 - 30,000 Gold
                                 - Giant Beast Ape Robe (one-time only?)
+
+                === "Map"
+
+                    <div align="center">
+                    ![](./faction/princess-r10.png)
+                    </div>
 
     === "Boss: Bigfoot"
     
