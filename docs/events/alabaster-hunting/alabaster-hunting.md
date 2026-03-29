@@ -5,7 +5,7 @@
 
 ## Unlock Condition 
 
-- Step foot into Route 1 of Abyss 4. 
+- Step foot into Route 1 of Abyss 4, Deepsnow Hinterlands of Isberg. 
 
 ## Overview 
 
@@ -23,11 +23,13 @@
         - Ranger
             - Units: Yrsa (Limited Legendary) and Heinrico (General).  
             - The first 2 runs and the "Good" ending can be completed without a Ranger in your party. 
-            - Required for the "Best" ending. 
-            - Provide additional commentary and will point out the correct path to take on each floor. 
-        - Other
-            - Alabaster is one of the best farming locations in the game. It provides access to Hunting Gloves and Boots (current best-in-slot) and the enemies on B1F are fairly weak. 
-            - The request has been plagued with bugs and broken flags since it first launched. If you are running into issues you can post in the comments below or ping @lightbearer on the Discord.  
+            - A L25 Ranger is required for the "Best" ending to set a required bear trap. 
+            - Provide additional commentary throughout the dungeon and will point out the correct path to take on each floor. 
+        - Farming
+            - Alabaster is one of the best farming locations in the game. It provides access to Hunting Gloves and Boots (current best-in-slot) as well as Steel 5* Red junk that is on par with well-rolled Silver gear. 
+            - Enemies on B1F are fairly weak so it is new player friendly if you have not yet passed the Copper exam. 
+            - Currency amounts from map or enemy chests are fairly low at 20-60.  
+            - Tends to have a higher-than-average relic monster spawn rate. Notable enemies include Scorpion Lady, Vorpal Bunny, (Snow) Big Slime, and Frost Plant.  
 
     === "How to Reset" 
 
@@ -40,10 +42,13 @@
         - If you are running into issues you can post in the comments below or ping @seventhus or @lightbearer on the [Discord](https://discord.gg/CKrdEgzAz).  
 
 ??? warning "Request Reward" 
-    
-    ![](./img/alabaster-wolf-reward.png)
 
-    - Will always spawn as a 3* blue. 
+    <div align="center">
+    ![](./img/alabaster-wolf-reward.png)
+    </div>
+
+
+    - Fixed at 3* Blue. Note that bows are the only weapons that can roll ASPD blessings. 
     - Comes with Passive SP Up that gives a flat 6 SP that does not increase upon enhancement.
 
 ##### Alabaster Wolf Den 
@@ -52,9 +57,9 @@
 
     === "Basics" 
     
-        - The dungeon has multiple long, branching paths with spike traps scattered throughout. On B1F and B2F there are multiple drop-down holes that take you to self-contained side areas.  
+        - The dungeon has 3 floors with multiple long, branching paths with spike traps scattered throughout. On both B1F and B2F there are 2 drop-down holes that take you to self-contained side areas.  
         - If you have a Ranger in your party they will stop and tell you the correct path to take if you are doing a blind run. 
-        - Varied enemy mix, but primarily Magical Beasts and Demi-Humans. Gorgons will begin appearing as regular encounters on B3F. 
+        - Large variety of enemies, but primarily Magical Beasts and Demi-Humans. Gorgons will begin appearing as regular encounters on B3F. 
         - Encounters can include up to 3-4 rows of enemies. It is helpful if you have AOE row attacks (MA- spells, Wide Volley, Unending, MoF, etc.) or use Katino (Sleep) or Kantios (Confuse) for crowd control. 
         - Not a good location for farming EXP. 
         - Enemy level is 66-68 at Copper Grade. 
@@ -71,11 +76,11 @@
         - Magical Beings
             - Snow Slime
             - Snow Big Slime
-            - Frost Plant 
         - Insect
             - Abyssal Insect
             - Dragon Fly 
         - Other
+            - Frost Plant (Plant)
             - Pixie (Fairy)
             - Succubus (Demon)
 
@@ -93,39 +98,53 @@
 
 ??? note "1st Run - Bad Ending 1"
 
-    - Accept the request at the Royal Capital Guild. Go to the world map and head to the Alabaster Wolf Den.
-    - B1F
-        - Make your way to the SE stairs. Along the way you will hear a wolf howl. If you follow the sound, it will take you to an optional fight. However, it is not the wolf we are hunting. If you have a Ranger in your party, they will tell you it is just a normal wolf and point you toward the correct path.
-        - There are 2 drop-down holes that will take you to an optional side area.
-    - B2F
-        - Ignore the first set of stairs. It leads to a self-contained area on B3F where you will land if take either drop-down hole on B2F. Progress until you encounter a Gorgon and Lulu will comment.
-        - If you have a Ranger, you can set a trap. If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
-        - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage. Continue north to the B3F stairs. 
-    - B3F
-        - Upon entering you will find a dead body. Return to town, go to the Temple, and speak with the revived hunter. If you do not speak with him, then the wolf will not spawn on B3F.
-        - Harken to B2F, go north to B3F, and proceed to the bottom-left room. Note that there are more difficult enemies on this floor, including Gorgons.
-    - Boss: Alabaster Balewolf  
+    === "Guide" 
+    
+        - Accept the request at the Royal Capital Guild. Go to the world map and head to the Alabaster Wolf Den.
+        - B1F
+            - Head to the SE stairs. The sidepaths will take you to an optional fight against a normal wolf. If you have a Ranger in your party they will tell you to ignore it and point out the correct path to follow. 
+            - There are 2 drop-down holes that will take you to a self-contained side area.
+        - B2F
+            - Ignore the first set of stairs. It takes you to a small side area if you fall into either drop-down hole. Progress until you encounter a Gorgon and Lulu will comment.
+            - If you have a Ranger, you can set a trap. If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
+            - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage. Continue north to the B3F stairs. 
+        - B3F
+            - Upon entering you will find a dead body. Collect the body and exit via the B2F Harken. Go to the Temple and speak with the revived hunter. If you do not speak with him, then the wolf boss will not spawn on B3F.
+            - Harken to B2F, go north to B3F, and proceed to the bottom-left room. 
+            - Note that there are more difficult enemies on this floor, including Gorgons.
+            - Defeat the Alabaster Balewolf. 
+        - Post-Battle 
+            - After the fight a second wolf will appear and both will escape. You will gain the "There Are Two Alabaster Balewolves" Knowledge. 
+            - The request automatically fails. Return to the Guild and submit the failed request. Reset the request using the Cursed Wheel ("Special Requests") to start the 2nd run. 
+
+    === "Boss: Alabaster Balewolf"
+    
         - You will encounter the wolf again, but this time it self-buffs with 4 turns of ATK and ASPD. It can take 2 actions per turn and will auto-attack when taking physical damage.
         - It has ~10K HP. A basic strategy is to defend with your front row to proc openings while the backrow does DPS and provides support. If you are taking too much damage, then use Knight's Defense and Makalatu as an extra layer of protection.
-    - After the fight a second wolf will appear and both will escape. You will gain the "There Are Two Alabaster Balewolves" Knowledge. The request automatically fails. Return to the Guild and submit the failed request. Reset the request using the Cursed Wheel ("Special Requests") to start the 2nd run. 
 
 ??? note "2nd Run - Bad Ending 2"
 
-    - B1F and B2F
-        - Repeat the steps from the 1st run, but when you encounter the wolf on B2F you will be given a new option to ignore it for now. It is important that you do not aggro the wolf as you move north; track its location on the mini-map. 
-    - B3F
-        - Ignore the dead hunter. He does not need to be revived on this run. 
-        - Go to the bottom-left room again and prepare for a fight against both wolves at the same time. 
-    - Boss: 2x Alabaster Balewolfs
-        - The fight is structured similarly except now they receive an additional ACC buff.
-    - After defeating them you will receive the Damaged Alabaster Pelt as well as the "Alabaster Balewolf Intervention" Knowledge. 
-    - Optional: Return to the Guild and submit the request but it will automatically fail again. 
+    === "Guide" 
+    
+        - B1-2F 
+            - Repeat the steps from the 1st Run, but when you encounter the wolf on B2F you will be given a new option to ignore it for now. 
+            - It is important that you do not aggro the wolf as you move north; track its location on the mini-map. 
+        - B3F
+            - Ignore the dead hunter. He does not need to be revived on this run. 
+            - Go to the bottom-left room again and prepare for a fight against both wolves at the same time. 
+        - Post-Battle 
+            - After defeating the pair you will receive the Damaged Alabaster Pelt as well as the "Alabaster Balewolf Intervention" Knowledge. 
+            - Optional: Return to the Guild and submit the request but it will automatically fail again. 
     - The goal for the 3rd and 4th run is to distract or trap, respectively, the wolf on B2F so that it does not intervene in your fight against the second wolf on B3F. Used the Cursed Wheel to reset the request again. 
 
-    !!! warning "Diverging Endings"
-        - If you do not have a Ranger in your party, you will automatically be routed to the 3rd Run ("Good Ending"). This ending has a more difficult boss fight.  
-        - A Ranger (Level 25 or higher) is required for the 4th Run ("Best Ending"). 
-        - They both lead to the same outcome and reward, but if you want all of the compendium entries then you will need to do both. 
+                !!! warning "Diverging Endings"
+                    - If you do not have a Ranger in your party, you will automatically be routed to the 3rd Run ("Good Ending"). This ending has a more difficult boss fight.  
+                    - A Ranger (Level 25 or higher) is required for the 4th Run ("Best Ending"). 
+                    - They both lead to the same outcome and reward, but if you want all of the compendium entries then you will need to do both. 
+
+    === "Boss: 2x Alabaster Balewolfs
+        - The fight is structured similarly except now they receive an additional ACC buff.
+        - More fight details forthcoming. 
 
 ??? note "3rd Run - Good Ending"
 
