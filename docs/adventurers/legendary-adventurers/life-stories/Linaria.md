@@ -9,8 +9,23 @@ As Linaria grew older, she came to see that stealing from fellow villagers was m
 
 One day, hearing that an elderly traveling mage possessed a rare musical instrument, Linaria stole a look at his belongings just to catch a glimpse of it. Finding the rare instrument-a lute-her heart began to race. Even knowing that the disappearance of such a prize would cause an uproar, she could not stop her hand from reaching out toward it. Linaria took the stolen lute and concealed it within the woods on the outskirts of the village.  
 
-### Page 2
+### Page 2  
+Seemingly unconcerned by the lute's disappearance, the elderly mage soon departed from the village. For seven full days Linaria watched and waited-but the mage never returned.
 
+At long last, Linaria made her way to the forest and retrieved the lute she had hidden there among the trees. When she tentatively plucked the strings, a sound of otherworldly beauty intoxicated her.
+
+"What a beautiful sound! It is like the voice of an angel in song."
+
+Linaria became completely captivated by the lute. Day after day, she retreated to the woods to immerse herself in the lute's melody in solitude.
+
+Then one day, as she plucked a melody with her usual halting touch, a hazy plume of smoke drifted up from the lute's center, gradually coalescing into a humanoid form.
+
+"I am the spirit of this lute. I shall guide thy hands through a most wonderful song."  
+Though taken aback, Linaria longed to play even more beautiful music, and she accepted the spirit's teachings. Her mastery of the instrument grew by leaps and bounds.
+
+"It is high time you graced the masses with a performance, don't you think?"
+
+So the spirit whispered once Linaria came to master the instrument.
 
 ### Page 3
 
