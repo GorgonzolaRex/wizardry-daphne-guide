@@ -27,8 +27,18 @@ Though taken aback, Linaria longed to play even more beautiful music, and she ac
 
 So the spirit whispered once Linaria came to master the instrument.
 
-### Page 3
+### Page 3  
+"Shouldst thou but strike these lute strings, they shall fall helplessly into thy thrall."
 
+Linaria was a pariah in her village. Ordinarily, people would give her a wide berth whenever they passed. Yet with this lute, she was certain they could no longer turn a blind eye to her.
+
+That evening, Linaria made her way into the village tavern, the lute in hand. Initially, the crowd met her with dubious glances. 'There's that little thief,' they murmured amongst themselves, certain she was plotting some new mischief.
+
+Yet, the moment Linaria struck her first notes, the tavern went still, and every eye in the room went wide. All eyes were fixed upon Linaria as they stood spellbound by a melody more beautiful than anything in this world. The entire crowd fell utterly under the spell of Linaria and the music of her lute. When the song ended, the room erupted in cheers, and they clamored for her to continue.
+
+For the first time since her birth, she found herself encircled by the villagers' smiles; she played with joy, yielding to their every plea for more. She played on, drunk on their praise, never noticing that as the hours bled away, the light in the villagers' eyes was beginning to curdle into a frantic, jagged madness.
+
+Night after night, Linaria struck the strings of her lute. The people rejoiced. Adored and lauded by all, Linaria stood upon the heights of bliss. It was on the seventh night that the change began.
 
 ### Page 4
 
