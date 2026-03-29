@@ -16,23 +16,27 @@ Similarly, one big thing that I mostly ignore in my analyses, much to the chagri
 
 When I'm filling out my party and evaluating adventurers is that I always ask "What can this adventurer bring to the party that is unique?"
 
+
 # Karkarov's Analysis Criteria
 
 My analysis criteria is very straight forward, and even to a degree fairly simple.  I evaluate based on a few key principles...
 
-**Synergy:**  Specifically on the character themselves, but also with party compositions.  For exmaple, lets say there is a theoretical new Ranger who is good alignment, gains +15% damage with bows, is fire element, female, and human.
+**Synergy:**
+Specifically on the character themselves, but also with party compositions.  For exmaple, lets say there is a theoretical new Ranger who is good alignment, gains +15% damage with bows, is fire element, female, and human.
 
 The Alice formation buff is not useable and that is a better passive damage buff than this Ranger's skill.  You could put them on the front row if you use Alice, but due to the way Ranger is designed they will do better damage with a dagger on the front row so the 15% is wasted unless you are using a bow only skill.  Fire element sounds ok, but str barely contributes to the Ranger damage formula.  As a Female character they gain no dex and dex is their best damage trait.  Likewise Human doesn't hurt trait wise, but any other race would have given more dex and in many cases more speed.
 
 On paper this Ranger looks ok, but when you look at it holistically you see there is very poor synergy on the fundamental design of the character.  If their alignment were changed to nuetral this would dramatically change though.
 
-**Generic or Gimmick:** Effectively, is this characters kit or design simply "good in general" or does it need certain types of content, a specific party comp, or some intentional skill inherit choices to shine?  Let's use the theoretical Ranger example from before, but look at the previously unmentioned unique inherit skill.
+**Generic or Gimmick:**
+Effectively, is this characters kit or design simply "good in general" or does it need certain types of content, a specific party comp, or some intentional skill inherit choices to shine?  Let's use the theoretical Ranger example from before, but look at the previously unmentioned unique inherit skill.
 
 It is "when using a bow, assume a defensive stance, and if physically attacked nullify all damage and counter shot for massive damage".  So immediately we we run into "dagger is better on front row" again, but this skill requires a bow, and you wont be likely to get physically attacked on the back row.  Even worse, there is no taunt component to the skill.  So on the front row using this skill is a roll of the dice unless you inherit a taunt skill and do that the round before.  Lastly, outside of certain fights like Cyclops, the enemy may just cast a spell anyway nullifying the skill entirely while still hitting the Ranger for damage.
 
 This skill is gimmicky, and has too many conditions for it to ever really be considered good.
 
-**Good Out of the Box or Needs Work:**  When you pull this character and all you have is one copy, with what that character comes with, normal gear for that class, max level, and absolutely nothing else ... can they fit into a party and perform their intended role?  Or do they need some discipline levels, out of class inherits, need to see the second class on rerun, highly tuned more meta gearing, only shine when parterned with specific other classes or characters, etc etc etc?
+**Good Out of the Box or Needs Work:**
+When you pull this character and all you have is one copy, with what that character comes with, normal gear for that class, max level, and absolutely nothing else ... can they fit into a party and perform their intended role?  Or do they need some discipline levels, out of class inherits, need to see the second class on rerun, highly tuned more meta gearing, only shine when parterned with specific other classes or characters, etc etc etc?
 
 This time I will offer a real in game example, let's talk about Gillion.
 
@@ -42,7 +46,8 @@ Just like the theoretical Ranger example he does +15% damage except for him it i
 
 Gillion is good out of the box.  You can pull him, give him decent gear, easily slot him into a wide variety of parties, max his level, and he can just do what he needs to do.
 
-**Conclusion:** If a character has strong fundamental design synergy, is generically not situationally good, and is good out of the box without needing high levels of investment I will consider them a strong character.  That said, it is critical to remember Daphne is a dungeon crawler party comp based game first, and a gacha game second.  There is no such thing as a "bad" character, and every class comes with the minimum tools needed to do that classes role.
+**Conclusion:**
+If a character has strong fundamental design synergy, is generically not situationally good, and is good out of the box without needing high levels of investment I will consider them a strong character.  That said, it is critical to remember Daphne is a dungeon crawler party comp based game first, and a gacha game second.  There is no such thing as a "bad" character, and every class comes with the minimum tools needed to do that classes role.
 
 Even if a character is great based on my evaluation you have to consider how it fits in your party comp, and if you even need their character role in your party in the first place.  If you want to build a character who is a total miss on all my evaluation criteria it can still work, it will just likely require a much higher level of effort and *possibly* be more situational in it's use cases.
 
