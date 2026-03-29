@@ -46,7 +46,7 @@ This time I will offer a real in game example, let's talk about Gillion.
 
 As a neutral fighter he fits on the back row, front row, and has all the dps tools he really needs right there from his class.  Inherit wise he just needs some basic inherits any physical dps unit would want, and nothing special or unusual.
 
-Just like the theoretical Ranger example he does +15% damage except for him it is when using any two hander.  This is generically good and situationally agnostic because you want him to use a two hand weapon and his primary role is dps.  His life drain on attack hurts, but it is low enough that it rarely presents any meaningful problem.  His inherit skill Cry of Ruin comes with a nasty HP loss trade off, but situationally is a strong line AoE attack that does solid damage.  You just need to use it with intent and not randomly.  As fighter has no stock AoE so this is still a good value add.
+Just like the theoretical Ranger example he does +15% damage except for him it is when using any two hander.  This is generically good and situationally agnostic because you want him to use a two hand weapon and his primary role is dps.  His life drain on attack hurts, but it is low enough that it rarely presents any meaningful problem.  His inherit skill Cry of Ruin comes with a nasty HP loss trade off, but situationally is a strong line AoE attack that does solid damage.  You just need to use it with intent and not randomly.  As fighter has no stock AoE this is still a good value add.
 
 Gillion is good out of the box.  You can pull him, give him decent gear, easily slot him into a wide variety of parties, max his level, and he can just do what he needs to do.
 
