@@ -23,14 +23,14 @@
             - The 1st and 2nd runs end in failure, but provide Knowledge that is required for both the Good and Best endings. 
         - Ranger
             - Units
-                - [Yrsa](../../adventurers/legendary-adventurers/details/Yrsa.md), Limited Legendary 
-                - [Heinrico](../../adventurers/general-adventurers/details/Heinrico.md), General Adventurer 
+                - [Yrsa](../../adventurers/legendary-adventurers/details/Yrsa.md) - Limited Legendary 
+                - [Heinrico](../../adventurers/general-adventurers/details/Heinrico.md) - General Adventurer 
             - The first 2 runs and the Good ending can be completed without a Ranger in your party. 
             - A L25 Ranger is required for the Best ending as a bear trap needs to be set. 
             - If a Ranger is in your party they will provide flavor text throughout the dungeon and point out the correct path to take on each floor. 
         - Recommended Units
             - A Knight is borderline mandatory for most teams as the wolf bosses will auto-counter every time they receive physical damage. 
-            - Dissiptation (Ninjas) and Maelfic Wind (Mages) are useful to strip their debuffs. 
+            - Ninjas (Dissipation) and Mages (Malefic Wind) are helpful strip their buffs. 
         - Farming
             - One of the best farming locations in the game. It provides access to Hunting Gloves and Boots (both best-in-slot), and Steel 5* Red gear.
             - Enemies on B1F are fairly weak and suitable for players that have not yet passed the Copper Grade exam.
@@ -111,9 +111,7 @@
             - Avoid the 2 drop-down holes. They lead to a small side area in the NW corner of B2F. 
         - B2F
             - Ignore the first set of stairs. This is where you exit if you fall into either drop-down hole. 
-            - Progress until you encounter a Gorgon and Lulu will comment.
-                - If you have a Ranger, you can set a trap. If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
-                - Attempting to dodge around it is challenging given the narrow corridor. 
+            - Progress until you encounter a Gorgon and Lulu will comment. If you have a Ranger, you can set a trap. If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack. Attempting to dodge around it is challenging given the narrow corridor. 
             - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage or several turns have passed. Continue north to the B3F stairs. 
         - B3F
             - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired.  
@@ -167,11 +165,11 @@
             - Same steps as the 2nd Run. Ignore the wolf on B2F and do not draw its attention.  
         - B3F 
             - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
-            - <span style="color: #FF0000">*</span> Warning! Remove any Rangers in your active party before visiting the Temple. If present, you will be routed to the 4th Run (Best ending). 
+            - <span style="color: #F02F20">Warning!</span> Remove any Rangers in your active party before visiting the Temple. If present, you will be routed to the 4th Run (Best ending). 
             - Revive the dead hunter. When you speak with him there will be a new option (second choice) to ask for his help to "pin down" the B2F wolf. Pay the 1,000 gold to receive the Game Hunter's Rabbit Meat.  
         - B2F
             - Harken back to B2F.
-            - <span style="color: #FF0000">*</span> Important! Review the "Map - Bait Placement" tab. Approach from the west path (yellow check-mark) and stand on the tile where MC's cursor is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
+            - <span style="color: #F02F20">Important!</span> Review the "Map - Bait Placement" tab. Approach from the west path (yellow check-mark) and stand on the tile where MC's cursor is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
             - The rabbit meat will distract the wolf. Head north to B3F. 
         - B3F
             - Return to the bottom-left room and engage the second wolf.
