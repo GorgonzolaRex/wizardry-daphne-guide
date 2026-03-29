@@ -70,7 +70,7 @@
         - Poor location for farming EXP but above-average for relics. 
         - Enemy level is 66-68 at Copper Grade. 
 
-    === "Enemies List" 
+    === "Enemy List" 
 
         - Demi-Human
             - Snowland Hobgoblin
