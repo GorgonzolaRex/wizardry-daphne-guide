@@ -23,8 +23,8 @@
             - The 1st and 2nd runs end in failure, but provide Knowledge that is required for both the Good and Best endings. 
         - Ranger
             - Units
-                - [Yrsa](../adventurers/legendary-adventurers/details/Yrsa.md), Limited Legendary 
-                - [Heinrico](../adventurers/general-adventurers/details/Heinrico.md), General Adventurer 
+                - [Yrsa](../../adventurers/legendary-adventurers/details/Yrsa.md), Limited Legendary 
+                - [Heinrico](../../adventurers/general-adventurers/details/Heinrico.md), General Adventurer 
             - The first 2 runs and the Good ending can be completed without a Ranger in your party. 
             - A L25 Ranger is required for the Best ending as a bear trap needs to be set. 
             - If a Ranger is in your party they will provide flavor text throughout the dungeon and point out the correct path to take on each floor. 
@@ -112,12 +112,11 @@
         - B2F
             - Ignore the first set of stairs. This is where you exit if you fall into either drop-down hole. 
             - Progress until you encounter a Gorgon and Lulu will comment.
-                - If you have a Ranger, you can set a trap. 
-                - If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
+                - If you have a Ranger, you can set a trap. If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
                 - Attempting to dodge around it is challenging given the narrow corridor. 
             - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage or several turns have passed. Continue north to the B3F stairs. 
         - B3F
-            - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired. If you do not revive him, then the wolf boss will not spawn on B3F.<span style="color: #FF0000">*</span>
+            - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired. Warning!<span style="color: #FF0000">*</span> If you do not revive him, then the wolf boss will not spawn on B3F.
             - Return to B3F and make your way to the bottom-left room. There are more difficult enemies on this floor, including Gorgons.
             - Defeat the Alabaster Balewolf. 
         - Post-Battle 
@@ -126,10 +125,9 @@
 
     === "Boss: Alabaster Balewolf"
     
-        - HP: ~10K
-        - The boss hits fast and hard, but has relatively low HP. It can be killed quickly with your strongest burst attacks. 
-        - Immediately self-buff with 4 turns of ATK and ASPD. Remove these immediately with Dissipation or Maelfic Wind. 
-        - It has 2 actions per turn and will auto-counter all physical attacks.
+        - HP: ~10K. The boss hits fast and hard, but has relatively low HP. It can be killed quickly with your strongest burst attacks. 
+        - It will immediately self-buffs with 4 turns of ATK and ASPD. Remove these immediately with Dissipation or Maelfic Wind. 
+        - Has 2 actions per turn and will auto-counter all physical attacks.
         - Balafeos (ATK down) and Batilgref (ASPD down) are helpful debuffs to maintain throughout the fight. Chrono 1-2 or Delay Attack with a multi-hit weapon can further increase its wait time.  
         - Basic Strategy
             - Defend with your entire front row to proc openings while the backrow does DPS and provides support. 
@@ -149,9 +147,9 @@
         - Post-Battle 
             - After defeating the pair you will receive the Damaged Alabaster Pelt and the "Alabaster Balewolf Intervention" Knowledge. 
             - The request automatically fails again because the pelt is too damaged. Exit and prepare for the next run. Submitting the failed request at the Royal Capital Guild is optional. 
-        - Diverging Endings<span style="color: #FF0000">*</span> 
+        - <span style="color: #FF0000">*</span> Diverging Endings
             - The goal for the 3rd and 4th run is to distract or trap, respectively, the B2F wolf to prevent it from helping the B3F wolf. 
-            - If you do not have a Ranger in your party, you will automatically be routed to the 3rd Run ("Good Ending"). This ending has a more difficult boss fight. 
+            - If you do not have a Ranger in your party, you will automatically be routed to the 3rd Run (Good ending). This ending has a more difficult boss fight. 
             - A Ranger (L25 or higher) is required for the 4th Run (Best ending). 
             - Either ending will complete the request and grant the unique reward. If you want all of the compendium entries (or love animals) then you will need to do both. 
 
@@ -168,15 +166,15 @@
             - Same steps as the 2nd Run. Ignore the wolf on B2F and do not draw its attention.  
         - B3F 
             - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
-            - Warning!<span style="color: #FF0000">*</span> Remove any Rangers in your active party before visiting the Temple. If they are present then you will be routed to the 4th Run (Best ending). 
+            - <span style="color: #FF0000">*</span>Warning! Remove any Rangers in your active party before visiting the Temple. If present, you will be routed to the 4th Run (Best ending). 
             - Revive the dead hunter. When you speak with him there will be a new option (second choice) to ask for his help to "pin down" the B2F wolf. Pay the 1,000 gold to receive the Game Hunter's Rabbit Meat.  
         - B2F
             - Harken back to B2F.
-            - Important!<span style="color: #FF0000">*</span> Review the "Map - Bait Placement" tab. Approach from the west path (yellow check-mark) and stand on the tile where MC's cursor is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
+            - <span style="color: #FF0000">*</span>Important! Review the "Map - Bait Placement" tab. Approach from the west path (yellow check-mark) and stand on the tile where MC's cursor is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
             - The rabbit meat will distract the wolf. Head north to B3F. 
         - B3F
             - Return to the bottom-left room and engage the second wolf.
-            - Warning!<span style="color: #FF0000">*</span> This is a back-to-back fight against both wolves with no opportunity to heal inbetween. 
+            - <span style="color: #FF0000">*</span>Warning! This is a back-to-back fight against both wolves with no opportunity to heal inbetween. 
         - Post-Battle 
             - After the fight you will receive the Alabaster Pelt. Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow. 
             - The request is successfully completed! The 4th Run (Best ending) is optional unless you want all the compendium entries or want both wolves to survive. 
@@ -189,7 +187,7 @@
 
     === "Boss: 2x Alabaster Balewolfs" 
     
-        - Warning!<span style="color: #FF0000">*</span> Unlike the 2nd Run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
+        - <span style="color: #FF0000">*</span>Warning! Unlike the 2nd Run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
         - Note that the B2F wolf (second fight) has permanent buffs that cannot be removed and can attack after every turn. 
         - Boss fight details to be added. 
 
@@ -201,13 +199,13 @@
             - Same steps as the 2nd Run. Ignore the wolf on B2F and do not draw its attention.   
         - B3F 
             - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
-            - Warning!<span style="color: #FF0000">*</span> A Ranger (L25 minimum to set a bear trap) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run (Good ending). They are also required for the entire remainder of this run.  
+            - <span style="color: #FF0000">*</span> Warning! A Ranger (L25 minimum to set a bear trap) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run (Good ending). They are also required for the entire remainder of this run.  
             - Revive the dead hunter. When you speak with him there will be a new option (second choice) that you want his help to "pin down" the Alabaster wolf. Since you have a Ranger in your party, he will tell you to use a bear trap to immobilize the B2F wolf. 
         - B2F
             - Harken back to B2F.
             - Set a bear trap anywhere in the wolf's patrol area. To avoid potential bugs do not move too far north or south outside its range.
             - When you set the trap do not move or enter any inputs until you get a short cutscene with Lulu. If the cutscene fails to play, then immediately exit and re-enter, and try again. 
-            - Bug!<span style="color: #FF0000">*</span> It is possible to do all the steps correctly and not trigger the Lulu scene. As long as the B2F wolf is patrolling you can reset by going to an Inn. This will restock your traps and potentially fix any broken flags. You can also try exiting the game and reloading. 
+            - <span style="color: #FF0000">*</span>Bug! It is possible to do all the steps correctly and not trigger the Lulu scene. As long as the B2F wolf is patrolling you can reset by going to an Inn. This will restock your traps and potentially fix any broken flags. You can also try exiting the game and reloading. 
         - B3F
             - Return to the bottom-left room and engage the wolf.  
         - Post-Battle 
