@@ -23,8 +23,8 @@
             - The 1st and 2nd runs end in failure, but provide Knowledge that is required for both the Good and Best endings. 
         - Ranger
             - Units
-                - [Yrsa](/docs/adventurers/legendary-adventurers/details/Yrsa.md) - Limited Legendary 
-                - [Heinrico](/docs/adventurers/general-adventurers/details/Heinrico.md) - General Adventurer 
+                - [Yrsa](../adventurers/legendary-adventurers/details/Yrsa.md), Limited Legendary 
+                - [Heinrico](../adventurers/general-adventurers/details/Heinrico.md), General Adventurer 
             - The first 2 runs and the Good ending can be completed without a Ranger in your party. 
             - A L25 Ranger is required for the Best ending as a bear trap needs to be set. 
             - If a Ranger is in your party they will provide flavor text throughout the dungeon and point out the correct path to take on each floor. 
@@ -44,7 +44,7 @@
 
     === "Troubleshooting"
     
-        - The request has been bugged since launch and has required several patches. Problem areas are denoted by a <span style="color: #FF0000">red *</span> text. We recommend you follow the directions exactly as written. 
+        - The request has been bugged since launch and has required several patches. Problem areas are denoted by a <span style="color: #FF0000">*</span>. We recommend you follow the directions exactly as written. 
         - If you are running into issues you can post in the comments below or ping @lightbearer on the [Discord](https://discord.gg/CKrdEgzAz).  
 
 ??? warning "Request Reward" 
@@ -67,10 +67,10 @@
         - The dungeon has 3 floors with branching paths and spike traps scattered throughout. On both B1F and B2F there are 2 drop-down holes that lead to optional side areas.
         - Large variety of enemies, but primarily Magical Beasts and Demi-Humans. Gorgons will appear as regular enemy on B3F. 
         - Encounters frequently include up to 3-4 rows of enemies. Row or AOE attacks (LA- or MA- spells, Wide Volley, Unending, MoF, Hue, etc.) are helpful or use Katino (Sleep) or Kantios (Confuse) for crowd control. 
-        - Poor location for farming EXP, but great for relics. 
+        - Poor location for farming EXP but above-average for relics. 
         - Enemy level is 66-68 at Copper Grade. 
 
-    === "Enemies" 
+    === "Enemies List" 
 
         - Demi-Human
             - Snowland Hobgoblin
@@ -107,16 +107,18 @@
     === "Guide" 
     
         - B1F
-            - Head to the SE stairs. The sidepaths will take you to an optional fight against a normal wolf.
-            - If a Ranger is in your party they will tell you to ignore the howling and point out the correct path to follow. 
-            - Avoid the 2 drop-down holes as they take you to a small side area in the NW corner of B2F. 
+            - Head to the SE stairs. The sidepaths will take you to an optional fight against a normal wolf. If a Ranger is in your party they will tell you to ignore the howling and point out the correct path to follow. 
+            - Avoid the 2 drop-down holes. They lead to a small side area in the NW corner of B2F. 
         - B2F
-            - Ignore the first set of stairs. This is where you exit if you fall into a drop-down hole. Progress until you encounter a Gorgon and Lulu will comment.
-            - If you have a Ranger, you can set a trap. If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
+            - Ignore the first set of stairs. This is where you exit if you fall into either drop-down hole. 
+            - Progress until you encounter a Gorgon and Lulu will comment.
+                - If you have a Ranger, you can set a trap. 
+                - If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
+                - Attempting to dodge around it is challenging given the narrow corridor. 
             - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage or several turns have passed. Continue north to the B3F stairs. 
         - B3F
-            - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired. If you do not revive him, then the wolf boss will not spawn on B3F.
-            - Return to B3F and make your way to the bottom-left room. Note that there are more difficult enemies on this floor, including Gorgons.
+            - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired. If you do not revive him, then the wolf boss will not spawn on B3F.<span style="color: #FF0000">*</span>
+            - Return to B3F and make your way to the bottom-left room. There are more difficult enemies on this floor, including Gorgons.
             - Defeat the Alabaster Balewolf. 
         - Post-Battle 
             - After the fight a second wolf will appear and both will escape. You will gain the "There Are Two Alabaster Balewolves" Knowledge. 
@@ -132,7 +134,7 @@
         - Basic Strategy
             - Defend with your entire front row to proc openings while the backrow does DPS and provides support. 
             - If you are taking too much damage, then use Knight's Defense and Makalatu as an extra layer of protection.
-            - You control the flow of the battle since it will always auto-counter. FPS or Poised Attack is helpful to do significant DPS in a single action.
+            - You control the flow of the battle since it will always auto-counter physical attacks. FPS or Poised Attack is helpful to do significant DPS in a single action.
 
 ??? note "2nd Run - Bad Ending 2"
 
@@ -147,11 +149,11 @@
         - Post-Battle 
             - After defeating the pair you will receive the Damaged Alabaster Pelt and the "Alabaster Balewolf Intervention" Knowledge. 
             - The request automatically fails again because the pelt is too damaged. Exit and prepare for the next run. Submitting the failed request at the Royal Capital Guild is optional. 
-        - Divering Endings<span style="color: #FF0000">red *</span> 
-            - The goal for the 3rd and 4th run is to distract or trap, respectively, the wolf on B2F to prevent it from showing up to help the second wolf on B3F. 
+        - Diverging Endings<span style="color: #FF0000">*</span> 
+            - The goal for the 3rd and 4th run is to distract or trap, respectively, the B2F wolf to prevent it from helping the B3F wolf. 
             - If you do not have a Ranger in your party, you will automatically be routed to the 3rd Run ("Good Ending"). This ending has a more difficult boss fight. 
-            - A Ranger (Level 25 or higher) is required for the 4th Run (Best ending). 
-            - Both endings will complete the request and grant the unique reward. If you want all of the compendium entries (or love animals) then you will need to do both. 
+            - A Ranger (L25 or higher) is required for the 4th Run (Best ending). 
+            - Either ending will complete the request and grant the unique reward. If you want all of the compendium entries (or love animals) then you will need to do both. 
 
     === "Boss: 2x Alabaster Balewolfs"
     
@@ -170,11 +172,11 @@
             - Revive the dead hunter. When you speak with him there will be a new option (second choice) to ask for his help to "pin down" the B2F wolf. Pay the 1,000 gold to receive the Game Hunter's Rabbit Meat.  
         - B2F
             - Harken back to B2F.
-            - Review the "Map - Bait Placement" tab.<span style="color: #FF0000">*</span> Approach from the west path and stand where the yellow cursor (arrow) is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
+            - Important!<span style="color: #FF0000">*</span> Review the "Map - Bait Placement" tab. Approach from the west path (yellow check-mark) and stand on the tile where MC's cursor is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
             - The rabbit meat will distract the wolf. Head north to B3F. 
         - B3F
             - Return to the bottom-left room and engage the second wolf.
-            - Known in advance that this is a back-to-back fight against both wolves with no opportunity to heal inbetween.<span style="color: #FF0000">*</span>  
+            - Warning!<span style="color: #FF0000">*</span> This is a back-to-back fight against both wolves with no opportunity to heal inbetween. 
         - Post-Battle 
             - After the fight you will receive the Alabaster Pelt. Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow. 
             - The request is successfully completed! The 4th Run (Best ending) is optional unless you want all the compendium entries or want both wolves to survive. 
@@ -187,7 +189,7 @@
 
     === "Boss: 2x Alabaster Balewolfs" 
     
-        - Warning!<span style="color: #FF0000">*</span> Unlike the 2nd run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
+        - Warning!<span style="color: #FF0000">*</span> Unlike the 2nd Run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
         - Note that the B2F wolf (second fight) has permanent buffs that cannot be removed and can attack after every turn. 
         - Boss fight details to be added. 
 
@@ -209,11 +211,10 @@
         - B3F
             - Return to the bottom-left room and engage the wolf.  
         - Post-Battle 
-            - After defeating the wolf chose to "Let it go." This is a required step. 
-            - Return to B2F and head to the area where you trapped the wolf. Walk around until you trigger a cutscene. Your Ranger will release the wolf from the trap. 
+            - After defeating the wolf chose to "Let it go." This is a required step. Return to B2F and head to the area where you trapped the wolf. Walk around until you trigger a cutscene. Your Ranger will release the wolf from the trap. 
             - Go to the Harken. Both wolfs will reappear and lead you to a buried Alabaster Coat. Use your reversal power to restore it to pristine condition. 
             - Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow.  
-            - The request is successfully completed! Doing the 3rd Run (Good ending) is optional unless you want all the compendium entries.
+            - The 3rd Run (Good ending) is optional unless you want all the compendium entries.
             
     === "Boss: Alabaster Balewolf" 
     
