@@ -18,18 +18,18 @@
     === "Before You Begin" 
 
         - Endings
-            - There are a total of 4 different endings. A minimum of 3 runs are required to complete the request. 
-            - The 1st and 2nd run end in failure, but provide Knowledge that is mandatory for both the "Good" and "Best" endings. 
+            - Total of 4 different endings. A minimum of 3 runs are required to complete the request. 
+            - The 1st and 2nd runs end in failure, but provide Knowledge that is mandatory for both the "Good" and "Best" endings. 
         - Ranger
             - Units: Yrsa (Limited Legendary) and Heinrico (General).  
             - The first 2 runs and the "Good" ending can be completed without a Ranger in your party. 
             - A L25 Ranger is required for the "Best" ending to set a required bear trap. 
-            - Provide additional commentary throughout the dungeon and will point out the correct path to take on each floor. 
+            - Will provide additional commentary throughout the dungeon and will point out the correct path to take on each floor. 
         - Farming
             - Alabaster is one of the best farming locations in the game. It provides access to Hunting Gloves and Boots (current best-in-slot) as well as Steel 5* Red junk that is on par with well-rolled Silver gear. 
-            - Enemies on B1F are fairly weak so it is new player friendly if you have not yet passed the Copper exam. 
-            - Currency amounts from map or enemy chests are fairly low at 20-60.  
-            - Tends to have a higher-than-average relic monster spawn rate. Notable enemies include Scorpion Lady, Vorpal Bunny, (Snow) Big Slime, and Frost Plant.  
+            - Enemies on B1F are fairly weak. It is new player friendly if you have not passed the Copper Grade exam. 
+            - Currency is low at 20-60 per enemy or map chest.
+            - Higher-than-average relic monster spawn rate. Notable enemies include Scorpion Lady, Vorpal Bunny, (Snow) Big Slime, and Frost Plant.  
 
     === "How to Reset" 
 
@@ -38,7 +38,7 @@
 
     === "Troubleshooting"
     
-        - The request has been plagued with bugs and broken flags since it first launched and has required several patches. 
+        - The request has been plagued with bugs and broken flags since it first launched and has required several patches. We recommend you follow the directions exactly as written. 
         - If you are running into issues you can post in the comments below or ping @seventhus or @lightbearer on the [Discord](https://discord.gg/CKrdEgzAz).  
 
 ??? warning "Request Reward" 
@@ -47,9 +47,8 @@
     ![](./img/alabaster-wolf-reward.png)
     </div>
 
-
     - Fixed at 3* Blue. Note that bows are the only weapons that can roll ASPD blessings. 
-    - Comes with Passive SP Up that gives a flat 6 SP that does not increase upon enhancement.
+    - Passive SP Up provides a flat 6 SP that does not increase upon enhancement.
 
 ##### Alabaster Wolf Den 
 
@@ -109,13 +108,12 @@
             - If you have a Ranger, you can set a trap. If you opt to fight (2 Gorgons front row, 2 Pixies backrow), then use Kantios (Confuse) to prevent the Gorgons from using their stone breath attack.
             - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage. Continue north to the B3F stairs. 
         - B3F
-            - Upon entering you will find a dead body. Collect the body and exit via the B2F Harken. Go to the Temple and speak with the revived hunter. If you do not speak with him, then the wolf boss will not spawn on B3F.
-            - Harken to B2F, go north to B3F, and proceed to the bottom-left room. 
-            - Note that there are more difficult enemies on this floor, including Gorgons.
+            - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to the Temple and revive him to learn that he was the missing hunter that Lady Matilda hired. If you do not revive him, then the wolf boss will not spawn on B3F.
+            - Harken to B2F, go north to B3F, and proceed to the bottom-left room. Note that there are more difficult enemies on this floor, including Gorgons.
             - Defeat the Alabaster Balewolf. 
         - Post-Battle 
             - After the fight a second wolf will appear and both will escape. You will gain the "There Are Two Alabaster Balewolves" Knowledge. 
-            - The request automatically fails. Return to the Guild and submit the failed request. Reset the request using the Cursed Wheel ("Special Requests") to start the 2nd run. 
+            - The request automatically fails. Return to the Guild and submit the request. Reset using the Cursed Wheel ("Special Requests") to start the 2nd run. 
 
     === "Boss: Alabaster Balewolf"
     
@@ -135,14 +133,14 @@
         - Post-Battle 
             - After defeating the pair you will receive the Damaged Alabaster Pelt as well as the "Alabaster Balewolf Intervention" Knowledge. 
             - Optional: Return to the Guild and submit the request but it will automatically fail again. 
-    - The goal for the 3rd and 4th run is to distract or trap, respectively, the wolf on B2F so that it does not intervene in your fight against the second wolf on B3F. Used the Cursed Wheel to reset the request again. 
+        - Diverging Endings
+            - The goal for the 3rd and 4th run is to distract or trap, respectively, the wolf on B2F so that it does not intervene in your fight against the second wolf on B3F. Used the Cursed Wheel to reset the request again. 
+            - If you do not have a Ranger in your party, you will automatically be routed to the 3rd Run ("Good Ending"). This ending has a more difficult boss fight. 
+            - A Ranger (Level 25 or higher) is required for the 4th Run ("Best Ending"). 
+            - Both endings lead to the same outcome and reward, but if you want all of the compendium entries then you will need to do both. 
 
-                !!! warning "Diverging Endings"
-                    - If you do not have a Ranger in your party, you will automatically be routed to the 3rd Run ("Good Ending"). This ending has a more difficult boss fight.  
-                    - A Ranger (Level 25 or higher) is required for the 4th Run ("Best Ending"). 
-                    - They both lead to the same outcome and reward, but if you want all of the compendium entries then you will need to do both. 
-
-    === "Boss: 2x Alabaster Balewolfs
+    === "Boss: 2x Alabaster Balewolfs"
+    
         - The fight is structured similarly except now they receive an additional ACC buff.
         - More fight details forthcoming. 
 
@@ -150,7 +148,7 @@
 
     === "Guide" 
 
-        - B1F and B2F
+        - B1-2F
             - Same steps as the 2nd Run. Ignore the wolf on B2F.  
         - B3F 
             - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
@@ -161,37 +159,46 @@
             - Important! Review the "Map - Bait Placement" tab. Go to the check-marked tile. If done correctly a cutscene with Lulu will play. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
             - With the wolf distracted head to B3F. 
         - B3F
-            - Return to the bottom-left room and engage the wolf. 
-        - Boss: 2x Alabaster Balewolfs 
-            - Warning! Unlike the 2nd run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
-            - Note that the B2F wolf (second fight) has permanent buffs that cannot be removed and can attack after every turn. 
-        - After the fight you will receive the Alabaster Pelt. Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow. 
-        - The request is successfully completed. Doing the 4th Run ("Best" ending) is completely optional unless you want all the compendium entries. 
+            - Return to the bottom-left room and engage the wolf.
+        - Post-Battle 
+            - After the fight you will receive the Alabaster Pelt. Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow. 
+            - The request is successfully completed. Doing the 4th Run ("Best" ending) is completely optional unless you want all the compendium entries. 
 
     === "Map - Bait Placement"
-    
+
+        <div align="center">
         ![](./img/alabaster-wolf-good-ending-trigger.jpg)
+        </div>
+
+    === "Boss: 2x Alabaster Balewolfs" 
+    
+        - Warning! Unlike the 2nd run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
+        - Note that the B2F wolf (second fight) has permanent buffs that cannot be removed and can attack after every turn. 
 
 ??? note "4th Run - Best Ending - Requires Ranger L25" 
+
+   === "Guide" 
    
-    - B1F and B2F
-        - Same steps as the 2nd Run. Ignore the wolf on B2F.  
-    - B3F 
-        - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
-        - Warning! A Ranger (L25 minimum to set traps) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run ("Good" Ending). They are also required for the entire remainder of this run.  
-        - Revive the dead hunter. When you speak with him there will be a new option (second choice) that you want to "pin down" the Alabaster wolf. Since you have a Ranger in your party, he will tell you to use a bear trap to immobilize the B2F wolf. 
-    - B2F
-        - Harken back to B2F.
-        - Set a bear trap anywhere in the wolf's patrol area. To avoid potential bugs do not move too far north or south outside of its patrol area.
-        - When you set the trap do not move or enter any inputs until you get a short cutscene with Lulu. If the cutscene fails to play, the immediately exit and re-enter, and try again. 
-        - Bug! It is possible to do all the steps correctly and not get the Lulu scene. As long as the B2F wolf is patrolling you can reset by going to an Inn. This will restock your traps and potentially fix any broken flags. You can also try exiting the game and reloading. 
-    - B3F
-        - Return to the bottom-left room and engage the wolf. 
-    - Boss: Alabaster Balewolf
-        - The fight is similar to its past versions. 
-        - After the fight select the option to "Let it go". 
-    - Final Steps
-        - Return to B2F and head to the area where the wolf was patrolling. Walk around until you trigger a cutscene where your Ranger will release the wolf from the trap. 
-        - Head to the B2F Harken. Both wolfs will reappear and lead you to the buried location of the Alabaster Coat. Using your reversal powers to restore it to pristine condition. 
-        - Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow.  
-        - The request is successfully completed. Doing the 3rd Run ("Good" ending) is completely optional unless you want all the compendium entries.
+        - B1-2F
+            - Same steps as the 2nd Run. Ignore the wolf on B2F.  
+        - B3F 
+            - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
+            - Warning! A Ranger (L25 minimum to set traps) must be in your active party before visiting the Temple. If they are not present then you will be routed to the 3rd Run ("Good" Ending). They are also required for the entire remainder of this run.  
+            - Revive the dead hunter. When you speak with him there will be a new option (second choice) that you want to "pin down" the Alabaster wolf. Since you have a Ranger in your party, he will tell you to use a bear trap to immobilize the B2F wolf. 
+        - B2F
+            - Harken back to B2F.
+            - Set a bear trap anywhere in the wolf's patrol area. To avoid potential bugs do not move too far north or south outside of its patrol area.
+            - When you set the trap do not move or enter any inputs until you get a short cutscene with Lulu. If the cutscene fails to play, the immediately exit and re-enter, and try again. 
+            - Bug! It is possible to do all the steps correctly and not get the Lulu scene. As long as the B2F wolf is patrolling you can reset by going to an Inn. This will restock your traps and potentially fix any broken flags. You can also try exiting the game and reloading. 
+        - B3F
+            - Return to the bottom-left room and engage the wolf.  
+        - Post-Battle 
+            - After defeating the wolf chose to "Let it go." This is a required step. 
+            - Return to B2F and head to the area where the wolf was patrolling. Walk around until you trigger a cutscene where your Ranger will release the wolf from the trap. 
+            - Go to the B2F Harken. Both wolfs will reappear and lead you to the buried location of the Alabaster Coat. Using your reversal powers to restore it to pristine condition. 
+            - Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow.  
+            - The request is successfully completed. Doing the 3rd Run ("Good" ending) is completely optional unless you want all the compendium entries.
+
+    === "Boss: Alabaster Balewolf" 
+    
+        - Details forthcoming. 
