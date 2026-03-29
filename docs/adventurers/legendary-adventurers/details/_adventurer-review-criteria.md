@@ -17,6 +17,7 @@ Similarly, one big thing that I mostly ignore in my analyses, much to the chagri
 When I'm filling out my party and evaluating adventurers is that I always ask "What can this adventurer bring to the party that is unique?"
 
 
+
 # Karkarov's Analysis Criteria
 
 My analysis criteria is very straight forward, and even to a degree fairly simple.  I evaluate based on a few key principles...
