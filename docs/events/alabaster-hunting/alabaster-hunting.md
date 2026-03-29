@@ -116,7 +116,8 @@
                 - Attempting to dodge around it is challenging given the narrow corridor. 
             - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage or several turns have passed. Continue north to the B3F stairs. 
         - B3F
-            - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired. Warning!<span style="color: #FF0000">*</span> If you do not revive him, then the wolf boss will not spawn on B3F.
+            - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired.  
+            - <span style="color: #FF0000">*</span> Warning! If you do not revive him, then the wolf boss will not spawn on B3F.
             - Return to B3F and make your way to the bottom-left room. There are more difficult enemies on this floor, including Gorgons.
             - Defeat the Alabaster Balewolf. 
         - Post-Battle 
@@ -166,15 +167,15 @@
             - Same steps as the 2nd Run. Ignore the wolf on B2F and do not draw its attention.  
         - B3F 
             - Collect the body of the dead hunter, exit, and revive him at any Temple. This step is mandatory.  
-            - <span style="color: #FF0000">*</span>Warning! Remove any Rangers in your active party before visiting the Temple. If present, you will be routed to the 4th Run (Best ending). 
+            - <span style="color: #FF0000">*</span> Warning! Remove any Rangers in your active party before visiting the Temple. If present, you will be routed to the 4th Run (Best ending). 
             - Revive the dead hunter. When you speak with him there will be a new option (second choice) to ask for his help to "pin down" the B2F wolf. Pay the 1,000 gold to receive the Game Hunter's Rabbit Meat.  
         - B2F
             - Harken back to B2F.
-            - <span style="color: #FF0000">*</span>Important! Review the "Map - Bait Placement" tab. Approach from the west path (yellow check-mark) and stand on the tile where MC's cursor is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
+            - <span style="color: #FF0000">*</span> Important! Review the "Map - Bait Placement" tab. Approach from the west path (yellow check-mark) and stand on the tile where MC's cursor is located. If done correctly you will see a cutscene with Lulu. If you move outside the wolf's patrol area, then the game may become bugged and you will have to exit and try again or reset the entire request. 
             - The rabbit meat will distract the wolf. Head north to B3F. 
         - B3F
             - Return to the bottom-left room and engage the second wolf.
-            - <span style="color: #FF0000">*</span>Warning! This is a back-to-back fight against both wolves with no opportunity to heal inbetween. 
+            - <span style="color: #FF0000">*</span> Warning! This is a back-to-back fight against both wolves with no opportunity to heal inbetween. 
         - Post-Battle 
             - After the fight you will receive the Alabaster Pelt. Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow. 
             - The request is successfully completed! The 4th Run (Best ending) is optional unless you want all the compendium entries or want both wolves to survive. 
@@ -187,7 +188,7 @@
 
     === "Boss: 2x Alabaster Balewolfs" 
     
-        - <span style="color: #FF0000">*</span>Warning! Unlike the 2nd Run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
+        - <span style="color: #FF0000">*</span> Warning! Unlike the 2nd Run where you fought the wolves together you will have back-to-back fights against each one. You will have no opportunity to heal, restore MP/SP, or cleanse status ailments between fights. 
         - Note that the B2F wolf (second fight) has permanent buffs that cannot be removed and can attack after every turn. 
         - Boss fight details to be added. 
 
