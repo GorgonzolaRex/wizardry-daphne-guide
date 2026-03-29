@@ -3,11 +3,11 @@
 !!! warning "Work in Progress"
     - Ctrl + F5 to refresh the page for new updates
 
-## Unlock Condition 
+### Unlock Condition 
 
 - Step foot into Route 1 of Abyss 4, Deepsnow Hinterlands of Isberg. 
 
-## Overview 
+### Overview 
 
 ??? note "How to Accept the Request" 
     - Go to the Royal Capital Guild. Under Requests - Featured select "Bring Me an Alabaster Pelt."
@@ -50,11 +50,11 @@
     - Fixed at 3* Blue. Note that bows are the only weapons that can roll ASPD blessings. 
     - Passive SP Up provides a flat 6 SP that does not increase upon enhancement.
 
-##### Alabaster Wolf Den 
+### Maps
 
-??? note "Dungeon Notes"
+??? note "Alabaster Wolf Den"
 
-    === "Basics" 
+    === "Notes" 
     
         - The dungeon has 3 floors with multiple long, branching paths with spike traps scattered throughout. On both B1F and B2F there are 2 drop-down holes that take you to self-contained side areas.  
         - If you have a Ranger in your party they will stop and tell you the correct path to take if you are doing a blind run. 
@@ -93,7 +93,7 @@
     ![](./img/alabaster-wolf-den-b3f.jpg)
 
 
-## Guide
+### Guide
 
 ??? note "1st Run - Bad Ending 1"
 
