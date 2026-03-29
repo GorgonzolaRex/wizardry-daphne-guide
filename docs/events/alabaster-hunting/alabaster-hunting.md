@@ -177,8 +177,8 @@
 
 ??? note "4th Run - Best Ending - Requires Ranger L25" 
 
-   === "Guide" 
-   
+    === "Guide" 
+
         - B1-2F
             - Same steps as the 2nd Run. Ignore the wolf on B2F.  
         - B3F 
@@ -198,7 +198,7 @@
             - Go to the B2F Harken. Both wolfs will reappear and lead you to the buried location of the Alabaster Coat. Using your reversal powers to restore it to pristine condition. 
             - Return to the Guild and submit the request. You will receive a gold reward and a Verdant Frost Branch Bow.  
             - The request is successfully completed. Doing the 3rd Run ("Good" ending) is completely optional unless you want all the compendium entries.
-
+            
     === "Boss: Alabaster Balewolf" 
     
         - Details forthcoming. 
