@@ -31,11 +31,17 @@
         - Recommended Units
             - A Knight is borderline mandatory for most teams as the wolf bosses will auto-counter every time they receive physical damage. 
             - Ninjas (Dissipation) and Mages (Malefic Wind) are helpful strip their buffs. 
-        - Farming
+
+    === "Farming"
+
+        - Basics
             - One of the best farming locations in the game. It provides access to Hunting Gloves and Boots (both best-in-slot), and Steel 5* Red gear.
             - Enemies on B1F are fairly weak and suitable for players that have not yet passed the Copper Grade exam.
             - Currency is low at ~20-60 per enemy or map chest.
             - Higher-than-average relic monster spawn rate. Notable enemies include Scorpion Lady, Vorpal Bunny, Snow Big Slime, and Frost Plant.  
+        - Optimal Routes
+            - 
+
 
     === "How to Reset" 
 
@@ -225,35 +231,35 @@
         - Collect body on B3F, exit, revive at the Temple. 
         - Go to bottom-left room on B3F and kill the wolf boss. 
         - Submit failed request. Reset. 
-    
+        
     === "2nd Run"
     
-    - Ignore the B2F wolf.
-    - Ignore B3F dead hunter.
-    - Fight 2x wolf boss on B3F, bottom-left room. 
-    - Request fails. Reset. 
+        - Ignore the B2F wolf.
+        - Ignore B3F dead hunter.
+        - Fight 2x wolf boss on B3F, bottom-left room. 
+        - Request fails. Reset. 
     
     === "3rd Run"
     
-    - Ignore the B2F wolf.
-    - Collect the B3F dead hunter's body and exit. Remove all Rangers from active party. 
-    - Revive at the Tempe and pick 2nd option to receive rabbit meat. 
-    - Distract B2F wolf. 
-    - Go to B3F bottom-left room. Fight back-to-back wolf bosses. Cannot heal inbetween fights. 
-    - Submit request for unique reward. 
+        - Ignore the B2F wolf.
+        - Collect the B3F dead hunter's body and exit. Remove all Rangers from active party. 
+        - Revive at the Tempe and pick 2nd option to receive rabbit meat. 
+        - Distract B2F wolf. 
+        - Go to B3F bottom-left room. Fight back-to-back wolf bosses. Cannot heal inbetween fights. 
+        - Submit request for unique reward. 
     
     === "4th Run"
     
-    - Ignore the B2F wolf.
-    - Collect the B3F dead hunter's body and exit. 
-    - L25 Ranger must be in your party. Revive at the Tempe and pick 2nd option. Told to use a bear trap. 
-    - Trap B2F wolf with Ranger bear trap skill. 
-    - Go to B3F bottom-left room and fight wolf boss. Chose to "Let it go". 
-    - Ranger will release the B2F wolf. Head to the Harken. 
-    - Follow the wolves to buried Alabaster Coat. Restore with reversal power.
-    - Submit request for unique reward. 
+        - Ignore the B2F wolf.
+        - Collect the B3F dead hunter's body and exit. 
+        - L25 Ranger must be in your party. Revive at the Tempe and pick 2nd option. Told to use a bear trap. 
+        - Trap B2F wolf with Ranger bear trap skill. 
+        - Go to B3F bottom-left room and fight wolf boss. Chose to "Let it go". 
+        - Ranger will release the B2F wolf. Head to the Harken. 
+        - Follow the wolves to buried Alabaster Coat. Restore with reversal power.
+        - Submit request for unique reward. 
     
     === "Note"
     
-    - We are experimenting with abbreviated guides. 
-    - If you like it leave a comment or ping @lightbearer on the [Discord](https://discord.gg/CKrdEgzAz).  
+        - We are experimenting with abbreviated guides. 
+        - If you like it leave a comment or ping @lightbearer on the [Discord](https://discord.gg/CKrdEgzAz).  
