@@ -1,4 +1,4 @@
-Passive Name,Inheritable,Level,Class,Inherit,Potential,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14
+Name,Inheritable,Level,Class,Inherit,Potential,L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14
 HP Up ,TRUE,6,Fighter,Benjamin,,4,10,18,28,40,54,60,,CMRIDQ,,,,,
 Attack Power Up ,TRUE,10,Fighter,Gaston,,2,4,8,12,16,20,25,,,,,,,
 Accuracy Up ,TRUE,16,Fighter,,Chloe,2,4,8,12,16,20,25,,,,,,,
