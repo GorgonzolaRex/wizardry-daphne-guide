@@ -152,6 +152,45 @@
     
     Just like Raffaello she is a "wait and see" character where the value won't really be clear until her second class is revelead.  Lets hope that when that reveal happens, unlike with Raffaello, the second class actually is a good fit for her as a character.
 
+??? info "Worse's Analysis"
+
+    Hello everyone, first time reviewer, long time spender! Today I’m breaking down the new Thief Linaria and sharing my thoughts on her kit. After that, I’ll go over my pull plan. I’m a long time player and part time whale. let’s dive in!
+
+    Before we even talk about numbers, I have to gush a little. Drecom absolutely knocked it out of the park with Linaria. Her visual design is stunning, her voice lines are full of personality, and the fact that she actually plays music and sings is next level. The animations, the little musical voice lines and actual music she plays during camp and tavern interactions, it’s all so charming. I could genuinely write multiple paragraphs just praising the production value on her, but I’ll save that for another time.
+
+    Kit Breakdown
+    Linaria is an Evil Human Thief and essentially the prototype Bard before the actual Bard class drops (if she doesn't get bard, disregard that statement).
+    Her standout feature is the unique inheritable buff: Riotous Ballad. This skill increases all damage (yes, all damage) by a flat amount and a percentage. Community testing suggests that at Lv. 1 it grants +45 flat damage and +9% damage to every damage source. Physical, magical, and even defense scaling attacks like Guardian Blow.
+    This is the first buff of its kind. Unlike Prayer of Rebellion (which only buffs physical) or Mental Unity (magic only), Riotous Ballad affects everything. It also only takes up 1 buff slot out of your 3, leaving plenty of room for Macaldia or a full Prayer of Rebellion.
+
+    Positioning & Coverage
+    The buff affects all adjacent allies to Linaria (front, side, and back), but not herself. Placement matters, putting her in the back row with Alice, for example, means she can usually only hit 2 allies instead of 3. That said, if you run a DPS Alice, you can happily buff the Priest instead.
+
+    Special Interaction Note
+    Testing with Samurai shows the flat damage portion appears to double, likely because it buffs both ATK and MAG stats. This makes split-scaling units (Samurai, Rangers) extra strong with her. 1h weapon users also benefit more from the flat damage than 2h users due to how scaling works. So hairpin, Cuisinart, and Raven Dagger users rejoice! (Digging Mattock nation, rise up?)
+
+    Complaints / Drawbacks
+    Some players are upset the buff isn’t row wide. It can feel awkward in certain comps. Also, the fact she can’t buff herself sometimes feels bad if you’re forced to waste a slot.
+
+    Encore Passive
+    Linaria’s non inheritable passive, Encore, is very strong but somewhat RNG dependent. 
+    It has a ~50% chance to trigger when she uses a non damaging skill.
+    Once it triggers, the chance decreases for subsequent activations.
+    It does not trigger on buff/debuff spells, but it does work with defensive Provoke, Savia/Gerard’s inheritable, and Hide.
+
+    When Encore activates, Linaria gets an extra turn (she can use any skill except the one she just used). This gives her excellent action economy. You can double up on buffs with Riotous Ballad->Prayer, buff then heal, cleanse + Porto, or even set up a Hide → Sneak Attack combo. 
+    Realistic Expectation 
+    Yes, it’s RNG. But in longer fights (5–7 turns), I’ve consistently seen it proc 2–3 times in Abyss 3 Giant Bounties. It’s reliable enough that it doesn’t feel like pure coin flip gambling.
+
+    Criticisms
+
+    She’s Evil in a meta that heavily favors Good/Neutral frontliners and Neutral/Evil backliners (Lana + Alice). If she were Neutral, she’d be much easier to slot into teams.
+    Her buff isn’t necessary for most content. Like Prayer or high level Macaldia. Her buff shines in super bosses and Dwarf Cave, but the game is still very clearable without her.
+    She’s not a must pull, but she’s excellent if your main DPS are Samurai, 1h users (Yuzu), or Cuisinart/Raven Dagger enjoyers.
+
+    Final Verdict
+    A very solid, well designed support unit. Drecom made her strong without making her mandatory, and she’s nicely speedy for fast buffing. Great addition to the game.
+
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -166,4 +205,8 @@
     
     For people who wont pull unless there is a gameplay justification... wait for her second class to be revealed.  Ballad is not good enough as an inherit for me to justify suggesting potentially 50 plus pulls worth of effort to get it by the odds.  Meanwhile Linaria has too many limitations and needs too much investment for me to justify saying you should use her as a character in your party in her current form as of writing this on 3/28/26.  I will say if you are just starting out she will be a strong add, she just lacks staying power past abyss 2.
 
+??? note "Worse's Pull Plan"
+
+    WOAHHHH HOT LADY + BIG (dmg buff trust)  GOTTA PULL GOTTA PULL GOTTA PULL…aaaaaand easiest D9 of my life. I did this purely for meta reasons, nothing else stop asking.  ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ 
+    
 {% endblock ReviewsAndAnalysis %}
