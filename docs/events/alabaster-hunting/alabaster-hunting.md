@@ -109,6 +109,47 @@
 
 ### Guide
 
+??? warning "Super Condensed Version"
+
+    === "1st Run"
+    
+        - Fight the wolf on B2F until it runs away. 
+        - Collect body on B3F, exit, revive at the Temple. 
+        - Go to bottom-left room on B3F and kill the wolf boss. 
+        - Submit failed request. Reset. 
+        
+    === "2nd Run"
+    
+        - Ignore the B2F wolf.
+        - Ignore B3F dead hunter.
+        - Fight 2x wolf boss on B3F, bottom-left room. 
+        - Request fails. Reset. 
+    
+    === "3rd Run"
+    
+        - Ignore the B2F wolf.
+        - Collect the B3F dead hunter's body and exit. Remove all Rangers from active party. 
+        - Revive at the Tempe and pick 2nd option to receive rabbit meat. 
+        - Distract B2F wolf. 
+        - Go to B3F bottom-left room. Fight back-to-back wolf bosses. Cannot heal inbetween fights. 
+        - Submit request for unique reward. 
+    
+    === "4th Run"
+    
+        - Ignore the B2F wolf.
+        - Collect the B3F dead hunter's body and exit. 
+        - L25 Ranger must be in your party. Revive at the Tempe and pick 2nd option. Told to use a bear trap. 
+        - Trap B2F wolf with Ranger bear trap skill. 
+        - Go to B3F bottom-left room and fight wolf boss. Chose to "Let it go". 
+        - Ranger will release the B2F wolf. Head to the Harken. 
+        - Follow the wolves to buried Alabaster Coat. Restore with reversal power.
+        - Submit request for unique reward. 
+    
+    === "Note"
+    
+        - We are experimenting with abbreviated guides. 
+        - If you like it leave a comment or ping @lightbearer on the [Discord](https://discord.gg/CKrdEgzAz).  
+
 ??? note "1st Run - Bad Ending 1"
 
     === "Guide" 
@@ -224,43 +265,4 @@
     
         - Boss fight details to be added. 
 
-??? tip "Super Condensed Version"
 
-    === "1st Run"
-    
-        - Fight the wolf on B2F until it runs away. 
-        - Collect body on B3F, exit, revive at the Temple. 
-        - Go to bottom-left room on B3F and kill the wolf boss. 
-        - Submit failed request. Reset. 
-        
-    === "2nd Run"
-    
-        - Ignore the B2F wolf.
-        - Ignore B3F dead hunter.
-        - Fight 2x wolf boss on B3F, bottom-left room. 
-        - Request fails. Reset. 
-    
-    === "3rd Run"
-    
-        - Ignore the B2F wolf.
-        - Collect the B3F dead hunter's body and exit. Remove all Rangers from active party. 
-        - Revive at the Tempe and pick 2nd option to receive rabbit meat. 
-        - Distract B2F wolf. 
-        - Go to B3F bottom-left room. Fight back-to-back wolf bosses. Cannot heal inbetween fights. 
-        - Submit request for unique reward. 
-    
-    === "4th Run"
-    
-        - Ignore the B2F wolf.
-        - Collect the B3F dead hunter's body and exit. 
-        - L25 Ranger must be in your party. Revive at the Tempe and pick 2nd option. Told to use a bear trap. 
-        - Trap B2F wolf with Ranger bear trap skill. 
-        - Go to B3F bottom-left room and fight wolf boss. Chose to "Let it go". 
-        - Ranger will release the B2F wolf. Head to the Harken. 
-        - Follow the wolves to buried Alabaster Coat. Restore with reversal power.
-        - Submit request for unique reward. 
-    
-    === "Note"
-    
-        - We are experimenting with abbreviated guides. 
-        - If you like it leave a comment or ping @lightbearer on the [Discord](https://discord.gg/CKrdEgzAz).  
