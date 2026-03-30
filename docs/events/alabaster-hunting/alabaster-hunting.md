@@ -34,7 +34,7 @@
 
     === "Farming"
 
-        - Basics
+        - Summary
             - One of the best farming locations in the game. It provides access to Hunting Gloves and Boots (both best-in-slot), and Steel 5* Red gear.
             - Enemies on B1F are fairly weak and suitable for players that have not yet passed the Copper Grade exam.
             - Currency is low at ~20-60 per enemy or map chest.
