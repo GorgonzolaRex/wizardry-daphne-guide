@@ -166,9 +166,3 @@ Saved the Duke and apprehended the mastermind.
 * You must essentially also "gather your last strength" and throw all the damage you can onto him at this point. Continue using Full Power Strike, but switch to your strongest moves if possible.
 * Depending on the difficulty based on route and corruption, he may also respawn both tentacles.
 * If you do not do enough damage in time, he will inevitably spam Deep Roar, which will switch rows and stun most of your team, effectively ending your run.
-
-??? note "Note about no Corruption Runs" 
-
-    ![](./img/no_corruption_true_ending_achievement.jpg)
-
-    It is extremely difficult to attempt a no corruption run. There is an achievement to obtain + this route is required for unlocking the cyclops bounty at bounty rank 12.
