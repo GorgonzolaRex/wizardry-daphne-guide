@@ -129,11 +129,4 @@
 ??? note "Karkarov's Pull Plan"
     Shelirionach is the best caster in the game as of writing this pull plan (9/11/25).  I recomended pulling, the end, I dont care if you are new, a long time player, abyss 1, abyss 3, etc.  It does not matter, you can find a spot in your team for Sheli she is that good.  If you have the resources and can justify it you absolutely should consider getting 3-5 copies to get her to Discipline 2 or higher.  Again, if you have the resources and can afford it.  Everything about her is hitting all all cylinders, she has no weakness or "this could have been better" aspects.  If you are someone who is of the "I dont care, I dont need another caster" mindset, cool, pass on the banner.  Just know she is better than the casters you have if you give her a similar level of investment to what you gave them.
 
-## Duplicate Usage
-
-* Discipline to improve her Magic Power and Action Speed
-* Inherit to herself to improve the activation rate of her "one-shot-prevention" skill
-* Inherit her skill to other adventurers to give them a very low chance of triggering the "one-shot-prevention" skill
-
 {% endblock ReviewsAndAnalysis %}
-

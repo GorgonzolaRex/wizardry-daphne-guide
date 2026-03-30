@@ -92,11 +92,5 @@
 ??? note "Karkarov's Pull Plan"
     
     From a character design perspective he is the coolest Samurai in the game in my opinion.  If you love this design and just have to have it, pull.  If you are anyone else do not pull.  I don't even care if you are a whale, he isn't worth it, save your gems and money.  Just pass.
-  
- 
-## Duplicate Usage
 
-* Inherit to himself to increase the skill's effectiveness
-* Inherit to someone else for situational fire damage boosting
-* Discipline will increase his damage a bit. Keep in mind, though, that Samurai only have a ~0.65 multiplier on their Magic Power contribution to effective Attack Power, so the actual damage contribution from a Magic Power Discipline would be less than the contribution to a Mage.
 {% endblock ReviewsAndAnalysis %}

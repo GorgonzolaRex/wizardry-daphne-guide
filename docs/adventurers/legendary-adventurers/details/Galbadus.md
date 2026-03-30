@@ -124,11 +124,4 @@
 
     If you love his design and are one of those theme party people go for it, pull one copy.  As my analysis implied if your name is Moby Dick go for it, cause who cares in your case?  But seriously, if you are anyone else, seriously consider holding onto your gems a bit longer.  His inherit isn't even a big win for anyone anymore save someone like a El Dorado you are using for dark element super bosses.
 
-## Duplicate Usage
-
-- If you use him, there's really no reason to use dupes on anything other than his skill inherit. Boost that skill as much as you can, as it's very powerful.
-- If you don't want to use him but want his skill on someone else, do the same thing. Get that skill level as high as you can - you'll probably want to inherit to level 3 at least in order to offset the damage loss from the inheritance
-- If you're whaling, might as well throw some Discipline in, but only after you've maxed out the skill. If you're not whaling but pulled multiple copies, skip the Discipline and go for the skill inheritance
-
 {% endblock ReviewsAndAnalysis %}
-

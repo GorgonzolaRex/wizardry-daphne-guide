@@ -122,9 +122,4 @@
 
     Maybe things will change with the 60-70 levels, but at this point I have to write this based on the now.  Right now Samurai is not in a great place, and Shiou swapped to fighter is just ... a beastfolk Fighter with nothing special to seperate her from any other Fighter.
 
-## Duplicate Usage
-
-* Inherit on her own skill will increase her self-buff.
-* Increasing her Discipline to increase her Surety.
-
 {% endblock ReviewsAndAnalysis %}

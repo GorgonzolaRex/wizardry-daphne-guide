@@ -97,10 +97,5 @@
 
 ??? note "TheAxolotl's Pull Plan"
     I'm likely going to skip him. Maybe I'll get lucky with the free bones, but unless his damage proves to be somehow incredible at higher power levels, I don't see a good way to fit him into my current party. His inherit would be nice to throw on my Rinne, but I don't think the actual value increases are enough for me to want to spend my gems on.
-    
-## Duplicate Usage
-
-* If you use him, increasing his Discipline is potentially going to be more effective for his disarming capabilities than his inherit is, but not 100% sure on this yet.
-* If you don't plan to use him but end up pulling a few copies, might as well give them to your favorite established disarmer.
 
 {% endblock ReviewsAndAnalysis %}

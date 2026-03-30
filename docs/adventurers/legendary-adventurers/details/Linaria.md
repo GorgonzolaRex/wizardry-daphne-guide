@@ -73,16 +73,28 @@
 
     So as people expected we got thief with lute… I want to praise devs on start for visual design and the audio coming along with this character. It surely is a really nice add-on to the game and will be highly appreciated by some people.
 
-    But now going to practice, she’s dark element which is the best option for thieves, followed by the human race, so nice luck growth on top of the dark element already supporting it, which means solid stats for chest opening. 
+    But now going to the practical part of the review, she’s dark element which is IMO the best option for thieves (LUCK and IQ growth), followed by the human race, so nice luck growth on top of the dark element already supporting it, which means solid stats for chest opening. 
 
     Her passive is kind of nice… but I’m not that big fan of heavy RNG in fights so I’m not losing my mind over it and I find it whatever… unless she’ll get knight later on which can be a really interesting option.
 
     Her discipline is ASPD and SP which push her more into the support side which is something I’m really happy about too, Devs did know what to do with it this time.
 
-    The interesting thing is her inheritance. It’s not ATK or MATK buff but ALL DMG UP. What does it mean in practice? First it’s active so it’s not worse than passive Lana and Alice in that matter, secondly it buffs characters that are next to her not including her, which means you can pick whichever 3 units you want to buff, cutting her off while she’s supported anyway so no buff slot is wasted. Lastly there’s no personality requested unlike in case of Lana or Alice. And also I might call it kind of future proof thanks to it. Might be better to grab her mainly for inheritance over character and just feed it to Alice. Especially looking how for example Dwarf Cave boss shows that devs might want us to stack damage buffs and supports and focus on 1-2 DPS.
+    Okay I’ll go into more details in inheritance now. This inheritance doesn’t buff strictly ATK/MAG or other stats. It’s ALL DMG Up ability, which means it’ll boost spells which scales with mag, pure ATK scaling skills, mixed scaling like samurai/ranger or guardian blow. It buffs DMG of ANYTHING. This skill also buffs 3 people, so I’ll compare other 3 people buffs. So far those are: Prayer of Rebellion, Stirring Righteousness/Valiant Righteousness and Agent of Heresy. So I’m referring to them because ALL of them are 3 person buffs unlike single target buffs like Shedding/Warrior Battlecry/Mental Unity. 
+
+    Now to compare:
+
+    Prayer of Rebellion: ROW buff, ATK Up only, ACTIVE, no personality required. Effectiveness bound to use on Fighter/Thief/Ninja.
+    Stirring Righteousness: ROW buff, ALL DMG Up, Good/Neutral personality, PASSIVE
+    Agent of Heresy: ROW buff, ALL DMG Up, Evil/Neutral personality, PASSIVE
+    Riotous Ballad: Adjacent buff, ALL DMG Up, ACTIVE, no personality required.
+
+    Now let’s go with the issues with all of them. Prayer is not effective on Ranger, doesn’t work for Guardian Blow or mages and is not fully effective on samurai. Also it’s ROW buff so forces ROW with 3 DMG for maximum efficiency of usage.
+    Stirring Righteousness forces you to have only Good/Neutral personality in ROW and 3 DMG for full efficiency, similar to Agent of Heresy forces 2 ROW DMG because one slot of buff goes to Alice already.
+    That’s where Riotous Ballad shines compared to other options with flexibility. While you need her in the middle BACK/FRONT for maximum use it has no strict personality requirements and it doesn’t force ROW full of DMG characters to be efficient, with the downside of it being an ACTIVE skill.
+    
+    What does it mean? Let’s go with examples, you can use Yuzu in the backlane with Linaria in front along with 2 other DMG so you buff 3 DMG characters in that way. Or you double down on Yuzu to push her to your main DMG and throw Linaria with Alice in the back and front DMG like Shiou or samurai MC to buff 2 hyper-carry DMG dealers. The most important part is that the skill doesn’t buff Linaria which is great. From the beginning we already saw that thieves play more of a unity/support/sup-DPS role so it’s more optimal to use them as controllers/debuffers/status appliers rather than DMG. What am I trying to say? I’m saying that Linaria not buffing herself but other 3 characters is better than the case where she would buff herself and 2 other characters. Thieves do well as a supportive class rather than your main DMG sources. Looking further into the example of hard content we finally have – Dwarves Cave it seems that the optimal way later on will be focusing on buffing one or two DPS while supporting them rather than focusing on a full DPS team for harder content. Which means that thieves played as supports will shine more on hard content while for easier one you can just use fighter with spear/bow for more effective damage per turn.
 
     Overall in my opinion the new character is really good with the main selling point being her inheritance. Her being a thief is even better because she can reach high ASPD and have better rotations. And in my opinion thieves are better as controllers and sub-dps or full supports with main selling point being delay and all kind of status/debuff skills supporting your main DPS over thieves doing DMG themselves, which Linaria leans towards, so while I wouldn’t pull for her or go crazy over her I’m really happy that developers know what they are doing.
-
 
 ??? info "Karkarov's Analysis"
 
@@ -140,8 +152,6 @@
     
     Just like Raffaello she is a "wait and see" character where the value won't really be clear until her second class is revelead.  Lets hope that when that reveal happens, unlike with Raffaello, the second class actually is a good fit for her as a character.
 
-    
-
 ## Adventurer Pull Plans
 
 ??? note "TheAxolotl's Pull Plan"
@@ -155,11 +165,5 @@
     More detail: Linaria from an aesthetics perspective is Drecom firing on all cylinders.  She looks sexy, she has a cool detailed outfit, she plays the lute in camp, sings about how hungry she is when she wants to go to the tavern, and it is all very cool.  If you want to pull because this design is just great, you know what?  You are right. Her design is absolutely great, go for it, pull one copy.  Good luck, and I hope you dont need 96 pulls.  
     
     For people who wont pull unless there is a gameplay justification... wait for her second class to be revealed.  Ballad is not good enough as an inherit for me to justify suggesting potentially 50 plus pulls worth of effort to get it by the odds.  Meanwhile Linaria has too many limitations and needs too much investment for me to justify saying you should use her as a character in your party in her current form as of writing this on 3/28/26.  I will say if you are just starting out she will be a strong add, she just lacks staying power past abyss 2.
- 
-## Duplicate Usage
-
-* Inherit to herself to increase the buff magnitude
-* Inherit to someone else
-* Discipline will slightly boost her action speed and SP
 
 {% endblock ReviewsAndAnalysis %}

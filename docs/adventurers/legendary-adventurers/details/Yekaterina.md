@@ -141,8 +141,4 @@
 
     I would not suggest pulling past the 100 pity though unless you are a serious Yeka addict or a whale.  I am not sure I would even advise going for more than one copy.  She is at the end of the day no competition for Sheli from a meta perspective, and not doing anything normal bone pull Yeka can't do.  If she were only available in banners and not in the normal pulls I would honestly rate her a bit higher in priority, but she is available in the normal pulls.
 
-## Duplicate Usage
-
-* Discipline or skill inherit. This one is tough to determine since we can't see the impact of her anti-ambush skill on the character sheet. You can't go wrong with either option.
-* Inherit her skill to the MC. Again, hard to evaluate because we can't see the impact and reduction of the anti-ambush skill on the MC.
 {% endblock ReviewsAndAnalysis %}

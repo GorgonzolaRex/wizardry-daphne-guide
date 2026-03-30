@@ -86,9 +86,5 @@
 
 ??? note "Lynd's Pull Plan"
     She's hot so I pulled immediately. At some point I blanked out and she had some discipline levels and Inherit leveled. I'll max her when she rolls around again.
-    
-## Duplicate Usage
 
-* Increasing her Discipline to increase her Attack Power.
-* Inherit on her own skill will increase the damage and accuracy reduction amount of her Flutterdream Flash.
 {% endblock ReviewsAndAnalysis %}

@@ -130,9 +130,4 @@
 ??? note "Karkarov's Pull Plan"
     Do you love goth boys with a strong boot game and cape?  Is Abenius a mainstay in your parties front line?  Do you actually need a strong Mage and have not fully invested in one yet, and this banner is running?  Then Madam is the man for you!  However if none of that applies... then you should give this banner a pass in my opinion. Madam on his own is not strong enough to be a recommended pull, but if your party comp synergies with his unique skill you should definitely consider pulling for this fine gentleman.									
 
-## Duplicate Usage
-
-* If you like Adam and plan to use him on your team, boosting his Discipline level will increase his damage
-* Inherit his skill on your MC for some nice QoL gains
-* Inherit his skill on your other favorite damage dealers or save for future use
 {% endblock ReviewsAndAnalysis %}

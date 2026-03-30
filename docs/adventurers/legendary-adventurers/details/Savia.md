@@ -95,11 +95,5 @@
 
 ??? note "Lynd's Pull Plan"
     I pulled for collection because she looked cool but tbh honest, she worked pretty well in the backline enough for me to bring her in occasionally so maybe I should've thrown a couple more for discipline.
-    
-## Duplicate Usage
-
-* Inherit to MC if you want him to abuse the Opening strategy
-* Inherit to Savia if you want to increase her counterattack damage
-* Discipline if you want to boost her evasion
 
 {% endblock ReviewsAndAnalysis %}

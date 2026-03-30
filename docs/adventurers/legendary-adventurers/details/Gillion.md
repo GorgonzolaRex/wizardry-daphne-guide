@@ -120,11 +120,4 @@
 
     It is also worth saying it, from a Gacha Gear perspective this banner is just fire.  Every item is actually great, even the ring, and the armor and two hand sword are both the new "best in slot" in their respective gear catagories. A meta geared / inherited character can possibly reach 1000 atp with the sword.
 
-## Duplicate Usage
-
-* Inherit his skill to himself for increased damage on his heavy hitting single target spell
-* Discipline for the usual small gains to stats
-* Inherit to the MC if you want a relatively quick "kill me now so I can flame and reset" trigger
-
 {% endblock ReviewsAndAnalysis %}
-

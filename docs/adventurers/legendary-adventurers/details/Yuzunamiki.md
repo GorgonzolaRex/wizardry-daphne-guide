@@ -129,9 +129,4 @@
 
     Much like a cheap imitation of Captain America, I vanished from public eye and returned to a modern era filled with new Wizardry mechanics, meta shifts, and characters with kits I know not. Confused...frightened, even! I retun as the shining paragon of hope amongst those who neither read nor think. Let us unite, friends. Pull for those pretty pixels on a screen, and let nothing distract us from our purpose!
 
-## Duplicate Usage
-
-* Inherit on her own skill will increase its effectiveness.
-* Inherit to another adventurer if you need to give them a solid active skill.
-* Increasing her Discipline to increase her Attack Power and SP.
 {% endblock ReviewsAndAnalysis %}

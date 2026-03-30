@@ -48,9 +48,11 @@
 
 ??? info "TheAxolotl's Analysis"
 
-    Arboris is our very first limited legendary thief and he is, in my opinion, situationally useful at best.
+    Arboris is our very first limited legendary thief and he is, in my opinion, situationally useful at best but with an excellent inherit.
 
-    `Astral Break` is a major attack skill, which is great. It hits hard and provides a solid damage option for thieves. It's very costly SP-wise, at 20 SP for level 1, and being an elf, he already has a smaller SP pool than Debra, who is going to be his most common competitor. This skill is effectively an attack that simultaneously casts `PORTO` on himself and the adventurer in front of or behind him. At a glance, this seems pretty strong, but there are a few considerations. First, `PORTO` in itself is a conditional buff since it causes no impact on the turn it is used. When you're killing things fast, the `PORTO` portion of `Astral Break` will go to waste. For more extended fights, there's definitely value in it, but it's possible you could mess up your own turn order by getting `PORTO` simultaneously on one of the fastest adventurers in your party as well as presumably a slower one. Second, the fact that this buffs in a column means you have to pay extra close attention to your formation, as you'll want to position Arboris in front of someone that could gain value from the `PORTO` buff and have it actually impact the flow of a fight. Third, the `PORTO` portion is a buff, which makes it subject to the three buff limit, so if you use him, you'll want to keep that in mind.
+    `Astral Break` is a major attack skill, which is great. It hits hard and provides a solid damage option for thieves. It's very costly SP-wise, at 20 SP for level 1, and being an elf, he already has a smaller SP pool than Debra, who is going to be his most common competitor. This skill is effectively an attack that simultaneously casts `PORTO` on himself and the adventurer in front of or behind him. One key difference between this buff and PORTO is that it does seem to apply immediately, rather than `PORTO` which applies at the beginning of an adventurer's turn. This is a major nod in `Astral Break`'s behavior. I personally don't love that it's a columnar buff, but this is one of those things where my original analysis needed to be corrected, as it's not that big of an issue as I had feared. It's still important to remember that the `PORTO` portion is a buff, which makes it subject to the three buff limit, so if you use him or the skill, you'll want to keep that in mind. Magnitude-wise, inherited `Astral Break` does seem comparable to `PORTO` with Arboris' own version being a higher magnitude, but it's hard to evaluate for sure.
+
+    `Astral Break` as a skill has become the linchpin for many aspd-based combat approaches and when inherited to multiple members of your party, enables quite a bit of lapping between your team and the enemy actions. Be cautious with this, though, as it's very likely the devs will work to prevent this from being possible or as impactful in future content.
 
     `Lord of the Deep Forest's Leadership` at a glance seems like solid evil and neutral support, however it also has some issues. First and foremost is that for the two skills being buffed, it is very hard to evaluate the effectiveness of the buffs. It is a Synergy that behaves similar to Rinne's Surety boost, always applying to him and extending to others that meet the criteria. Since it is a Synergy, that means we are unable to see the exact amount being modified, so it's a bit of a guess to know if it's even providing value. Initial testing currently seems to point to it being bugged and not doing anything, but we can't say for sure at this time. I'll update again when we know more. Assuming it is working, there are a few main scenarios I can think of where the action speed boost from `Lord of the Deep Forest's` may or may not be relevant.
 
@@ -116,10 +118,4 @@
 
     Unless you look at this guy and start going weak in the knees then swoon you should save your resources.  If you just love his look pull one copy for dispatch and call it a day.
 
-## Duplicate Usage
-
-* Increase the efficacy of his Astral Break
-* Discipline to get very minor stat boosts
-
 {% endblock ReviewsAndAnalysis %}
-

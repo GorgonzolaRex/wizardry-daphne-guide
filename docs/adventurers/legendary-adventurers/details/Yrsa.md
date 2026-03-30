@@ -122,9 +122,4 @@
 ??? note "Karkarov's Pull Plan"
     I did around 75ish pulls.  I might go to 100 just to get the bow to test with it, with it's aoe buff and high base accuracy it's possibly the best Ranger bow.  In those pulls I got two copies of Yrsa.  Personally I don't regret it, I think Ranger has a neat little kit and is a fun class design.  That said, I am not seeing anything critical or must have here.  If you love dwarves and are excited to see the first female one in game, go for it.  Don't feel like you are missing anything huge if you pass though.  Heinrico is also a Ranger, as a standard character is in the general pull list, and he is a great character in his own right.  One could argue his passive may even make him better for auto farming as it adds an extra layer of security.
 
-## Duplicate Usage
-
-* Inherit on her own skill will increase its damage.
-* Increasing her Discipline will give her more SP.
 {% endblock ReviewsAndAnalysis %}
-

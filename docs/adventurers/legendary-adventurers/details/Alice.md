@@ -224,9 +224,5 @@
         If you use Alice in her normal form you should at least try to pull two copies of Shrine Maiden Alice, one to merge, and one to feed for that level 1 discipline on the Alt Skin.  That's what I did, and I don't really think you need to do more than that unless you want to go ham to really push the discipline.  Her skill is not super great due to the very low proc rate, so you don't need to worry about leveling that. 
 
 ## Duplicate Usage
-
-* Inherit her skill on other buffers/debuffers you use. This is a great inherit for almost any adventurer, and extends the duration of most time-based abilities including Warrior's Battle Cry, Mental Unity, and even the Knight's three Cover skills.
-* If you plan to use Alice, increasing her Discipline will increase her damage and healing.
-* Save for future use.
        
 {% endblock ReviewsAndAnalysis %}

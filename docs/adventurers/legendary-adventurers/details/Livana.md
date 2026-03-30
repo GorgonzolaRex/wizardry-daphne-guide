@@ -118,10 +118,5 @@
     Livana can work well in your party at Discipline 0, and really only needs Moonlit Toss to get to level 3 to cover all the content currently in game.  Aka, at 3 copies pulled (which is the number you should get by average at 100, 2 pulled + 1 token buy), she is good to go for inclusion in any party, even a party in late game.  At 1 copy she is ready to go for anything up to current (10/9/25 at the time of this post) content, save maybe the high end stuff.  You can also get her skill to level 3 with scrolls without too much effort.  Great as an inherit for back row units, great as a character herself, doesn't need anything special inherit-wise but 1 Adam, can even do great DPS as a Knight, yeah, I am going to say it...
 
     I think Livana is a recommended pull for anyone who wants to add a quality Fighter/Knight to their roster regardless of their current place in game content.  Also, on the Abs tier list she is SSSSSSSSSSSGODTIERMASTEROFALLBOWDOWNUPEASANT tier.  If you care about that tier list you better pull, just saying.  It's official, the Age of the Bronze Skinned Muscle Mommy has begun.
-    
-## Duplicate Usage
 
-* Inherit on her own skill will increase the efficacy of `Moonlit Pool of the White Daemon`
-* Discipline is nothing stellar, but will boost some of her stats a bit
-* Inheriting to the MC or another favorite damage dealer is an option, but I'd personally avoid that due to the damage loss, forced single it, and lower chance of applying the bind or debuff
 {% endblock ReviewsAndAnalysis %}

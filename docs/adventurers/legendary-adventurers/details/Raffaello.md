@@ -105,10 +105,5 @@
     If you love the design of this character or you are just someone that has to get a copy of every character for their roster, ok, I get it.  Pull 1 copy.
     
     If you are anyone else, do not pull.  His alt class basically added nothing other than making him slightly better for auto farming cause it increases money item drops.  Any theif can do that.  Raffalmao is confirmed bottom tier legend at this point and not worth your gems much less real world money.
-    
-## Duplicate Usage
 
-* Inherit to increase the magnitude of his spell's damage and healing capabilities
-* Discipline if you really want more MP and Piety
 {% endblock ReviewsAndAnalysis %}
-

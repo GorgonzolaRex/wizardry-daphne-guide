@@ -158,11 +158,4 @@
     
     She doesn't bring anything to the table that makes her better than other thieves that are in the general pool, or even other knights in the general pool.  I think this banner will make Drecom some money, but for all the wrong reasons.
 
-
-## Duplicate Usage
-
-* Golden Maiden dupes could be used to boost her signature skill damage or her Discipline. I'd lean skill over discipline, but you do you. It is not worth inheriting her skill to other adventurers, as Heavy Attack is much more easily available and will outperform Mirage Hunting in most scenarios.
-* Standard style duplicates are greatly desired by any SP-users you run. Pretty much everyone wants at least one copy of her, if not more
-* Increasing her standard style Discipline will increase her damage, while inheriting her skill to herself will increase the SP restore amount
-
 {% endblock ReviewsAndAnalysis %}

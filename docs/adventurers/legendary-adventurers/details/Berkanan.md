@@ -86,11 +86,4 @@
 ??? note "Lynd's Pull Plan"
     Massive. Deserving of massive pulls. Massive inheriting. Massive usage. Quote me on that.
 
-## Duplicate Usage:
-
-* Inherit her spell to herself for increased damage
-* Discipline for small gains to important stats
-* Inherit her spell to the MC or other spellcasters. Having an attack spell that applies two debuffs might situationally be beneficial, especially if you don't want to run multiple mages
-
 {% endblock ReviewsAndAnalysis %}
-

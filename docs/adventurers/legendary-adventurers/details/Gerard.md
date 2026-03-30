@@ -48,13 +48,25 @@
 
 ??? info "TheAxolotl's Analysis"
 
-    Poor Gerard has not aged that well. He's not a bad legendary by any means, but many of his initial advantages have been relegated to less impactful now that we have new adventurers and skills available to us. I wouldn't go as far as saying he's been powercrept, but he's definitely lost a bit of his luster in comparison to when he was initially released.
+    === "Standard"
 
-    His Thunderstrike skill is very potent when hitting weaknesses, and having the chance to paralyze your foes can be a nice added bonus. Unfortunately, with the addition of Full Power Strike to the Fighter arsenal, even if class changing Gerard to Fighter, his signature skill becomes a conditional attack at best. Full Power Strike will be both more efficient and overall higher consistent damage than Thunderstrike. Another key thing to note is that he is a Dark type adventurer with a Air type skill, which means he misses out on a same-type damage multiplier when hitting weaknesses, which is unfortunate.
+        Poor Gerard has not aged that well. He's not a bad legendary by any means, but many of his initial advantages have been relegated to less impactful now that we have new adventurers and skills available to us. I wouldn't go as far as saying he's been powercrept, but he's definitely lost a bit of his luster in comparison to when he was initially released.
 
-    Lightning Celerity is fine - it's a passive personal evasion increase, however it's a static increase and not a percentage, so it will lose value as stats increase.
+        His Thunderstrike skill is very potent when hitting weaknesses, and having the chance to paralyze your foes can be a nice added bonus. Unfortunately, with the addition of Full Power Strike to the Fighter arsenal, even if class changing Gerard to Fighter, his signature skill becomes a conditional attack at best. Full Power Strike will be both more efficient and overall higher consistent damage than Thunderstrike. Another key thing to note is that he is a Dark type adventurer with a Air type skill, which means he misses out on a same-type damage multiplier when hitting weaknesses, which is unfortunate.
 
-    Gerard's biggest disadvantage is that he is designed to do damage, but his signature skills don't contribute much in the way towards dealing most of his damage. He has a small niche in that as of his first rerun, he's still our highest damaging Knight adventurer, but his access to a Fighter class change largely renders his Thunderstrike skill obsolete in a large majority of current content.
+        Lightning Celerity is fine - it's a passive personal evasion increase, however it's a static increase and not a percentage, so it will lose value as stats increase.
+
+        Gerard's biggest disadvantage is that he is designed to do damage, but his signature skills don't contribute much in the way towards dealing most of his damage. He has a small niche in that as of his first rerun, he's still our highest damaging Knight adventurer, but his access to a Fighter class change largely renders his Thunderstrike skill obsolete in a large majority of current content.
+
+    === "Guardian of the Shadows"
+
+        Well, we get a second form of Gerard before a second form of Gerulf for reasons unknown, and this form is...fine, I guess? His main claim to fame is his skill, which acts similarly to Savia's BBF with a couple of minor differences:
+
+        1. This skill is cheaper
+        2. This skill deals most of its damage based on DEF rather than on ATK
+        3. This skill does not require evading an attack to trigger
+
+        This provides some synergy with All-Around Cover and also compliments a Guardian Blow build, enabling a DEF/MDEF-geared Knight to provide some chip damage while defending allies. All in all, there are worse things out there, but the big limitation is just how often it would provide value in difficult fights, and that's still relatively rare.
 
 ??? info "Frobro's Analysis"
 
@@ -81,10 +93,5 @@
 
 ??? note "Lynd's Pull Plan"
     Gerard is my boy. So I maxed his discipline because every adventurer needs a fully obedient dog. Side note: he was my mvp for killing the dragon during the collab.
-    
-## Duplicate Usage
-
-* Inherit on his own skill will increase the damage and cost of his Thunderstrike. This will result in more damage than increasing his Discipline will.
-* If you've maxed out his Thunderstrike, increase his Discipline to increase his speed and evasion, which are both great skills to boost.
 
 {% endblock ReviewsAndAnalysis %}

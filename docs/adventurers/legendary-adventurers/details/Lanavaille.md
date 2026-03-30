@@ -115,13 +115,4 @@
 ??? note "TheAxolotl's Pull Plan"
     I pulled for a couple copies of Wandering Lana. My main goal was a base copy plus a single copy for the OCD Discipline. Getting rid fo the OG Lana's voice was a big enough reason for me to pull.
 
-## Duplicate Usage:
-
-* Either Inherit her standard style dupes to level Queen of Love and War or Discipline the standard style.  
-* Wandering Princess dupes can either be used for leveling Aegis Smash or Discipline the Wandering Princess style. 
-    * Remember, if you merge Lanavaille both styles will need at least discipline 1 to benefit from merged combined discipline.
-* Inherit standard style Queen of Love and War to the MC, just remember that this skill does not stack.  Only the highest HP heal on any character will trigger at the end of combat.
-* Inherit Wandering Princess Aegis Smash to a physical damage dealer.
-* Save for future use or dismiss for Grade tags.
-
 {% endblock ReviewsAndAnalysis %}

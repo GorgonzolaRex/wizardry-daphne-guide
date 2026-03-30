@@ -91,11 +91,4 @@
 ??? note "Lynd's Pull Plan"
     Mostly Tzalik bait but he looked cool too so I threw some to get a meager maxed discipline because I'm inefficient.
 
-## Duplicate Usage:
-
-* Inherit his spell to himself for increased damage on his heavy hitting single target spell
-* Discipline for small gains to four very important stats
-* Inherit his spell to the MC. Even with a ~40% damage reduction, the Major base damage and Magic Defense piercing should still result in a very respectable single target damage spell
-
 {% endblock ReviewsAndAnalysis %}
-

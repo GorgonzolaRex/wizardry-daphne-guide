@@ -74,10 +74,4 @@
 
     To sum it up. When it comes to unga bunga, Gerulf is your best choice and he’ll do it better than any other fighter. Definitely worth dropping the idea of going crazy over Lana passive and using him if you like him. The only issue is that he’ll be sitting on your front row with a 2h hammer to bring most of his potential. So if you’re using for example Galba that are already 2 front slots taken. His Eruption Strike is doing great damage now, his setup (fire, male, dwarf) is perfect for fighters that benefit greatly from STR and DEX with only demerit - low SPD. His discipline is great. He’s simple but he does what he’s supposed to do the best - using a hammer for crowd control. After all there’s no better crowd control than death.
 
-## Duplicate Usage
-
-* Inherit on his own skill will increase the damage and cost of his Eruption Strike.
-* Once his Eruption Strike is maxed out, increase his Discipline to increase his damage further.
-* Save for future use or dismiss for Grade tags.
-
 {% endblock ReviewsAndAnalysis %}
