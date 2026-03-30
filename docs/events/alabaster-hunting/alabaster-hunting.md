@@ -115,7 +115,7 @@
             - At the end of the path you will encounter a wolf. It has infinite HP and will flee after you do enough damage or several turns have passed. Continue north to the B3F stairs. 
         - B3F
             - Upon entering you will find a dead hunter. Collect the body and exit back to town. Go to any Temple and revive him to learn that he was the missing hunter that Lady Matilda hired.  
-            - <span style="color: #F2473A">*</span> Warning! If you do not revive him, then the wolf boss will not spawn on B3F.
+            - <span style="color: #F2473A">Warning!</span> If you do not revive him, then the wolf boss will not spawn on B3F.
             - Return to B3F and make your way to the bottom-left room. There are more difficult enemies on this floor, including Gorgons.
             - Defeat the Alabaster Balewolf. 
         - Post-Battle 
