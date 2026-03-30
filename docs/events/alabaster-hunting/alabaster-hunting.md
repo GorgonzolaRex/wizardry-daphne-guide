@@ -14,9 +14,9 @@
     - Speak with Lady Matilda and read each of the options. If you have a Ranger in your party, you will receive slightly different text. 
     - The Alabaster Wolf Den is located directly west of Isberg on the world map. 
 
-??? warning "Important Notes - Read Me"
+??? warning "Before You Begin - Read Me"
 
-    === "Before You Begin" 
+    === "Basics" 
 
         - Endings
             - Total of 4 different endings. Minimum of 3 runs to complete the request.   
