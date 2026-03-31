@@ -153,7 +153,7 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
 #### Overview
 
-!!! warning "Basics" 
+!!! note "Basics" 
 
     === "Definition" 
 
@@ -164,7 +164,7 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
     === "How to Identify a IV" 
     
-        === "Basics" 
+        === "Steps" 
         
             - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
             - There are two primary ways to check for a IV:
@@ -188,12 +188,12 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
                 ![](./img/gandolfo-str-iv.PNG)
                 </div>
     
-            === "Checking Leveled Units"
-            
-                - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
-                - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
-                - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
-                - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
+        === "Checking Leveled Units"
+        
+            - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
+            - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
+            - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
+            - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
 
     === "Hidden IVs" 
     
@@ -203,25 +203,27 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
             - For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
             - Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
 
-#### Drecom Official Tables
+    === "Drecom Official Tables"
 
-- Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html).
-- Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
+        === "How to Navigate" 
 
-??? note "Trait Pattern System"
+            - Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html).
+            - Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
 
-    - Total of 8 possible "patterns" (P#) with a 12.5% chance for each.
-    - The pattern entries show whether a IV is possible in the following order:
-        - P1: Strength
-        - P2: IQ
-        - P3: Piety
-        - P4: Vitality
-        - P5: Dexterity
-        - P6: Speed
-        - P7: Luck
-        - P8: Base or Neutral IV
-    - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) [entry](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=10%20(75.0000%25)-,11%20(25.0000%25),-16) for an example.
-    - Some units have "Hidden IVs", which means they are not visible in their default class. 
+        === "Trait Pattern System" 
+
+            - Total of 8 possible "patterns" (P#) with a 12.5% chance for each.
+            - The pattern entries show whether a IV is possible in the following order:
+                - P1: Strength
+                - P2: IQ
+                - P3: Piety
+                - P4: Vitality
+                - P5: Dexterity
+                - P6: Speed
+                - P7: Luck
+                - P8: Base or Neutral IV
+            - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) [entry](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=10%20(75.0000%25)-,11%20(25.0000%25),-16) for an example.
+            - Some units have "Hidden IVs", which means they are not visible in their default class. 
 
 #### IV Perspectives 
 
@@ -234,15 +236,15 @@ Even if you have a IV with a high degree of synergy (e.g., Beastfolk Thief with 
 
 One of the biggest unknowns is the value of a IV trait over the long-term. For example, assuming the final level cap is set to 130, it could be the case that all units will eventually hit some maximum trait value, but that a IV gets you to the cap faster. Conversely, we might see growing differences in total stat differences between IV and Neutral IV copies at each new level cap. There is also the possibility that Drecom might rework the entire trait scaling system in the future.   
 
-**Personal Opinions**
+??? note "Personal Opinions" 
 
-??? note "TheAxolotl"
+    === "TheAxolotl"
+    
+        When you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
 
-    When you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
-
-??? note "Karkarov" 
-
-    Personal opinion is much the same as TheAxolotl's.  Ultimately it depends on the player, those who are happy to spend money and "whale" should absolutely be picky and wait for that perfect Character copy with the desired meta level 1 Traits.  For the average player who is Free to Play you should just use what you have and know that this is not going to make or break a Character. There are many ways to tweak your ultimate Trait values, from gear, to bondmates, to brews, etc etc.  There is no such thing as a "bad Character" in Daphne.
+    === "Karkarov" 
+    
+        Personal opinion is much the same as TheAxolotl's.  Ultimately it depends on the player, those who are happy to spend money and "whale" should absolutely be picky and wait for that perfect Character copy with the desired meta level 1 Traits.  For the average player who is Free to Play you should just use what you have and know that this is not going to make or break a Character. There are many ways to tweak your ultimate Trait values, from gear, to bondmates, to brews, etc etc.  There is no such thing as a "bad Character" in Daphne.
 
 ### Trait Point Variance
 
