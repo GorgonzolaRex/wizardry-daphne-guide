@@ -151,7 +151,9 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
 !!! warning "You will never ruin an Adventurer by using one with no IV or a less than ideal IV."
 
-!!! warning "Overview" 
+#### Overview
+
+!!! warning "Basics" 
 
     === "Definition" 
 
