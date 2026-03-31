@@ -151,6 +151,8 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
 !!! warning "You will never ruin an Adventurer by using one with no IV or a less than ideal IV."
 
+#### Overview 
+
 !!! warning "Definition"
 
     - At creation a unit's trait _growth_ rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
@@ -221,6 +223,7 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 #### IV Perspectives 
 
 Whether a IV is present or not will never make-or-break a unit. It is just a small bonus. Class and Race are the primary drivers of trait growth. For example: 
+
 - An Elf Mage will always have excellent IQ growth even if they are a IV DEX.
 - A IV SPD Dwarf Fighter will still have low SPD at level 70 since the additional IV growth is modifying an already low base growth rate.
 
@@ -228,11 +231,15 @@ Even if you have a IV with a high degree of synergy (e.g., Beastfolk Thief with 
 
 One of the biggest unknowns is the value of a IV trait over the long-term. For example, assuming the final level cap is set to 130, it could be the case that all units will eventually hit some maximum trait value, but that a IV gets you to the cap faster. Conversely, we might see growing differences in total stat differences between IV and Neutral IV copies at each new level cap. There is also the possibility that Drecom might rework the entire trait scaling system in the future.   
 
-**Personal Opinions:**
+**Personal Opinions**
 
-- TheAxolotl: When you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
-- Karkarov: Personal opinion is much the same as TheAxolotl's.  Ultimately it depends on the player, those who are happy to spend money and "whale" should absolutely be picky and wait for that perfect Character copy with the desired meta level 1 Traits.  For the average player who is Free to Play you should just use what you have and know that this is not going to make or break a Character. There are many ways to tweak your ultimate Trait values, from gear, to bondmates, to brews, etc etc.  There is no such thing as a "bad Character" in Daphne.
+??? note "TheAxolotl"
 
+    When you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
+
+??? note "Karkarov" 
+
+    Personal opinion is much the same as TheAxolotl's.  Ultimately it depends on the player, those who are happy to spend money and "whale" should absolutely be picky and wait for that perfect Character copy with the desired meta level 1 Traits.  For the average player who is Free to Play you should just use what you have and know that this is not going to make or break a Character. There are many ways to tweak your ultimate Trait values, from gear, to bondmates, to brews, etc etc.  There is no such thing as a "bad Character" in Daphne.
 
 ### Trait Point Variance
 
