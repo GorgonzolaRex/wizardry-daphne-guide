@@ -152,7 +152,7 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 !!! warning "Definition"
 
     - At creation a unit's trait _growth_ rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
-    - The elevated growth rate translate to 5-10 additional trait points at Level 70 absent BP allocation. 
+    - The elevated growth rate translate to 5-10 additional trait points, on average, at Level 70 absent BP allocation. 
     - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
     - A unit can only ever have one IV trait.
 
@@ -170,7 +170,7 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
         === "Gandolfo Base Traits"
 
             <div align="center">
-            ![](./img/gandolfo-neutral-iv.png)
+            ![](./img/gandolfo-neutral-iv.PNG)
             </div>
 
         === "Gandolfo IV Strength"
@@ -179,14 +179,15 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
             - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
             
             <div align="center">
-            ![](./img/gandolfo-str-iv.png)
+            ![](./img/gandolfo-str-iv.PNG)
             </div>
 
     === "Checking Leveled Units"
     
         - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
-        - You also have to take into account the +1 to all traits that come from a new Grade. If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
-        - Share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
+        - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
+        - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
+        - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
 
 ??? note "Hidden IVs" 
 
