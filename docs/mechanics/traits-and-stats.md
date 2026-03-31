@@ -212,8 +212,8 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
         === "How to Navigate" 
 
-            - Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html).
-            - Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
+            - Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=Stat%20Drop%20Rates%20by%20Adventurer).
+            - If that link is not working properly, then scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
 
         === "Trait Pattern System" 
 
