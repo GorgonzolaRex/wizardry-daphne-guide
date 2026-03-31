@@ -152,8 +152,9 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 !!! warning "Definition"
 
     - At creation a unit's trait _growth_ rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
-    - The elevated growth rate translate to 5-10 additional trait points at Level 70 absent BP allocation. A unit can only ever have one IV trait. 
+    - The elevated growth rate translate to 5-10 additional trait points at Level 70 absent BP allocation. 
     - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
+    - A unit can only ever have one IV trait.
 
 ??? note "How to Identify a IV" 
 
