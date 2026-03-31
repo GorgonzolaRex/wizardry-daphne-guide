@@ -157,21 +157,21 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
     === "Definition" 
 
-        - At creation a unit's trait _growth_ rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
+        - At creation a unit's trait growth rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
         - The elevated growth rate translate to 5-10 additional trait points, on average, at Level 70 absent BP allocation. 
         - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
         - A unit can only ever have one IV trait.
 
     === "How to Identify a IV" 
     
-        === "Steps" 
+        === "At Level 1" 
         
             - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
             - There are two primary ways to check for a IV:
                 - When first pulled at the Ruins. 
                 - When registering a unit from the Adventure Log.
     
-        === "Checking Leveled Units"
+        === "At Level 2+"
         
             - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
             - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
@@ -224,7 +224,7 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
             - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) [entry](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=10%20(75.0000%25)-,11%20(25.0000%25),-16) for an example.
             - Some units have "Hidden IVs", which means they are not visible in their default class. 
 
-#### IV Perspectives 
+#### Perspectives 
 
 Whether a IV is present or not will never make-or-break a unit. It is just a small bonus. Class and Race are the primary drivers of trait growth. For example: 
 
