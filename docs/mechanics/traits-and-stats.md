@@ -171,23 +171,6 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
                 - When first pulled at the Ruins. 
                 - When registering a unit from the Adventure Log.
     
-        === "Example"
-            
-            === "Gandolfo Base Traits"
-    
-                <div align="center">
-                ![](./img/gandolfo-neutral-iv.PNG)
-                </div>
-    
-            === "Gandolfo IV Strength"
-    
-                - Gandolfo's base Strength is 14. 
-                - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
-                
-                <div align="center">
-                ![](./img/gandolfo-str-iv.PNG)
-                </div>
-    
         === "Checking Leveled Units"
         
             - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
@@ -195,13 +178,29 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
             - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
             - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
 
+    === "IV Example"
+        
+        === "Gandolfo Base Traits"
+
+            <div align="center">
+            ![](./img/gandolfo-neutral-iv.PNG)
+            </div>
+
+        === "Gandolfo IV Strength"
+
+            - Gandolfo's base Strength is 14. 
+            - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
+            
+            <div align="center">
+            ![](./img/gandolfo-str-iv.PNG)
+            </div>
+
     === "Hidden IVs" 
     
         - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits. 
         - To check for a hidden IV go to the Training Room - Class Change. Select their second class and see if they have a +1 to the trait you are targeting. Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
-        - They are most common with class and race combinations that result in low growth rates for a specific trait. 
-            - For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
-            - Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
+        - They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
+        - Mechanically, the class modifier is depressing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
 
     === "Drecom Official Tables"
 
@@ -231,8 +230,7 @@ Whether a IV is present or not will never make-or-break a unit. It is just a sma
 
 - An Elf Mage will always have excellent IQ growth even if they are a IV DEX.
 - A IV SPD Dwarf Fighter will still have low SPD at level 70 since the additional IV growth is modifying an already low base growth rate.
-
-Even if you have a IV with a high degree of synergy (e.g., Beastfolk Thief with IV SPD) the difference will only be 5-10 additional SPD points over a Neutral IV copy. With poor synergy (e.g., Human Ninja with IV VIT) the difference, on average, is 5-7 points. 
+- In summary, even if you have a IV with a high degree of synergy (e.g., Beastfolk Thief with IV SPD) the difference will only be 5-10 additional SPD points over a Neutral IV copy. With poor synergy (e.g., Human Ninja with IV VIT) the difference, on average, is 5-7 points. 
 
 One of the biggest unknowns is the value of a IV trait over the long-term. For example, assuming the final level cap is set to 130, it could be the case that all units will eventually hit some maximum trait value, but that a IV gets you to the cap faster. Conversely, we might see growing differences in total stat differences between IV and Neutral IV copies at each new level cap. There is also the possibility that Drecom might rework the entire trait scaling system in the future.   
 
