@@ -182,13 +182,15 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
         
         === "Gandolfo Base Traits"
 
+            - These are Gandolfo's default trait or Neutral IV values.
+
             <div align="center">
             ![](./img/gandolfo-neutral-iv.PNG)
             </div>
 
         === "Gandolfo IV Strength"
 
-            - Gandolfo's base Strength is 14. 
+            - Gandolfo's standard base Strength is 14. 
             - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
             
             <div align="center">
