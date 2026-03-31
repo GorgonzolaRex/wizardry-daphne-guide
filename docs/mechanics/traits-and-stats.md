@@ -165,11 +165,22 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
             - When first pulled at the Ruins. 
             - When registering a unit from the Adventure Log.
 
-    === "Examples" 
-    
-        - Lanavaille's base Strength is 15, if it shows 16 then she has a IV STR.
-        - Alice's base IQ is 18, if it shows 19 then she has a IV IQ.
-        - Debra's base Speed is 17, if it shows 18 then has a IV SPD. 
+    === "Example"
+
+        === "Gandolfo Base Traits"
+
+            <div align="center">
+            ![](./img/gandolfo-neutral-iv.png)
+            </div>
+
+        === "Gandolfo IV Strength"
+
+            - Gandolfo's base Strength is 14. 
+            - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
+            
+            <div align="center">
+            ![](./img/gandolfo-str-iv.png)
+            </div>
 
     === "Checking Leveled Units"
     
