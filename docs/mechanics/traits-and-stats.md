@@ -199,8 +199,12 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
     === "Hidden IVs" 
     
-        - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits. 
-        - To check for a hidden IV go to the Training Room - Class Change. Select their second class and see if they have a +1 to the trait you are targeting. Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
+        - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits.
+        - The Drecom official tables (see next tab) can be used to confirm whether a unit has a Hidden IV or not in their default class. 
+        - To check for a Hidden IV:
+            - Go to the Training Room - Class Change. 
+            - Select their second class and see if they have a +1 to the trait you are targeting. Note that this only works if their second class is at Level 1.  
+            - Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
         - They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
         - Mechanically, the class modifier is depressing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
 
