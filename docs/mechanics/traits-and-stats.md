@@ -192,12 +192,14 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 ??? note "Hidden IVs" 
 
     - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits. 
-    - They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
     - To check for a hidden IV go to the Training Room - Class Change. Select their second class and see if they have a +1 to the trait you are targeting. Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
+    - They are most common with class and race combinations that result in low growth rates for a specific trait. 
+        - For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
+        - Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
 
 #### Drecom Official Tables
 
-Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html). Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. The data tables have revealed several important facts about the IV system:
+- Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html). Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
 
 ??? note "Trait Pattern System"
 
@@ -211,7 +213,7 @@ Drecom has published official data tables on its [site](https://wizardry.info/da
         - P6: Speed
         - P7: Luck
         - P8: Base or Neutral IV
-    - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) entry for an example.
+    - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) [entry](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=10%20(75.0000%25)-,11%20(25.0000%25),-16) for an example.
     - Some units have "Hidden IVs", which means they are not visible in their default class. 
 
 #### IV Perspectives 
