@@ -151,59 +151,60 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
 !!! warning "You will never ruin an Adventurer by using one with no IV or a less than ideal IV."
 
-#### Overview 
+!!! warning "Overview" 
 
-!!! warning "Definition"
+    ==== "Definition" 
 
-    - At creation a unit's trait _growth_ rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
-    - The elevated growth rate translate to 5-10 additional trait points, on average, at Level 70 absent BP allocation. 
-    - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
-    - A unit can only ever have one IV trait.
+        - At creation a unit's trait _growth_ rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
+        - The elevated growth rate translate to 5-10 additional trait points, on average, at Level 70 absent BP allocation. 
+        - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
+        - A unit can only ever have one IV trait.
 
-??? note "How to Identify a IV" 
-
-    === "Basics" 
+    === "How to Identify a IV" 
     
-        - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
-        - There are two primary ways to check for a IV:
-            - When first pulled at the Ruins. 
-            - When registering a unit from the Adventure Log.
-
-    === "Example"
-
-        === "Gandolfo Base Traits"
-
-            <div align="center">
-            ![](./img/gandolfo-neutral-iv.PNG)
-            </div>
-
-        === "Gandolfo IV Strength"
-
-            - Gandolfo's base Strength is 14. 
-            - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
+        === "Basics" 
+        
+            - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
+            - There are two primary ways to check for a IV:
+                - When first pulled at the Ruins. 
+                - When registering a unit from the Adventure Log.
+    
+        === "Example"
             
-            <div align="center">
-            ![](./img/gandolfo-str-iv.PNG)
-            </div>
-
-    === "Checking Leveled Units"
+            === "Gandolfo Base Traits"
     
-        - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
-        - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
-        - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
-        - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
+                <div align="center">
+                ![](./img/gandolfo-neutral-iv.PNG)
+                </div>
+    
+            === "Gandolfo IV Strength"
+    
+                - Gandolfo's base Strength is 14. 
+                - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
+                
+                <div align="center">
+                ![](./img/gandolfo-str-iv.PNG)
+                </div>
+    
+            === "Checking Leveled Units"
+            
+                - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
+                - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
+                - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
+                - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
 
-??? note "Hidden IVs" 
-
-    - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits. 
-    - To check for a hidden IV go to the Training Room - Class Change. Select their second class and see if they have a +1 to the trait you are targeting. Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
-    - They are most common with class and race combinations that result in low growth rates for a specific trait. 
-        - For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
-        - Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
+    === "Hidden IVs" 
+    
+        - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits. 
+        - To check for a hidden IV go to the Training Room - Class Change. Select their second class and see if they have a +1 to the trait you are targeting. Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
+        - They are most common with class and race combinations that result in low growth rates for a specific trait. 
+            - For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
+            - Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
 
 #### Drecom Official Tables
 
-- Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html). Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
+- Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html).
+- Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
 
 ??? note "Trait Pattern System"
 
