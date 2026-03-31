@@ -147,7 +147,7 @@ Because one adventurer can only have a limited number of items, bondmates, etc.,
 
 You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely worth building because the game mechanics strongly devalue their impact. Similarly, RES formulas described below show base RES suffers greatly versus specific Tolerance boosts. Last, while EVA is EXTREMELY STRONG IN ABYSSES 1 and 2, and arguably could be placed first for all melee classes at game start, in Abyss 3 and beyond enemies start getting very high ACC. There it becomes far more important to just kill them first rather than hoping you dodge/defend. And if it is something you can't kill first, likely you also couldn't dodge it.
 
-### Trait Boost (Commonly called IV)
+### Trait Boost (IV)
 
 !!! warning "Definition"
 
@@ -155,47 +155,59 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
     - The elevated growth rate translate to 5-10 additional trait points at Level 70 absent BP allocation. A unit can only ever have one IV trait. 
     - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
 
-#### How to Identify a IV
+??? note "How to Identify a IV" 
 
-A unit has a IV trait if it is +1 point higher than its standard base traits at Level 1. Here are three examples: 
+    === "Basics" 
+    
+        - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
+        - There are two primary ways to check for a IV:
+            - When first pulled at the Ruins. 
+            - When registering a unit from the Adventure Log.
 
-- Lanavaille's base Strength is 15, if it shows 16 then she has a IV STR.
-- Alice's base IQ is 18, if it shows 19 then she has a IV IQ.
-- Debra's base Speed is 17, if it shows 18 then has a IV SPD. 
+    === "Examples" 
+    
+        - Lanavaille's base Strength is 15, if it shows 16 then she has a IV STR.
+        - Alice's base IQ is 18, if it shows 19 then she has a IV IQ.
+        - Debra's base Speed is 17, if it shows 18 then has a IV SPD. 
 
-There are two primary ways to check for a IV:
+    === "Checking Leveled Units"
+    
+        - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
+        - You also have to take into account the +1 to all traits that come from a new Grade. If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
+        - Share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
 
-- When first pulled at the Ruins. 
-- When registering a unit from the Adventure Log.
+??? note "Hidden IVs" 
 
-If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. You also have to take into account the +1 to all traits that come from a new Grade. If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. You can always have your unit reviewed on the [Discord](https://discord.gg/VSMhp9awE), too.  
+    - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits. 
+    - They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
+    - To check for a hidden IV go to the Training Room - Class Change. Select their second class and see if they have a +1 to the trait you are targeting. Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
 
 #### Drecom Official Tables
 
 Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html). Scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. The data tables have revealed several important facts about the IV system:
 
-- Total of 8 possible "patterns" (P#) with a 12.5% chance for each.
-- The pattern entries show whether a IV is possible in the following order:
-    - P1: Strength
-    - P2: IQ
-    - P3: Piety
-    - P4: Vitality
-    - P5: Dexterity
-    - P6: Speed
-    - P7: Luck
-    - P8: Base or Neutral IV
-- Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) entry for an example.
-- Some units have "Hidden IVs", which means they are not visible in their default class. 
+??? note "Trait Pattern System"
 
-#### Hidden IVs
-
-- Hidden IVs are tricky since they look like a Neutral IV at first glance.
-- They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. Mechanically, the class modifier is reducing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
-- To check for a hidden IV go to the Training Room - Class Change. Select their second class and see if they have a +1 to the trait you are targeting. Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
+    - Total of 8 possible "patterns" (P#) with a 12.5% chance for each.
+    - The pattern entries show whether a IV is possible in the following order:
+        - P1: Strength
+        - P2: IQ
+        - P3: Piety
+        - P4: Vitality
+        - P5: Dexterity
+        - P6: Speed
+        - P7: Luck
+        - P8: Base or Neutral IV
+    - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) entry for an example.
+    - Some units have "Hidden IVs", which means they are not visible in their default class. 
 
 #### IV Perspectives 
 
-Whether a IV is present or not will never make-or-break a unit. It is just a small bonus. Class and Race are the primary drivers of trait growth. For example, an Elf Mage will always have excellent IQ growth even if they are a IV DEX. Conversely, a IV SPD Dwarf Fighter will still have low SPD at level 70 since the additional IV growth is modifying an already low base growth rate. Even if you have a IV with a high degree of synergy (e.g., Beastfolk Thief with IV SPD) the difference will only be 5-10 additional SPD points over a Neutral IV copy. With poor synergy (e.g., Human Ninja with IV VIT) the difference, on average, is 5-7 points. 
+Whether a IV is present or not will never make-or-break a unit. It is just a small bonus. Class and Race are the primary drivers of trait growth. For example: 
+- An Elf Mage will always have excellent IQ growth even if they are a IV DEX.
+- A IV SPD Dwarf Fighter will still have low SPD at level 70 since the additional IV growth is modifying an already low base growth rate.
+
+Even if you have a IV with a high degree of synergy (e.g., Beastfolk Thief with IV SPD) the difference will only be 5-10 additional SPD points over a Neutral IV copy. With poor synergy (e.g., Human Ninja with IV VIT) the difference, on average, is 5-7 points. 
 
 One of the biggest unknowns is the value of a IV trait over the long-term. For example, assuming the final level cap is set to 130, it could be the case that all units will eventually hit some maximum trait value, but that a IV gets you to the cap faster. Conversely, we might see growing differences in total stat differences between IV and Neutral IV copies at each new level cap. There is also the possibility that Drecom might rework the entire trait scaling system in the future.   
 
