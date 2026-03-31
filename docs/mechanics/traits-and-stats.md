@@ -149,6 +149,8 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
 ### Trait Boost (IV)
 
+!!! warning "You will never ruin an Adventurer by using one with no IV or a less than ideal IV."
+
 !!! warning "Definition"
 
     - At creation a unit's trait _growth_ rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
@@ -231,7 +233,6 @@ One of the biggest unknowns is the value of a IV trait over the long-term. For e
 - TheAxolotl: When you have multiple copies of an adventurer to register, select the one with the IV that you prefer, as that will make a more currently notable difference in Trait Point growth than bonus points will. When you don't have multiple copies, don't worry about the IV. We don't know how IVs will play out long-term, so I personally think it's not worrying about.
 - Karkarov: Personal opinion is much the same as TheAxolotl's.  Ultimately it depends on the player, those who are happy to spend money and "whale" should absolutely be picky and wait for that perfect Character copy with the desired meta level 1 Traits.  For the average player who is Free to Play you should just use what you have and know that this is not going to make or break a Character. There are many ways to tweak your ultimate Trait values, from gear, to bondmates, to brews, etc etc.  There is no such thing as a "bad Character" in Daphne.
 
-!!! note "You will never ruin an adventurer by selecting one with no IV or a less than ideal IV."
 
 ### Trait Point Variance
 
