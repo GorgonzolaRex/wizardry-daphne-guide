@@ -192,23 +192,24 @@
 
 ## Putting It All Together
 
-1. Experience grind until Level 30.
-2. Pass the Bronze exam and promote to Bronze Grade (requires 3 No Grade tags).
-3. Defeat Helmut and either Melgina or Octoranus. 
+- Experience grind until Level 30.
+- Pass the Bronze exam and promote to Bronze Grade (requires 3 No Grade tags).
+- Defeat Helmut and either Melgina or Octoranus. 
     - Killing them repeatedly does not give extra trust.    
     - If the Nameless bondmate candidate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
-4. Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears.
-5. Go to the Guild - Training Room and attach any two, Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
+- Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears.
+- Go to the Guild - Training Room and attach any two, Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
 
 !!! danger "**WARNING - READ ME**"
+
     **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
     **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
     **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
 
-6. Dismiss.
-7. During the dismissal scene you will be notified that the adventurer is now a bondmate.
-8. The Bronze Grade tag will be refunded.
-9. Check the Bondmate List to see if they rolled a Level 4 or 5.
+- Dismiss.
+- During the dismissal scene you will be notified that the adventurer is now a bondmate.
+- The Bronze Grade tag will be refunded.
+- Check the Bondmate List to see if they rolled a Level 4 or 5.
 
 ## Other Notes
 
