@@ -14,12 +14,12 @@
     
         - Bronze Grade (minimum level of 30)
             - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. Higher levels have no effect on your chances of getting a level 5 bondmate. 
-            - <span style="color: #F2473A">Level 30 at Lead Grade will -not- work</span>.
+            - <span style="color: #F2473A">Lead Grade at level 30 will -not- work</span>.
         - Defeat Helmut and either Melgina or Octoranus
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip.
             - Melgina is safer and faster to defeat with low-level units.
             - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying.
-            -<span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
+            - <span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
         - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
     
     === "Troubleshooting" 
@@ -176,19 +176,22 @@
 
 Below are the steps from start-to-finish to create a stat bondmate:
 
-- Experience grind until level 30
-- Pass the Bronze exam and promote (requires 3 No Grade tags)
-- Defeat Helmut and either Melgina or Octoranus
-- Note: If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations
-- Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears 
-- Go to the Guild - Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate
+- Experience grind until level 30.
+- Pass the Bronze exam and promote (requires 3 No Grade tags).
+- Defeat Helmut and either Melgina or Octoranus. 
+    - Killing them repeatedly does not give extra trust.    
+    - If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
+- Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears. 
+- Go to the Guild - Training Room and attach any two, level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
 
-!!! warning "**Double-check they have the flaming-heart icon, two level 5 bondmates equipped, and are unlocked**"
+!!! danger "**Double-check the flaming-heart icon, two level 5 bondmates equipped, and are unlocked**"
+!!! danger "**Double-check the flaming-heart icon, two level 5 bondmates equipped, and are unlocked**"
+!!! danger "**Double-check the flaming-heart icon, two level 5 bondmates equipped, and are unlocked**"
 
-- Dismiss
-- During the dismissal scene you will be notified that the adventurer is now a bondmate
-- The Bronze Grade tag will be refunded 
-- Check the Bondmate List to see if they turned out to be a level 4 or 5
+- Dismiss.
+- During the dismissal scene you will be notified that the adventurer is now a bondmate.
+- The Bronze Grade tag will be refunded. 
+- Check the Bondmate List to see if they rolled a level 4 or 5.
 
 ## Other Notes
 
