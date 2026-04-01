@@ -20,7 +20,7 @@
             - Melgina is safer and faster to defeat with low-level units.
             - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
-        - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
+            - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
     
     === "Troubleshooting" 
     
