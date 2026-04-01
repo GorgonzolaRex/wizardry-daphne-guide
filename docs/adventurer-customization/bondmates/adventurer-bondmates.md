@@ -14,7 +14,7 @@
     
         - Bronze Grade (minimum level of 30)
             - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. Higher levels have no effect on your chances of getting a level 5 bondmate. 
-            - Level 30 at Lead Grade is not sufficient.
+            - <span style="color: #F2473A">Level 30 at Lead Grade will -not- work</span>.
         - Defeat Helmut and either Melgina or Octoranus
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip.
             - Melgina is safer and faster to defeat with low-level units.
@@ -79,6 +79,7 @@
 ## Efficient Trust Farming 
 
 - After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs.
+- <span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
 - The sub-topics below cover the basics of how the trust system works, why Nameless Adventurers are the most efficient bondmate candidates, and the general trust farming process in Abyss 1.  
 
 ??? note "Trust Basics"
