@@ -1,6 +1,6 @@
 ## Overview
 
-!!! "What is a Stat Bondmate?" 
+!!! note "What is a Stat Bondmate?" 
 
     - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status. 
     - Stat bondmates are -not- the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
