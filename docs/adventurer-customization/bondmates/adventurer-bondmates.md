@@ -20,7 +20,7 @@
             - Melgina is safer and faster to defeat with low-level units.
             - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
-            - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
+        - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
     
     === "Troubleshooting" 
     
@@ -78,8 +78,7 @@
 
 ## Efficient Trust Farming 
 
-- After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs.
-- <span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
+- After reaching Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs. Remember that killing the GWOs more than once does not give extra trust. 
 - The sub-topics below cover the basics of how the trust system works, why Nameless Adventurers are the most efficient bondmate candidates, and the general trust farming process in Abyss 1.  
 
 ??? note "Trust Basics"
