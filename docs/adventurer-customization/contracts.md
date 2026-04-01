@@ -6,7 +6,7 @@ Contracts are essentially applied to an adventurer and provide a sizeable buff w
 
 ## List of Adventurer Contracts
 
-??? "Contract of the Raging Warrior"
+??? note "Contract of the Raging Warrior"
 
     <div align="center">
     ![](./img/contract-1.jpg)
@@ -15,7 +15,7 @@ Contracts are essentially applied to an adventurer and provide a sizeable buff w
     - Boosts contracted user's damage by ~50%. User takes ~100% more damage and row takes ~50% more damage.
     - If user dies, and MC fails to resurrect user, MC dies. Reawakening isn't possible, and Harken doesn't prevent death. User's fortitude is reduced to 0 and cannot recover.
         
-??? "Contract of the Archdemon"
+??? note "Contract of the Archdemon"
 
     <div align="center">
     ![](./img/contract-2.jpg)
@@ -24,7 +24,7 @@ Contracts are essentially applied to an adventurer and provide a sizeable buff w
     - Boosts contracted user's MP by user's Base Value. Row loses ~30% base HP.
     - If user dies, and MC fails to resurrect user, MC dies. Reawakening isn't possible, and Harken doesn't prevent death. User's fortitude is reduced to 0 and cannot recover.
         
-??? "Contract of Carnage"
+??? note "Contract of Carnage"
 
     <div align="center">
     ![](./img/contract-3.jpg)
@@ -33,7 +33,7 @@ Contracts are essentially applied to an adventurer and provide a sizeable buff w
     - Boosts contracted user's SP by user's Base Value. Row loses ~30% base HP.
     - If user dies, and MC fails to resurrect user, MC dies. Reawakening isn't possible, and Harken doesn't prevent death. User's fortitude is reduced to 0 and cannot recover.
 
-??? "Contract of Bone Reclamation"
+??? note "Contract of Bone Reclamation"
 
     <div align="center">
     ![](./img/contract-5.png)
@@ -44,7 +44,7 @@ Contracts are essentially applied to an adventurer and provide a sizeable buff w
 
 ## List of MC-Exclusive Contracts
 
-??? "Contract of Avarice"
+??? note "Contract of Avarice"
     
     <div align="center">
     ![](./img/contract-4.jpg)
