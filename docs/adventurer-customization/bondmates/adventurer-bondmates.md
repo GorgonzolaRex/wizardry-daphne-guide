@@ -4,17 +4,15 @@
 
     === "What is a Stat Bondmate?" 
 
-        - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status. 
-        - Stat bondmates are -not- the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
-        - Stat bondmates range from Level 1-5. Higher levels give a larger trait bonus. Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
-        - Stat bondmates are equipped in the Training Room - Bondmates and are included in the Bondmate List. 
-        - Given the limited number of story bondatmes, stat bondmates can help further strengthen your units. Most people build SPD, STR, IQ, and DEX bondmates since additional PIE and VIT have a negligible impact on a unit's performance.
+        - <span style="color: LimeGreen">All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status</span>.
+        - Stat bondmates are -not- the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
+        - Given the limited number of story bondmates, stat bondmates can help further strengthen your units. Most people build SPD, STR, IQ, and DEX bondmates since additional PIE and VIT have a negligible impact on a unit's performance.
 
     === " Bondmate Levels" 
 
-        - After dismissal the stat bondmate will receive a Level from 1 to 5. It seems to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
+        - After dismissing a stat bondmate it will receive a Level from 1 to 5. Its level appears to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
         - Based on extensive community testing we can confirm:
-            - If a unit has two, Level 5 bondmates attached prior to dismissal it will result in a Level 4 or 5 stat bondmate.
+            - If a unit has 2x Level 5 bondmates attached prior to dismissal it will result in a Level 4 or 5 stat bondmate.
             - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a Level 5.
         - In practice, this means that for whatever number of Level 5 bondmates you are targeting you will need to farm double that number. For example, if you want a Level 5 SPD bondmate on 6 units then you should expect to farm, on average, 12 SPD bondmates.
         - Bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
@@ -88,8 +86,6 @@
         <div align="center">
         ![](img/bondmate-list-example.PNG)
         </div>
-
-
 
 ## Efficient Trust Farming 
 
@@ -204,9 +200,9 @@
 
 !!! danger "**DOUBLE-CHECK WARNING**"
 
-    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
-    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
-    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
+    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**
+    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**
+    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**
 
 - Dismiss.
 - During the dismissal scene you will be notified that the adventurer is now a bondmate.
