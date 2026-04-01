@@ -202,11 +202,11 @@
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears.
 - Go to the Guild - Training Room and attach any two, Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
 
-!!! danger "**WARNING - READ ME**"
+!!! danger "**DOUBLE-CHECK WARNING**"
 
-    - **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
-    - **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
-    - **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
+    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
+    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
+    - **Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
 
 - Dismiss.
 - During the dismissal scene you will be notified that the adventurer is now a bondmate.
