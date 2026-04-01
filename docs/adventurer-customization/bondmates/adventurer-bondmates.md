@@ -12,13 +12,14 @@
 
     === "Conditions"
     
-        - The goal of this process is to get the flaming-heart icon on a unit, so that they can be dismissed and turned into a stat bondmate. There are 3 requirements:
         - Bronze Grade (minimum level of 30)
             - Raising the unit's level beyond this point does not do anything aside from refunding their higher-tier Grade tag if taken to level 40 (Iron) or above. Higher levels have no effect on your chances of getting a level 5 bondmate. 
+            - Level 30 at Lead Grade is not sufficient.
         - Defeat Helmut and either Melgina or Octoranus
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip.
             - Melgina is safer and faster to defeat with low-level units.
             - The unit does not need to survive the fight; however, it is preferrable to avoid the trust penalty from dying.
+            -<span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
         - Trust farm via Camping in Abyss 1, Floor 7 until the flaming-heart appears.
     
     === "Troubleshooting" 
