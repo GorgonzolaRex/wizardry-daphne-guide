@@ -375,12 +375,12 @@ Note: The stat that is negatively impacted is usually -1 per level (max of -6 at
 | SP                               |     2     |    12    |        14        |
 | MP                               |     2     |    12    |        14        |
 | ATK                              |     2     |    12    |        14        |
-| SUR<sup>†</sup>                  |     1     |     8    |        9?        |
+| SUR<sup>†</sup>                  |     1     |     8    |        9         |
 | ACC                              |     2     |    12    |        14        |
 | EVA                              |     2     |    12    |        14        |
 | MAG                              |     2     |    12    |        14        |
 | DIV                              |     2     |    12    |        14        |
-| ASPD                             |     1     |     6    |         7        |
+| ASPD                             |     1     |     6    |        7         |
 | DEF                              |     4     |    24    |        28        |
 | MDEF                             |     4     |    24    |        28        |
 | RES                              |     2     |    12    |        14        |
@@ -389,5 +389,5 @@ Note: The stat that is negatively impacted is usually -1 per level (max of -6 at
 | Evade Trap                       |     2     |    12    |        14        |
 | Elemental tolerance<sup>††</sup> |    1%     |    6%    |        7%        |
 | Status tolerance<sup>††</sup>    |    1%     |    6%    |        7%        |
-<sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6
+<sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6. The matching alignment bonus level is +1 SUR. 
 <sup>††</sup> These are rough estimates. Could range from 0.5-1% per level
