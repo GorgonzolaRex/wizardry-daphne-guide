@@ -1,27 +1,28 @@
 ## Overview
 
-!!! note "Basics"  
+??? note "Basics"  
 
     === "What is a Stat Bondmate?" 
 
         - <span style="color: LimeGreen">All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status</span>.
         - Stat bondmates are -not- the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
-        - Given the limited number of story bondmates, stat bondmates can help further strengthen your units. Most people build SPD, STR, IQ, and DEX bondmates since additional PIE and VIT have a negligible impact on a unit's performance.
-
+        - Can help to augment your units given the limited number of story bondmates. Most players build SPD, STR, IQ, and DEX bondmates since additional PIE and VIT have a negligible impact on a unit's performance.
+        - Equipped from the Training Room - Bondmates menu. 
+        
     === " Bondmate Levels" 
 
-        - After dismissing a stat bondmate it will receive a Level from 1 to 5. Its level appears to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
+        - After dismissing a stat bondmate it will roll a Level from 1 to 5. Its level appears to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
         - Based on extensive community testing we can confirm:
             - If a unit has 2x Level 5 bondmates attached prior to dismissal it will result in a Level 4 or 5 stat bondmate.
-            - The odds of either are effectively ~50%. There is no known, consistent way to guarantee a Level 5.
-        - In practice, this means that for whatever number of Level 5 bondmates you are targeting you will need to farm double that number. For example, if you want a Level 5 SPD bondmate on 6 units then you should expect to farm, on average, 12 SPD bondmates.
+            - The odds are roughly 50/50. There is no known, consistent way to guarantee a Level 5.
+        - As a rule of the thumb you will need to farm 2x the number of Level 5 bondmates that you are targeting. For example, if you want a Level 5 SPD bondmate on 6 units then you should expect to farm, on average, 12 SPD bondmates.
         - Bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
 
     === "Trait Bonuses" 
         
         === "Mechanics"
     
-            - The trait bonus from the stat bondmate is a function of both the Grade of the unit being equipped and the level of the bondmate. See examples in the tabs. 
+            - The trait bonus is a function of both the Grade of the unit being equipped and the level of the stat bondmate. See examples in the tabs. 
             - Trait bonuses cap at +7-8 at Level 70. It is possible to attach a Level 2 and Level 3 of the same stat bondmate to one character for the "equivalent" trait bonus of a Level 5 stat bondmate.
             - SPD bondmates are an exception. All of their values are -1, so the max at Level 70 would be +6-7. 
             - There is no additional trait bonus for matching elemental alignments. This holds true for story bondmates, too.
@@ -49,8 +50,9 @@
 
     === "Conditions"
     
-        - Bronze Grade (Minimum Level of 30)
-            - Raising the unit's level beyond this point does not do anything aside from refunding a higher-tier Grade tag. Higher levels have no effect on your chances of getting a Level 5 bondmate. 
+        - Promoted to Bronze Grade
+            - The Bronze Grade exam is offered at Level 30. A unit must pass this exam without dying and then be promoted to Bronze Grade. It takes 3 tags to reach Bronze Grade; 1x for Lead and 2x for Bronze. 
+            - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 stat bondmate. 
             - <span style="color: #F2473A">Lead Grade at Level 30 will -not- work</span>.
         - Defeat Helmut and either Melgina or Octoranus
             - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip.
