@@ -1,9 +1,12 @@
 ## Overview
 
-- All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status. 
-- Stat bondmates are not the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
-- Stat bondmates range from Level 1-5. Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
-- Stat bondmates are equipped in the Training Room under the Bondmates sub-menu and are included in the Bondmate List. 
+!!! "What is a Stat Bondmate?" 
+
+    - All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status. 
+    - Stat bondmates are -not- the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. Each stat bondmate increases a specific, fixed trait. For example, Abenius only increases STR and you will never recieve a stat bondmate copy of her that increases another trait like DEX or IQ.
+    - Stat bondmates range from Level 1-5. Higher levels give a larger trait bonus. Unlike story bondmates it is possible to have multiple copies of the same stat bondmate. 
+    - Stat bondmates are equipped in the Training Room - Bondmates and are included in the Bondmate List. 
+    - Given the limited number of story bondatmes, stat bondmates can help further strengthen your units. Most people build SPD, STR, IQ, and DEX bondmates since additional PIE and VIT have a negligible impact on a unit's performance.
 
 !!! warning "Flaming-Heart Requirements" 
 
@@ -86,8 +89,8 @@
 
 ## Efficient Trust Farming 
 
-- After promoting to Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs. Remember that killing the GWOs more than once does not give extra trust. 
-- The sub-topics below cover the basics of how the trust system works, why Nameless Adventurers are the most efficient bondmate candidates, and the general trust farming process in Abyss 1.  
+- After promoting to Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs.
+- Note that this guide is built around using Nameless units. If you opt for General or Legendary units, then this process can take 2-4x as long depending on your MC's alignment. 
 
 ??? note "How to Build Trust"
 
@@ -184,29 +187,28 @@
 
 ## Putting It All Together
 
-Below are the steps from start-to-finish to create a stat bondmate:
-
-- Experience grind until Level 30.
-- Pass the Bronze exam and promote to Bronze Grade (requires 3 No Grade tags).
-- Defeat Helmut and either Melgina or Octoranus. 
+1. Experience grind until Level 30.
+2. Pass the Bronze exam and promote to Bronze Grade (requires 3 No Grade tags).
+3. Defeat Helmut and either Melgina or Octoranus. 
     - Killing them repeatedly does not give extra trust.    
-    - If the Nameless bondmate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
-- Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears. 
-- Go to the Guild - Training Room and attach any two, Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
+    - If the Nameless bondmate candidate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
+4. Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears.
+5. Go to the Guild - Training Room and attach any two, Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
 
-!!! danger "**Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
-!!! danger "**Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
-!!! danger "**Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
+!!! danger "**WARNING - READ ME**"
+    **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
+    **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
+    **Double-check: Flaming-heart icon present, 2x Level 5 bondmates equipped, unit is unlocked**"
 
-- Dismiss.
-- During the dismissal scene you will be notified that the adventurer is now a bondmate.
-- The Bronze Grade tag will be refunded. 
-- Check the Bondmate List to see if they rolled a Level 4 or 5.
+6. Dismiss.
+7. During the dismissal scene you will be notified that the adventurer is now a bondmate.
+8. The Bronze Grade tag will be refunded.
+9. Check the Bondmate List to see if they rolled a Level 4 or 5.
 
 ## Other Notes
 
 - Historically, adding additional bondmates (3-5) before dismissal always averaged out to a 50/50 chance to get a Level 4 or 5 bondmate. Whether this has changed or not in recent patches remains untested.
-- Matching elements does not provide an additional stat boost.
+- Matching elements does -not- provide an additional stat boost.
 
 ## Bondmate Trait Table
 
