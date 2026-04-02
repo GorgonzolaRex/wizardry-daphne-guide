@@ -18,48 +18,48 @@
 
 !!! note "Visual Guides" 
 
-=== "Blacksmithing Video Tutorial"
-
-    <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-
-=== "Terminology: Equipment Screen"
-
-    <div align="center">
-    ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
-    </div>
-
-=== "Blessing Restriction Table" 
-
-    - Each type of equipment is restricted to the potential Blessings it can roll at creation (initial value) or through enhancement.
+    === "Blacksmithing Video Tutorial"
     
-    * `O`: Confirmed
-    * `Empty`: None
+        <div align="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
     
-    |   Blessing   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon|
-    |:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
-    |    ATK   |         |   O   |         |    O    |       |     O     |   O   |
-    |    MAG   |         |   O   |         |    O    |       |     O     |   O   |
-    |    DIV   |         |   O   |         |    O    |       |     O     |   O   |
-    |    ACC   |         |   O   |         |    O    |   O   |     O     |   O   |
-    |    EVA   |    O    |       |    O    |         |   O   |     O     |   O   |
-    |    RES   |    O    |   O   |    O    |         |   O   |     O     |       |
-    |    DEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
-    |    SUR   |    O    |       |    O    |         |       |     O     |   O   |
-    |   ATK%   |         |   O   |         |    O    |       |     O     |   O   |
-    |   MAG%   |         |   O   |         |    O    |       |     O     |   O   |
-    |   DIV%   |         |   O   |         |    O    |       |     O     |   O   |
-    |   ACC%   |         |   O   |         |    O    |   O   |     O     |   O   |
-    |   EVA%   |    O    |       |    O    |         |   O   |     O     |   O   |
-    |   RES%   |    O    |   O   |    O    |         |   O   |     O     |       |
-    |   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
+    === "Terminology: Equipment Screen"
     
-    !!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
+        <div align="center">
+        ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
+        </div>
+    
+    === "Blessing Restriction Table" 
+    
+        - Each type of equipment is restricted to the potential Blessings it can roll at creation (initial value) or through enhancement.
+        
+        * `O`: Confirmed
+        * `Empty`: None
+        
+        |   Blessing   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon|
+        |:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
+        |    ATK   |         |   O   |         |    O    |       |     O     |   O   |
+        |    MAG   |         |   O   |         |    O    |       |     O     |   O   |
+        |    DIV   |         |   O   |         |    O    |       |     O     |   O   |
+        |    ACC   |         |   O   |         |    O    |   O   |     O     |   O   |
+        |    EVA   |    O    |       |    O    |         |   O   |     O     |   O   |
+        |    RES   |    O    |   O   |    O    |         |   O   |     O     |       |
+        |    DEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+        |   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+        |   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
+        |    SUR   |    O    |       |    O    |         |       |     O     |   O   |
+        |   ATK%   |         |   O   |         |    O    |       |     O     |   O   |
+        |   MAG%   |         |   O   |         |    O    |       |     O     |   O   |
+        |   DIV%   |         |   O   |         |    O    |       |     O     |   O   |
+        |   ACC%   |         |   O   |         |    O    |   O   |     O     |   O   |
+        |   EVA%   |    O    |       |    O    |         |   O   |     O     |   O   |
+        |   RES%   |    O    |   O   |    O    |         |   O   |     O     |       |
+        |   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+        |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
+        |   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
+        
+        !!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
 
 ## Enhance
 
