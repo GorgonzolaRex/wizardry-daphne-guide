@@ -1,4 +1,4 @@
-## Overview
+### Overview
 
 ??? note "Basics"  
 
@@ -89,7 +89,7 @@
         ![](img/bondmate-list-example.PNG)
         </div>
 
-## Efficient Trust Farming 
+### Efficient Trust Farming 
 
 - Trust farming is the last step. It is done after promoting to Bronze Grade and defeating both GWOs if the stat bondmate did not receive the flaming-heart.
 - This guide is built around using Nameless units. If you opt for General or Legendary units, then this process can take 2-4x as long depending on your MC's alignment. 
@@ -190,7 +190,7 @@
 
         !!! warning "Do not start trust farming until the stat bondmates have been promoted to Bronze grade and have defeated both GWOs (Helmut and either Melgina or Octoranus)." 
 
-## Putting It All Together
+### Putting It All Together
 
 - Experience grind until Level 30.
 - Pass the Bronze exam and promote to Bronze Grade (requires 3 No Grade tags).
@@ -211,12 +211,12 @@
 - The Bronze Grade tag will be refunded.
 - Check the Bondmate List to see if they rolled a Level 4 or 5.
 
-## Other Notes
+### Other Notes
 
 - Historically, adding additional bondmates (3-5) before dismissal always averaged out to a 50/50 chance to get a Level 4 or 5 bondmate. Whether this has changed or not in recent patches remains untested.
 - Matching elements does -not- provide an additional stat boost.
 
-## Bondmate Trait Table
+### Bondmate Trait Table
 
 | Bondmate     | Increased Trait |
 | ------------ | ------------------- |
