@@ -51,7 +51,8 @@
     === "Conditions"
     
         - Promoted to Bronze Grade
-            - The Bronze Grade exam is offered at Level 30. A unit must pass this exam without dying and then be promoted to Bronze Grade. It takes 3 tags to reach Bronze Grade; 1x for Lead and 2x for Bronze. 
+            - The Bronze Grade exam is offered at Level 30. 
+            - Each stat bondmate costs 3 tags; 1x for Lead and 2x for Bronze.
             - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 stat bondmate. 
             - <span style="color: #F2473A">Lead Grade at Level 30 will -not- work</span>.
         - Defeat Helmut and either Melgina or Octoranus
