@@ -80,9 +80,9 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 <div class="nofilter-table nosort-table" markdown>
 
-=== "Initial Value - Base Stats" 
+=== "Initial Value (Base) Stats" 
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp;  |  2★ &emsp; | 3 ★ &emsp; |  4★ &emsp; |  5★ &emsp;   |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:----|:----|:----|:-----|:------|
     | Flat                                                | 2-3 | 3-5 | 5-7 | 8-10 | 11-13 |
     | Percent (%)                                         | 1-3 | 3-6 | 5-9 | 9-13 | 12-16 |
@@ -100,7 +100,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
     | ASPD%                                               | 1   | 1-2 | 2-3 |   3  | 3-4  |
     | SUR                                                 | 1   | 1-2 | 1-2 | 1-3  | 1-4  |
 
-=== "Initial + Enhancement Increase"
+=== "Initial + Enhancement Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; |  1★  &emsp; &emsp; |  2★  &emsp; &emsp; | 3 ★  &emsp; &emsp;  |  4★  &emsp; &emsp;  |  5★  &emsp; &emsp;  |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
