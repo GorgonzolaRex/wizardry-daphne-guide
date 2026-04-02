@@ -16,7 +16,7 @@
 - Flat stats: Refers to Blessings that give a static +X to a stat such as +8 ATK or +12 MAG.
 - Percent (%) stats: Refers to Blessings that give a % of a unit's base stats with no gear equipped such as 10% ATK or 7% ASPD. 
 
-!!! note "Visual Guides" 
+??? warning "Visual Guides" 
 
     === "Blacksmithing Video Tutorial"
     
@@ -24,7 +24,7 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     
-    === "Terminology: Equipment Screen"
+    === "Terminology - Equipment Screen"
     
         <div align="center">
         ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
@@ -37,7 +37,7 @@
         * `O`: Confirmed
         * `Empty`: None
         
-        |   Blessing   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon|
+        |   Blessing   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon<sup>†</sup> |
         |:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
         |    ATK   |         |   O   |         |    O    |       |     O     |   O   |
         |    MAG   |         |   O   |         |    O    |       |     O     |   O   |
@@ -58,8 +58,7 @@
         |   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
         |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
         |   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
-        
-        !!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
+        <sup>†</sup> Only bows can roll ASPD and ASPD^, but other weapons cannot. 
 
 ## Enhance
 
@@ -70,7 +69,7 @@
 
 ### ^^Enhancement Gold Cost^^
 
-<div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table nosort-table narrow-table" markdown>
 
 === "Worn - Ebonsteel Rank Equipment"
 
@@ -86,16 +85,16 @@
 === "Silver Rank Equipment"
 
     | Gear Tier &emsp; &emsp; &emsp; |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
-    |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
+    |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
     | Armor, 1H Weapons, 2H Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
     | 2H Weapons                  | 640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
     | *Special*                   |	720|	990|	1,650|	2,700|	4,130|	5,940|	8,420|	11,550|	15,941|	19,800|	24,920|	30,910|	38,230|	46,860|	56,820	|	?	|	?	|	?	|	?	|	?	|	?	|
 
 </div>
 
-### ^^Ore Type and Amounts for Enhancing^^
+### ^^Enhancement Ore Costs^^
 
-<div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table nosort-table narrow-table" markdown>
     
 === "Worn - Ebonsteel Rank Equipment"  
 
