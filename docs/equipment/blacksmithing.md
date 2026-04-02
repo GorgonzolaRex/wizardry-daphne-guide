@@ -1,4 +1,4 @@
-<img width="722" height="704" alt="image" src="https://github.com/user-attachments/assets/1b273bb5-2f13-4bbb-9c45-40306ede5abb" /># Blacksmithing Basics
+# Blacksmithing Basics
 
 Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party. This guide tries to cover most aspects of equipment improvement along with some general equipment guidelies/suggestions.
 
