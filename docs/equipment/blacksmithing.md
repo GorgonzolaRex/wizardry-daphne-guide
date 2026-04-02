@@ -39,7 +39,7 @@
 
 ### ^^Gold Cost for Enhancing^^
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
 
 === "Worn - Ebonsteel Rank Equipment"
 
@@ -64,7 +64,7 @@
 
 ### ^^Ore Type and Amounts for Enhancing^^
 
-<div class="nofilter-table nosort-table narrow-table" markdown>
+<div class="nofilter-table nosort-table" markdown>
     
 === "Worn - Ebonsteel Rank Equipment"  
 
@@ -124,11 +124,6 @@ Based on the values below, most players consider 3-4 star gear to be the target 
     | ASPD                                                | 2-4 | 3-6  | 5-9  | 7-12  | 9-15  |
     | ASPD%                                               | 2-3 | 3-6  | 6-9  | 9-12  | 12-15 |
     | SUR                                                 | 2-3 | 3-5  | 4-6  | 5-8   | 6-10  |
-
-=== "Stat Reference"
-
-    - Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
-    - Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
 </div>
 
 <!-- PREVIOUS TABLE
@@ -173,11 +168,6 @@ Based on the values below, most players consider 3-4 star gear to be the target 
     | ASPD                                                | 2-4 | 3-7  | 5-11 | 7-15  | 9-18  |
     | ASPD%                                               | 2-3 | 3-7  | 6-11 | 9-15  | 12-18 |
     | SUR                                                 | 2-3 | 3-6  | 4-7  | 5-10  | 6-12  |
-
-=== "Stat Reference"
-
-    - Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
-    - Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
 </div>
 
 #### Silver Rank 2H Weapons  
@@ -213,11 +203,6 @@ Based on the values below, most players consider 3-4 star gear to be the target 
     | ASPD                                                | 2-4 | 3-7   | 5-12 | 7-16  | 9-20  |
     | ASPD%                                               | 2-3 | 3-7   | 6-12 | 9-16  | 12-19 |
     | SUR                                                 | 2-3 | 3-6   | 4-7  | 5-10  | 6-12  |
-
-=== "Stat Reference"
-
-    - Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
-    - Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
 </div>
 
 <!-- PREVIOUS Note
@@ -269,6 +254,26 @@ Equipment can be found with, or receive through enhancement, additional **Blessi
 
 !!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
 
+### ^^Extraction Values^^
+
+- Only equipment that has a Blessing can be extracted.
+- The extraction process can yield an alteration stone, refinement stone, refinement stone fragment, or nothing.
+- Refinement stone fragments can be redeemed for refinment stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each.
+- The equipment's Quality (★) determines the ★ value of the alteration or refinement stone.
+- Depending on RNG an extracted stone can roll up to 2 tiers higher than the extract piece of equipment. Examples:
+    - Extracting a 2★ piece of equipment call roll a 2★ (common), 3★ (rare), or 4★ (very rare) alteration or refinment stone.
+    - Extracting a 3★ piece of equipment call roll a 3★ (common), 4★ (rare), or 5★ (very rare) alteration or refinment stone.
+
+<div class="nofilter-table nosort-table" markdown>
+
+| Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+|:----------------------------------------------------|:----|:----|:----|:-----|:------|
+| Flat                                                | 1-3 | 2-4 | 3-5  | 4-6  | 5-7 |
+| Percent (%)                                         | 1-2 | 1-3 | 2-4  | 3-5  | 4-6 |
+| ASPD, SUR                                           | 1-2 | 2-3 | 3-4  | 3-5  | 4-6 |
+| ASPD%                                               | 1-2 | 1-3 | 2-4  | 3-5  | 3-6 |
+</div>
+
 
 ## ^^Refine^^
 
@@ -276,7 +281,7 @@ Refining an item increases the value of a **Blessing** and requires a matching R
 
 As of version 1.12.1, refinement bonuses are retained if you enhance to a level that also enhances that attribute. Previously, if refined before enhancing to +5, +10, +15, or +20, the enhancement would clear any refinement on the assocated blessing. Depending on the values rolled this could make the attribute value appear to worsen on enhancement.
 
-## ^^Alteration^^
+## ^^Alter^^
 
 Altering an item allows you use an Alteration Stone to change a Blessing to the attribute of that stone, with the new blessing value determined by the range of the alteration stone replacing any previous blessing and refinement value. 
 
@@ -298,17 +303,8 @@ Only weapons, armor and accessories can be extracted.
 
 Items that fail extraction are lost.  There is a small chance that a Refinement Stone Fragment will be produced from failed extractions.  These fragments can be collected and turned in for Refinement Stones at the Jeweler in town.
 
-### ^^Extraction Values^^
 
-**These values may be inaccurate, and should be treated as estimates.**
-<div class="nofilter-table nosort-table narrow-table" markdown>
-|                                               | 1 ★ | 2 ★ | 3 ★ | 4 ★ | 5 ★ |
-|:---------------------------------------------:|:---:|:---:|:---:|:---:|:---:|
-|     **ATK, MAG, DIV, DEF, MDEF, ACC, EVA**    | 1~3 | 2~4 | 3~5 | 4~6 | 5~7 |
-| **ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%** | 1~2 | 1~3 | 2~4 | 3~5 | 4~6 |
-|                 **ASPD, SUR**                 | 1~2 | 2~3 | 3~4 | 3~5 | 4~6 |
-|                   **ASPD%**                   | 1~2 | 1~3 | 2~4 | 3~5 | 4~6 |
-</div>
+
 ## ^^Unification^^
 
 Unification is the process of increasing the Strength of an item it increase its allowable enhancement limit.
