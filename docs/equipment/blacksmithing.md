@@ -3,7 +3,7 @@
 - Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 - This guide covers most aspects of equipment improvement along with some general equipment guidelines and suggestions.
 
-## Basics
+## Overview
 
 ### Terminology 
 
@@ -16,19 +16,21 @@
 - Flat stats: Refers to Blessings that give a static +X to a stat such as +8 ATK or +12 MAG.
 - Percent (%) stats: Refers to Blessings that give a % of a unit's base stats with no gear equipped such as 10% ATK or 7% ASPD. 
 
-??? note "Visual Guides" 
+### Visual Guides 
 
-    === "Blacksmithing Video Tutorial" 
-    
+??? "Blacksmithing Video Tutorial" 
+
         <div align="center">
         <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
     
         - Helpful introductory video to the Blacksmithing system. We encourage you to watch this first before continuing if you are a new player.
-    
-    === "Equipment Screen" 
-    
+
+??? note "Equipment Screen" 
+
+        <div align="center">
         ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
+        </div>
 
 ## ^^Enhance^^
 
