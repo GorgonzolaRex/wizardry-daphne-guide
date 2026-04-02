@@ -82,7 +82,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Initial Value - Base Stats" 
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;                        | 1★ &emsp;  |  2★ &emsp; | 3 ★ &emsp; |  4★ &emsp; |  5★ &emsp;   |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp;                      | 1★ &emsp;  |  2★ &emsp; | 3 ★ &emsp; |  4★ &emsp; |  5★ &emsp;   |
     |:----------------------------------------------------|:---:|:---:|:---:|:----:|:-----:|
     | Flat                                                | 2-3 | 3-5 | 5-7 | 8-10 | 11-13 |
     | Percent (%)                                         | 1-3 | 3-6 | 5-9 | 9-13 | 12-16 |
@@ -92,7 +92,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Enhancement Increase"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;                                     |  1★ &emsp; |  2★ &emsp; | 3 ★ &emsp; |  4★ &emsp; |  5★ &emsp; |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp;                                     |  1★ &emsp; |  2★ &emsp; | 3 ★ &emsp; |  4★ &emsp; |  5★ &emsp; |
     |:----------------------------------------------------|:---:|:---:|:---:|:----:|:----:|
     | Flat                                                | 1-2 | 2-5 | 2-8 | 3-10 | 3-12 |
     | Percent (%)                                         | 1   | 1-2 | 2-3 |  3   | 3-4  |
@@ -102,8 +102,8 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Initial + Enhancement Increase"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;                                     |  1★ &nbsp; |  2★ &nbsp; | 3 ★ &nbsp;  |  4★ &nbsp;  |  5★ &nbsp;  |
-    |:----------------------------------------------------|:---:|:----:|:----:|:-----:|:-----:|
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp;                                     |  1★  &emsp; |  2★  &emsp; | 3 ★  &emsp;  |  4★  &emsp;  |  5★  &emsp;  |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
     | Flat                                                | 3-5 | 5-10 | 7-15 | 11-20 | 14-25 |
     | Percent (%)                                         | 2-4 | 4-8  | 7-12 | 12-16 | 15-20 |
     | ASPD                                                | 2-4 | 3-6  | 5-9  | 7-12  | 9-15  |
