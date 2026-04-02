@@ -1,22 +1,23 @@
 # Blacksmithing Basics
 
 - Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
-- This guide tries to cover most aspects of equipment improvement along with some general equipment guidelies andsuggestions.
+- This guide covers most aspects of equipment improvement along with some general equipment guidelines andsuggestions.
 
 ## Terminology
 
 === "Definition List"
 
-    | Term              | Definition                                                                                                                                                                                                                                                  |
-    |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-    | Innate Attributes | Stats that are inherent to a piece of equipment at +0 such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.                                                                                                     |
-    | Blessings         | Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".                                                                                                      |
-    | Quality           | The "color" of the gear that corresponds to the number of Blessings. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.                                                                                                                                   |
-    | Rank (Tier)       | Item material such as Bronze, Iron, Steel, etc. that determine the size of the innate attributes. Commonly referred to as "Tier".                                                                                                                           |
-    | Quality           | Refers to the numbers of stars (★), which determines the the Blessing stat range that can roll at both creation (initial value at +0) and enhancements. Ranges from 1-5.                                                                                    |
-    | Unique Traits     | Additional characteristics or abilities. The most common types are Slayer (e.g., anti-race such as Undead), Type (elemental), or class (e.g., all Daggers have the "Nimble Strike" trait).                                                                  |
-    | Flat Stats        | Commonly used term to refer to Attack Power (ATK), Magic Power (MAG), Divine Power (DIV), Defense (DEF), Magic Defense (MDEF), Accuracy (ACC), Evasion (EVA), and Resistance (RES). A Blessing with +20 ATK would be refered to as "flat ATK".              |
-    | Percent (%) Stats | Same as the above, but the Blessings are a % of a unit's base stats with no gear equipped. For example, a blessing with +10% ATK would be referred to as "% ATK".                                                                                           |
+    - Innate Attributes: Stats that are inherent to a piece of equipment at +0 such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.     
+    - Blessings: Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".      
+    - Quality: The "color" of the gear that corresponds to the number of Blessings. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.                     
+    - Rank (Tier):  Item material such as Bronze, Iron, Steel, etc. that determine the size of the innate attributes. Commonly referred to as "Tier".
+    - Quality: Refers to the numbers of stars (★), which determines the the Blessing stat range that can roll at both creation (initial value at +0) and enhancements. Ranges from 1-5.                   
+    - Traits: Additional characteristics or abilities. The most common types are Slayer (e.g., anti-race such as Undead), Type (elemental), or class (e.g., all Daggers have the "Nimble Strike" trait).       
+
+=== "Blessing Types" 
+
+    - Flat: Refers to Blessings that give a static +X to a stat. Includes: Attack Power (ATK), Magic Power (MAG), Divine Power (DIV), Defense (DEF), Magic Defense (MDEF), Accuracy (ACC), Evasion (EVA), and Resistance (RES). A Blessing with +20 ATK would be refered to as "flat ATK".  
+    - Percent (%): Same as the above, but the Blessings are a % of a unit's base stats with no gear equipped. For example, a blessing with +10% ATK would be referred to as "% ATK".    
 
 === "Equipment Screen Guide" 
 
@@ -27,6 +28,8 @@
     <div align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
+
+    - Helpful introductory video to the Blacksmithing system. We encourage you to watch this first before continuing if you are a new player.
 
 ## ^^Enhance^^
 - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item. See [Equipment Tables](./equipment-tables.md) for catalogued stats and enhancement improvements.
@@ -40,8 +43,8 @@
 
 === "Worn - Ebonsteel Rank Equipment"
 
-    | Gear Tier &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;   |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
-    |:-----------:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:| 
+    | Gear Tier |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
+    |:------------|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:| 
     |   Worn      |  150 |  300 |   500 |   750 | 1,050 | 1,400 | 1,950 |  2,550 |  3,200 |  3,900 |  4,650 |  5,700 |  6,800 |  7,950 |  9,150 | 10,400 | 12,050 | 13,750 | 17,150  | 23,950  | 127,300 |
     |  Bronze     |  200 |  350 |   550 |   800 | 1,100 | 1,450 | 2,000 |  2,700 |  3,550 |  4,550 |  5,700 |  7,250 |  8,950 | 10,800 | 12,800 | 14,950 | 17,700 | 20,650 | 26,550  | 38,350  | 180,950 |
     |   Iron      |  350 |  500 |   750 | 1,100 | 1,550 | 2,100 | 2,850 |  3,750 |  4,800 |  6,050 |  7,500 |  9,350 | 11,500 | 13,950 | 16,700 | 19,750 | 23,400 | 27,350 | 39,200  | 76,200  | 268,700 |
@@ -51,7 +54,7 @@
 
 === "Silver Rank Equipment"
 
-    | Gear Tier &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
+    | Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
     |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
     | Armor, 1H&nbsp;Melee, 1+2H&nbsp;Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
     | 2H&nbsp;Melee Weapons |640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
@@ -65,20 +68,20 @@
     
 === "Worn - Ebonsteel Rank Equipment"  
 
-    | Ore Grade  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
-    |:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
-    | Low Grade (Gray)  |   0  |   0  |   0  |   0  |   1  |   2  |   3  |   4  |   5  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
-    | Mid Grade (Red)   |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   1   |   2   |   3   |   4   |   5   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
-    | High Grade (Blue) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   1   |   2   |   3   |   4   |   5   |   0   |    15   |
-    | Fine Grade (Gold) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
+    | Ore Grade  &emsp; &emsp; &emsp; &emsp; &emsp; |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
+    |:------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
+    | Low Grade (Gray)  |     |     |     |     |  1  |  2  |  3  |  4  |  5  |      |      |      |      |      |      |      |      |      |      |      |    15   |
+    | Mid Grade (Red)   |     |     |     |     |     |     |     |     |     |   1  |  2   |   3  |   4  |   5  |      |      |      |      |      |      |    15   |
+    | High Grade (Blue) |     |     |     |     |     |     |     |     |     |      |      |      |      |      |   1  |  2   |   3  |   4  |   5  |      |    15   |
+    | Fine Grade (Gold) |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |   1  |     1   |
 
 === "Silver Rank Equipment"
 
-    | Ore Grade  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
-    |:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
-    | Mid Grade (Red)  |   0  |   0  |   0  |   0  |   1  |   2  |   3  |   4  |   5  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
-    | High Grade (Blue)|   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   1   |   2   |   3   |   4   |   5   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
-    | Fine Grade (Gold)|   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   1   |   2   |   3   |   4   |   5   |   0   |    15   |
+    | Ore Grade  &emsp; &emsp; &emsp; &emsp; &emsp; |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
+    |:-----------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
+    | Mid Grade (Red)       |   0  |   0  |   0  |   0  |   1  |   2  |   3  |   4  |   5  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
+    | High Grade (Blue)     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   1   |   2   |   3   |   4   |   5   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
+    | Fine Grade (Gold)     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   1   |   2   |   3   |   4   |   5   |   0   |    15   |
     | Sliver Grade (Silver) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
 
 </div>
