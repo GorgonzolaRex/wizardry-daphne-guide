@@ -126,7 +126,88 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 -->
 
 #### Silver Gear  
+
+<div class="nofilter-table nosort-table" markdown>
+
+=== "Initial Value (Base) Stats" 
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:----|:----|:----|:-----|:------|
+    | Flat                                                | 2-4 | 3-6 | 5-8 | 8-12 | 11-16  |
+    | Percent (%)                                         | 1-4 | 3-7 | 5-11 | 9-16 | 12-19 |
+    | ASPD                                                | 1-2 | 2-5 | 4-7 | 6-10  | 8-12  |
+    | ASPD%                                               | 1-2 | 2-5 | 4-7 | 6-11  | 9-13  |
+    | SUR                                                 | 1-2 | 2-4 | 3-5 | 4-6  | 5-7    |
+
+=== "Enhancement Increase"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  |  1★ &emsp; &emsp; |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp; |
+    |:----------------------------------------------------|:----|:----|:----|:-----|:-----|
+    | Flat                                                | 1-2 | 2-6 | 2-10 | 3-12 | 3-14 |
+    | Percent (%)                                         | 1   | 1-2 | 2-4 |  3-4  | 3-5  |
+    | ASPD                                                | 1-2 | 1-2 | 1-4 | 1-5  | 1-6  |
+    | ASPD%                                               | 1   | 1-2 | 2-4 | 3-4  | 3-5  |
+    | SUR                                                 | 1   | 1-2 | 1-2 | 1-4  | 1-5  |
+
+=== "Initial + Enhancement Totals"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; |  1★  &emsp; &emsp; |  2★  &emsp; &emsp; | 3 ★  &emsp; &emsp;  |  4★  &emsp; &emsp;  |  5★  &emsp; &emsp;  |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 3-6 | 5-12 | 7-18 | 11-24 | 14-30 |
+    | Percent (%)                                         | 2-5 | 4-9  | 7-15 | 12-20 | 15-24 |
+    | ASPD                                                | 2-4 | 3-7  | 5-11  | 7-15  | 9-18  |
+    | ASPD%                                               | 2-3 | 3-7  | 6-11 | 9-15  | 12-18 |
+    | SUR                                                 | 2-3 | 3-6  | 4-7  | 5-10  | 6-12  |
+
+=== "Stat Reference"
+
+    - Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
+    - Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
+</div>
+
+#### Silver 2H Weapons  
+
+<div class="nofilter-table nosort-table" markdown>
+
+=== "Initial Value (Base) Stats" 
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
+    |:----------------------------------------------------|:----|:----|:----|:-----|:------|
+    | Flat                                                | 2-4 | 3-7 | 5-9  | 8-13  | 11-17 |
+    | Percent (%)                                         | 1-4 | 3-8 | 5-12 | 9-17  | 12-21 |
+    | ASPD                                                | 1-2 | 2-5 | 4-8  | 6-11  | 8-13  |
+    | ASPD%                                               | 1-2 | 2-5 | 4-8  | 6-12  | 9-14  |
+    | SUR                                                 | 1-2 | 2-4 | 3-5  | 4-7   | 5-8   |
+
+=== "Enhancement Increase"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  |  1★ &emsp; &emsp; |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp; |
+    |:----------------------------------------------------|:----|:----|:----|:-----|:-----|
+    | Flat                                                | 1-2 | 2-7 | 2-11 | 3-13 | 3-15 |
+    | Percent (%)                                         | 1   | 1-2 | 2-4  | 3-4  | 3-5  |
+    | ASPD                                                | 1-2 | 1-2 | 1-4  | 1-5  | 1-7  |
+    | ASPD%                                               | 1   | 1-2 | 2-4  | 3-4  | 3-5  |
+    | SUR                                                 | 1   | 1-2 | 1-2  | 1-4  | 1-5  |
+
+=== "Initial + Enhancement Totals"
+
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; |  1★  &emsp; &emsp; |  2★  &emsp; &emsp; | 3 ★  &emsp; &emsp;  |  4★  &emsp; &emsp;  |  5★  &emsp; &emsp;  |
+    |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
+    | Flat                                                | 3-6 | 5-14  | 7-20 | 11-26 | 14-32 |
+    | Percent (%)                                         | 2-5 | 4-10  | 7-16 | 12-21 | 15-26 |
+    | ASPD                                                | 2-4 | 3-7   | 5-12 | 7-16  | 9-20  |
+    | ASPD%                                               | 2-3 | 3-7   | 6-12 | 9-16  | 12-19 |
+    | SUR                                                 | 2-3 | 3-6   | 4-7  | 5-10  | 6-12  |
+
+=== "Stat Reference"
+
+    - Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
+    - Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
+</div>
+
+<!-- PREVIOUS Note
 !!! note "Silver gear appears to provide larger blessings than those shown above. Data is being collected and we will add information when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
+-->
 
 ## ^^Enhancement Inheritance^^
 
