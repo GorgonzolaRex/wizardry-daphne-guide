@@ -5,17 +5,17 @@
     === "What is a Stat Bondmate?" 
 
         - <span style="color: LimeGreen">All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status</span>.
-        - Stat bondmates are -not- the same thing as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
-        - Can help to augment your units given the limited number of story bondmates. Most players build SPD, STR, IQ, and DEX bondmates since additional PIE and VIT have a negligible impact on a unit's performance.
+        - Stat bondmates are -not- the same as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
+        - Stat bondmates help to augment your units since story bondmates are limited. 
         - Equipped from the Training Room - Bondmates menu. 
         
     === " Bondmate Levels" 
 
-        - After dismissing a stat bondmate it will roll a Level from 1 to 5. Its level appears to be based on the level of the bondmates attached to it prior to dismisal. It is a mechanic that is not fully understood to-date. 
+        - After dismissing a stat bondmate it will roll a Level from 1 to 5. The level that is rolled appears to be a function of the bondmates attached to it prior to dismissal. It is a mechanic that is not fully understood to-date. 
         - Based on extensive community testing we can confirm:
             - If a unit has 2x Level 5 bondmates attached prior to dismissal it will result in a Level 4 or 5 stat bondmate.
             - The odds are roughly 50/50. There is no known, consistent way to guarantee a Level 5.
-        - As a rule of the thumb you will need to farm 2x the number of Level 5 bondmates that you are targeting. For example, if you want a Level 5 SPD bondmate on 6 units then you should expect to farm, on average, 12 SPD bondmates.
+        - Rule of thumb: You will need to farm 2x the number of units to reach a target number of Level 5 bondmates . For example, if you want 6x Level 5 SPD bondmates, then you should expect to farm, on average, 12 SPD bondmates.
         - Bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
 
     === "Trait Bonuses" 
@@ -55,10 +55,9 @@
             - Each stat bondmate costs 3 tags; 1x for Lead and 2x for Bronze.
             - Raising a unit beyond Level 30 does not do anything and has no effect on rolling a Level 5 stat bondmate. 
             - <span style="color: #F2473A">Lead Grade at Level 30 will -not- work</span>.
-        - Defeat Helmut and either Melgina or Octoranus
-            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip.
-            - Melgina is safer and faster to defeat with low-level units.
-            - The unit does not need to survive the fight. However, it is preferrable to avoid the trust penalty from dying.
+        - Defeat Helmut and either Melgina or Octoranus.
+            - The game treats Melgina or Octoranus as the "same" Greater Warped One (GWO), so you cannot double-dip. Melgina is safer for low HP units.
+            - The unit does not need to survive the fight, but it is preferrable to avoid the trust penalty from dying.
             - <span style="color: #F2473A">Killing the GWOs more than once does -not- give you extra trust</span>.
         - Trust farm via Camping using the Fountain on Abyss 1, Floor 7 until the flaming-heart icon appears.
     
@@ -69,8 +68,8 @@
         - If you have been trust farming for more than 30 minutes, then double-check:
             - Unit is Bronze grade
             - The 2 GWO fights are completed
-            - The unit did not die repeatedly while leveling them
-        - There are very rare instances where a Nameless unit will just not proc the flaming-heart icon even after excessive trust grinding. This tends to happen with Good or Neutral MC and Evil units the most frequently. We suspect that each unit has a starting trust value range that is RNG-based and determined at creation. Some units can start with extremely low trust making them difficult to raise. In some cases it is just best to dismiss for their Grade tag. 
+            - The unit did not die repeatedly while leveling 
+        - There are very rare instances where a Nameless unit will just not proc the flaming-heart icon even after excessive trust grinding. This tends to happen with a Good or Neutral MC and Evil units the most frequently. We suspect that each unit has a starting trust value range that is RNG-based and determined at creation. Some units can start with extremely low trust making them difficult to raise. In some cases it is just best to dismiss for their Grade tag. 
 
     === "Flaming-Heart Icon"
 
@@ -92,8 +91,8 @@
 
 ## Efficient Trust Farming 
 
-- After promoting to Bronze Grade and defeating Helmut and Melgina or Octoranus if the bondmate candidate did not receive the flaming-heart icon, then your next step is to do trust farming until it procs.
-- Note that this guide is built around using Nameless units. If you opt for General or Legendary units, then this process can take 2-4x as long depending on your MC's alignment. 
+- Trust farming is the last step. It is done after promoting to Bronze Grade and defeating both GWOs if the stat bondmate did not receive the flaming-heart.
+- This guide is built around using Nameless units. If you opt for General or Legendary units, then this process can take 2-4x as long depending on your MC's alignment. 
 
 ??? note "How to Build Trust"
 
@@ -110,10 +109,10 @@
 
         - Other adventurers present during Tavern or Camp conversations gain a small amount of trust even if they did not prompt the conversation. 
         - Example: If Good MC and Lana (Good) had a conversation with the "best" response selected, then:
-            - Lana (Good): Maximum amount of trust points
-            - Abenius (Good): Small amount of trust points
-            - Yekaterina (Neutral): Small amount of trust points, but fewer than Abenius
-            - Milana (Evil): Few-to-no trust points 
+            - Lana - Good: Maximum amount of trust points
+            - Abenius - Good: Small amount of trust points
+            - Yekaterina - Neutral: Small amount of trust points, but fewer than Abenius
+            - Milana - Evil: Few-to-no trust points 
 
     === "Battles and Death Penalty"
      
@@ -199,7 +198,7 @@
     - Killing them repeatedly does not give extra trust.    
     - If the Nameless bondmate candidate dies at any point doing any of the above steps it will add between 2-5 extra Camp conversations.
 - Go to the Beginning Abyss, F7 and trust farm with a same-alignment team until the flaming-heart appears.
-- Go to the Guild - Training Room and attach any two, Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
+- Go to the Guild - Training Room and attach any 2x Level 5 bondmates (story or stat bondmate does not matter) to the stat bondmate.
 
 !!! danger "**DOUBLE-CHECK WARNING**"
 
