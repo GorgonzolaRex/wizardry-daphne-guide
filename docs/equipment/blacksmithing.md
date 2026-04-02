@@ -92,7 +92,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Enhancement Increase"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  |  1★ &emsp; &emsp; |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp; |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:----|:----|:----|:-----|:-----|
     | Flat                                                | 1-2 | 2-5 | 2-8 | 3-10 | 3-12 |
     | Percent (%)                                         | 1   | 1-2 | 2-3 |  3   | 3-4  |
@@ -102,7 +102,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Initial + Enhancement Totals"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; |  1★  &emsp; &emsp; |  2★  &emsp; &emsp; | 3 ★  &emsp; &emsp;  |  4★  &emsp; &emsp;  |  5★  &emsp; &emsp;  |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
     | Flat                                                | 3-5 | 5-10 | 7-15 | 11-20 | 14-25 |
     | Percent (%)                                         | 2-4 | 4-8  | 7-12 | 12-16 | 15-20 |
@@ -133,29 +133,29 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:----|:----|:----|:-----|:------|
-    | Flat                                                | 2-4 | 3-6 | 5-8 | 8-12 | 11-16  |
+    | Flat                                                | 2-4 | 3-6 | 5-8 | 8-12  | 11-16 |
     | Percent (%)                                         | 1-4 | 3-7 | 5-11 | 9-16 | 12-19 |
     | ASPD                                                | 1-2 | 2-5 | 4-7 | 6-10  | 8-12  |
     | ASPD%                                               | 1-2 | 2-5 | 4-7 | 6-11  | 9-13  |
-    | SUR                                                 | 1-2 | 2-4 | 3-5 | 4-6  | 5-7    |
+    | SUR                                                 | 1-2 | 2-4 | 3-5 | 4-6   | 5-7   |
 
 === "Enhancement Increase"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  |  1★ &emsp; &emsp; |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp; |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:----|:----|:----|:-----|:-----|
     | Flat                                                | 1-2 | 2-6 | 2-10 | 3-12 | 3-14 |
     | Percent (%)                                         | 1   | 1-2 | 2-4 |  3-4  | 3-5  |
-    | ASPD                                                | 1-2 | 1-2 | 1-4 | 1-5  | 1-6  |
-    | ASPD%                                               | 1   | 1-2 | 2-4 | 3-4  | 3-5  |
-    | SUR                                                 | 1   | 1-2 | 1-2 | 1-4  | 1-5  |
+    | ASPD                                                | 1-2 | 1-2 | 1-4 | 1-5   | 1-6  |
+    | ASPD%                                               | 1   | 1-2 | 2-4 | 3-4   | 3-5  |
+    | SUR                                                 | 1   | 1-2 | 1-2 | 1-4   | 1-5  |
 
 === "Initial + Enhancement Totals"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; |  1★  &emsp; &emsp; |  2★  &emsp; &emsp; | 3 ★  &emsp; &emsp;  |  4★  &emsp; &emsp;  |  5★  &emsp; &emsp;  |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
     | Flat                                                | 3-6 | 5-12 | 7-18 | 11-24 | 14-30 |
     | Percent (%)                                         | 2-5 | 4-9  | 7-15 | 12-20 | 15-24 |
-    | ASPD                                                | 2-4 | 3-7  | 5-11  | 7-15  | 9-18  |
+    | ASPD                                                | 2-4 | 3-7  | 5-11 | 7-15  | 9-18  |
     | ASPD%                                               | 2-3 | 3-7  | 6-11 | 9-15  | 12-18 |
     | SUR                                                 | 2-3 | 3-6  | 4-7  | 5-10  | 6-12  |
 
@@ -181,7 +181,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Enhancement Increase"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  |  1★ &emsp; &emsp; |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp; |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:----|:----|:----|:-----|:-----|
     | Flat                                                | 1-2 | 2-7 | 2-11 | 3-13 | 3-15 |
     | Percent (%)                                         | 1   | 1-2 | 2-4  | 3-4  | 3-5  |
@@ -191,7 +191,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Initial + Enhancement Totals"
 
-    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp; |  1★  &emsp; &emsp; |  2★  &emsp; &emsp; | 3 ★  &emsp; &emsp;  |  4★  &emsp; &emsp;  |  5★  &emsp; &emsp;  |
+    | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
     | Flat                                                | 3-6 | 5-14  | 7-20 | 11-26 | 14-32 |
     | Percent (%)                                         | 2-5 | 4-10  | 7-16 | 12-21 | 15-26 |
