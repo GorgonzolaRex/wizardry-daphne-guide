@@ -88,7 +88,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 | ASPD%                                               | 1-2 | 2-4 | 4-6 | 6-9  | 9-11  |
 | SUR                                                 | 1-2 | 2-3 | 3-4 | 4-5  | 5-6   |
 
-| Enhancement Stat Increase                           |  1★ |  2★ | 3 ★ |  4★ |  5★ |
+| Enhancement Stat Increase &nbsp;                    |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:----------------------------------------------------|:---:|:---:|:---:|:----:|:----:|
 | Flat                                                | 1-2 | 2-5 | 2-8 | 3-10 | 3-12 |
 | Percent (%)                                         | 1   | 1-2 | 2-3 |  3   | 3-4  |
