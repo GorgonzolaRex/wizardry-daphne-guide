@@ -27,7 +27,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 - At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectively, or a Blessing that already exists in that slot is improved.
 
 ### ^^Gold Cost for Enhancing^^
-#### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:
+#### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 | Gear Tier   |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
@@ -39,7 +39,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 | Ebonsteel   |  550 |  770 | 1,210 | 1,870 | 2,750 | 3,850 | 5,390 |  7,315 |  9,625 | 12,320 | 15,400 | 19,140 | 23,375 | 28,105 | 33,330 | 39,050 | 45,650 | 52,855 | 74,470  | 139,315 | 516,340 |
 |  *Special*  |  650 |  900 | 1,500 | 2,450 | 3,750 | 5,400 | 7,650 | 10,500 | 13,950 | 18,000 | 22,650 | 28,100 | 34,750 | 42,600 | 51,650 | 61,900 | 74,150 | 87,800 | 128,750 | 251,600 | 848,700 |
 
-#### Silver Rank Equipment:
+#### Silver Rank Equipment
 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 | Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
@@ -51,7 +51,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 
 ### ^^Ore Type and Amounts for Enhancing^^
 
-#### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment:  
+#### Worn, Bronze, Iron, Steel, and Ebonsteel Rank Equipment  
 <div class="nofilter-table nosort-table narrow-table" markdown>
 | Ore Grade         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
@@ -61,7 +61,7 @@ Blacksmithing becomes available early in the game after your party enters the fi
 | Fine Grade<br>(gold) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
 </div>
 
-#### Silver Rank Equipment:  
+#### Silver Rank Equipment 
 <div class="nofilter-table nosort-table narrow-table" markdown>
 | Ore Grade         |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
 |:-----------------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
@@ -76,7 +76,7 @@ As mentioned above, gear of different Grades can be found that already have from
 
 Based on the values below, most players consider 3-4 star gear to be the target to obtain/enhance, but obviously anything "better than what you have now" will improve youre team's performance.
 
-#### Worn, Bronze, Iron, Steel, and Ebonsteel Gear
+#### Worn - Ebonsteel Rank Equipment
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -125,7 +125,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 |                   **ASPD%**                   | 1   | 1   | 2-3 |  3   |  4   |
 -->
 
-#### Silver Gear  
+#### Silver Rank Equipment 
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -165,7 +165,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
     - Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
 </div>
 
-#### Silver 2H Weapons  
+#### Silver Rank 2H Weapons  
 
 <div class="nofilter-table nosort-table" markdown>
 
