@@ -1,9 +1,9 @@
 # Blacksmithing 
 
+## Overview
+
 - Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 - This guide covers most aspects of equipment improvement along with some general equipment guidelines and suggestions.
-
-## Overview
 
 ### Terminology 
 
@@ -18,19 +18,19 @@
 
 ### Visual Guides 
 
-??? "Blacksmithing Video Tutorial" 
+??? note "Blacksmithing Video Tutorial" 
 
-        <div align="center">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        </div>
+    <div align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
     
-        - Helpful introductory video to the Blacksmithing system. We encourage you to watch this first before continuing if you are a new player.
+    - Helpful introductory video to the Blacksmithing system. We encourage you to watch this first before continuing if you are a new player.
 
 ??? note "Equipment Screen" 
 
-        <div align="center">
-        ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
-        </div>
+    <div align="center">
+    ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
+    </div>
 
 ## ^^Enhance^^
 
@@ -39,13 +39,13 @@
 - Enhancing items beyond +5, +10, and +15 also requires unification (see below) to increase the Strength of the item.
 - At Enhancement Values of +5, +10, +15 and +20, an item's Grade is increased and either a new Blessing is unlocked in the item's 1st, 2nd, 3rd, or 4th blessing slot, respectively, or a Blessing that already exists in that slot is improved.
 
-### ^^Gold Cost for Enhancing^^
+### ^^Enhancement Gold Cost^^
 
 <div class="nofilter-table nosort-table" markdown>
 
 === "Worn - Ebonsteel Rank Equipment"
 
-    | Gear Tier |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
+    | Equipment Tier |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
     |:------------|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:| 
     |   Worn      |  150 |  300 |   500 |   750 | 1,050 | 1,400 | 1,950 |  2,550 |  3,200 |  3,900 |  4,650 |  5,700 |  6,800 |  7,950 |  9,150 | 10,400 | 12,050 | 13,750 | 17,150  | 23,950  | 127,300 |
     |  Bronze     |  200 |  350 |   550 |   800 | 1,100 | 1,450 | 2,000 |  2,700 |  3,550 |  4,550 |  5,700 |  7,250 |  8,950 | 10,800 | 12,800 | 14,950 | 17,700 | 20,650 | 26,550  | 38,350  | 180,950 |
@@ -56,11 +56,11 @@
 
 === "Silver Rank Equipment"
 
-    | Gear Tier |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
+    | Gear Tier &emsp; &emsp; &emsp; |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
     |:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
-    | Armor, 1H&nbsp;Melee, 1+2H&nbsp;Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
-    | 2H&nbsp;Melee Weapons |640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
-    | *Special* |	720|	990|	1,650|	2,700|	4,130|	5,940|	8,420|	11,550|	15,941|	19,800|	24,920|	30,910|	38,230|	46,860|	56,820	|	?	|	?	|	?	|	?	|	?	|	?	|
+    | Armor, 1H Weapons, 2H Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
+    | 2H Weapons                  | 640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
+    | *Special*                   |	720|	990|	1,650|	2,700|	4,130|	5,940|	8,420|	11,550|	15,941|	19,800|	24,920|	30,910|	38,230|	46,860|	56,820	|	?	|	?	|	?	|	?	|	?	|	?	|
 
 </div>
 
