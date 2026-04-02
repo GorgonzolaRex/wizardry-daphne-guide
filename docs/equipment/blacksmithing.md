@@ -5,7 +5,7 @@
 - Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
 - This guide covers most aspects of equipment improvement along with some general equipment guidelines and suggestions.
 
-### Terminology 
+### ^^Terminology^^ 
 
 - Innate Attributes: Stats that are inherent to a piece of equipment at +0 such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.     
 - Blessings: Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".      
@@ -16,7 +16,7 @@
 - Flat stats: Refers to Blessings that give a static +X to a stat such as +8 ATK or +12 MAG.
 - Percent (%) stats: Refers to Blessings that give a % of a unit's base stats with no gear equipped such as 10% ATK or 7% ASPD. 
 
-### Visual Guides 
+### ^^Visual Guides^^ 
 
 ??? note "Blacksmithing Video Tutorial" 
 
@@ -32,7 +32,40 @@
     ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
     </div>
 
-## ^^Enhance^^
+### ^^ Default Equipment Blessings^^ 
+
+- Each type of equipment is restricted to the potential Blessings it can roll at creation (initial value) or through enhancement.
+- 
+
+* `O`: Confirmed
+* `Empty`: None
+
+|   Type   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon|
+|:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
+|    ATK   |         |   O   |         |    O    |       |     O     |   O   |
+|    MAG   |         |   O   |         |    O    |       |     O     |   O   |
+|    DIV   |         |   O   |         |    O    |       |     O     |   O   |
+|    ACC   |         |   O   |         |    O    |   O   |     O     |   O   |
+|    EVA   |    O    |       |    O    |         |   O   |     O     |   O   |
+|    RES   |    O    |   O   |    O    |         |   O   |     O     |       |
+|    DEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
+|    SUR   |    O    |       |    O    |         |       |     O     |   O   |
+|   ATK%   |         |   O   |         |    O    |       |     O     |   O   |
+|   MAG%   |         |   O   |         |    O    |       |     O     |   O   |
+|   DIV%   |         |   O   |         |    O    |       |     O     |   O   |
+|   ACC%   |         |   O   |         |    O    |   O   |     O     |   O   |
+|   EVA%   |    O    |       |    O    |         |   O   |     O     |   O   |
+|   RES%   |    O    |   O   |    O    |         |   O   |     O     |       |
+|   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
+|   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
+
+!!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
+
+
+## Enhance
 
 - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item. See [Equipment Tables](./equipment-tables.md) for catalogued stats and enhancement improvements.
 - Enhancing an item to +5 and beyond requires different grades and quantities of iron ore to be used.   
@@ -45,7 +78,7 @@
 
 === "Worn - Ebonsteel Rank Equipment"
 
-    | Equipment Tier |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
+    | Equipment Tier &emsp; &emsp; |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
     |:------------|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:| 
     |   Worn      |  150 |  300 |   500 |   750 | 1,050 | 1,400 | 1,950 |  2,550 |  3,200 |  3,900 |  4,650 |  5,700 |  6,800 |  7,950 |  9,150 | 10,400 | 12,050 | 13,750 | 17,150  | 23,950  | 127,300 |
     |  Bronze     |  200 |  350 |   550 |   800 | 1,100 | 1,450 | 2,000 |  2,700 |  3,550 |  4,550 |  5,700 |  7,250 |  8,950 | 10,800 | 12,800 | 14,950 | 17,700 | 20,650 | 26,550  | 38,350  | 180,950 |
@@ -88,7 +121,7 @@
 
 </div>
 
-### ^^Enhancement Values^^  
+### Enhancement Values
 
 - When enhancing a piece of equipment there is a minimum and maximum range of values that can roll depending on its Rank (Tier) and Quality (★).
     - Worn through Ebonsteel Rank share the same enhancement values although their costs are different.
@@ -96,7 +129,7 @@
 - Quality (★) is the primary determining factor of Blessing ranges.
 - Most players target 3-4 ★ and Blue (2 Blessings) and/or Purple (3 Blessings) to invest in for the long-term. If you are a new player, then use what you have available. But, understand that you will develop several "interim" pieces that you will switch out in the future.   
 
-#### Worn - Ebonsteel Rank Equipment
+#### ^^Worn - Ebonsteel Rank Equipment^^
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -140,7 +173,7 @@
 |                   **ASPD%**                   | 1   | 1   | 2-3 |  3   |  4   |
 -->
 
-#### Silver Rank Equipment 
+#### ^^Silver Rank Equipment^^ 
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -175,7 +208,7 @@
     | SUR                                                 | 2-3 | 3-6  | 4-7  | 5-10  | 6-12  |
 </div>
 
-#### Silver Rank 2H Weapons  
+#### ^^Silver Rank 2H Weapons^^  
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -214,7 +247,7 @@
 !!! note "Silver gear appears to provide larger blessings than those shown above. Data is being collected and we will add information when we are able to do so.  [Data contributions are welcome](https://canary.discord.com/channels/1296602475918524507/1451245240798285936)."
 -->
 
-## ^^Enhancement Inheritance^^
+## Enhancement Inheritance
 
 Enhancement Inheritance sacrifices an existing enhanced item of the same type (one-handed weapons to one-handed weapons, shoes to shoes, etc) to increase the enhancement value of another item.
 
@@ -226,48 +259,22 @@ Enhancement inheritance comes with a small chance of an excellent or poor outcom
 
 You can inherit an enhancement level higher than an item can reach if its Strength (Unification level) is not high enough (see Unification below). When that is the expected level, the value will be shown as something like `+5 (+7)!`.  Upon increasing the item's unification Strength to accommodate the higher level, the item's enhancement level will automatically be increased. 
 
-## ^^Default Equipment Blessings^^
+## Unify
 
-Equipment can be found with, or receive through enhancement, additional **Blessings** that increase the attributes of the character equipping the item.  Below are estimates of the types of blessings that can appear on different types of items.
+Unification is the process of increasing the Strength of an item it increase its allowable enhancement limit.
 
-**These values are only estimates, and should be used as reference only.**
+??? note "Unification Visual Guide" 
+    <div align="center">
+    ![](img/unifying-equipment.jpg)
+    </div>
 
-* `O`: Confirmed
-* `Empty`: None
+## Extract
 
-|   Type   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon|
-|:--------:|:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
-|   ATK%   |         |   O   |         |    O    |       |     O     |   O   |
-|   MAG%   |         |   O   |         |    O    |       |     O     |   O   |
-|   DIV%   |         |   O   |         |    O    |       |     O     |   O   |
-|   ACC%   |         |   O   |         |    O    |   O   |     O     |   O   |
-|   EVA%   |    O    |       |    O    |         |   O   |     O     |   O   |
-|   RES%   |    O    |   O   |    O    |         |   O   |     O     |       |
-|   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-|   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
-|   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
-|    ATK   |         |   O   |         |    O    |       |     O     |   O   |
-|    MAG   |         |   O   |         |    O    |       |     O     |   O   |
-|    DIV   |         |   O   |         |    O    |       |     O     |   O   |
-|    ACC   |         |   O   |         |    O    |   O   |     O     |   O   |
-|    EVA   |    O    |       |    O    |         |   O   |     O     |   O   |
-|    RES   |    O    |   O   |    O    |         |   O   |     O     |       |
-|    DEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-|   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-|    SUR   |    O    |       |    O    |         |       |     O     |   O   |
-|   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
+- Only weapons, armor, and accessories that have a Blessing can be extracted. The extraction process can yield an Alteration Stone, Refinement Stone, Refinement Stone Fragment, or nothing.
+- The type of stone extracted is randomly selected from one of the Blessings on the piece of equipment. 
+- Refinement stone fragments can be redeemed for Refinment Stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each.
 
-!!! caution "Bows can generate ASPD and ASPD % naturally, but other weapons cannot."
-
-### ^^Extraction Values^^
-
-- Only equipment that has a Blessing can be extracted.
-- The extraction process can yield an alteration stone, refinement stone, refinement stone fragment, or nothing.
-- Refinement stone fragments can be redeemed for refinment stones at the Jeweler under Exchange - Refinement Stone. They cost 500 fragments each.
-- The equipment's Quality (★) determines the ★ value of the alteration or refinement stone.
-- Depending on RNG an extracted stone can roll up to 2 tiers higher than the extract piece of equipment. Examples:
-    - Extracting a 2★ piece of equipment call roll a 2★ (common), 3★ (rare), or 4★ (very rare) alteration or refinment stone.
-    - Extracting a 3★ piece of equipment call roll a 3★ (common), 4★ (rare), or 5★ (very rare) alteration or refinment stone.
+### ^^Alteration and Refinement Stone Values^^
 
 <div class="nofilter-table nosort-table" markdown>
 
@@ -279,44 +286,28 @@ Equipment can be found with, or receive through enhancement, additional **Blessi
 | ASPD%                                               | 1-2 | 1-3 | 2-4  | 3-5  | 3-6 |
 </div>
 
+- The equipment's Quality (★) determines the ★ value of the Alteration or Refinement Stone.
+- Depending on RNG an extracted stone can roll up to 2 tiers higher than the extract piece of equipment. Examples:
+    - Extracting a 2★ piece of equipment call roll a 2★ (common), 3★ (rare), or 4★ (very rare) Alteration or Refinment stone.
+    - Extracting a 3★ piece of equipment call roll a 3★ (common), 4★ (rare), or 5★ (very rare) Alteration or Refinment stone.
 
-## ^^Refine^^
+## Refine
 
 Refining an item increases the value of a **Blessing** and requires a matching Refinement Stone. Every blessing on an item can be refined, but only one refinement stone can be applied to each blessing.  Subsequent refinements of a blessing will replace previously applied refinements. Potential refinement range is shown prior to using the stone.
 
 As of version 1.12.1, refinement bonuses are retained if you enhance to a level that also enhances that attribute. Previously, if refined before enhancing to +5, +10, +15, or +20, the enhancement would clear any refinement on the assocated blessing. Depending on the values rolled this could make the attribute value appear to worsen on enhancement.
 
-## ^^Alter^^
+## Alter
 
 Altering an item allows you use an Alteration Stone to change a Blessing to the attribute of that stone, with the new blessing value determined by the range of the alteration stone replacing any previous blessing and refinement value. 
 
 Alteration has some nuanced behavior related to enhancement values of +5, +10, +15, and +20, that will apply Blessing enhancements to the 1st, 2nd, 3rd, and 4th Blesssing slots, respectively:
 
-* Any enhancement performed after alteration will improve that blessing value as usual.
+- Any enhancement performed after alteration will improve that blessing value as usual.
+- Altering a Blessing after that slot has already reached its enhancement checkpoint will replace both the initial Blessing and any refinements as well as the enhancements increase.  This will leave the slot with only the value provided by the Alteration Stone. It can be further refine, but will not be further enhanced.
+- This makes it generally preferable to perform any Alteration prior to enhancing beyond the level that will increase that Blessing.
 
-* Altering a Blessing after that slot has already reached its enhancement checkpoint will replace both the initial Blessing and any refinements as well as the enhancements increase.  This will leave the slot with only the value provided by the Alteration Stone. It can be further refine, but will not be further enhanced.
-
-* This makes it generally preferable to perform any Alteration prior to enhancing beyond the level that will increase that Blessing.
-
-## ^^Extraction^^
-
-Extracting destroys an item, with a small chance of producing an Alteration Stone or Refinement Stone that can be used to modify or increase substats on items as described above.
-
-The type of stone produced will be randomly selected from one of the Blessings on the item under extraction. The refinement/alteration values of the stones will be higher when produced from higher Quality (star-value) items.
-
-Only weapons, armor and accessories can be extracted.
-
-Items that fail extraction are lost.  There is a small chance that a Refinement Stone Fragment will be produced from failed extractions.  These fragments can be collected and turned in for Refinement Stones at the Jeweler in town.
-
-
-
-## ^^Unification^^
-
-Unification is the process of increasing the Strength of an item it increase its allowable enhancement limit.
-
-![](img/unifying-equipment.jpg)
-
-## ^^Advanced Blacksmithing^^
+## Advanced Blacksmithing
 
 ### ^^Advanced Extraction^^
 
@@ -352,7 +343,7 @@ As of Update 1.12.1, Lesser Full Alteration Stones have been added that re-rolls
 
 It is highly suggested that a FAS should be saved and used on your highest rarity items - 4 star purple or higher. Good examples for this would the Master Fighter Ring from the Fighter Proving Grounds (A 4 star Red Ring) or certain extremely strong gacha equipment like Blade Cuisinart if they have a good quality/grade. Alternatively, it can be used to give another chance at better rolls on gear that has already been enhanced to +20 if the item has generated with a decent Grade (color).
 
-### Composite Reinforcement  
+## Composite Reinforcement  
 
 !!! warning "ABYSS 4 WARNING: DO NOT USE COMPOSITE REINFORCEMENT INGOTS (SILVER INGOTS) UNLESS YOU ABSOLUTELY KNOW HOW IT WORKS AND WHAT YOU'RE DOING.  They're rare, expensive, and you do NOT want to waste one out of ignorance."
 
