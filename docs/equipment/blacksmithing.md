@@ -76,20 +76,19 @@ As mentioned above, gear of different Grades can be found that already have from
 
 Based on the values below, most players consider 3-4 star gear to be the target to obtain/enhance, but obviously anything "better than what you have now" will improve youre team's performance.
 
-**These values are estimates.**
+#### Worn, Bronze, Iron, Steel, and Ebonsteel Gear
 
-#### Worn to Ebonsteel Gear
-
-<div class="nofilter-table nosort-table narrow-table" markdown>
-|   Initial Value Stats                       | 1★  |  2★ | 3 ★ |  4★ |  5★   |
+<div class="nofilter-table nosort-table" markdown>
+    
+| Initial Value - Base Stats &ensp; &ensp;            | 1★  |  2★ | 3 ★ |  4★ |  5★   |
 |:----------------------------------------------------|:---:|:---:|:---:|:----:|:-----:|
-| Flat Stats                                          | 2-3 | 3-5 | 5-7 | 8-10 | 11-13 |
+| Flat                                                | 2-3 | 3-5 | 5-7 | 8-10 | 11-13 |
 | Percent (%)                                         | 1-3 | 3-6 | 5-9 | 9-13 | 12-16 |
 | ASPD                                                | 1-2 | 2-4 | 4-6 | 6-8  | 8-10  |
 | ASPD%                                               | 1-2 | 2-4 | 4-6 | 6-9  | 9-11  |
 | SUR                                                 | 1-2 | 2-3 | 3-4 | 4-5  | 5-6   |
 
-|   Enhancement Stat Increase                         |  1★ |  2★ | 3 ★ |  4★ |  5★ |
+| Enhancement Stat Increase                           |  1★ |  2★ | 3 ★ |  4★ |  5★ |
 |:----------------------------------------------------|:---:|:---:|:---:|:----:|:----:|
 | Flat                                                | 1-2 | 2-5 | 2-8 | 3-10 | 3-12 |
 | Percent (%)                                         | 1   | 1-2 | 2-3 |  3   | 3-4  |
@@ -97,7 +96,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 | ASPD%                                               | 1   | 1-2 | 2-3 |   3  | 3-4  |
 | SUR                                                 | 1   | 1-2 | 1-2 | 1-3  | 1-4  |
 
-|   Initial + Enhancement Stat Increase               |  1★ |  2★ | 3 ★  |  4★  |  5★  |
+| Initial + Enhancement Increase                      |  1★ |  2★ | 3 ★  |  4★  |  5★  |
 |:----------------------------------------------------|:---:|:----:|:----:|:-----:|:-----:|
 | Flat                                                | 3-5 | 5-10 | 7-15 | 11-20 | 14-25 |
 | Percent (%)                                         | 2-4 | 4-8  | 7-12 | 12-16 | 15-20 |
@@ -105,6 +104,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 | ASPD%                                               | 2-3 | 3-6  | 6-9  | 9-12  | 12-15 |
 | SUR                                                 | 2-3 | 3-5  | 4-6  | 5-8   | 6-10  |
 </div>
+
 Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
 Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
 
