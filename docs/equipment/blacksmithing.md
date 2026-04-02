@@ -16,7 +16,7 @@
 - Flat stats: Refers to Blessings that give a static +X to a stat such as +8 ATK or +12 MAG.
 - Percent (%) stats: Refers to Blessings that give a % of a unit's base stats with no gear equipped such as 10% ATK or 7% ASPD. 
 
-### ^^Visual Guides" 
+### ^^Visual Guides^^ 
 
 === "Blacksmithing Video Tutorial"
 
@@ -30,14 +30,14 @@
     ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
     </div>
 
-=== "Blessing Restriction Table" 
+=== "Blessings Restriction Table" 
 
     - Each type of equipment is restricted to the potential Blessings it can roll at creation (initial value) or through enhancement.
     
     * `O`: Potential Blessing
     * `Empty`: None
     
-    |   Blessing   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon<sup>†</sup> |
+    |          | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon<sup>†</sup> |
     |:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
     | Flat Blessings  | | | | | | | |
     |    ATK   |         |   O   |         |    O    |       |     O     |   O   |
@@ -61,7 +61,7 @@
     |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
     |   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
     
-    <sup>†</sup> Only bows can roll ASPD and ASPD^, but other weapons cannot. 
+    <sup>†</sup> <small>Only bows can roll ASPD and ASPD, but other weapons cannot. 
 
 ## Enhance
 
