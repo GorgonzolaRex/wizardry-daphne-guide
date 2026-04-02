@@ -1,37 +1,37 @@
-# Blacksmithing Basics
+# Blacksmithing 
 
 - Blacksmithing becomes available early in the game after your party enters the first major city, Royal Capital Luknalia.  It offers several methods for improving your weapons, armor and accessories, and is essential for strengthening your party.
-- This guide covers most aspects of equipment improvement along with some general equipment guidelines andsuggestions.
+- This guide covers most aspects of equipment improvement along with some general equipment guidelines and suggestions.
 
-## Terminology
+## Basics
 
-=== "Definition List"
+### Terminology 
 
-    - Innate Attributes: Stats that are inherent to a piece of equipment at +0 such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.     
-    - Blessings: Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".      
-    - Quality: The "color" of the gear that corresponds to the number of Blessings. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.                     
-    - Rank (Tier):  Item material such as Bronze, Iron, Steel, etc. that determine the size of the innate attributes. Commonly referred to as "Tier".
-    - Quality: Refers to the numbers of stars (★), which determines the the Blessing stat range that can roll at both creation (initial value at +0) and enhancements. Ranges from 1-5.                   
-    - Traits: Additional characteristics or abilities. The most common types are Slayer (e.g., anti-race such as Undead), Type (elemental), or class (e.g., all Daggers have the "Nimble Strike" trait).       
+- Innate Attributes: Stats that are inherent to a piece of equipment at +0 such as Attack Power, Defense Power, etc. Every item of the same type shares the same attributes.     
+- Blessings: Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".      
+- Quality: The "color" of the gear that corresponds to the number of Blessings. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.                     
+- Rank (Tier):  Item material such as Bronze, Iron, Steel, etc. that determine the size of the innate attributes. Commonly referred to as "Tier".
+- Quality: Refers to the numbers of stars (★), which determines the the Blessing stat range that can roll at both creation (initial value at +0) and enhancements. Ranges from 1-5.                   
+- Traits: Additional characteristics or abilities. The most common types are Slayer (e.g., anti-race such as Undead), Type (elemental), or class (e.g., all Daggers have the "Nimble Strike" trait).
+- Flat stats: Refers to Blessings that give a static +X to a stat such as +8 ATK or +12 MAG.
+- Percent (%) stats: Refers to Blessings that give a % of a unit's base stats with no gear equipped such as 10% ATK or 7% ASPD. 
 
-=== "Blessing Types" 
+??? note "Visual Guides" 
 
-    - Flat: Refers to Blessings that give a static +X to a stat. Includes: Attack Power (ATK), Magic Power (MAG), Divine Power (DIV), Defense (DEF), Magic Defense (MDEF), Accuracy (ACC), Evasion (EVA), and Resistance (RES). A Blessing with +20 ATK would be refered to as "flat ATK".  
-    - Percent (%): Same as the above, but the Blessings are a % of a unit's base stats with no gear equipped. For example, a blessing with +10% ATK would be referred to as "% ATK".    
-
-=== "Equipment Screen Guide" 
-
-    ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
-
-??? note "Blacksmithing Video Tutorial" 
-
-    <div align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-
-    - Helpful introductory video to the Blacksmithing system. We encourage you to watch this first before continuing if you are a new player.
+    === "Blacksmithing Video Tutorial" 
+    
+        <div align="center">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    
+        - Helpful introductory video to the Blacksmithing system. We encourage you to watch this first before continuing if you are a new player.
+    
+    === "Equipment Screen" 
+    
+        ![Image of an item highlighting innate attributes, Blessings, and other equipment characteristics](img/equipment.jpg)
 
 ## ^^Enhance^^
+
 - Increases item Enhancement Value up to a maximum of +20, increasing the Innate Attributes of the item. See [Equipment Tables](./equipment-tables.md) for catalogued stats and enhancement improvements.
 - Enhancing an item to +5 and beyond requires different grades and quantities of iron ore to be used.   
 - Enhancing items beyond +5, +10, and +15 also requires unification (see below) to increase the Strength of the item.
@@ -79,17 +79,20 @@
 
     | Ore Grade  &emsp; &emsp; &emsp; &emsp; &emsp; |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  |  Total  |
     |:-----------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:| 
-    | Mid Grade (Red)       |   0  |   0  |   0  |   0  |   1  |   2  |   3  |   4  |   5  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
-    | High Grade (Blue)     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   1   |   2   |   3   |   4   |   5   |   0   |   0   |   0   |   0   |   0   |   0   |    15   |
-    | Fine Grade (Gold)     |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   1   |   2   |   3   |   4   |   5   |   0   |    15   |
-    | Sliver Grade (Silver) |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0  |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   0   |   1   |     1   |
+    | Mid Grade (Red)       |     |     |     |     |  1  |  2  |  3  |  4  |  5  |      |      |      |      |      |      |      |      |      |      |      |    15   |
+    | High Grade (Blue)     |     |     |     |     |     |     |     |     |     |   1  |  2   |   3  |   4  |   5  |      |      |      |      |      |      |    15   |
+    | Fine Grade (Gold)     |     |     |     |     |     |     |     |     |     |      |      |      |      |      |   1  |  2   |   3  |   4  |   5  |      |    15   |
+    | Silver Grade (Silver) |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |   1  |     1   |
 
 </div>
 
 ### ^^Enhancement Values^^  
-As mentioned above, gear of different Grades can be found that already have from 1 to 4 Blessings applied to them.  Blessings are also added or increased in value on enhancement. Below are tables **estimating** the range of gear stat increases from blessings based on the Quality of the item.
 
-Based on the values below, most players consider 3-4 star gear to be the target to obtain/enhance, but obviously anything "better than what you have now" will improve youre team's performance.
+- When enhancing a piece of equipment there is a minimum and maximum range of values that can roll depending on its Rank (Tier) and Quality (★).
+    - Worn through Ebonsteel Rank share the same enhancement values although their costs are different.
+    - Silver gear found in Abyss 4 benefits from higher minimum and maximum values. 2H Silver weapons are more expensive to enhance, but have the highest maximum enhancement values.
+- Quality (★) is the primary determining factor of Blessing ranges.
+- Most players target 3-4 ★ and Blue (2 Blessings) and/or Purple (3 Blessings) to invest in for the long-term. If you are a new player, then use what you have available. But, understand that you will develop several "interim" pieces that you will switch out in the future.   
 
 #### Worn - Ebonsteel Rank Equipment
 
