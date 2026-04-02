@@ -82,7 +82,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Initial Value - Base Stats" 
 
-    | Blessing Type                                       | 1★  |  2★ | 3 ★ |  4★ |  5★   |
+    | Blessing Type &emsp; &emsp;                                       | 1★  |  2★ | 3 ★ |  4★ |  5★   |
     |:----------------------------------------------------|:---:|:---:|:---:|:----:|:-----:|
     | Flat                                                | 2-3 | 3-5 | 5-7 | 8-10 | 11-13 |
     | Percent (%)                                         | 1-3 | 3-6 | 5-9 | 9-13 | 12-16 |
@@ -92,7 +92,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Enhancement Increase"
 
-    | Blessing Type                                       |  1★ |  2★ | 3 ★ |  4★ |  5★ |
+    | Blessing Type &emsp; &emsp;                                      |  1★ |  2★ | 3 ★ |  4★ |  5★ |
     |:----------------------------------------------------|:---:|:---:|:---:|:----:|:----:|
     | Flat                                                | 1-2 | 2-5 | 2-8 | 3-10 | 3-12 |
     | Percent (%)                                         | 1   | 1-2 | 2-3 |  3   | 3-4  |
@@ -102,7 +102,7 @@ Based on the values below, most players consider 3-4 star gear to be the target 
 
 === "Initial + Enhancement Increase"
 
-    | Blessing Type                                       |  1★ |  2★ | 3 ★  |  4★  |  5★  |
+    | Blessing Type &emsp; &emsp;                                       |  1★ |  2★ | 3 ★  |  4★  |  5★  |
     |:----------------------------------------------------|:---:|:----:|:----:|:-----:|:-----:|
     | Flat                                                | 3-5 | 5-10 | 7-15 | 11-20 | 14-25 |
     | Percent (%)                                         | 2-4 | 4-8  | 7-12 | 12-16 | 15-20 |
@@ -111,8 +111,10 @@ Based on the values below, most players consider 3-4 star gear to be the target 
     | SUR                                                 | 2-3 | 3-5  | 4-6  | 5-8   | 6-10  |
 </div>
 
-Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
-Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
+=== "Stat Reference"
+
+    - Flat stats: ATK, MAG, DIV, DEF, MDEF, ACC, EVA, RES
+    - Percent (%): ATK%, MAG%, DIV%, DEF%, MDEF%, ACC%, EVA%, RES%
 
 <!-- PREVIOUS TABLE
 |                                               |  1★ |  2★ | 3 ★ |  4★ |  5★ |
