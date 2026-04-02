@@ -39,6 +39,7 @@
     
     |   Blessing   | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon<sup>†</sup> |
     |:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
+    | Flat Blessings  | | | | | | | |
     |    ATK   |         |   O   |         |    O    |       |     O     |   O   |
     |    MAG   |         |   O   |         |    O    |       |     O     |   O   |
     |    DIV   |         |   O   |         |    O    |       |     O     |   O   |
@@ -49,6 +50,7 @@
     |   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
     |   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
     |    SUR   |    O    |       |    O    |         |       |     O     |   O   |
+    | % Blessings  | | | | | | | |
     |   ATK%   |         |   O   |         |    O    |       |     O     |   O   |
     |   MAG%   |         |   O   |         |    O    |       |     O     |   O   |
     |   DIV%   |         |   O   |         |    O    |       |     O     |   O   |
