@@ -74,27 +74,6 @@
 
 ### ^^Gold Cost^^
 
-<div class="nofilter-table nosort-table" markdown>
-
-=== "Worn - Ebonsteel Rank Equipment"
-
-    |             |  +1  |  +2  |  +3   |  +4   |  +5   |  +6   |  +7   |   +8   |   +9   |   +10  |   +11  |   +12  |   +13  |   +14  |   +15  |   +16  |   +17  |   +18  |    +19  |    +20  |  Total  |
-    |:------------|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:-------:|:-------:|:-------:| 
-    |   Worn      |  150 |  300 |   500 |   750 | 1,050 | 1,400 | 1,950 |  2,550 |  3,200 |  3,900 |  4,650 |  5,700 |  6,800 |  7,950 |  9,150 | 10,400 | 12,050 | 13,750 | 17,150  | 23,950  | 127,300 |
-    |  Bronze     |  200 |  350 |   550 |   800 | 1,100 | 1,450 | 2,000 |  2,700 |  3,550 |  4,550 |  5,700 |  7,250 |  8,950 | 10,800 | 12,800 | 14,950 | 17,700 | 20,650 | 26,550  | 38,350  | 180,950 |
-    |   Iron      |  350 |  500 |   750 | 1,100 | 1,550 | 2,100 | 2,850 |  3,750 |  4,800 |  6,050 |  7,500 |  9,350 | 11,500 | 13,950 | 16,700 | 19,750 | 23,400 | 27,350 | 39,200  | 76,200  | 268,700 |
-    |   Steel     |  500 |  700 | 1,100 | 1,700 | 2,500 | 3,500 | 4,900 |  6,650 |  8,750 | 11,200 | 14,000 | 17,400 | 21,250 | 25,550 | 30,300 | 35,550 | 41,500 | 48,050 | 6,7700  | 126,650 | 469,450 |
-    | Ebonsteel   |  550 |  770 | 1,210 | 1,870 | 2,750 | 3,850 | 5,390 |  7,315 |  9,625 | 12,320 | 15,400 | 19,140 | 23,375 | 28,105 | 33,330 | 39,050 | 45,650 | 52,855 | 74,470  | 139,315 | 516,340 |
-    |  Special    |  650 |  900 | 1,500 | 2,450 | 3,750 | 5,400 | 7,650 | 10,500 | 13,950 | 18,000 | 22,650 | 28,100 | 34,750 | 42,600 | 51,650 | 61,900 | 74,150 | 87,800 | 128,750 | 251,600 | 848,700 |
-
-=== "Silver Rank Equipment"
-
-    | Type                        |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
-    |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
-    | Armor, 1H Weapons, 2H Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
-    | 2H Weapons                  | 640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
-    | Special                     |	720|	990|	1,650|	2,700|	4,130|	5,940|	8,420|	11,550|	15,941|	19,800|	24,920|	30,910|	38,230|	46,860|	56,820	|	?	|	?	|	?	|	?	|	?	|	?	|
-</div>
 
 ### ^^Ore Cost^^
 
@@ -119,13 +98,13 @@
     | Silver Grade (Silver) |     |     |     |     |     |     |     |     |     |      |      |      |      |      |      |      |      |      |      |   1  |     1   |
 </div>
 
-### Blessing Range Tables
+### ^^Blessing Range Tables^^
 
 - When enhancing a piece of equipment there is a minimum and maximum range of values that can roll depending on its Rank (Tier) and Quality (★).
     - Worn through Ebonsteel Rank share the same enhancement values although their costs are different.
     - Silver gear found in Abyss 4 benefits from higher minimum and maximum values. 2H Silver weapons are more expensive to enhance, but have the highest maximum enhancement values.
-- Quality (★) is the primary determining factor of Blessing ranges.
-- Most players target 3-4 ★ and Blue (2 Blessings) and/or Purple (3 Blessings) to invest in for the long-term. If you are a new player, then use what you have available. But, understand that you will develop several "interim" pieces that you will switch out in the future.   
+- Quality (<small>★</small>) is the primary determining factor of Blessing ranges.
+- Most players target 3-4 <small>★</small> and Blue (2 Blessings) and/or Purple (3 Blessings) to invest in for the long-term. If you are a new player, then use what you have available. But, understand that you will develop several "interim" pieces that you will switch out in the future.   
 
 #### ^^Worn - Ebonsteel^^
 
@@ -255,7 +234,7 @@
 
 ## Unify
 
-Unification is the process of increasing the Strength of an item it increase its allowable enhancement limit.
+- Unification is the process of increasing the Strength of an item to increase its allowable enhancement limit.
 
 ??? note "Unification Visual Guide" 
     <div align="center">
