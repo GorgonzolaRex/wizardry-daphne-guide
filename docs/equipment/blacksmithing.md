@@ -11,7 +11,7 @@
 - Blessings: Provide an additional increase to a single attribute. Every piece of equipment can have a maximum of 4 blessings. Commonly referred to as "sub-stats".      
 - Quality: The "color" of the gear that corresponds to the number of Blessings. White = 0, Green = 1, Blue = 2, Purple = 3, Red = 4.                     
 - Rank (Tier):  Item material such as Bronze, Iron, Steel, etc. that determine the size of the innate attributes. Commonly referred to as "Tier".
-- Quality: Refers to the numbers of stars (<small>★</small)), which determines the the Blessing stat range that can roll at both creation (initial value at +0) and enhancements. Ranges from 1-5.                   
+- Quality: Refers to the numbers of stars (<small>★</small>), which determines the the Blessing stat range that can roll at both creation (initial value at +0) and enhancements. Ranges from 1-5.                   
 - Traits: Additional characteristics or abilities. The most common types are Slayer (e.g., anti-race such as Undead), Type (elemental), or class (e.g., all Daggers have the "Nimble Strike" trait).
 - Flat stats: Refers to Blessings that give a static +X to a stat such as +8 ATK or +12 MAG.
 - Percent (%) stats: Refers to Blessings that give a % of a unit's base stats with no gear equipped such as 10% ATK or 7% ASPD. 
