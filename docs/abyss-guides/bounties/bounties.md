@@ -111,7 +111,7 @@
 
     <div class="equipment-table" markdown>
 
-    | Bounty Name &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;                               | Rank | Guild         | Location | Floor  | Markers | Medals | Gold   | Capture? |
+    | Bounty Name &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;                               | Rank | Guild &emsp;         | Location | Floor  | Markers | Medals | Gold   | Capture? |
     |:------------------------------------------|:----:|:--------------|:---------|:-------|:-------:|:------:|--------|:--------:|
     | Goblin Daddy                              | 1    | Royal Capital | &emsp;&nbsp; A1       | B3F    | 2       | 45     | 2,000  |          |
     | Warped One Burning with Vengeance         | 1    | Royal Capital | &emsp;&nbsp; A1       | B1F    | 1       | 30     | 1,800  |          |
