@@ -93,19 +93,19 @@
 ??? note "Map Variations" 
 
     - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
-    - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations.
-
-### Bounty Rank Unlock Conditions
-
-| Rank | Unlock Conditions |
-|:--|:--|
-| 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
-| 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
-| 10-12 | Clear Abyss 3 (Mastermind Ending) |
-| 13-14 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
-| 15 | Clear Abyss 4 GWO (Save Iris Ending) |
+    - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations
 
 ### Bounties Summary Tables
+
+=== "Unlock Conditions" 
+
+    | Rank | Unlock Conditions |
+    |:--|:--|
+    | 1-7 | Clear Abyss 2 (Normal Ending) + some Abyss 3 progression |
+    | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
+    | 10-12 | Clear Abyss 3 (Mastermind Ending) |
+    | 13-14 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
+    | 15 | Clear Abyss 4 GWO (Save Iris Ending) |
 
 === "Bounties List" 
 
