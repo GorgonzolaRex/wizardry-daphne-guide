@@ -148,7 +148,9 @@
     | Dutz, the Honey Tonic Savanat             | 13   | Isberg        | A4       | R9     | 18      | 1,140  | 26,700 | Req      |
     | Spirit Realm Automaton                    | 14   | Isberg        | A4       | R1     | 21      | 1,380  | 28,000 |          |
     | Wailing Twin Dolls                        | 14   | Isberg        | A4       | R3     | 23      | 1,550  | 32,100 |          |
-
+    
+    </div>
+    
 === "Bounty Markers Required per Rank" 
 
     | Bounty Rank | Bounty Markers  |
