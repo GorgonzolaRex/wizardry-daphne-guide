@@ -25,7 +25,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 140,Dagger!A140,Dagger,184,Beast Killer,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Magical Beast-Slayer"
 146,Dagger!A146,Dagger,183,Seafoam Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Water Type"
 152,Dagger!A152,Dagger,182,Earthrend Dagger,Silver,2,,,51,0,0,0,0,4,20,0,2,0,69,0,0,0,0,4,20,0,2,0,87,0,0,0,0,4,20,0,2,0,105,0,0,0,0,4,20,0,2,0,123,0,0,0,0,4,20,0,2,0,"Nimble Strike, Earth Type"
-158,Dagger!A158,Dagger,185,Cyclops Fang Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Evasion Damage, VERIFY WEAPON CATEGORY"
+158,Dagger!A158,Dagger,185,Cyclops Fang Sword,Silver,2,,,70,0,0,0,0,-5,0,5,2,0,88,0,0,0,0,-5,0,7,2,0,106,0,0,0,0,-5,0,8,2,0,,,,,,,,,,,,,,,,,,,,,"Nimble Strike, Evasion Damage, VERIFY WEAPON CATEGORY"
 164,Dagger!A164,Dagger,Ex.,Sword Stealer,Silver,2,,,64,0,0,0,0,8,10,4,8,0,,,,,,,,,,,,,,,,,,,,,117,0,0,0,0,8,14,4,8,0,,,,,,,,,,,"Nimble Strike (Major), Passive Dexterity Up"
 170,Dagger!A170,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 176,Dagger!A176,Dagger,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -475,7 +475,7 @@ StartingRow,StartLoc,Type,Compendium Number,Item Name,Rank,# of Attacks,Buy Pric
 38,Sam_Katana!A38,Sam_Katana,Ex.,Kiku-Ichimonji,Ebonsteel,2,,,65,60,0,0,0,5,15,5,0,0,80,76,0,0,0,6,15,7,0,0,95,92,0,0,0,7,15,8,0,0,110,108,0,0,0,8,15,9,0,0,,,,,,,,,,,Masterwork Hamon
 44,Sam_Katana!A44,Sam_Katana,203,Yukihiko,Silver,2,75000,,90,78,0,0,0,-5,10,0,0,0,108,98,0,0,0,-5,10,0,0,0,126,117,0,0,0,-5,10,0,0,0,144,136,0,0,0,-5,10,0,0,0,162,156,0,0,0,-5,10,0,0,0,
 50,Sam_Katana!A50,Sam_Katana,201,Masterwork Katana,Silver,2,,,84,78,0,0,0,0,10,0,0,0,102,98,0,0,0,0,10,0,0,0,120,117,0,0,0,0,10,0,0,0,138,136,0,0,0,0,10,0,0,0,156,156,0,0,0,0,10,0,0,0,
-56,Sam_Katana!A56,Sam_Katana,204,Snow-Oni Yoto,Silver,2,,,32,26,0,0,0,0,18,0,0,0,50,46,0,0,0,0,18,0,0,0,86,85,0,0,0,0,18,0,0,0,127,128,0,0,0,0,18,0,0,0,,,,,,,,,,,Chilling Curse
+56,Sam_Katana!A56,Sam_Katana,204,Snow-Oni Yoto,Silver,2,,,32,26,0,0,0,0,18,0,0,0,50,46,0,0,0,0,18,0,0,0,86,85,0,0,0,0,18,0,0,0,127,128,0,0,0,0,18,0,0,0,176,182,0,0,0,0,18,0,0,0,Chilling Curse
 62,Sam_Katana!A62,Sam_Katana,205,Kagurazuki,Silver,2,,,92,86,0,-20,0,0,10,5,0,-15,110,106,0,-20,0,0,10,7,0,-15,128,125,0,-20,0,0,10,8,0,-15,146,144,0,-20,0,0,10,9,0,-15,164,164,0,-20,0,0,10,10,0,-15,Evade Increase
 68,Sam_Katana!A68,Sam_Katana,202,Beast Hunt,Silver,2,,,82,76,0,0,0,0,10,0,0,0,100,96,0,0,0,0,10,0,0,0,118,115,0,0,0,0,10,0,0,0,136,134,0,0,0,0,10,0,0,0,154,154,0,0,0,0,10,0,0,0,Magical Beast-Slayer
 74,Sam_Katana!A74,Sam_Katana,,Clear Mind,Silver,2,,,82,76,0,0,0,0,10,0,0,0,100,96,0,0,0,0,10,0,0,0,118,115,0,0,0,0,10,0,0,0,136,134,0,0,0,0,10,0,0,0,154,154,0,0,0,0,10,0,0,0,Humanoid-Slayer
