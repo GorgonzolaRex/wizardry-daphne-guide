@@ -103,7 +103,68 @@
 | 8-9 | Clear Abyss 2 (True Ending) + some Abyss 3 progression. "Defeated Octoranus" must be toggled in the Curse Wheel under "Return to the Capital" |
 | 10-12 | Clear Abyss 3 (Mastermind Ending) |
 | 13-14 | Clear Abyss 3 (Mastermind Ending) with 0 Corruption (all 13 sentry nodes in the Curse Wheel set to "Not Spotted"). You do not need to defeat the Greater Warped One. Have MC die during the fight and accept death |
-| 15 | Clear Abyss 4 (Save Iris Ending) |
+| 15 | Clear Abyss 4 GWO (Save Iris Ending) |
+
+### Bounties Summary Tables
+
+=== "Bounties List" 
+
+    | Bounty Name                               | Rank | Guild         | Location | Floor  | Markers | Medals | Gold   | Capture? |
+    |:------------------------------------------|:----:|:--------------|:--------:|:-------|:-------:|:------:|--------|:--------:|
+    | Goblin Daddy                              | 1    | Royal Capital | A1       | B3F    | 2       | 45     | 2,000  |          |
+    | Warped One Burning with Vengeance         | 1    | Royal Capital | A1       | B1F    | 1       | 30     | 1,800  |          |
+    | Jhael, the Novice Slayer                  | 1    | Royal Capital | A1       | B4F    | 1       | 30     | 1,800  | Yes      |
+    | The Unpierceable One                      | 1    | Port Town     | A2       | D3     | 2       | 40     | 2,000  |          |
+    | Patti, Apostate of the Sea                | 1    | Port Town     | A2       | D5     | 2       | 35     | 2,000  | Yes      |
+    | The Lurking Flutter Hunting-Fey           | 1    | Port Town     | Valeon   |        | 1       | 80     | 1,600  |          |
+    | Reaper Bunny                              | 1    | Guarda        | A3       | Z2     | 3       | 65     | 2,000  |          |
+    | Brok, the Shrewd Swindler                 | 2    | Royal Capital | A1       | B3F    | 3       | 55     | 2,300  | Yes      |
+    | Grudge-Bearing Sack Doll                  | 2    | Royal Capital | A1       | B5F    | 1       | 100    | 1,900  |          |
+    | The Unending Breath of Stone              | 2    | Port Town     | A2       | D1     | 6       | 70     | 3,500  |          |
+    | Sand Shadows that Calls Scorched Earth    | 2    | Guarda        | A3       | Z1     | 5       | 60     | 3,500  |          |
+    | Skeleton Archmage                         | 3    | Royal Capital | A1       | B7F    | 6       | 90     | 2,700  |          |
+    | The Champion                              | 3    | Port Town     | A2       | D2     | 6       | 80     | 4,100  |          |
+    | Saige the Sacker                          | 4    | Royal Capital | A1       | B6F    | 4       | 110    | 4,800  | Req      |
+    | Dungeon-Stalkers                          | 4    | Port Town     | A2       | D6     | 7       | 115    | 4,800  |          |
+    | Fallen Princess of Bewitching Dreams      | 4    | Port Town     | A2       | Ship 1 | 6       | 120    | 4,800  |          |
+    | Six-Limbed Storm                          | 5    | Royal Capital | A1       | B5F    | 8       | 180    | 6,800  |          |
+    | Monica, the Self-Proclaimed Enforcer      | 5    | Port Town     | A2       | D1     | 6       | 210    | 9,500  | Req      |
+    | Petz, the Mook Who Flaunts Authority      | 5    | Guarda        | A3       | Z3     | 4       | 145    | 3,600  | Yes      |
+    | Host of the Cursed Banquet                | 6    | Royal Capital | A1       | B6F    | 8       | 200    | 5,100  |          |
+    | Dolan, the Long-Lost Sailor               | 6    | Port Town     | A2       | D3     | 9       | 215    | 7,000  |          |
+    | Peerless Scorpionesses                    | 7    | Royal Capital | A1       | B2F    | 11      | 280    | 10,800 |          |
+    | Timid Crimson Fang                        | 7    | Guarda        | A3       | Z5     | 9       | 240    | 7,200  |          |
+    | Estatic Blazing Eye                       | 8    | Port Town     | A2       | Ship 2 | 10      | 310    | 8,000  |          |
+    | Insatiable Gorger                         | 8    | Guarda        | A3       | Z8     | 12      | 360    | 12,000 |          |
+    | Ross, the Twisted Knight                  | 8    | Guarda        | A3       | Z10    | 9       | 400    | 12,000 | Req      |
+    | Shadow-Lurking Operative                  | 9    | Guarda        | A3       | Z7     | 12      | 400    | 9,000  | Yes      |
+    | Indolent Demon Marquis                    | 9    | Guarda        | A3       | Z6     | 14      | 425    | 13,500 |          |
+    | Mellie, the Coin-Counting Killer          | 10   | Guarda        | A3       | Z6     | 13      | 500    | 16,400 | Yes      |
+    | Veigar, the Sorceror Who Rules the Dead   | 11   | Guarda        | A3       | Z2     | 15      | 800    | 17,000 | Yes      |
+    | Mad, Rampaging, Thunderous Fiend          | 12   | Guarda        | A3       | Z10    | 20      | 1,200  | 18,900 |          |
+    | Ice Frost and Potent Venom Strangler Vine | 12   | Isberg        | A4       | R4     | 13      | 950    | 17,000 |          |
+    | Dutz, the Honey Tonic Savanat             | 13   | Isberg        | A4       | R9     | 18      | 1,140  | 26,700 | Req      |
+    | Spirit Realm Automaton                    | 14   | Isberg        | A4       | R1     | 21      | 1,380  | 28,000 |          |
+    | Wailing Twin Dolls                        | 14   | Isberg        | A4       | R3     | 23      | 1,550  | 32,100 |          |
+
+=== "Bounty Markers Required per Rank" 
+
+    | Bounty Rank | Bounty Markers  |
+    |:------------|:---------------:|
+    | 1 to 2      | 6               |
+    | 2 to 3      | 8               |
+    | 3 to 4      | 13              |
+    | 4 to 5      | 14              |
+    | 5 to 6      | 15              |
+    | 6 to 7      | 16              |
+    | 7 to 8      | 17              |
+    | 8 to 9      | 21              |
+    | 9 to 10     | 25              |
+    | 10 to 11    | 27              |
+    | 11 to 12    | 15              |
+    | 12 to 13    | 20              |
+    | 13 to 14    | 42              |
+    | 14 to 15    | 52              |
 
 ## Bounties
 
@@ -228,7 +289,26 @@
         - They are all susceptible to Marein.
         - Can be silenced.
         - When only the Skeleton Mage boss is alive, it will spam Lazelos (~150-200 damage).
+
+??? danger "Saige the Sacker (110 Bounty Medals)"
+
+    === "Wanted Poster" 
+        ![](./img/saige-the-sacker.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as an NPC on the map
+        - 4,800 Gold Reward
+        - 110 Bounty Medals
+        - 4 Bounty Markers
+        - Appears at Bounty Rank 4
         
+    === "Fight Details"
+        - HP: ~5k (can be captured after ~3k)
+        - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
+
+    === "Map Location"
+        ![](./img/saige-the-sacker-loc.png)
+
 ??? danger "Six-Limbed Storm (180 Bounty Medals)" 
 
     === "Wanted Poster" 
@@ -296,25 +376,6 @@
     === "Map Location"
         ![](./img/peerless-scorpionesses-loc.png)
 
-??? danger "Saige the Sacker (110 Bounty Medals)"
-
-    === "Wanted Poster" 
-        ![](./img/saige-the-sacker.png)
-
-    === "Bounty Details"
-        - Stationary, indicated as an NPC on the map
-        - 4,800 Gold Reward
-        - 110 Bounty Medals
-        - 4 Bounty Markers
-        - Appears at Bounty Rank 4
-        
-    === "Fight Details"
-        - HP: ~5k (can be captured after ~3k)
-        - Will cast Dios out of turn, which indicates that they can be caught with Binding Rope
-
-    === "Map Location"
-        ![](./img/saige-the-sacker-loc.png)
-
 ### Abyss 2 
 
 ??? danger "The Unpierceable One (40 Bounty Medals)" 
@@ -326,6 +387,7 @@
         - Roamer, does not show up on the minimap, can appear in water current portions of the map.
         - 2,000 Gold Reward
         - 40 Bounty Medals
+        - 2 Bounty Markers
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -343,6 +405,7 @@
         - Stationary, indicated by the NPC by the statue on the left of the map. Enter from B4. On fail, must reenter the Abyss.
         - 2,000 Gold Reward
         - 35 Bounty Medals
+        - 2 Bounty Markers
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -353,6 +416,26 @@
 
     === "Map Location"
         ![](./img/patti-apostate-of-the-sea-loc.png)
+
+??? danger "The Lurking Flutter Hunting-Fey (80 Bounty Medals)"
+
+    === "Wanted Poster" 
+        ![](./img/the-lurking-flutter-hunting-fey.png)
+
+    === "Bounty Details"
+        - Roaming, but will turn white and attempt to run away. Other enemies will turn red and attempt to chase you.
+        - 1,600 Gold Reward
+        - 1 Bounty Mark
+        - 80 Bounty Medals
+        - Appears at Bounty Rank 1
+
+    === "Fight Details"
+        - HP: 3.5K
+        - Spawns with 2 Dragonflies (900 HP) and 2 Vorpal Bunnies (300 HP) in the front row. The Pixie is in the back row.
+
+    === "Map Location"
+        - Looking south from entrance:
+        ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
 ??? danger "The Unending Breath of Stone (70 Bounty Medals)" 
 
@@ -379,6 +462,7 @@
         - Roamer, does not show on the minimap.
         - 4,100 Gold Reward
         - 80 Bounty Medals
+        - 6 Bounty Marks
         - Appears at Bounty Rank 3
 
     === "Fight Details"
@@ -396,6 +480,7 @@
         - Stationary, indicated by NPC icon on map. Typically appears in a small dead end corridor.
         - 4,800 Gold Reward
         - 115 Bounty Medals
+        - 7 Bounty Markers    
         - Appears at Bounty Rank 4
 
     === "Fight Details"
@@ -414,6 +499,7 @@
         - Stationary, appears as a green mob on the minimap. Will always be in the room that requires the Vernant sidequest to open.
         - 4,800 Gold Reward
         - 120 Bounty Medals
+        - 6 Bounty Markers
         - Appears at Bounty Rank 4
 
     === "Fight Details"
@@ -423,7 +509,27 @@
 
     === "Map Location"
         ![](./img/fallen-princess-of-bewitching-dreams-loc.png)
-        
+
+??? danger "Monica, the Self-Proclaimed Enforcer (210 Bounty Medals)"    
+
+    === "Wanted Poster" 
+        ![](./img/monica-the-self-proclaimed-enforcer.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as an NPC on the map.
+        - 9,500 Gold Reward
+        - 210 Bounty Medals
+        - 6 Bounty Markers
+        - Appears at Bounty Rank 6
+
+    === "Fight Details"
+        - HP: ??? (can be captured after ~3k)
+        - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
+        - After doing enough damage to her (~4k), she will become fatigued and you may capture her with Binding Rope
+
+    === "Map Location"
+        ![](./img/monica-the-self-proclaimed-enforcer-loc.png)
+      
 ??? danger "Dolan, the Long-Lost Sailor (215 Bounty Medals)" 
 
     === "Wanted Poster" 
@@ -433,6 +539,7 @@
         - Roamer, does not show on the minimap.
         - 7,000 Gold Reward
         - 215 Bounty Medals
+        - 9 Bounty Markers
         - Appears at Bounty Rank 6
 
     === "Fight Details"
@@ -449,6 +556,7 @@
         - Stationary, but does not appear on the map. It will always be in the small room that is accessed by heading to the bottom right staircase from the Upper Deck Arena.
         - 8,000 Gold Reward
         - 310 Bounty Medals
+        - 10 Bounty Markers
         - Appears at Bounty Rank 8
 
     === "Fight Details"
@@ -461,25 +569,6 @@
     === "Map Location"
         ![](./img/ecstatic-blazing-eye-loc.png)
 
-??? danger "Monica, the Self-Proclaimed Enforcer (210 Bounty Medals)"    
-
-    === "Wanted Poster" 
-        ![](./img/monica-the-self-proclaimed-enforcer.png)
-
-    === "Bounty Details"
-        - Stationary, indicated as an NPC on the map.
-        - 9,500 Gold Reward
-        - 210 Bounty Medals
-        - Appears at Bounty Rank 6
-
-    === "Fight Details"
-        - HP: ??? (can be captured after ~3k)
-        - You must mention that you are an evil-doer upon meeting, or she will disappear and you must restart the bounty.
-        - After doing enough damage to her (~4k), she will become fatigued and you may capture her with Binding Rope
-
-    === "Map Location"
-        ![](./img/monica-the-self-proclaimed-enforcer-loc.png)
-
 ### Abyss 3 
 
 ??? danger "Reaper Bunny (65 Bounty Medals)" 
@@ -491,6 +580,7 @@
         - Roamer, does not show up on the minimap.
         - 2,000 Gold Reward
         - 65 Bounty Medals
+        - 3 Bounty Marks3
         - Appears at Bounty Rank 1
 
     === "Fight Details"
@@ -507,6 +597,7 @@
         - Roamer, does not show up on the minimap, can show up in the caged areas as well.
         - 3,500 Gold Reward
         - 60 Bounty Medals
+        - 5 Bounty Marks
         - Appears at Bounty Rank 2
 
     === "Fight Details"
@@ -524,6 +615,7 @@
         - Stationary, appears as an NPC icon on the map.
         - 3,560 Gold Reward
         - 145 Bounty Medals
+        - 4 Bounty Markers
         - Appears at Bounty Rank 5
 
     === "Fight Details"
@@ -543,6 +635,7 @@
         - Stationary, doesn't appear on the minimap. However, he's always located in the same map structure.
         - 7,200 Gold Reward
         - 240 Bounty Medals
+        - 9 Bounty Markers
         - Appears at Bounty Rank 7
 
     === "Fight Details"
@@ -563,12 +656,34 @@
         - Roamer, doesn't appear on the minimap.
         - 12,000 Gold Reward
         - 360 Bounty Medals
+        - 12 Bounty Markers
         - Appears at Bounty Rank 8
 
     === "Fight Details"
         - HP: ~30K
         - Spawns by itself as an Ent.
         - It can move twice per turn, and tends to cast Breath of Gluttony, which is a row damaging skill that guarantees Critical Poison with a chance to also Confuse.
+
+??? danger "Ross, the Twisted Knight of Justice (400 Bounty Medals)"
+
+    === "Wanted Poster" 
+        ![](./img/ross-the-twisted-knight-of-justice.png)
+
+    === "Bounty Details"
+        - Stationary, indicated as an NPC on the map.
+        - 12,000 Gold Reward
+        - 400 Bounty Medals
+        - 9 Bounty Markers
+        - Appears at Bounty Rank 8
+
+    === "Fight Details"
+        - HP: 20k (can be captured after 15k; ~13k Dwarf Fighter; ~12k Elf Mage)
+        - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
+        - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
+        - Backline can be confused with Kantios. Ross can be stunned. 
+
+    === "Map Location"
+        ![](./img/ross-the-twisted-knight-of-justice-loc.png)
 
 ??? danger "Shadow-Lurking Operative (400 Bounty Medals)"
 
@@ -579,6 +694,7 @@
         - Stationary, appears on the minimap as an NPC. Will always be inside a 2x1 small room.
         - 9,000 Gold Reward
         - 400 Bounty Medals
+        - 12 Bounty Markers
         - Appears at Bounty Rank 9
 
     === "Fight Details"
@@ -595,6 +711,7 @@
         - Stationary, but doesn't appear on the map. Appears in the alarm trap room of the floor.
         - 13,500 Gold Reward
         - 425 Bounty Medals
+        - 14 Bounty Markers
         - Appears at Bounty Rank 9
 
     === "Fight Details"
@@ -617,8 +734,9 @@
         - Stationary, appears as an NPC on the map in a specific structure.
         - 16,400 Gold Reward
         - 500 Bounty Medals
+        - 13 Bounty Markers
         - Appears at Bounty Rank 10
-        - Requires A3 True Ending
+        - Requires A3 Mastermind Ending
 
     === "Fight Details"
         - HP: 11-14k (~10k for each Knight)
@@ -662,8 +780,9 @@
         - Stationary, but doesn't appear on the map. Appears right outside the Zone 10 Greater Harken.
         - 18,900 Gold Reward
         - 1200 Bounty Medals
+        - 20 Bounty Markers
         - Appears at Bounty Rank 12
-        - Requires A3 True Ending
+        - Requires A3 Mastermind Ending and reaching GWO 0 (killing is optional)
 
     === "Fight Details"
         - HP: 57k-60k
@@ -677,27 +796,6 @@
     === "Map Location"
         ![](./img/mad-rampaging-thunderous-fiend-loc.png)
 
-??? danger "Ross, the Twisted Knight of Justice (400 Bounty Medals)"
-
-    === "Wanted Poster" 
-        ![](./img/ross-the-twisted-knight-of-justice.png)
-
-    === "Bounty Details"
-        - Stationary, indicated as an NPC on the map.
-        - 12,000 Gold Reward
-        - 400 Bounty Medals
-        - Appears at Bounty Rank ???
-
-    === "Fight Details"
-        - HP: 20k (can be captured after 15k; ~13k Dwarf Fighter; ~12k Elf Mage)
-        - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
-        - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
-        - Backline can be confused with Kantios. Ross can be stunned. 
-
-    === "Map Location"
-        ![](./img/ross-the-twisted-knight-of-justice-loc.png)
-
-
 ### Abyss 4
 
 ??? danger "Ice Frost and Potent Venom Strangler Vine (950 Bounty Medals)"
@@ -710,7 +808,7 @@
         - 17,000 Gold Reward
         - 950 Bounty Medals
         - 13 Bounty Markers 
-        - Appears at Bounty Rank 13
+        - Appears at Bounty Rank 12
         - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
 
     === "Fight Details"
@@ -728,7 +826,7 @@
         - 26,700 Gold Reward
         - 1,140 Bounty Medals
         - 18 Bounty Markers
-        - Appears at Bounty Rank ???
+        - Appears at Bounty Rank 13
 
     === "Fight Details"
         - HP: ??? (can be captured after ~20k which is around the time he self buffs with Night Honey)
@@ -782,27 +880,6 @@
 
     === "Map Location"
         ![](./img/wailing-twin-dolls-loc.png)
-
-### Other Bounties
-
-??? danger "The Lurking Flutter Hunting-Fey (80 Bounty Medals)"
-
-    === "Wanted Poster" 
-        ![](./img/the-lurking-flutter-hunting-fey.png)
-
-    === "Bounty Details"
-        - Roaming, but will turn white and attempt to run away. Other enemies will turn red and attempt to chase you.
-        - 1,600 Gold Reward
-        - 80 Bounty Medals
-        - Appears at Bounty Rank 1
-
-    === "Fight Details"
-        - HP: 3.5K
-        - Spawns with 2 Dragonflies (900 HP) and 2 Vorpal Bunnies (300 HP) in the front row. The Pixie is in the back row.
-
-    === "Map Location"
-        - Looking south from entrance:
-        ![](./img/the-lurking-flutter-hunting-fey-loc.png)
 
 ## Bounty Medal Exchange Shop
 
