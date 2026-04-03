@@ -116,38 +116,38 @@
     | Goblin Daddy                              | 1    | Royal Capital | &emsp;&nbsp; A1       | B3F    | 2       | 45     | 2,000  |          |
     | Warped One Burning with Vengeance         | 1    | Royal Capital | &emsp;&nbsp; A1       | B1F    | 1       | 30     | 1,800  |          |
     | Jhael, the Novice Slayer                  | 1    | Royal Capital | &emsp;&nbsp; A1       | B4F    | 1       | 30     | 1,800  | Yes      |
-    | The Unpierceable One                      | 1    | Port Town     | &emsp;A2       | D3     | 2       | 40     | 2,000  |          |
-    | Patti, Apostate of the Sea                | 1    | Port Town     | A2       | D5     | 2       | 35     | 2,000  | Yes      |
-    | The Lurking Flutter Hunting-Fey           | 1    | Port Town     | Valeon   |        | 1       | 80     | 1,600  |          |
-    | Reaper Bunny                              | 1    | Guarda        | A3       | Z2     | 3       | 65     | 2,000  |          |
-    | Brok, the Shrewd Swindler                 | 2    | Royal Capital | A1       | B3F    | 3       | 55     | 2,300  | Yes      |
-    | Grudge-Bearing Sack Doll                  | 2    | Royal Capital | A1       | B5F    | 1       | 100    | 1,900  |          |
-    | The Unending Breath of Stone              | 2    | Port Town     | A2       | D1     | 6       | 70     | 3,500  |          |
-    | Sand Shadows that Calls Scorched Earth    | 2    | Guarda        | A3       | Z1     | 5       | 60     | 3,500  |          |
-    | Skeleton Archmage                         | 3    | Royal Capital | A1       | B7F    | 6       | 90     | 2,700  |          |
-    | The Champion                              | 3    | Port Town     | A2       | D2     | 6       | 80     | 4,100  |          |
-    | Saige the Sacker                          | 4    | Royal Capital | A1       | B6F    | 4       | 110    | 4,800  | Req      |
-    | Dungeon-Stalkers                          | 4    | Port Town     | A2       | D6     | 7       | 115    | 4,800  |          |
-    | Fallen Princess of Bewitching Dreams      | 4    | Port Town     | A2       | Ship 1 | 6       | 120    | 4,800  |          |
-    | Six-Limbed Storm                          | 5    | Royal Capital | A1       | B5F    | 8       | 180    | 6,800  |          |
-    | Monica, the Self-Proclaimed Enforcer      | 5    | Port Town     | A2       | D1     | 6       | 210    | 9,500  | Req      |
-    | Petz, the Mook Who Flaunts Authority      | 5    | Guarda        | A3       | Z3     | 4       | 145    | 3,600  | Yes      |
-    | Host of the Cursed Banquet                | 6    | Royal Capital | A1       | B6F    | 8       | 200    | 5,100  |          |
-    | Dolan, the Long-Lost Sailor               | 6    | Port Town     | A2       | D3     | 9       | 215    | 7,000  |          |
-    | Peerless Scorpionesses                    | 7    | Royal Capital | A1       | B2F    | 11      | 280    | 10,800 |          |
-    | Timid Crimson Fang                        | 7    | Guarda        | A3       | Z5     | 9       | 240    | 7,200  |          |
-    | Estatic Blazing Eye                       | 8    | Port Town     | A2       | Ship 2 | 10      | 310    | 8,000  |          |
-    | Insatiable Gorger                         | 8    | Guarda        | A3       | Z8     | 12      | 360    | 12,000 |          |
-    | Ross, the Twisted Knight                  | 8    | Guarda        | A3       | Z10    | 9       | 400    | 12,000 | Req      |
-    | Shadow-Lurking Operative                  | 9    | Guarda        | A3       | Z7     | 12      | 400    | 9,000  | Yes      |
-    | Indolent Demon Marquis                    | 9    | Guarda        | A3       | Z6     | 14      | 425    | 13,500 |          |
-    | Mellie, the Coin-Counting Killer          | 10   | Guarda        | A3       | Z6     | 13      | 500    | 16,400 | Yes      |
-    | Veigar, the Sorceror Who Rules the Dead   | 11   | Guarda        | A3       | Z2     | 15      | 800    | 17,000 | Yes      |
-    | Ice Frost and Potent Venom Strangler Vine | 11   | Isberg        | A4       | R4     | 13      | 950    | 17,000 |          |
-    | Mad, Rampaging, Thunderous Fiend          | 12   | Guarda        | A3       | Z10    | 20      | 1,200  | 18,900 |          |
-    | Dutz, the Honey Tonic Savanat             | 13   | Isberg        | A4       | R9     | 18      | 1,140  | 26,700 | Req      |
-    | Spirit Realm Automaton                    | 14   | Isberg        | A4       | R1     | 21      | 1,380  | 28,000 |          |
-    | Wailing Twin Dolls                        | 14   | Isberg        | A4       | R3     | 23      | 1,550  | 32,100 |          |
+    | The Unpierceable One                      | 1    | Port Town     | &emsp;&nbsp; A2       | D3     | 2       | 40     | 2,000  |          |
+    | Patti, Apostate of the Sea                | 1    | Port Town     | &emsp;&nbsp; A2       | D5     | 2       | 35     | 2,000  | Yes      |
+    | The Lurking Flutter Hunting-Fey           | 1    | Port Town     | &emsp;&nbsp; Valeon   |        | 1       | 80     | 1,600  |          |
+    | Reaper Bunny                              | 1    | Guarda        | &emsp;&nbsp; A3       | Z2     | 3       | 65     | 2,000  |          |
+    | Brok, the Shrewd Swindler                 | 2    | Royal Capital | &emsp;&nbsp; A1       | B3F    | 3       | 55     | 2,300  | Yes      |
+    | Grudge-Bearing Sack Doll                  | 2    | Royal Capital | &emsp;&nbsp; A1       | B5F    | 1       | 100    | 1,900  |          |
+    | The Unending Breath of Stone              | 2    | Port Town     | &emsp;&nbsp; A2       | D1     | 6       | 70     | 3,500  |          |
+    | Sand Shadows that Calls Scorched Earth    | 2    | Guarda        | &emsp;&nbsp; A3       | Z1     | 5       | 60     | 3,500  |          |
+    | Skeleton Archmage                         | 3    | Royal Capital | &emsp;&nbsp; A1       | B7F    | 6       | 90     | 2,700  |          |
+    | The Champion                              | 3    | Port Town     | &emsp;&nbsp; A2       | D2     | 6       | 80     | 4,100  |          |
+    | Saige the Sacker                          | 4    | Royal Capital | &emsp;&nbsp; A1       | B6F    | 4       | 110    | 4,800  | Req      |
+    | Dungeon-Stalkers                          | 4    | Port Town     | &emsp;&nbsp; A2       | D6     | 7       | 115    | 4,800  |          |
+    | Fallen Princess of Bewitching Dreams      | 4    | Port Town     | &emsp;&nbsp; A2       | Ship 1 | 6       | 120    | 4,800  |          |
+    | Six-Limbed Storm                          | 5    | Royal Capital | &emsp;&nbsp; A1       | B5F    | 8       | 180    | 6,800  |          |
+    | Monica, the Self-Proclaimed Enforcer      | 5    | Port Town     | &emsp;&nbsp; A2       | D1     | 6       | 210    | 9,500  | Req      |
+    | Petz, the Mook Who Flaunts Authority      | 5    | Guarda        | &emsp;&nbsp; A3       | Z3     | 4       | 145    | 3,600  | Yes      |
+    | Host of the Cursed Banquet                | 6    | Royal Capital | &emsp;&nbsp; A1       | B6F    | 8       | 200    | 5,100  |          |
+    | Dolan, the Long-Lost Sailor               | 6    | Port Town     | &emsp;&nbsp; A2       | D3     | 9       | 215    | 7,000  |          |
+    | Peerless Scorpionesses                    | 7    | Royal Capital | &emsp;&nbsp; A1       | B2F    | 11      | 280    | 10,800 |          |
+    | Timid Crimson Fang                        | 7    | Guarda        | &emsp;&nbsp; A3       | Z5     | 9       | 240    | 7,200  |          |
+    | Estatic Blazing Eye                       | 8    | Port Town     | &emsp;&nbsp; A2       | Ship 2 | 10      | 310    | 8,000  |          |
+    | Insatiable Gorger                         | 8    | Guarda        | &emsp;&nbsp; A3       | Z8     | 12      | 360    | 12,000 |          |
+    | Ross, the Twisted Knight                  | 8    | Guarda        | &emsp;&nbsp; A3       | Z10    | 9       | 400    | 12,000 | Req      |
+    | Shadow-Lurking Operative                  | 9    | Guarda        | &emsp;&nbsp; A3       | Z7     | 12      | 400    | 9,000  | Yes      |
+    | Indolent Demon Marquis                    | 9    | Guarda        | &emsp;&nbsp; A3       | Z6     | 14      | 425    | 13,500 |          |
+    | Mellie, the Coin-Counting Killer          | 10   | Guarda        | &emsp;&nbsp; A3       | Z6     | 13      | 500    | 16,400 | Yes      |
+    | Veigar, the Sorceror Who Rules the Dead   | 11   | Guarda        | &emsp;&nbsp; A3       | Z2     | 15      | 800    | 17,000 | Yes      |
+    | Ice Frost and Potent Venom Strangler Vine | 11   | Isberg        | &emsp;&nbsp; A4       | R4     | 13      | 950    | 17,000 |          |
+    | Mad, Rampaging, Thunderous Fiend          | 12   | Guarda        | &emsp;&nbsp; A3       | Z10    | 20      | 1,200  | 18,900 |          |
+    | Dutz, the Honey Tonic Savanat             | 13   | Isberg        | &emsp;&nbsp; A4       | R9     | 18      | 1,140  | 26,700 | Req      |
+    | Spirit Realm Automaton                    | 14   | Isberg        | &emsp;&nbsp; A4       | R1     | 21      | 1,380  | 28,000 |          |
+    | Wailing Twin Dolls                        | 14   | Isberg        | &emsp;&nbsp; A4       | R3     | 23      | 1,550  | 32,100 |          |
     
     </div>
     
