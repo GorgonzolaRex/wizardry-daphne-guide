@@ -36,7 +36,8 @@
     
     * `O`: Potential Blessing
     * `Empty`: None
-    
+
+    <div class="nofilter-table nosort-table" markdown>
     |          | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon<sup>†</sup> |
     |:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
     | Flat Blessings  | | | | | | | |
@@ -60,8 +61,8 @@
     |   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
     |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
     |   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
-    
-    <sup>†</sup> <small>Only bows can roll ASPD and ASPD, but other weapons cannot. 
+    </div>
+    <sup>†</sup> <small>Only bows can roll ASPD and ASPD, but other weapons cannot.</small> 
 
 ## Enhance
 
