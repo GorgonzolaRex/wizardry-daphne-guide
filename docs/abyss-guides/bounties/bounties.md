@@ -113,9 +113,9 @@
 
     | Bounty Name &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;                               | Rank | Guild         | Location | Floor  | Markers | Medals | Gold   | Capture? |
     |:------------------------------------------|:----:|:--------------|:---------|:-------|:-------:|:------:|--------|:--------:|
-    | Goblin Daddy                              | 1    | Royal Capital | A1       | B3F    | 2       | 45     | 2,000  |          |
-    | Warped One Burning with Vengeance         | 1    | Royal Capital | A1       | B1F    | 1       | 30     | 1,800  |          |
-    | Jhael, the Novice Slayer                  | 1    | Royal Capital | A1       | B4F    | 1       | 30     | 1,800  | Yes      |
+    | Goblin Daddy                              | 1    | Royal Capital | &emsp; A1       | B3F    | 2       | 45     | 2,000  |          |
+    | Warped One Burning with Vengeance         | 1    | Royal Capital | &emsp; A1       | B1F    | 1       | 30     | 1,800  |          |
+    | Jhael, the Novice Slayer                  | 1    | Royal Capital | &emsp; A1       | B4F    | 1       | 30     | 1,800  | Yes      |
     | The Unpierceable One                      | 1    | Port Town     | A2       | D3     | 2       | 40     | 2,000  |          |
     | Patti, Apostate of the Sea                | 1    | Port Town     | A2       | D5     | 2       | 35     | 2,000  | Yes      |
     | The Lurking Flutter Hunting-Fey           | 1    | Port Town     | Valeon   |        | 1       | 80     | 1,600  |          |
