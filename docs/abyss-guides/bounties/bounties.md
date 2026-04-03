@@ -81,7 +81,7 @@
             - Populate on a specific tile set and will never move. 
             - Displayed on the mini-map as a green arrow. 
         - Wandering
-            - Can appear anywhere on the floor map, but their location can be reset with changing floors or exiting and re-entering.  
+            - Can appear anywhere on the floor map, but their spawning location can be reset with changing floors or exiting and re-entering.  
             - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
             - Not displayed on the mini-map. 
         - Person
