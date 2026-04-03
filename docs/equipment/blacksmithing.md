@@ -99,7 +99,7 @@
 
 ### ^^Ore Cost^^
 
-<div class="nofilter-table nosort-table" markdown>
+<div class="nofilter-table nosort-table narrow-table" markdown>
     
 === "Worn - Ebonsteel Rank Equipment"  
 
