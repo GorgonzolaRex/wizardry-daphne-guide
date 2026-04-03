@@ -258,43 +258,45 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     - There is a "hidden" level 0 as it costs 100 EXP to equip a Relic Power. 
     - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
 
-##### Experience per Relic ★ Quality 
+##### Relic EXP Data Tables
 
-| ★ Quality  | EXP    |        
-|:---------:|:------:|
-| 1★         | 100   |
-| 2★         | 200   |
-| 3★         | 400   |
-| 4★         | 1,000 |
-| 5★         | 2,400 |
+=== "Experience per Relic ★ Quality"  
+
+    | ★ Quality  | EXP    |        
+    |:---------:|:------:|
+    | 1★         | 100   |
+    | 2★         | 200   |
+    | 3★         | 400   |
+    | 4★         | 1,000 |
+    | 5★         | 2,400 |
 
 
-##### Required EXP per Relic Level
+==== "Required EXP per Relic Level"
 
-| Relic Power Level | EXP per Level | Total EXP |        
-|:-----------------:|:------------:|:--------------:|
-| 0 - 1             |     100      |      100       |
-| 1 - 2             |     200      |      300       |
-| 2 - 3             |     600      |      900       |
-| 3 - 4             |     1,200    |      2,100     |
-| 4 - 5             |     3,000    |      5,100     |
-| 5 - 6             |     7,200    |      12,300    |
-| Total             |     12,300   |        -       |
+    | Relic Power Level | EXP per Level | Total EXP |        
+    |:-----------------:|:------------:|:--------------:|
+    | 0 - 1             |     100      |      100       |
+    | 1 - 2             |     200      |      300       |
+    | 2 - 3             |     600      |      900       |
+    | 3 - 4             |     1,200    |      2,100     |
+    | 4 - 5             |     3,000    |      5,100     |
+    | 5 - 6             |     7,200    |      12,300    |
+    | Total             |     12,300   |        -       |
 
-##### Minimum Relics per Level and ★ Quality
+=== "Minimum Relics per Level and ★ Quality"
 
-| ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |    
-|:---------:|:----:|:----:|:----:|:-----:|:---:|:---:|
-| 1★        |  1   |  3   |  9   |  21  |  51  | 72 | 
-| 2★        |  1   |  2   |  5   |  11  |  26  | 36 | 
-| 3★        |  1   |  1   |  3   |  6   |  13  | 18 | 
-| 4★        |  1   |  1   |  1   |  3   |  6   | 8  | 
-| 5★        |  1   |  1   |  1   |  1   |  3   | 3  | 
-
-??? tip "How to Read This Table"
-
-    - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
-    - For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
+    | ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |    
+    |:---------:|:----:|:----:|:----:|:-----:|:---:|:---:|
+    | 1★        |  1   |  3   |  9   |  21  |  51  | 72 | 
+    | 2★        |  1   |  2   |  5   |  11  |  26  | 36 | 
+    | 3★        |  1   |  1   |  3   |  6   |  13  | 18 | 
+    | 4★        |  1   |  1   |  1   |  3   |  6   | 8  | 
+    | 5★        |  1   |  1   |  1   |  1   |  3   | 3  | 
+    
+    ??? tip "How to Read This Table"
+    
+        - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
+        - For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
     - It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
 
 ## List of Relic Power Effects 
