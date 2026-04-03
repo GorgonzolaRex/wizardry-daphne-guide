@@ -141,8 +141,8 @@
     | Indolent Demon Marquis                    | 9    | Guarda        | A3       | Z6     | 14      | 425    | 13,500 |          |
     | Mellie, the Coin-Counting Killer          | 10   | Guarda        | A3       | Z6     | 13      | 500    | 16,400 | Yes      |
     | Veigar, the Sorceror Who Rules the Dead   | 11   | Guarda        | A3       | Z2     | 15      | 800    | 17,000 | Yes      |
+    | Ice Frost and Potent Venom Strangler Vine | 11   | Isberg        | A4       | R4     | 13      | 950    | 17,000 |          |
     | Mad, Rampaging, Thunderous Fiend          | 12   | Guarda        | A3       | Z10    | 20      | 1,200  | 18,900 |          |
-    | Ice Frost and Potent Venom Strangler Vine | 12   | Isberg        | A4       | R4     | 13      | 950    | 17,000 |          |
     | Dutz, the Honey Tonic Savanat             | 13   | Isberg        | A4       | R9     | 18      | 1,140  | 26,700 | Req      |
     | Spirit Realm Automaton                    | 14   | Isberg        | A4       | R1     | 21      | 1,380  | 28,000 |          |
     | Wailing Twin Dolls                        | 14   | Isberg        | A4       | R3     | 23      | 1,550  | 32,100 |          |
@@ -808,7 +808,7 @@
         - 17,000 Gold Reward
         - 950 Bounty Medals
         - 13 Bounty Markers 
-        - Appears at Bounty Rank 12
+        - Appears at Bounty Rank 11
         - Available slightly after CW "Rockhome Village Major Harken" AND interacting with Nullshadow for the first time
 
     === "Fight Details"
