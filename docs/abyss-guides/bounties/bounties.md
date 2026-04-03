@@ -109,8 +109,8 @@
 
 === "Bounties List" 
 
-    | Bounty Name                               | Rank | Guild         | Location | Floor  | Markers | Medals | Gold   | Capture? |
-    |:------------------------------------------|:----:|:--------------|:--------:|:-------|:-------:|:------:|--------|:--------:|
+    | Bounty Name &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp; &emsp;  &emsp;                               | Rank | Guild         | Location | Floor  | Markers | Medals | Gold   | Capture? |
+    |:------------------------------------------|:----:|:--------------|:---------|:-------|:-------:|:------:|--------|:--------:|
     | Goblin Daddy                              | 1    | Royal Capital | A1       | B3F    | 2       | 45     | 2,000  |          |
     | Warped One Burning with Vengeance         | 1    | Royal Capital | A1       | B1F    | 1       | 30     | 1,800  |          |
     | Jhael, the Novice Slayer                  | 1    | Royal Capital | A1       | B4F    | 1       | 30     | 1,800  | Yes      |
@@ -151,9 +151,9 @@
 
     | Bounty Rank | Bounty Markers  |
     |:------------|:---------------:|
-    | 1 to 2      | 6               |
-    | 2 to 3      | 8               |
-    | 3 to 4      | 13              |
+    | &emsp; 1 to 2      | 6               |
+    | &emsp;  &emsp; 2 to 3      | 8               |
+    | &emsp;  &emsp; 3 to 4      | 13              |
     | 4 to 5      | 14              |
     | 5 to 6      | 15              |
     | 6 to 7      | 16              |
