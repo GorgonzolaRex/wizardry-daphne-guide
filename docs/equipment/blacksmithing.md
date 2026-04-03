@@ -33,9 +33,8 @@
 === "Blessings Restriction Table" 
 
     - Each type of equipment is restricted to the potential Blessings it can roll at creation (initial value) or through enhancement.
-    
-    `O`: Potential Blessing
-    `Empty`: None
+    - `O`: Potential Blessing
+    - `Empty`: None
     
     <div class="nofilter-table nosort-table" markdown>
     
@@ -63,6 +62,7 @@
     |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
     |   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
     </div>
+    
     <small><sup>†</sup>Only bows can roll ASPD and ASPD, but other weapons cannot.</small> 
 
 ## Enhance
@@ -89,7 +89,7 @@
 
 === "Silver Rank Equipment"
 
-    | <pre>Type                    </pre>                        |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
+    | Type                        |  +1  |  +2  |  +3  |  +4  |  +5  |  +6  |  +7  |  +8  |  +9  |  +10  |  +11  |  +12  |  +13  |  +14  |  +15  |  +16  |  +17  |  +18  |  +19  |  +20  | Total  |
     |:----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:------:| 
     | Armor, 1H Weapons, 2H Staff |	610|	850|	1,340|	2,060|	3,030|	4,240|	5,930|	8,050|	10,590|	13,560|	16,940|	21,060|	25,720|	30,920|	36,670|	44,910|	52,500|	60,790|	85,650|	160,220|	585,640 |
     | 2H Weapons                  | 640|	940|	1,560|	2,500|	3,830|	5,330	|7,600|	10,500	|14,080	|18,360	|27,400	|36,120	|46,670	|59,210	|73,930	|112,590	|142,280	|177,160	|254,790	|468,610	|1,464,100 |
