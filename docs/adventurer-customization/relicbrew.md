@@ -14,7 +14,7 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
     
     | **Term** &emsp;                   | **Definition** &emsp;                                                                                                                              |
     |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-    | Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
+    | Relic monster &emsp;          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
     | Relic                  | Dropped by relic monsters in a chest after battle.                                                                                      |
     | Relic slag             | Remnants of a relic ("slag") that failed to form. Can be exchanged for relics at the Black Barrel Tavern.                               |   
     | Relicbrew              | Corvo can transform a relic into a consumable drink. Primary function of the Black Barrel Tavern.                                       |
