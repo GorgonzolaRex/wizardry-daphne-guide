@@ -8,17 +8,24 @@
 
 The Relicbrew mechanic uses several different terms that sound similar and can be confusing to new players. The subsections provide more detailed information on each term.
 
-??? note "Relic Flowchart"
-    Relic monster > Relic (or slag) > Relicbrew > Relic Power  
+=== "Terminology List"
 
-| Term                   | Definition                                                                                                                              |
-|:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-| Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
-| Relic                  | Dropped by relic monsters in a chest after battle.                                                                                      |
-| Relic slag             | Remnants of a relic ("slag") that failed to form. Can be exchanged for relics at the Black Barrel Tavern.                               |   
-| Relicbrew              | Corvo can transform a relic into a consumable drink. Primary function of the Black Barrel Tavern.                                       |
-| Relic Power            | A semi-permanent, unique passive skill gained from drinking a relicbrew.                                                                |
-| Eye of Vitriol         | Valuable item given by Corvo that allows the user to see if an enemy is carrying a relic (red aura).                                    |
+    <div class="nofilter-table nosort-table" markdown>
+    
+    | Term                   | Definition                                                                                                                              |
+    |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
+    | Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
+    | Relic                  | Dropped by relic monsters in a chest after battle.                                                                                      |
+    | Relic slag             | Remnants of a relic ("slag") that failed to form. Can be exchanged for relics at the Black Barrel Tavern.                               |   
+    | Relicbrew              | Corvo can transform a relic into a consumable drink. Primary function of the Black Barrel Tavern.                                       |
+    | Relic Power            | A semi-permanent, unique passive skill gained from drinking a relicbrew.                                                                |
+    | Eye of Vitriol         | Valuable item given by Corvo that allows the user to see if an enemy is carrying a relic (red aura).                                    |
+    
+    </div>
+
+=== "Relic Flowchart"
+
+    Relic monster > Relic (or slag) > Relicbrew > Relic Power  
 
 ## How to Obtain Relics
 
@@ -50,6 +57,8 @@ Relics can be obtained by encountering relic monsters that can rarely appear any
 
 At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several services.
 
+<div class="nofilter-table nosort-table" markdown>
+
 | Service                | Details                                                                                                                                 |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | Drink Relicbrew        | Transforms relics into relicbrews that give unique Relic Powers (passive skills).                                                       |
@@ -57,6 +66,8 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 | Extraction             | Extract a currently equipped Relic Power for a fee.                                                                                     |
 | Slagpiece Exchange     | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                         |
 | Talk                   | Provides details on relic terms and history.                                                                                            |
+
+</div>
 
 ### Drink Relicbrew
 
@@ -240,12 +251,16 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
         === "Stage 3"
             ![](img/relicbrew-stage 3.PNG) 
 
+<div class="nofilter-table nosort-table" markdown>
+
 | Penalty Stage | Color  | Effect                                                                                     |         
 |:--------------| :------|:-------------------------------------------------------------------------------------------|
 | Stage 0       | Grey   | None                                                                                       |   
 | Stage 1       | White  | None                                                                                    |      
 | Stage 2       | Purple | Fortitude reduced to 50 max. Chance to be afflicted with confusion at start of every turn. |      
 | Stage 3       | Red    | Fortitude reduced to 0 max. Afflicted with confusion at start of every turn.               |      
+
+</div>
 
 ## Leveling Relic Powers
 
@@ -259,6 +274,8 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     - For example, if you used a 1★ relic, then the adventurer would have that Relic Power at level 1 with 0 EXP. This is the reason why you will often be exactly 100 EXP away from the next level.
 
 ##### Relic EXP Data Tables
+
+<div class="nofilter-table nosort-table" markdown>
 
 === "Experience per Relic ★ Quality"  
 
@@ -292,7 +309,9 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     | 3★        |  1   |  1   |  3   |  6   |  13  | 18 | 
     | 4★        |  1   |  1   |  1   |  3   |  6   | 8  | 
     | 5★        |  1   |  1   |  1   |  1   |  3   | 3  | 
-    
+
+</div>
+
     ??? tip "How to Read This Table"
     
         - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
