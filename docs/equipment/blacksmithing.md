@@ -33,7 +33,7 @@
 === "Potential Blessings Table" 
 
     <div align="center">
-    !(img/potential-blessings-table.png)
+    ![](img/potential-blessings-table.png)
     </div>
 
 ## Enhance
