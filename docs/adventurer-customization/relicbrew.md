@@ -10,9 +10,9 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 
 === "Terminology List"
 
-    <div class="nofilter-table nosort-table" markdown>
+    <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Term                   | Definition                                                                                                                              |
+    | **Term** &emsp;                   | **Definition** &emsp;                                                                                                                              |
     |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
     | Relic monster          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
     | Relic                  | Dropped by relic monsters in a chest after battle.                                                                                      |
@@ -59,7 +59,7 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| Service                | Details                                                                                                                                 |
+| **Service**                | **Details**                                                                                                                                 |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | Drink Relicbrew        | Transforms relics into relicbrews that give unique Relic Powers (passive skills).                                                       |
 | Relic Power            | View currently equipped and previously extracted Relic Powers.                                                                          |
