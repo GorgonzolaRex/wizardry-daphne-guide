@@ -12,88 +12,86 @@
 
 ### Bounty System
 
-??? note "Basics"
+=== "Wanted Posters"
 
-    === "Wanted Posters"
+    - Wanted Posters provide the following information:
+        - Name
+        - Gold Reward
+        - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
+        - Bounty Markers: One-time only points used to increase your Bounty Rank. 
+        - Skull Icon
+            - Located in the upper-left of the wanted poster. 
+            - Red: Must be killed.
+            - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
+        - Reported Sightings: Lists the specific floor the bounty can be encountered. 
+        - Star Icon
+            - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
+            - Note that 5 small stars are equal to 1 large, glowing star. 
 
-        - Wanted Posters provide the following information:
-            - Name
-            - Gold Reward
-            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
-            - Bounty Markers: One-time only points used to increase your Bounty Rank. 
-            - Skull Icon
-                - Located in the upper-left of the wanted poster. 
-                - Red: Must be killed.
-                - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
-            - Reported Sightings: Lists the specific floor the bounty can be encountered. 
-            - Star Icon
-                - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
-                - Note that 5 small stars are equal to 1 large, glowing star. 
+=== "How to Accept, Submit, and Reset"
 
-    === "How to Accept, Submit, and Reset"
+    - Accept 
+        - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check what bounties are active you can check your Log - Bounty List. 
+        - Active bounties are denoted by a black skull on both the world map and the dungeon floor selection screen.  
+    - Submit 
+        - After defeating or capturing a bounty return to the appropriate Guild, select the Bounties tab, and you will see that the wanted poster is glowing.
+        - Select the wanted poster to submit the bounty and receive your rewards. 
+    - Reset 
+        - Bounties can be reset by wheeling-in-place on the same Cursed Wheel node. 
+        - To wheel-in-place go to the Ruins - Cursed Wheel, select your current or furthest node, and Leap. 
+        - Note that bounties are tied to specific floors, so if you Cursed Wheel to an earlier point where that floor is not accessible it will not appear on the Bounties tab. 
+        
+            !!! warning "Each time you reset you must return to the Guild - Requests and selected the Bounties tab again."
 
-        - Accept 
-            - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check what bounties are active you can check your Log - Bounty List. 
-            - Active bounties are denoted by a black skull on both the world map and the dungeon floor selection screen.  
-        - Submit 
-            - After defeating or capturing a bounty return to the appropriate Guild, select the Bounties tab, and you will see that the wanted poster is glowing.
-            - Select the wanted poster to submit the bounty and receive your rewards. 
-        - Reset 
-            - Bounties can be reset by wheeling-in-place on the same Cursed Wheel node. 
-            - To wheel-in-place go to the Ruins - Cursed Wheel, select your current or furthest node, and Leap. 
-            - Note that bounties are tied to specific floors, so if you Cursed Wheel to an earlier point where that floor is not accessible it will not appear on the Bounties tab. 
-            
-                !!! warning "Each time you reset you must return to the Guild - Requests and selected the Bounties tab again."
+=== "Bounty Rank" 
 
-    === "Bounty Rank" 
-
-        - A progression metric that unlocks additional bounties, adds new items to the Bounty Medal Exchange, and grants milestone rewards.   
-        - Ranges from Level 1-15 (current max). 
-        - Defeating a bounty for the first time gives one-time only Bounty Markers, which function as experience points. You cannot farm a bounty repeatedly for additional Bounty Markers.  
-        - Each Bounty Rank generally requires defeating all the available bounties in each city. If you are stuck, then revisit each location or make additional Abyss progression. 
-        - Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](#one-time-bounty-rank-rewards) select "Check Rewards".  
+    - A progression metric that unlocks additional bounties, adds new items to the Bounty Medal Exchange, and grants milestone rewards.   
+    - Ranges from Level 1-15 (current max). 
+    - Defeating a bounty for the first time gives one-time only Bounty Markers, which function as experience points. You cannot farm a bounty repeatedly for additional Bounty Markers.  
+    - Each Bounty Rank generally requires defeating all the available bounties in each city. If you are stuck, then revisit each location or make additional Abyss progression. 
+    - Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](#one-time-bounty-rank-rewards) select "Check Rewards".  
 
 ??? warning "Mechanics"
 
-    === "Battle" 
+=== "Battle" 
+
+    - You cannot be ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
+    - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
+    - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
+
+=== "Capturing"
+
+    - Only human bounties can be captured. The process can be tedious since it is easy to accidentally kill a bounty unless you are tracking its HP.  
+    - Steps
+        - Weaken an enemy to 10-15% of its HP.
+        - Use a Binding Rope (consumable item) until it is successfully captured.  
+        - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
+    - Binding Rope
+        - Sold at the Item Shop for 200 gold. 
+        - The capture rate is (allegedly) higher if used by a high DEX unit, so Ninjas and Thiefs are good candidates. 
+        - It make take several attempts to successfully capture a bounty even at very low HP. 
+    - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
+    - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
     
-        - You cannot be ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
-        - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
-        - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
+=== "Map Types"
 
-    === "Capturing"
+    - Fixed
+        - Populate on a specific tile set and will never move. 
+        - Displayed on the mini-map as a green arrow. 
+    - Wandering
+        - Can appear anywhere on the floor map, but their spawning location can be reset with changing floors or exiting and re-entering.  
+        - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
+        - Not displayed on the mini-map. 
+    - Person
+        - Populate on a specific tile set and will never move. 
+        - Appear as a "person icon" on the mini-map if that part of the floor has been explored.
+        - These encounters are always against human enemies. There will often be a brief interaction when you encounter them where you will be offered the choice to fight or let them go. 
+        - Can never drop relics. 
 
-        - Only human bounties can be captured. The process can be tedious since it is easy to accidentally kill a bounty unless you are tracking its HP.  
-        - Steps
-            - Weaken an enemy to 10-15% of its HP.
-            - Use a Binding Rope (consumable item) until it is successfully captured.  
-            - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
-        - Binding Rope
-            - Sold at the Item Shop for 200 gold. 
-            - The capture rate is (allegedly) higher if used by a high DEX unit, so Ninjas and Thiefs are good candidates. 
-            - It make take several attempts to successfully capture a bounty even at very low HP. 
-        - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
-        - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
-        
-    === "Map Types"
+=== "Map Variations" 
 
-        - Fixed
-            - Populate on a specific tile set and will never move. 
-            - Displayed on the mini-map as a green arrow. 
-        - Wandering
-            - Can appear anywhere on the floor map, but their spawning location can be reset with changing floors or exiting and re-entering.  
-            - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
-            - Not displayed on the mini-map. 
-        - Person
-            - Populate on a specific tile set and will never move. 
-            - Appear as a "person icon" on the mini-map if that part of the floor has been explored.
-            - These encounters are always against human enemies. There will often be a brief interaction when you encounter them where you will be offered the choice to fight or let them go. 
-            - Can never drop relics. 
-
-    === "Map Variations" 
-    
-        - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
-        - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations
+    - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
+    - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations
 
 ### Bounties Summary Tables
 
