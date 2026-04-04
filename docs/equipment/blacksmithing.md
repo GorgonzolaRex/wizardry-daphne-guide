@@ -30,40 +30,11 @@
     <iframe width="560" height="315" src="https://www.youtube.com/embed/w8pNI4OCXT4?si=oy3g4x5MfFPMTYe9" title="Wizardry variants daphne way of blacksmithing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
-=== "Blessings Restriction Table" 
+=== "Potential Blessings Table" 
 
-    - Each type of equipment is restricted to the potential Blessings it can roll at creation (initial value) or through enhancement.
-    - `O`: Potential Blessing
-    - `Empty`: None
-    
-    <div class="nofilter-table nosort-table" markdown>
-    
-    |          | Shield  |  Hat  |  Armor  | Gloves  | Shoes | Accessory | Weapon<sup>†</sup> |
-    |:-------- |:-------:|:-----:|:-------:|:-------:|:-----:|:---------:|:-----:|
-    | Flat Blessings  | | | | | | | |
-    |    ATK   |         |   O   |         |    O    |       |     O     |   O   |
-    |    MAG   |         |   O   |         |    O    |       |     O     |   O   |
-    |    DIV   |         |   O   |         |    O    |       |     O     |   O   |
-    |    ACC   |         |   O   |         |    O    |   O   |     O     |   O   |
-    |    EVA   |    O    |       |    O    |         |   O   |     O     |   O   |
-    |    RES   |    O    |   O   |    O    |         |   O   |     O     |       |
-    |    DEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   MDEF   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   ASPD   |    O    |       |    O    |         |   O   |     O     |       |
-    |    SUR   |    O    |       |    O    |         |       |     O     |   O   |
-    | % Blessings  | | | | | | | |
-    |   ATK%   |         |   O   |         |    O    |       |     O     |   O   |
-    |   MAG%   |         |   O   |         |    O    |       |     O     |   O   |
-    |   DIV%   |         |   O   |         |    O    |       |     O     |   O   |
-    |   ACC%   |         |   O   |         |    O    |   O   |     O     |   O   |
-    |   EVA%   |    O    |       |    O    |         |   O   |     O     |   O   |
-    |   RES%   |    O    |   O   |    O    |         |   O   |     O     |       |
-    |   DEF%   |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   MDEF%  |    O    |   O   |    O    |    O    |   O   |     O     |       |
-    |   ASPD%  |    O    |       |    O    |         |   O   |     O     |       |
-    
+    <div align="center">
+    !(img/potential-blessings-table.png)
     </div>
-    <small><sup>†</sup>Only bows can roll ASPD and ASPD, but other weapons cannot.</small> 
 
 ## Enhance
 
