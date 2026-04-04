@@ -153,81 +153,79 @@ You'll note little mention of DEF, MDEF, RES and EVA. The first two are rarely w
 
 #### Overview
 
-!!! note "Basics" 
+=== "IV Definition" 
 
-    === "Definition" 
+    - At creation a unit's trait growth rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
+    - The elevated growth rate translate to 5-10 additional trait points, on average, at Level 70 absent BP allocation. 
+    - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
+    - A unit can only ever have one IV trait.
 
-        - At creation a unit's trait growth rates are randomly determined within a specific range. There is a chance that one of the 7 traits will roll an unusually high value. The community has named these "IV" traits in honor of Pokemon's [Individual Value](https://bulbapedia.bulbagarden.net/wiki/Individual_values) stat system.
-        - The elevated growth rate translate to 5-10 additional trait points, on average, at Level 70 absent BP allocation. 
-        - A "Neutral IV" refers to a unit that rolled its [standard base traits](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_2). This means that each trait has average or above-average growth, but not high enough to qualify as a IV. 
-        - A unit can only ever have one IV trait.
+=== "How to Identify a IV" 
 
-    === "How to Identify a IV" 
+    === "At Level 1" 
     
-        === "At Level 1" 
-        
-            - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
-            - There are two primary ways to check for a IV:
-                - When first pulled at the Ruins. 
-                - When registering a unit from the Adventure Log.
+        - A IV is present if that trait is +1 higher than its standard base value at Level 1. 
+        - There are two primary ways to check for a IV:
+            - When first pulled at the Ruins. 
+            - When registering a unit from the Adventure Log.
+
+    === "At Level 2+"
     
-        === "At Level 2+"
-        
-            - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
-            - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
-            - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
-            - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
+        - If the unit is already leveled you can compare their values against other copies at Level 20, 30, 40, etc. to see if they have unusually high growth. This process is tedious and consumes tags. 
+        - Note that each Grade level adds +1 to all traits and +2 at Copper Grade. Be sure to adjust for these values when comparing units that are not the same Grade. 
+        - If IVs is something you care about, then it is best to get into the habit of checking when you first pull a unit versus waiting. 
+        - You can also share screenshots of your unit on the [Discord](https://discord.gg/VSMhp9awE) to have a veteran review. 
 
-    === "IV Example"
-        
-        === "Gandolfo Base Traits"
-
-            - These are Gandolfo's default trait or Neutral IV values.
-
-            <div align="center">
-            ![](./img/gandolfo-neutral-iv.PNG)
-            </div>
-
-        === "Gandolfo IV Strength"
-
-            - Gandolfo's standard base Strength is 14. 
-            - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
-            
-            <div align="center">
-            ![](./img/gandolfo-str-iv.PNG)
-            </div>
-
-    === "Hidden IVs" 
+=== "IV Example"
     
-        - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits.
-        - The Drecom official tables (see next tab) can be used to confirm whether a unit has a Hidden IV or not in their default class. 
-        - To check for a Hidden IV:
-            - Go to the Training Room - Class Change. 
-            - Select their second class and see if they have a +1 to the trait you are targeting. Note that this only works if their second class is at Level 1.  
-            - Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
-        - They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
-        - Mechanically, the class modifier is depressing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
+    === "Gandolfo Base Traits"
 
-    === "Drecom Official Tables"
+        - These are Gandolfo's default trait or Neutral IV values.
 
-        === "How to Navigate" 
+        <div align="center">
+        ![](./img/gandolfo-neutral-iv.PNG)
+        </div>
 
-            - Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=Stat%20Drop%20Rates%20by%20Adventurer).
-            - If that link is not working properly, then scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
+    === "Gandolfo IV Strength"
 
-        === "Trait Pattern System" 
+        - Gandolfo's standard base Strength is 14. 
+        - This copy has 15 Strength. The +1 to the stat means that he is a IV STR. 
+        
+        <div align="center">
+        ![](./img/gandolfo-str-iv.PNG)
+        </div>
 
-            - Total of 8 possible "patterns" (P#) with a 12.5% chance for each.
-            - The pattern entries show whether a IV is possible in the following order:
-                - P1: Strength
-                - P2: IQ
-                - P3: Piety
-                - P4: Vitality
-                - P5: Dexterity
-                - P6: Speed
-                - P7: Luck
-                - P8: Base or Neutral IV
-            - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) [entry](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=10%20(75.0000%25)-,11%20(25.0000%25),-16) for an example.
+=== "Hidden IVs" 
+
+    - Hidden IVs are complicated since they look like a Neutral IV at first glance. That is, there is no +1 to any of the Level 1 traits.
+    - The Drecom official tables (see next tab) can be used to confirm whether a unit has a Hidden IV or not in their default class. 
+    - To check for a Hidden IV:
+        - Go to the Training Room - Class Change. 
+        - Select their second class and see if they have a +1 to the trait you are targeting. Note that this only works if their second class is at Level 1.  
+        - Use the [second class](https://wizardry.fasterthoughts.io/adventurers/adventurer-quicklist/#__tabbed_1_3) base traits or their character page as reference. 
+    - They are most common with class and race combinations that result in low growth rates for a specific trait. For example, no Priest or Dwarf Fighter (sans Gerulf) will ever have a visible IV Speed trait. 
+    - Mechanically, the class modifier is depressing the trait growth rate to a point where it is falling under the threshold of the game's rounding formula (i.e., the visible +1 to the trait). 
+
+=== "Drecom Official Tables"
+
+    === "How to Navigate" 
+
+        - Drecom has published official data tables on its [site](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=Stat%20Drop%20Rates%20by%20Adventurer).
+        - If that link is not working properly, then scroll down to the sub-section called "Stat Drop Rates by Adventurer" or use Ctrl + F. 
+
+    === "Trait Pattern System" 
+
+        - Total of 8 possible "patterns" (P#) with a 12.5% chance for each.
+        - The pattern entries show whether a IV is possible in the following order:
+            - P1: Strength
+            - P2: IQ
+            - P3: Piety
+            - P4: Vitality
+            - P5: Dexterity
+            - P6: Speed
+            - P7: Luck
+            - P8: Base or Neutral IV
+        - Some units have an extremely low chance to roll a IV, which is represented as a split stat. See Philip's P1 (STR) [entry](https://wizardry.info/daphne/gacha_rates/en/characters.html#:~:text=10%20(75.0000%25)-,11%20(25.0000%25),-16) for an example.
             - Some units have "Hidden IVs", which means they are not visible in their default class. 
 
 #### Perspectives 
