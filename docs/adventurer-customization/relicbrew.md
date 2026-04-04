@@ -271,7 +271,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     | 5★         | 2,400 |
 
 
-==== "Required EXP per Relic Level"
+=== "Required EXP per Relic Level"
 
     | Relic Power Level | EXP per Level | Total EXP |        
     |:-----------------:|:------------:|:--------------:|
