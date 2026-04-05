@@ -168,7 +168,48 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
         ![](./img/golem-kill-boss.jpg)
 
     ??? danger "Boss: Doll"
-        - Abilities: Charm, Confuse, MP Drain
+
+        === "Overview" 
+        
+            - Stats
+                - HP: 11K
+                - Abilities: Party-wide Charm that drains MP, Confusion on 3 randomly-selected targets, ST physical attack
+                - Very high EVA
+                
+            - Strategy
+                - Doll is the first real progression gate for most players in Abyss 3. Charm and confuse are nasty status effects and she is difficult to hit. Fortunately, she has very low HP.  
+                - Recommend you level up your units to at least 55-60 so you have access to Full Power Strike (Fighters) and Knight's Defense. 
+                - Put multiple Scrolls of Sedation (Item Shop) on all of your DPS units to cast Reilis to remove charm or confusion.
+                - Cast Batilgref to lower her EVA and ASPD.
+                - Kinapic can be stacked if you use both the spell and scroll (Item Shop) for additional status resistance. 
+                - You want to make sure that your Priests/Mages move first so they can start a status clearing chain with Reilis or Sedation Scrolls. It is also less deadly if they are confused or charmed and attack before your other units.
+                - Removing everyone's equipment in advance is also viable. Equipping gear does not consume a unit's action and cuts down on the chance you will 1-shot your own units. 
+                - The general rhythm of the battle is to clear status effects immediately (or kill the unit for a free clear) and use your hardest hitting DPS attacks. The danger with using FPS is that the attack gets canceled if Charm or Confuse lands. 
+                - It also does not hurt to give your DPS units Dios and/or Madios and a 2H staff in their inventory for emergency healing if your healers cannot keep up. 
+                
+        === "Status Tolerance 101" 
+        
+        - This is the first fight in the game were stacking status tolerance gear and understanding the Fortitude system is important. Read about it in detail [here](https://wizardry.fasterthoughts.io/mechanics/traits-and-stats/#resistance). 
+        - Do -not- fight the Doll when you have under 51 Fortitude as your status tolerance resistance incurs a massive penalty. 
+        - Kinapic is a useful spell, but to truly increase your resistance against status tolerance you need to rely on equipment, bondmates, etc. 
+        - Tip! You can tell if a unit (or enemy) is 100% immune to a status effect if the "MISS" does -not- show up when the spell or skill is used on them. 
+        - The equipment list below can help your team reach near immunity against Doll because requires a fair amount of grinding. It is easiest to put 1-2* copies of gear on your support units as long as they can maintain high ASPD. 
+        - Charm and Confuse Equipment 
+            - Format - Name: # Tolerance (Farming Location)
+            - Circlet: 30 Tolerance (Abyss 3)
+            - Light Helmet of Separation: 20 Tolerance (Cave of Separation) 
+            - Light Gauntlets of Separation: 20 Tolerance (Cave of Separation)
+            - Heat-Haze Light Armor Boots: 20 Tolerance (Sand Shadow Cave)
+            - Mauve Shield: 30 Tolerance (Cave of Flowers)
+        - Bondmates
+            - Gigi: 10 at Level 1 (Abyss 2); cannot be raised further.
+            - Bibi and Eugen: 27 at Level 5 (Abyss 3).
+        - Synergies
+            - Clarissa provides a flat 50 Tolerance to all adjacent Neutral units.
+        - Unique Discipline
+            - Both Lana and Abenius gain additional tolerance at higher discipline levels.
+        
+    
 
         The doll is the first real wall of the Guarda Fortress abyss and can be very challenging, as it's purely RNG-based. She attacks twice in each turn, hits hard with single and row target attacks, has a full party charm that drains MP, and casts a confusion that targets three party members at random. She has approximately 11k HP and high evasion, so she's fairly squishy...if you're able to hit her.
 
@@ -177,8 +218,7 @@ You gain access to the Gaurda Fortress area once accepting the "Duke Ixion" requ
             - Buy some Scrolls of Sedation in town for your damage dealers to cast REILIS and remove confusion
             - Cast BATILGREF on the doll to lower her evasion and slow her down
             - Stack KINAPIC from scrolls and your priest(s) to give both rows enhanced resistance
-            - Remove confusion and charm with your damage dealers via scrolls so your healers can focus on that.
-            - One viable strategy is to un-equip weapons from any physical DPS and have your main DPS be the slowest so that any faster teammates can cleanse their charm.
+
 
 ??? map "Zone 8 -Fortress 1F Entrance-"
     ![](./img/zone-8-complete.jpg)
