@@ -328,14 +328,14 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     - Typing a keyword into the table below will filter your results automatically. 
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium # |
-| ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- | ----------------- |
+| ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- |:-----------------:|
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | Gobber's Evil Eye                          | Accuracy Up, Surety Down             | Neutral     | Goblin                 | Gobber Bloodwood                        | 4040              |
 | Gobber Bowman's Sharp Ears                 | Detect Up, Magic Down                | Neutral     | Goblin Archer          | Gobber Bowman Gleambright               | 4041              |
 | Gobber's Magic-Resistant Lump              | Magic Def Up, Crit Tol Down          | Neutral     | Goblin Mage            | Gobber Sorcerer Rootcrystal             | 4042              |
 | Gobber Soothsayer's Hallowed Voice         | Divine Up, Def Down                  | Evil        | Goblin Cleric          | Gobber Soothsayer Cursefruit            | 4043              |
 | Hobber's Mighty Arm                        | Attack Up, Def Down                  | Evil        | Hobgoblin              | Hobber Bloodwood                        | 4044              |
-| Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down    | Evil        | Skeleton               | Bony Spiritcoral                        | 4045              |
+| Bony's Iron Ribs                           | Critical Tol Up, Disarm Trap Down  &emsp;    | Evil        | Skeleton               | Bony Spiritcoral                        | 4045              |
 | Bony Bowman's Cartilage                    | Evade Trap Up, Res Down              | Evil        | Skeleton Archer        | Bony Bowman's Gleambright               | 4046              |
 | Bony Sorcerer's Spectral Bones             | Magic Def Up, Evade Trap Down        | Good        | Skeleton Mage          | Bony Sorcerer Rootcrystal               | 4047              |
 | Bony Knight's Armored Bones                | Def Up, Accuracy Down                | Evil        | Skeleton Knight        | Bony Knight Rootcrystal                 | 4048              |
