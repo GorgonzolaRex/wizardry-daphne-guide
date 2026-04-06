@@ -415,5 +415,6 @@ Note: The stat that is negatively impacted is usually -1 per level (max of -6 at
 | Evade Trap                       |     2     |    12    |        14        |
 | Elemental tolerance<sup>††</sup> |    1%     |    6%    |        7%        |
 | Status tolerance<sup>††</sup>    |    1%     |    6%    |        7%        |
-<sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6. The matching alignment bonus level is +1 SUR. 
-<sup>††</sup> These are rough estimates. Could range from 0.5-1% per level
+
+<small><sup>†</sup> SUR gives +1 from levels 1-4 and +2 at levels 5 and 6. The matching alignment bonus level is +1 SUR. 
+<sup>††</sup> These are rough estimates. Could range from 0.5-1% per level</small> 
