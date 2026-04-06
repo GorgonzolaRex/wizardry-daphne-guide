@@ -327,7 +327,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     - If using Ctrl +F, then omit modifiers such as "Twisted". The meaning of the modifiers is unknown. 
     - Typing a keyword into the table will filter your results automatically. 
 
-| Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium Number |
+| Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium # |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- | ----------------- |
 | Redripened Carapace                        | Crit Res Up, Detect Down             | Neutral     | Gluttonous Maw (White) | Ripeness of the Abyss                   | 19                |
 | Gobber's Evil Eye                          | Accuracy Up, Surety Down             | Neutral     | Goblin                 | Gobber Bloodwood                        | 4040              |
