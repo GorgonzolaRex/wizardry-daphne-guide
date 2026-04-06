@@ -62,7 +62,8 @@
      
     === "All"  
        {{ pd_read_csv("data/compendium.csv", dtype="str", header=0)
-        .query('Category == "Equipment"')[['Number', 'Name']]
+        .query('Category == "Equipment"')
+        .sort_values(by='Number')[['Number', 'Name']]
         | convert_to_md_table(colalign=["center","left"]) 
         | add_indentation(spaces=8) }}
 
