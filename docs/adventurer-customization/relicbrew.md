@@ -12,9 +12,9 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | **Term** &emsp;                   | **Definition** &emsp;                                                                                                                              |
+    | **Term** &emsp;  &emsp;                   | **Definition** &emsp;                                                                                                                              |
     |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-    | Relic monster &emsp;          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
+    | Relic monster &emsp;  &emsp;          | Extremely rare enemy with a relic in its possession denoted by a red aura.                                                              |
     | Relic                  | Dropped by relic monsters in a chest after battle.                                                                                      |
     | Relic slag             | Remnants of a relic ("slag") that failed to form. Can be exchanged for relics at the Black Barrel Tavern.                               |   
     | Relicbrew              | Corvo can transform a relic into a consumable drink. Primary function of the Black Barrel Tavern.                                       |
@@ -59,9 +59,9 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| **Service**                | **Details**                                                                                                                                 |
+| **Service**  &emsp;                | **Details**                                                                                                                                 |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
-| Drink Relicbrew        | Transforms relics into relicbrews that give unique Relic Powers (passive skills).                                                       |
+| Drink Relicbrew  &emsp;        | Transforms relics into relicbrews that give unique Relic Powers (passive skills).                                                       |
 | Relic Power            | View currently equipped and previously extracted Relic Powers.                                                                          |
 | Extraction             | Extract a currently equipped Relic Power for a fee.                                                                                     |
 | Slagpiece Exchange     | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                         |
