@@ -314,7 +314,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
     
         - This table shows how many relics are needed per ★ quality to reach a specific level. These are total _not_ incremental numbers.
         - For example, to reach level 4 (2,100 total EXP) it would take 11, 2★ (200 EXP) relics (11 x 200 EXP = 2,200 EXP).
-    - It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
+        - It is recommended to use the Slagpiece Exchange when possible to buy 1-2★ relics to reach level 4 or 5 to avoid wasting valuable EXP that could have gone to a different adventurer.   
 
 </div>
 
