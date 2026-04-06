@@ -321,7 +321,11 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 ## List of Relic Power Effects 
 
-!!! note "Relics Names below are as listed in the Compendium. Relics in your inventory may or may not have Name modifiers, such as 'Twisted'. The meaning of these modifiers is unknown."
+!!! warning "READ ME - How to Search"
+
+    - Relic Names are listed as shown in their Compendium entry. 
+    - If using Ctrl +F, then omit modifiers such as "Twisted". The meaning of the modifiers is unknown. 
+    - Typing a keyword into the table will filter your results automatically. 
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium Number |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- | ----------------- |
@@ -341,7 +345,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 | Plunderer's Deft Hand                      | Surety Up, Magic Down                | Evil        | Bandit                 | Plunderer Bloodwood                     | 4052              |
 | Noxfume's Shelled Lungs                    | Air Res Up, Disarm Trap Down         | Evil        | Cloud                  | Noxfume Spiritcoral                     | 4053              |
 | Dancing Blade's Razor Bite                 | Attack Up, Air Res Down              | Neutral     | Flying Sword           | Dancing Blade Bloodwood                 | 4054              |
-| Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady          | Venommaiden  Bloodwood                  | 4055              |
+| Venommaiden's Arachnid Legs                | Surety Up, Evasion Up, SP Down       | Good        | Scorpion Lady          | Venommaiden Bloodwood                   | 4055              |
 | Firebrand Legionnaire's Evil Eye           | Accuracy Up, Light Resist Down       | Evil        | Lesser Demon           | Firebrand Legionnaire Bloodwood         | 4056              |
 | Hellfire Warlord's Blue Blood              | MP Up, Light Res Down                | Evil        | Greater Demon          | Hellfire Warlord Cursefruit             | 4057              |
 | Beheading Rabbit's Sharp Claws             | Surety Up, Divine Down               | Good        | Vorpal Bunny           | Beheading Rabbit's Bloodwood            | 4058              |
