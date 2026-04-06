@@ -303,12 +303,12 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 === "Minimum Relics per Level and ★ Quality"
 
     | ★ Quality  | Level 1 | Level 2 | Level 3 | Level 4 | Level 5 | Level 6 |    
-    |:---------:|:----:|:----:|:----:|:-----:|:---:|:---:|
-    | 1★        |  1   |  3   |  9   |  21  |  51  | 72 | 
-    | 2★        |  1   |  2   |  5   |  11  |  26  | 62 | 
-    | 3★        |  1   |  1   |  3   |  6   |  13  | 31 | 
-    | 4★        |  1   |  1   |  1   |  3   |  6   | 13 | 
-    | 5★        |  1   |  1   |  1   |  1   |  3   | 6  | 
+    |:---------:|:----:|:----:|:----:|:-----:|:---:|:----:|
+    | 1★        |  1   |  3   |  9   |  21  |  51  | 123 | 
+    | 2★        |  1   |  2   |  5   |  11  |  26  | 62  | 
+    | 3★        |  1   |  1   |  3   |  6   |  13  | 31  | 
+    | 4★        |  1   |  1   |  1   |  3   |  6   | 13  | 
+    | 5★        |  1   |  1   |  1   |  1   |  3   | 6   | 
 
     ??? tip "How to Read This Table"
     
