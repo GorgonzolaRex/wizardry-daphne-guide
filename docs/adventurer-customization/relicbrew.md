@@ -206,6 +206,7 @@ The Slagpiece Exchange lists 12 relics for sale in exchange for slag that is res
             - 3★: 400 slag
             - 2★: 200 slag
             - 1★: 100 slag
+        - 4★ are unlocked after clearing A3 Blackmail ending. 
         - Relics unique to the shop have double the standard cost.
         - It is possible to have multiple copies of the same relic with different ★ quality.
         - You can refresh ("Reset") the Exchange with green or purple gems, which begins at 200 gems and doubles per refresh.
