@@ -321,7 +321,7 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 ## List of Relic Power Effects 
 
-!!! warning "READ ME - How to Search"
+!!! danger "READ ME - How to Search"
 
     - Relic Names are listed as shown in their Compendium entry. 
     - If using Ctrl +F, then omit modifiers such as "Twisted". The meaning of the modifiers is unknown. 
