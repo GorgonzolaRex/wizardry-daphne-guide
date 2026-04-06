@@ -59,12 +59,12 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| **Service**  &emsp; &emsp; &emsp;                | **Details**                                                                                                                                 |
+| **Service**  &emsp; &emsp;                | **Details**                                                                                                                                 |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | Drink Relicbrew  &emsp;        | Transforms relics into relicbrews that give unique Relic Powers (passive skills).                                                       |
 | Relic Power            | View currently equipped and previously extracted Relic Powers.                                                                          |
 | Extraction             | Extract a currently equipped Relic Power for a fee.                                                                                     |
-| Slagpiece Exchange &emsp; &emsp; &emsp;    | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                         |
+| Slagpiece Exchange &emsp; &emsp;     | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                         |
 | Talk                   | Provides details on relic terms and history.                                                                                            |
 
 </div>
@@ -321,11 +321,11 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 
 ## List of Relic Power Effects 
 
-!!! danger "READ ME - How to Search"
+!!! danger "Read Me - How to Search"
 
     - Relic Names are listed as shown in their Compendium entry. 
-    - If using Ctrl +F, then omit modifiers such as "Twisted". The meaning of the modifiers is unknown. 
-    - Typing a keyword into the table will filter your results automatically. 
+    - If using Ctrl +F, then omit modifiers such as 'Twisted'. 
+    - Typing a keyword into the table below will filter your results automatically. 
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Compendium # |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- | ----------------- |
