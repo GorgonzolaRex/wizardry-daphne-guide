@@ -59,12 +59,12 @@ At the Black Barrel Tavern, the proprietor, Corvo the Alchemist, offers several 
 
 <div class="nofilter-table nosort-table" markdown>
 
-| **Service**  &emsp;                | **Details**                                                                                                                                 |
+| **Service**  &emsp; &emsp; &emsp;                | **Details**                                                                                                                                 |
 |:-----------------------|:----------------------------------------------------------------------------------------------------------------------------------------|
 | Drink Relicbrew  &emsp;        | Transforms relics into relicbrews that give unique Relic Powers (passive skills).                                                       |
 | Relic Power            | View currently equipped and previously extracted Relic Powers.                                                                          |
 | Extraction             | Extract a currently equipped Relic Power for a fee.                                                                                     |
-| Slagpiece Exchange     | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                         |
+| Slagpiece Exchange &emsp; &emsp; &emsp;    | Trade slag for up to 9 randomly selected relics that refresh on a weekly basis.                                                         |
 | Talk                   | Provides details on relic terms and history.                                                                                            |
 
 </div>
