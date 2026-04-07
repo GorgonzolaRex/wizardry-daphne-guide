@@ -324,8 +324,8 @@ Relic Powers can be leveled like other passive skills. Instead of using inherits
 !!! danger "Read Me - How to Search"
 
     - Relic Names are listed as shown in their Compendium entry. 
-    - If using Ctrl +F, then omit modifiers such as 'Twisted'. 
-    - Typing a keyword into the table below will filter your results automatically. 
+    - If using Ctrl +F, then try searching with and without modifiers such as 'Twisted'. 
+    - Recommend just typing a single keyword into the table below to filter your results automatically. 
 
 | Relic Power Name                           | Stat Effect                          | Personality | Drops From             | Relic Name                             | Comp. # |
 | ------------------------------------------ | ------------------------------------ | ----------- | ---------------------- | --------------------------------------- |:-----------------:|
