@@ -33,7 +33,7 @@
 
 .md-typeset .large-table table th,
 .md-typeset .large-table table td {
-    font-size: 0.85rem;
+    font-size: 0.75rem;
     min-width: max-content;
     white-space: pre-line;
 }
