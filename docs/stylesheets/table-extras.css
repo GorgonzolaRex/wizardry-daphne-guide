@@ -31,3 +31,10 @@
     text-align: center !important;
 }
 
+.md-typeset .large-table table th,
+.md-typeset .large-table table td {
+    font-size: 0.85rem;
+    min-width: max-content;
+    white-space: pre-line;
+}
+
