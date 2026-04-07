@@ -141,7 +141,7 @@
     | ASPD%                                               | 2-3 | 3-6  | 6-9  | 9-12  | 12-15 |
     | SUR                                                 | 2-3 | 3-5  | 4-6  | 5-8   | 6-10  |
 
-=== "Initial + FAS (2x Enhance) Totals"
+=== "Initial + FAS Totals"
 
     | Blessing Type &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &emsp;  | 1★ &emsp; &emsp;  |  2★ &emsp; &emsp; | 3 ★ &emsp; &emsp; |  4★ &emsp; &emsp; |  5★ &emsp; &emsp;   |
     |:----------------------------------------------------|:---|:----|:----|:-----|:-----|
