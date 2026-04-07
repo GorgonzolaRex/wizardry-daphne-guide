@@ -407,7 +407,7 @@ window.RESPAWN_SECTIONS = [
         {
           id: 'enemy_scope',
           title: 'Enemy Spyglass',
-          details: 'Request Reward from "Bodyguard for Ruins Exploration". [30 Days]',
+          details: 'Request Reward from "Forbidden Area Search Escort". [30 Days]',
           image: '',
           clickable: false,
         },
