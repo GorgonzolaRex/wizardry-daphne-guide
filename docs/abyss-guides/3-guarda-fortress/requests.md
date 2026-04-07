@@ -247,7 +247,7 @@ Upon stepping foot into Zone 5 and returning, you will receive a message from th
 
 ### Water Hauling
 
-!!! note "To get the bondmate for this request, you will need to have low to no corrosion levels (not sure exact cut-off)"
+!!! warning "Requirement: Overall Abyss corruption must be at 0 or 1 ("Spotted") out of 13 registered corrosion sentries." 
 
 - Harken to Zone 9 and walk all the way to the indicated location (maps may be different due to Abyss 3 variation, so look for similar room formats).
 - You will need to fetch water from the Zone 10 fountain. Head over there, but make sure you know the path back and forth very well.
