@@ -484,6 +484,20 @@ window.RESPAWN_SECTIONS = [
         { subheader: 'Deepsnow Hinterlands' },
         { subheader: 'Chest Items' },
         {
+          id: 'a4_r7_bandana',
+          title: 'Coal Miner's Bandana - Route 7',
+          details: 'Route 7 (x:19, y:0).',
+          image: '',
+          clickable: false,
+        },
+        {
+          id: 'a4_r8_bandana',
+          title: 'Coal Miner's Bandana - Route 8',
+          details: 'Route 8 (x:20, y:4).',
+          image: '',
+          clickable: false,
+        },
+        {
           id: 'a4_r8_nourishingpotions',
           title: 'Nourishing Draught x2',
           details: 'Route 10 (x:10, y:20).',
