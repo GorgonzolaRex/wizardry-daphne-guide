@@ -485,14 +485,14 @@ window.RESPAWN_SECTIONS = [
         { subheader: 'Chest Items' },
         {
           id: 'a4_r7_bandana',
-          title: 'Coal Miner's Bandana - Route 7',
+          title: 'Coal Miner\'s Bandana - Route 7',
           details: 'Route 7 (x:19, y:0).',
           image: '',
           clickable: false,
         },
         {
           id: 'a4_r8_bandana',
-          title: 'Coal Miner's Bandana - Route 8',
+          title: 'Coal Miner\'s Bandana - Route 8',
           details: 'Route 8 (x:20, y:4).',
           image: '',
           clickable: false,
