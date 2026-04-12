@@ -5,10 +5,10 @@
 
 ## Overview
 
-### How to Unlock 
+!!! warning "How to Unlock" 
 
-- Defeat the GWO of Abyss 2 (Port Town Grand Legion), go to the Royal Capital, and speak with Arna who will give an introduction to the bounty system.
-- At the Guild select Requests and you will see a new tab called Bounties. Every Guild in each major city has its own set of bounties for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
+    - Defeat the GWO of Abyss 2 (Port Town Grand Legion), go to the Royal Capital, and speak with Arna who will give an introduction to the bounty system.
+    - At the Guild select Requests and you will see a new tab called Bounties. Every Guild in each major city has its own set of bounties for you to find and defeat. New bounties are added based on your Bounty Rank and Abyss progression.  
 
 ### Bounty System
 
@@ -16,19 +16,18 @@
 
     === "Details"
     
-        - Wanted Posters provide the following information:
-            - Name
-            - Gold Reward
-            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
-            - Bounty Markers: One-time only points used to increase your Bounty Rank. 
-            - Skull Icon
-                - Located in the upper-left of the wanted poster. 
-                - Red: Must be killed.
-                - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
-            - Reported Sightings: Lists the specific floor the bounty can be encountered. 
-            - Star Icon
-                - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
-                - Note that 5 small stars are equal to 1 large, glowing star. 
+        - Name
+        - Gold Reward
+        - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
+        - Bounty Markers: One-time only points used to increase your Bounty Rank. 
+        - Skull Icon
+            - Located in the upper-left of the wanted poster. 
+            - Red: Must be killed.
+            - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
+        - Reported Sightings: Lists the specific floor the bounty can be encountered. 
+        - Star Icon
+            - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
+            - Note that 5 small stars are equal to 1 large, glowing star. 
 
     === "Wanted Dead"
         <div align="center">
@@ -47,12 +46,14 @@
         
 === "How to Accept, Submit, and Reset"
 
+    - The Bounties tab is located under Guild - Requests.
     - Accept 
-        - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check what bounties are active you can check your Log - Bounty List. 
+        - Selecting the Bounties tab will automatically activate every available bounty for that Abyss and associated dungeons. To double-check your active bounties go to Log - Bounty List. 
         - Active bounties are denoted by a black skull on both the world map and the dungeon floor selection screen.  
     - Submit 
-        - After defeating or capturing a bounty return to the appropriate Guild, select the Bounties tab, and you will see that the wanted poster is glowing.
+        - After defeating or capturing a bounty return to the appropriate Guild, select the Bounties tab, and the wanted poster will be glowing.
         - Select the wanted poster to submit the bounty and receive your rewards. 
+        - Warning! If you wheel outside of the current Abyss, then the bounty will be reset.
     - Reset 
         - Bounties can be reset by wheeling-in-place on the same Cursed Wheel node. 
         - To wheel-in-place go to the Ruins - Cursed Wheel, select your current or furthest node, and Leap. 
@@ -78,7 +79,7 @@
 
 === "Capturing"
 
-    - Only human bounties can be captured. The process can be tedious since it is easy to accidentally kill a bounty unless you are tracking its HP.  
+    - Only human bounties can be captured. It is easy to accidentally kill a target, tracking its HP is recommended.  
     - Steps
         - Weaken an enemy to 10-15% of its HP.
         - Use a Binding Rope (consumable item) until it is successfully captured.  
