@@ -31,17 +31,20 @@
                 - Note that 5 small stars are equal to 1 large, glowing star. 
 
     === "Wanted Dead"
-
+        <div align="center">
         ![](./img/bp-wanted-dead.png)
+        </div>
 
     === "Capture Alive" 
-
+        <div align="center">
         ![](./img/bp-capture-alive.png)
+        </div>
 
     === "Capture Alive (Optional)"
-
+        <div align="center">
         ![](./img/bp-capture-alive-optional.png)
-
+        </div>
+        
 === "How to Accept, Submit, and Reset"
 
     - Accept 
