@@ -256,7 +256,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
                     ??? warning "Rewards"
                         - 9,000 Gold
-                        - Calm Wind Crest
+                        - Calm Wind Crest<span style="color: MediumOrchid">*</span>
                         - 2 Junk
                         - Same ending scenes as Bad Ending - Consult with an Herbalist 
                 
