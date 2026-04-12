@@ -51,47 +51,48 @@
     - Each Bounty Rank generally requires defeating all the available bounties in each city. If you are stuck, then revisit each location or make additional Abyss progression. 
     - Your Bounty Rank is listed at the bottom of the Bounties tab. To view the [milestone rewards](#one-time-bounty-rank-rewards) select "Check Rewards".  
 
-??? warning "Mechanics"
+### Mechanics
 
-    === "Battle" 
+=== "Battle" 
+
+    - You cannot be ambushed you unless you have a Morgus contract active. You can literally walk into them backwards. 
+    - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
+    - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (pink-purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
+
+=== "Capturing"
+
+    - Only human bounties can be captured. The process can be tedious since it is easy to accidentally kill a bounty unless you are tracking its HP.  
+    - Steps
+        - Weaken an enemy to 10-15% of its HP.
+        - Use a Binding Rope (consumable item) until it is successfully captured.  
+        - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
+    - Binding Rope
+        - Sold at the Item Shop for 200 gold. 
+        - The capture rate is (allegedly) higher if used by a high DEX unit, so Ninjas and Thiefs are good candidates. 
+        - It make take several attempts to successfully capture a bounty even at very low HP. 
+    - DEX appears to be the most critical factor for successfully capturing a bounty. The Grip Gloves seem to provide a small, marginal benefit based on limited testing.
+    - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
+    - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
     
-        - You cannot be ambush you unless you have a Morgus contract active. You can literally walk into them backwards. 
-        - You can flee 100% of the time, however they will disappear afterward. You will need to change floors or exit and re-enter the Abyss for them to reappear.
-        - Can give relics, but only if they are in the front row. If you encounter a bounty that carries a relic (purple aura), then its HP will be ~30% higher. They do not appear to give relics at a higher rate versus slag. 
-    
-    === "Capturing"
-    
-        - Only human bounties can be captured. The process can be tedious since it is easy to accidentally kill a bounty unless you are tracking its HP.  
-        - Steps
-            - Weaken an enemy to 10-15% of its HP.
-            - Use a Binding Rope (consumable item) until it is successfully captured.  
-            - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
-        - Binding Rope
-            - Sold at the Item Shop for 200 gold. 
-            - The capture rate is (allegedly) higher if used by a high DEX unit, so Ninjas and Thiefs are good candidates. 
-            - It make take several attempts to successfully capture a bounty even at very low HP. 
-        - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
-        - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
-        
-    === "Map Types"
-    
-        - Fixed
-            - Populate on a specific tile set and will never move. 
-            - Displayed on the mini-map as a green arrow. 
-        - Wandering
-            - Can appear anywhere on the floor map, but their spawning location can be reset with changing floors or exiting and re-entering.  
-            - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
-            - Not displayed on the mini-map. 
-        - Person
-            - Populate on a specific tile set and will never move. 
-            - Appear as a "person icon" on the mini-map if that part of the floor has been explored.
-            - These encounters are always against human enemies. There will often be a brief interaction when you encounter them where you will be offered the choice to fight or let them go. 
-            - Can never drop relics. 
-    
-    === "Map Variations" 
-    
-        - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
-        - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations
+=== "Map Types"
+
+    - Fixed
+        - Populate on a specific tile set and will never move. 
+        - Displayed on the mini-map as a green arrow. 
+    - Wandering
+        - Can appear anywhere on the floor map, but their spawning location can be reset with changing floors or exiting and re-entering.  
+        - They have a tendency to get stuck in walls, so if you have cleared the entire floor and they do not appear try exiting and restarting your game. 
+        - Not displayed on the mini-map. 
+    - Person
+        - Populate on a specific tile set and will never move. 
+        - Appear as a "person icon" on the mini-map if that part of the floor has been explored.
+        - These encounters are always against human enemies. There will often be a brief interaction when you encounter them where you will be offered the choice to fight or let them go. 
+        - Can never drop relics. 
+
+=== "Map Variations" 
+
+    - Each time you Cursed Wheel outside of your current Abyss it can reset your map configuration. Fortunately, bounties with events (dialogue) are always fixed to their relative room location. 
+    - See the [Map Variations](../../mechanics/map-variations.md) page for details. If your map doesn't match what is shown below refer to the appropriate Dungeon Guide Abyss map to see other possible locations
 
 ### Bounties Summary Tables
 
