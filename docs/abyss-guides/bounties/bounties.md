@@ -14,19 +14,33 @@
 
 === "Wanted Posters"
 
-    - Wanted Posters provide the following information:
-        - Name
-        - Gold Reward
-        - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
-        - Bounty Markers: One-time only points used to increase your Bounty Rank. 
-        - Skull Icon
-            - Located in the upper-left of the wanted poster. 
-            - Red: Must be killed.
-            - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
-        - Reported Sightings: Lists the specific floor the bounty can be encountered. 
-        - Star Icon
-            - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
-            - Note that 5 small stars are equal to 1 large, glowing star. 
+    === "Details"
+    
+        - Wanted Posters provide the following information:
+            - Name
+            - Gold Reward
+            - Bounty Medals: Used to exchange for one-time and monthly rewards at the Jeweler under [Exchange-Bounty Medal](#bounty-medal-exchange-shop). 
+            - Bounty Markers: One-time only points used to increase your Bounty Rank. 
+            - Skull Icon
+                - Located in the upper-left of the wanted poster. 
+                - Red: Must be killed.
+                - Blue: Can be killed or captured. Capturing is more challenging, but gives a bonus gold and Bounty Medal reward. 
+            - Reported Sightings: Lists the specific floor the bounty can be encountered. 
+            - Star Icon
+                - Represents both the number of Bounty Markers and relative difficulty. In practice, it is not that useful as some low-star bounties can be as challenging as their high-star counterparts depending on your account's power level and team composition.
+                - Note that 5 small stars are equal to 1 large, glowing star. 
+
+    === "Wanted Dead"
+
+        ![](./img/bp-wanted-dead.png)
+
+    === "Capture Alive" 
+
+        ![](./img/bp-capture-alive.png)
+
+    === "Capture Alive (Optional)"
+
+        ![](./img/bp-capture-alive-optional.png)
 
 === "How to Accept, Submit, and Reset"
 
