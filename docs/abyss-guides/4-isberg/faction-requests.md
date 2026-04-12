@@ -21,6 +21,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         - Supporting a faction in a previous Abyss influences certain outcomes 
         - Max faction affinity requires selecting that faction in the Cursed Wheel for Abyss 2 and 3
         - Max faction affinity is mandatory for the Best endings, Guiding Light (Luck), unique Calm Wind gear, and extra junk rewards
+        - The only exception is for the Calm Wind Crest (Princess - Mystic - Bad) where you do -not- want max faction affinity 
         - Faction affinity is denoted with a <span style="color: MediumOrchid">*</span>
     
             !!! note "Set max faction affinity in the Cursed Wheel before starting to avoid potentially having to redo an ending" 
@@ -256,7 +257,7 @@ The faction requests are unlocked after entering Route 4 for the first time. The
         
                     ??? warning "Rewards"
                         - 9,000 Gold
-                        - Calm Wind Crest<span style="color: MediumOrchid">*</span>
+                        - Calm Wind Crest
                         - 2 Junk
                         - Same ending scenes as Bad Ending - Consult with an Herbalist 
                 
