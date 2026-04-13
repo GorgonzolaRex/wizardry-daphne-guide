@@ -45,12 +45,13 @@
             - This time choose to "Spare" (bondmate ending) at the end. Don't forget to pick up the Salted Pork. 
             - Instead of the request automatically failing you should be able to submit. 
 
-        - Speculation
-            - It appears as if an event flag is broken that requires doing it the "normal" (slay/kill) way first to reset things. 
-            - It is possible that this is -not- a bug and intended to work this way moving forward. Historically, you could do either ending successfully on your first run. 
-            - Whether or not you have to repeat these steps if you Cursed Wheel outside of A4 has not been tested. If you are planning to level the bondmate, we recommend you do it in one sitting. 
-            - Credit: Big thank-you to @liezeithl for discovering the workaround. 
-            - Contact: Ping or DM @lightbearer on the Discord if you are running into any problems or discover any new information.  
+    === "Other"
+
+        - We have limited insight into what is causing this bug. It appears as if an event flag is broken that requires doing it the "normal" (slay/kill) way first to reset things. 
+        - It is possible that this is -not- a bug and intended to work this way moving forward. Historically, you could do either ending successfully on your first run. 
+        - Whether or not you have to repeat these steps if you Cursed Wheel outside of A4 has not been tested. If you are planning to level the bondmate, we recommend you do it in one sitting. 
+        - Credit: Big thank-you to @liezeithl for discovering the workaround. 
+        - Contact: Ping or DM @lightbearer on the Discord if you are running into any problems or discover any new information.  
 
 ??? warning "Important Notes"
 
