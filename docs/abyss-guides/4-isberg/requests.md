@@ -19,9 +19,38 @@
 
 ### Recovery of Salted Pork
 
-!!! danger "Bug - Automatic Failure"
-    - Confirmed 3/25 that even if you retrieve the Salted Pork correctly the request will auto-fail when you return to the Guild.
-    - The Bigfoot's Offspring bondmate cannot be farmed either.
+??? danger "Bug - Bondmate Workaround"
+
+    === "Current Status" 
+    
+        - As of 4/12 the request is working normally if you choose to slay both of them at the end.
+        - Current bug: Bondmate ending (spare both of them) will automatically fail even if you do everything perfectly. 
+        - See next steps for the workaround.
+
+    === "Bondmate Ending Steps"
+    
+        - Part I 
+            - Cursed Wheel to Rockhome Village Major Harken. 
+            - Accept the request. 
+            - Complete all the steps as normal. Choose to "Slay them both" at the end. Don't forget to pick up the Salted Pork. 
+            - Submit the request. 
+
+        - Reset Request
+            - Cursed Wheel to Deepsnow Hinterlands Entrance. 
+            - Cursed Wheel back to Rockhome Village Major Harken. 
+
+        - Part II 
+            - Accept the request. 
+            - Be sure to pick up a Trifia mushroom at one of the discovery points.
+            - This time choose to "Spare" (bondmate ending) at the end. Don't forget to pick up the Salted Pork. 
+            - Instead of the request automatically failing you should be able to submit. 
+
+        - Speculation
+            - It appears as if an event flag is broken that requires doing it the "normal" (slay/kill) way first to reset things. 
+            - It is possible that this is -not- a bug and intended to work this way moving forward. Historically, you could do either ending successfully on your first run. 
+            - Whether or not you have to repeat these steps if you Cursed Wheel outside of A4 has not been tested. If you are planning to level the bondmate, we recommend you do it in one sitting. 
+            - Credit: Big thank-you to @liezeithl for discovering the workaround. 
+            - Contact: Ping or DM @lightbearer on the Discord if you are running into any problems or discover any new information.  
 
 ??? warning "Important Notes"
 
