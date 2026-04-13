@@ -74,13 +74,13 @@
             ??? quote "Bigfoot Child Audio Cues"
             
                 - "Awooooon! Awooooon!" text with a "Mrrr" sound = Bigfoot fight 
-                - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" sound = Triffia 
-                - "Kyoh! Kyoh!" text with a "Kyoh!" sound = Deep-snow Mushroom  
+                - "Kyoh! Kyoh!" text with a "Kyoh! Kyoh!" high-pitched sound = Trifia 
+                - "Kyoh! Kyoh!" text with a "Kyoh!" low-pitched sound = Deep-snow Mushroom  
                 
-        - "Let it go" at least 4 times and one of those events must be a Bigfoot fight. Otherwise, the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
+        - To spawn the Bigfoot boss you will need 1) a Trifia mushroom in your inventory and 2) encounter a Bigfoot fight. If these conditions are not met, then the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
         - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The former gives a new bondmate and the latter gives additional gold. 
-        - Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
+        - <span style="color: #F2473A">Warning!</span> Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
         - Return to the Guild and submit the request.
 
             ??? warning "Rewards"
@@ -89,12 +89,12 @@
                     - Bondmate: Bigfoot's Offspring (Accuracy) 
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold
-                    - Triffia removed from inventory 
+                    - Trifia removed from inventory 
                 
                 ??? note "Kill" 
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold 
-                    - Additional gold from request giver
+                    - Additional gold from request giver if you have a Trifia mushroom in your inventory
                     
     === "Discovery Points"
         
