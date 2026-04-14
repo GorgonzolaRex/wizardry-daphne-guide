@@ -86,13 +86,12 @@
         - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
     - Binding Rope
         - Sold at the Item Shop for 200 gold. 
-        - The capture rate improves with a high DEX unit, so Ninjas and Thiefs are good candidates. 
+        - DEX is the single most critical factor for capturing a bandit. Ninjas and Thiefs are good units to bring. The Grip Gloves seem to provide a small, marginal benefit based on limited testing. 
         - The rope message is a helpful indicator:
             - Knocked away means that its HP is still too high. 
             - A "Miss" means the bounty can be captured, but that the unit's DEX is too low for a 100% guarantee. 
             - Each time you throw a rope the game rolls against the unit's DEX stat for a % capture rate. You can try again with that unit, but if their DEX is too low the effective capture rate might be 0%. 
         - It make take several attempts to successfully capture a bounty even at very low HP. 
-    - DEX is the most critical factor for successfully capturing a bounty. The Grip Gloves seem to provide a small, marginal benefit based on limited testing.
     - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
     - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
     
