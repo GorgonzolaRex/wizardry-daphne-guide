@@ -79,16 +79,20 @@
 
 === "Capturing"
 
-    - Only human bounties can be captured. It is easy to accidentally kill a target, tracking its HP is recommended.  
+    - Only human bounties can be captured. It is easy to accidentally kill a target, tracking its HP is recommended.   
     - Steps
         - Weaken an enemy to 10-15% of its HP.
         - Use a Binding Rope (consumable item) until it is successfully captured.  
         - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
     - Binding Rope
         - Sold at the Item Shop for 200 gold. 
-        - The capture rate is (allegedly) higher if used by a high DEX unit, so Ninjas and Thiefs are good candidates. 
+        - The capture rate improves with a high DEX unit, so Ninjas and Thiefs are good candidates. 
+        - The rope message is a helpful indicator:
+            - Knocked away means that its HP is still too high. 
+            - A "Miss" means the bounty can be captured, but that the unit's DEX is too low for a 100% guarantee. 
+            - Each time you throw a rope the game rolls against the unit's DEX stat for a % capture rate. You can try again with that unit, but if their DEX is too low the effective capture rate might be 0%. 
         - It make take several attempts to successfully capture a bounty even at very low HP. 
-    - DEX appears to be the most critical factor for successfully capturing a bounty. The Grip Gloves seem to provide a small, marginal benefit based on limited testing.
+    - DEX is the most critical factor for successfully capturing a bounty. The Grip Gloves seem to provide a small, marginal benefit based on limited testing.
     - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
     - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
     
@@ -698,9 +702,10 @@
         - Appears at Bounty Rank 8
 
     === "Fight Details"
-        - HP: 20k (can be captured after 15k; ~13k Dwarf Fighter; ~12k Elf Mage)
-        - Is accompanied by A dwarf fighter and elf mage, both of whom are in the backrow. Ross himself is in the front row.
-        - Dwarf Fighter uses various fighter skills. The elf mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
+        - HP: 20k (can be captured after 18k; ~13k Dwarf Fighter; ~12k Elf Mage)
+        - Ross has a fairly high DEX capturing requirement of ~82+.
+        - Ross is in the front row. Dwarf Fighter and Elf Mage are in the backrow. 
+        - Dwarf Fighter uses standard skills. The Elf Mage will cast row debuffs and can cast LA spells. When she takes enough damage, she will cast mental unity out of turn. Ross will cover back-line units without casting a cover. 
         - Backline can be confused with Kantios. Ross can be stunned. 
 
     === "Map Location"
