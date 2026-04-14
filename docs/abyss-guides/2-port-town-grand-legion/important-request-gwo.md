@@ -96,7 +96,9 @@ Some reward choices will result in gaining an item or access to a new area after
     - Reward:  Treasurey chest key - unlocks trapdoor on Ship's deck.
  
 -  Battle with the Greater Warped One
-    - Reward: Melgina’s Choker (if you gave Melgina the sandwich) or Octonarus' necklace (if you gave her the knife).
+    - Reward:
+        - Melgina’s Choker (if you gave Melgina the sandwich)
+        - Octonarus' necklace (if you gave Melgina the knife)
     - Which side to reverse: Right
 
 #### 2nd Victory Rewards
@@ -106,12 +108,12 @@ Some reward choices will result in gaining an item or access to a new area after
     - Prerequisite: Gave Titanium knife to Melgina and Gave Titanium Ore to Gessi.
     - Which side to reverse: Right, and then check Octonarus’s hand.
 
-- Octonarus‘s cherished sword
+- Octonarus‘s Cherished Sword
     - Reward: Cutlass of Tyranny
     - Prerequisite: Gave Titanium knife to Melgina
     - Which side to reverse: Left
 
-- Octonarus‘s secret room
+- Octonarus‘s Secret Room
     - Reward: Access Forgotten Pirate Harbor (via the underwater grate in the underwater section of the pier area, only accessible directly after the battle)
     - Prerequisite: Gave Titanium knife to Melgina
     - Which side to reverse: Left, then go to grate before returning to town.
@@ -136,7 +138,7 @@ The path you choose is ultimately yours, and the only difference is with option 
 
 ## Octonarus
 
-Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina during the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
+Once you’re ready to fight Octonarus, you first need to learn about him by reading the 7 mermaid statues throughout the map. This assumes you have that knowledge and know about his existence. Note that these steps are the identical steps needed to get [Melgina as a bondmate](../../adventurer-customization/bondmates/port-town-grand-legion/bondmates.md#melgina). If you do not take these steps and just call out Octonarus’ name instead of fighting Melgina after the 5th arena battle, you will end up in a battle with Octonarus where he will resurrect Melgina indefinitely. Not fun\!
 
 1. Use the wheel to travel back to **One-Eyed Sahuagin** and speak to the Gessi destroying the statue using the “**Don’t you want to save Melgina**” option
 2. Use the wheel to travel back to **Flooded Town** and speak with Melgina using the “**Do you want to be free from Octonarus**” option
