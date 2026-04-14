@@ -76,7 +76,7 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 5. You won - time to claim your reward!
 
 ### Arena Rewards  
-    After winning Arena Round 5, you get your wish granted. The options you see depend on if it's your first victory and/or if you've gathered all information needed to discover who the real GWO is. See image below:
+After winning Arena Round 5, you get your wish granted. The options you see depend on if it's your first victory and/or if you've gathered all information needed to discover who the real GWO is. See image below:  
 
 === "First Victory"
     ![Melgina's Arena Reward](./img/melgina-reward_1.jpg)
@@ -99,7 +99,7 @@ Some reward choices will result in gaining an item or access to a new area after
     - Reward: Melgina’s Choker (if you gave Melgina the sandwich) or Octonarus' necklace (if you gave her the knife).
     - Which side to reverse: Right
 
-### 2nd Victory Rewards
+#### 2nd Victory Rewards
 
 - Melgina’s liberation
     - Reward: Melgina Bondmate
