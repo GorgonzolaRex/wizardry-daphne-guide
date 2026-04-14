@@ -75,59 +75,46 @@ Near the dungeon's conclusion, an NPC on a ship will give you a key to unlock th
 4. Proceed ahead with the remaining arena battles. 
 5. You won - time to claim your reward!
 
-![Melgina's Arena Reward](./img/melgina-reward.jpg)
+### Arena Rewards  
+    After winning Arena Round 5, you get your wish granted. The options you see depend on if it's your first victory and/or if you've gathered all information needed to discover who the real GWO is. See image below:
 
-### Arena Reward (First Victory)
+=== "First Victory"
+    ![Melgina's Arena Reward](./img/melgina-reward_1.jpg)
 
-#### Recovery items
+=== "Second Loop before challenging Octonarus"
+    ![Melgina's Arena Reward](./img/melgina-reward_2.jpg)
 
-Prerequisite: Gave Mackarel Sandwich to Melgina (there will be no reward if you gave her the knife)
+Some reward choices will result in gaining an item or access to a new area after defeating the GWO.  Also, some choices require you to "Reverse" either the GWO (left) or the Ship (right) after the battle. 
 
-Reward: Recover HP/MP/SP to full before fighting Octonarus.
+#### First Victory Rewards
 
-Which side to reverse: Right
+- Recovery Items
+    - Reward: Recover HP/MP/SP to full before GWO fight.
+    - Prerequisite: Gave Mackarel Sandwich to Melgina (no reward if you gave her the knife)
 
-#### Rich treasures
+- Rich Treasures
+    - Reward:  Treasurey chest key - unlocks trapdoor on Ship's deck.
+ 
+-  Battle with the Greater Warped One
+    - Reward: Melgina’s Choker (if you gave Melgina the sandwich) or Octonarus' necklace (if you gave her the knife).
+    - Which side to reverse: Right
 
-Prerequisite: None
+### 2nd Victory Rewards
 
-Reward: Treasury chest key (access via trapdoor on the ship‘s deck)
+- Melgina’s liberation
+    - Reward: Melgina Bondmate
+    - Prerequisite: Gave Titanium knife to Melgina and Gave Titanium Ore to Gessi.
+    - Which side to reverse: Right, and then check Octonarus’s hand.
 
-#### Battle with the Greater Warped One
+- Octonarus‘s cherished sword
+    - Reward: Cutlass of Tyranny
+    - Prerequisite: Gave Titanium knife to Melgina
+    - Which side to reverse: Left
 
-Prerequisite: None
-
-Reward: 
- - Melgina’s Choker (if you gave Melgina the sandwich)
- - Octonarus' necklace (if you gave her the knife)
-
-Which side to reverse: Right
-
-### Arena Reward (2nd Loop after Defeating Octonarus)
-
-#### Melgina’s liberation
-
-Prerequisite: Gave Titanium knife to Melgina, Gave Titanium Ore to Gessi
-
-Reward: Melgina Bondmate
-
-Which side to reverse: Right, check Octonarus’s hand
-
-#### Octonarus‘s cherished sword
-
-Prerequisite: Gave Titanium knife to Melgina
-
-Reward: Cutlass of Tyranny
-
-Which side to reverse: Left
-
-#### Octonarus‘s secret room
-
-Prerequisite: Gave Titanium knife to Melgina
-
-Reward: Access to Forgotten Pirate Harbor (via the underwater grate in the underwater section of the pier area, only accessible directly after the battle)
-
-Which side to reverse: Left, go to grate
+- Octonarus‘s secret room
+    - Reward: Access Forgotten Pirate Harbor (via the underwater grate in the underwater section of the pier area, only accessible directly after the battle)
+    - Prerequisite: Gave Titanium knife to Melgina
+    - Which side to reverse: Left, then go to grate before returning to town.
 
 ## Epilogue
 
