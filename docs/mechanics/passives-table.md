@@ -69,7 +69,7 @@
 
 ### Nameless
 
-<div class="nofilter-table nosort-table large-table" markdown>
+<div class="nofilter-table nosort-table equipment-table" markdown>
 
 === "Per Level" 
 
