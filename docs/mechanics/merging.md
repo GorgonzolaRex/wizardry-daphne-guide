@@ -4,7 +4,9 @@
 
 - A limited number of adventurers have alternative versions ("styles") that come with different skills and disciplines. Merging allows you to combine the standard and alternative style into one adventurer, which can be changed at any time in the Training Room.
 - Merging requires at least one copy of the standard and the alternative style in your Adventure List or Log. After merging the character will gain a new passive called “Contiguous States of Mind” that provides a minor increase to base traits.
-- There is no downside to merging. Nothing is lost. Merging can be done immediately after pulling a new standard or alternative style copy since no additional merging bonus points are gained from leveling. 
+- There is no downside to merging. Nothing is lost. Merging can be done immediately after pulling a new standard or alternative style copy since no additional merging bonus points are gained from leveling.
+
+!!! danger "Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy."
 
 ??? warning "Important Terms"
 
