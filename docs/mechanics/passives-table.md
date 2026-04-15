@@ -11,7 +11,7 @@
 - Inherits with <span style="color: cyan">Name A*</span> refer to inherits from their alternative style. 
 - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
 
-### Class Passives 
+### Class  
 
 === "Fighter"
 
@@ -96,7 +96,7 @@
 
     - To be added
 
-### Nameless
+### Anonymous 
 
 === "Per Level" 
 
