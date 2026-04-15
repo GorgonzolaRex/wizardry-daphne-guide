@@ -31,27 +31,25 @@ The Relicbrew mechanic uses several different terms that sound similar and can b
 
 Relics can be obtained by encountering relic monsters that can rarely appear anywhere in the game. A relic monster will always drop a chest after a battle, which will contain either the enemy's relic (~30%) or slag (~70%). Slag can be exchanged for relics in the Black Barrel Tavern's Slagpiece Exchange. Relic monsters are unique and only one can spawn per encounter.
 
-??? warning "Relic Monster Mechanics"
+=== "Relic Monster Mechanics" 
 
-    === "Overview" 
+    - Encounters are rare (2%) and entirely RNG-dependent.
+    - Increased HP (~30%) and potentially other stats.
+    - Only enemies in the front row can be relic monsters.
+    - Encounters are determined upon map entry. You cannot "farm" relics by running away, using stairs, or Harkens. To re-roll for potential encounters you must fully exit the map and reenter. 
+    - Do not appear with any Guild Requests or Bounties that have NPC text before the battle. 
+    - Can only drop its specific relic and not relics from other enemies.
+    - Elemental variations will always drop the standard version's relic.
+    - Relic ★ quality (1-5) is based on the level of the area. The vast majority of enemies will never drop a 4★ or 5★ relic even in late game areas.
+    - Adventurers and Warped enemies (aside from White Gluttonous Maw) cannot drop relics.    
 
-        - Encounters are rare (2%) and entirely RNG-dependent.
-        - Increased HP (~30%) and potentially other stats.
-        - Only enemies in the front row can be relic monsters.
-        - Encounters are determined upon map entry. You cannot "farm" relics by running away, using stairs, or Harkens. To re-roll for potential encounters you must fully exit the map and reenter. 
-        - Do not appear with any Guild Requests or Bounties that have NPC text before the battle. 
-        - Can only drop its specific relic and not relics from other enemies.
-        - Elemental variations will always drop the standard version's relic.
-        - Relic ★ quality (1-5) is based on the level of the area. The vast majority of enemies will never drop a 4★ or 5★ relic even in late game areas.
-        - Adventurers and Warped enemies (aside from White Gluttonous Maw) cannot drop relics.    
+=== "Relic Monster Example"
 
-    === "Relic Monster Example"
+    <div align="center">
+    ![](img/relicbrew-relic-monster.png)
+    </div>
 
-        <div align="center">
-        ![](img/relicbrew-relic-monster.png)
-        </div>
-    
-        - Denoted by a glowing pink-purple aura.
+    - Denoted by a glowing pink-purple aura.
 
 ## Black Barrel Tavern
 
