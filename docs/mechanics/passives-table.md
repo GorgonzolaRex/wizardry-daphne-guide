@@ -8,6 +8,7 @@
 
 - The values listed are per level -not- totals. We plan to add that information in the future. 
 - Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
+- Inherits with <span style="color: cyan">Name A*</span> refer to inherits from their alternative style. 
 - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
 
 ### Class Passives 
@@ -20,8 +21,8 @@
     |:----------------|:---------|----|----|----|----|----|----|----|
     | HP Up           | Benjamin | 4  | 6  | 8  | 10 | 12 | 14 | 6  |
     | Attack Up       | Gaston   | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
-    | Accuracy Up     | Chloe    | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
-    | Defense Up      | <span style="color: DarkOrange">Chloe P*</span> | 2  | 2 | 4  | 4  | 4  | 4  | 5  |
+    | Accuracy Up     | <span style="color: DarkOrange">Chloe P*</span> | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Defense Up      | <span style="color: cyan">Chloe A*</span> | 2  | 2 | 4  | 4  | 4  | 4  | 5  |
     
      </div>
      
@@ -101,13 +102,13 @@
 
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Name          | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name &emsp; &emsp; &emsp;           | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Beast-Thi     | Accuracy            | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  | 
     | Dwarf-Kni     | HP                  | 4 | 2 | 2 | 2  | 4  | 2  | 2  | 2  | 2  | 6  | 2  | 2  | 4  | 4  |
     | Elf-Mag       | Magic Power         | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Elf-Pri       | Divine Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
-    | Human-Fig &emsp; &emsp; &emsp;  | Attack Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
+    | Human-Fig     | Attack Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Human-Nin     | Action Speed        | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
     | Human-Pri     | MP                  | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Human-Sam     | Attack + Magic Power &emsp; &emsp; &emsp; | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
@@ -118,16 +119,16 @@
 
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Name          | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name &emsp; &emsp; &emsp;         | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Beast-Thi     | Accuracy           | 2 | 3 | 4 | 5  | 7  | 9  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Dwarf-Kni     | HP                 | 4 | 6 | 8 | 10 | 14 | 16 | 18 | 20 | 22 | 28 | 30 | 32 | 36 | 40 |
     | Elf-Mag       | Magic Power        | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Elf-Pri       | Divine Power       | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
-    | Human-Fig &emsp; &emsp; &emsp; | Attack Power      | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
+    | Human-Fig     | Attack Power      | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Human-Nin     | Action Speed       | 1 | 2 | 3 | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
     | Human-Pri     | MP                 | 2 | 3 | 4 | 5  | 7  | 8  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
-    | Human-Sam     | Attack + Magic Power &emsp; &emsp; | 1 | 2 | 3 | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
+    | Human-Sam     | Attack + Magic Power &emsp; &emsp; &emsp; | 1 | 2 | 3 | 4  | 5  | 6  | 7  | 8  | 9  | 10 | 11 | 12 | 13 | 14 |
     
     </div>
 
@@ -135,59 +136,58 @@
 
 #### Aldric - Wisdom of the Crafty Dwarf 
 
+=== "Self" 
 
-
-#### Alice - Blessings of Agora
-
-      !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
-
-=== "Blessings of Agora" 
-
-    <div class = "nosort-table nofilter-table" markdown>  
+    <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
-    |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
-    |   1   |              1             |                   1                   |                1                |                      1                     |  
-    |   2   |              0             |                   1                   |                0                |                      1                     |  
-    |   3   |              1             |                   2                   |                0                |                      1                     |  
-    |   4   |              0             |                   2                   |                0                |                      1                     |  
-    |   5   |              1             |                   3                   |                1                |                      2                     |  
-    |   6   |              0             |                   3                   |                0                |                      2                     |  
-    |   7   |              1             |                   4                   |                -                |                      -                     |  
+    |                   | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    |:------------------|----|----|----|----|----|----|----|
+    | Detect            | 2  |    |    |    |    |    |    |   
+    | Disarm Trap       | 5  |    |    |    |    |    |    |       
+    | Evade Trap        | 2  |    |    |    |    |    |    |       
 
     </div>  
 
-=== "Chaos Deified (Personal Request - Dark)"
+=== "Inherited" 
 
-    <div class = "nosort-table nofilter-table" markdown>  
+    <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
-    |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
-    |   1   |              1             |                   1                   |                1                |                      1                     |  
-    |   2   |              0             |                   1                   |                0                |                      1                     |  
-    |   3   |              1             |                   2                   |                0                |                      1                     |  
-    |   4   |              0             |                   2                   |                0                |                      1                     |  
-    |   5   |              1             |                   3                   |                1                |                      2                     |  
-    |   6   |              0             |                   3                   |                0                |                      2                     |  
-    |   7   |              1             |                   4                   |                -                |                      -                     |  
+    |                   | L1 | L2 | L3 | L4 | L5 | L6 |  
+    |:------------------|----|----|----|----|----|----|
+    | Detect            | 1  | 1 (2) | 2 (4)  | 2 (6)  | 2  | 2  |       
+    | Disarm Trap       | 3  | 2 (5) | 4 (9)  | 2 (11)  | 4  | 2  |           
+    | Evade Trap        | 1  | 1 (2) | 2 (4)  | 2 (6) | 2  | 2  |           
 
-    </div>
+    </div>  
 
-=== "Innocent Fanaticism (Personal Request - Light)"
+#### Alice - Blessings of Agora
 
-    <div class = "nosort-table nofilter-table" markdown>  
+- Note 1
+- Note 2
+
+=== "Self" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
-    |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
-    |   1   |              1             |                   1                   |                1                |                      1                     |  
-    |   2   |              0             |                   1                   |                0                |                      1                     |  
-    |   3   |              1             |                   2                   |                0                |                      1                     |  
-    |   4   |              0             |                   2                   |                0                |                      1                     |  
-    |   5   |              1             |                   3                   |                1                |                      2                     |  
-    |   6   |              0             |                   3                   |                0                |                      2                     |  
-    |   7   |              1             |                   4                   |                -                |                      -                     |  
+    |                                | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    |:-------------------------------|----|----|----|----|----|----|----|
+    | Turn Count Increase            | 1  | -  | 1  | -  | 1  | -  | 1  |   
+    | Cumulative Turn Count Increase | 1  | 1  | 2  | 2  | 3  | 3  | 4  |       
+    
+    </div>  
 
-    </div>
+=== "Inherited" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    |                                | L1 | L2 | L3 | L4 | L5 | L6 | 
+    |:-------------------------------|----|----|----|----|----|----|
+    | Turn Count Increase            | 1  | -  | -  | -  | 1  | -  | 
+    | Cumulative Turn Count Increase | 1  | 1  | 1  | 1  | 2  | 2  |      
+    
+    </div>  
+
+
 
 
 
