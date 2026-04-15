@@ -6,8 +6,9 @@
 
 ### Overview
 
-- Per Level not totals
-- Inherits with a <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4). 
+- The values listed are per level -not- totals. We plan to add that information in the future. 
+- Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
+- The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
 
 ### Class Passives 
 
@@ -28,7 +29,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;      | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | HP Up             |          | 4  | 6  | 8  | 10 | 12 | 14 | 6  |
     | Defense Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
@@ -41,10 +42,10 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name          | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
     | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2  | 4  | 4  |   |   |   |
-    | Action Speed Up &emsp; &emsp; &emsp;      | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Disarm Trap Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Evade Trap Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
@@ -55,10 +56,10 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
-    | Divine Power Up                |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |
-    | Magic Defense Up &emsp; &emsp; |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |   
+    | Divine Power Up  |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |
+    | Magic Defense Up |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |   
     
      </div>
 
@@ -66,10 +67,10 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name      | Inherit  &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | MP Up             |          | 4  |   |   |   |   |  |   |
-    | Magic Power Up &emsp; &emsp; &emsp;    |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Magic Power Up    |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Detect Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     
      </div>
@@ -78,10 +79,10 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
     | SP Up           |          | 4  | 6  | 8  |    |    |    |    |
-    | Surety UP       |          | 2  | 2  | 4  |    |    |    |    |
+    | Surety Up       |          | 2  | 2  | 4  |    |    |    |    |
     | Evasion Up      |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     
      </div>
