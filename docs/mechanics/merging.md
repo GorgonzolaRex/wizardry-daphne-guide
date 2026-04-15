@@ -28,6 +28,7 @@
 
 	=== "Basics"
 
+		- <span style="color: ##F2473A">Warning! Merging can only be done once. You cannot merge an already merged unit into a different standard or alt copy.</span> 
 		- The highest value from either the base or fodder determines: 
 	
 		    - Fortitude
