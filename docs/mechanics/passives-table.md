@@ -100,16 +100,16 @@
 
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Name          | Stat &emsp;  &emsp; &emsp; &emsp;     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name          | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Dwarf         | HP                  | 4 | 2 | 2 | 2  | 4  | 2  | 2  | 2  | 2  | 6  | 2  | 2  | 4  | 4  |
     | Human Priest  | MP                  | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
-    | Human Fighter &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  | Attack Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
+    | Human Fighter &emsp; &emsp;  | Attack Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Elf Mage      | Magic Power         | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Elf Priest    | Divine Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Beast Thief   | Accuracy            | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  | 
     | Human Ninja   | Action Speed        | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-    | Human Samurai | Attack, Magic Power &emsp; &emsp; &emsp; &emsp;  | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+    | Human Samurai | Attack, Magic Power &emsp; &emsp; | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
         
     </div>
 
