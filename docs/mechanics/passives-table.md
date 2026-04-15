@@ -41,10 +41,10 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name          | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |:----------------------|:---------|----|----|----|----|----|----|----|
     | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2  | 4  | 4  |   |   |   |
-    | Action Speed Up &emsp; &emsp;      | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Action Speed Up &emsp; &emsp; &emsp;      | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Disarm Trap Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Evade Trap Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
@@ -69,7 +69,7 @@
     | Passive Name      | Inherit  &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |:------------------|:---------|----|----|----|----|----|----|----|
     | MP Up             |          | 4  |   |   |   |   |  |   |
-    | Magic Power Up &emsp; &emsp;    |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Magic Power Up &emsp; &emsp; &emsp;    |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     | Detect Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     
      </div>
