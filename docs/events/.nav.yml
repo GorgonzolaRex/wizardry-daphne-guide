@@ -16,5 +16,9 @@ nav:
   - Recurring Requests: 
     - Adventurer Retrieval: './recurring-events/adv-retrieval.md'
     - Gold Ore Collection: './recurring-events/gold-ore.md'
+  - Request from an Ally: 
+    - Symbol of Alliance: './abyss-guides/request-from-an-ally/symbol-of-alliance.md'
+    - Arna's Past: './abyss-guides/request-from-an-ally/arnas-past.md'
+    - Memories of Charlotte: './abyss-guides/request-from-an-ally/memories-of-charlotte.md'
   - Vendetta on the Island of the Wailing Oni: './vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni.md'
   - Forbidden Area Exploration: './forbidden-area-exploration/forbidden-area-exploration.md'
