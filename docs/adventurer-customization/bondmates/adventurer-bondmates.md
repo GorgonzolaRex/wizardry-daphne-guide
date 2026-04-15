@@ -1,50 +1,48 @@
 ### Overview
 
-??? note "Basics"  
+=== "What is a Stat Bondmate?" 
 
-    === "What is a Stat Bondmate?" 
+    - <span style="color: LimeGreen">All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status</span>.
+    - Stat bondmates are -not- the same as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
+    - Stat bondmates help to augment your units since story bondmates are limited. 
+    - Equipped from the Training Room - Bondmates menu. 
+    
+=== " Bondmate Levels" 
 
-        - <span style="color: LimeGreen">All adventurers can become bondmates ("stat bondmates") if they are dismissed after reaching flaming-heart status</span>.
-        - Stat bondmates are -not- the same as story bondmates. The former increases base traits while the latter increases derived stats such as Attack Power, Accuracy, etc. 
-        - Stat bondmates help to augment your units since story bondmates are limited. 
-        - Equipped from the Training Room - Bondmates menu. 
-        
-    === " Bondmate Levels" 
+    - After dismissing a stat bondmate it will roll a Level from 1 to 5. The level that is rolled appears to be a function of the bondmates attached to it prior to dismissal. It is a mechanic that is not fully understood to-date. 
+    - Based on extensive community testing we can confirm:
+        - If a unit has 2x Level 5 bondmates attached prior to dismissal it will result in a Level 4 or 5 stat bondmate.
+        - The odds are roughly 50/50. There is no known, consistent way to guarantee a Level 5.
+    - Rule of thumb: You will need to farm 2x the number of units to reach a target number of Level 5 bondmates . For example, if you want 6x Level 5 SPD bondmates, then you should expect to farm, on average, 12 SPD bondmates.
+    - Bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
 
-        - After dismissing a stat bondmate it will roll a Level from 1 to 5. The level that is rolled appears to be a function of the bondmates attached to it prior to dismissal. It is a mechanic that is not fully understood to-date. 
-        - Based on extensive community testing we can confirm:
-            - If a unit has 2x Level 5 bondmates attached prior to dismissal it will result in a Level 4 or 5 stat bondmate.
-            - The odds are roughly 50/50. There is no known, consistent way to guarantee a Level 5.
-        - Rule of thumb: You will need to farm 2x the number of units to reach a target number of Level 5 bondmates . For example, if you want 6x Level 5 SPD bondmates, then you should expect to farm, on average, 12 SPD bondmates.
-        - Bondmates attached to the dismissed unit are not lost, but are returned to the Bondmate List.
+=== "Trait Bonuses" 
+    
+    === "Mechanics"
 
-    === "Trait Bonuses" 
-        
-        === "Mechanics"
+        - The trait bonus is a function of both the Grade of the unit being equipped and the level of the stat bondmate. See examples in the tabs. 
+        - Trait bonuses cap at +7-8 at Level 70. It is possible to attach a Level 2 and Level 3 of the same stat bondmate to one character for the "equivalent" trait bonus of a Level 5 stat bondmate.
+        - SPD bondmates are an exception. All of their values are -1, so the max at Level 70 would be +6-7. 
+        - There is no additional trait bonus for matching elemental alignments. This holds true for story bondmates, too.
+        - Nameless, General, and Legendary adventurers all provide the exact same trait bonuses.
+
+    === "Example: Level 5 Stat Bondmate"
+
+        - A Level 5 stat bondmate +
+            - A Level 70 (Copper Grade) unit will receive +7-8 trait points
+            - A Level 60 (Steel Grade) unit will receive +6-7 trait points
+            - A Level 50 (Iron Grade) until withh receive +5-6 trait points
+            - And so on 
+        - The trait bonus range is due to rounding and will vary by unit
+
+    === "Example: Level 4 Stat Bondmate"
     
-            - The trait bonus is a function of both the Grade of the unit being equipped and the level of the stat bondmate. See examples in the tabs. 
-            - Trait bonuses cap at +7-8 at Level 70. It is possible to attach a Level 2 and Level 3 of the same stat bondmate to one character for the "equivalent" trait bonus of a Level 5 stat bondmate.
-            - SPD bondmates are an exception. All of their values are -1, so the max at Level 70 would be +6-7. 
-            - There is no additional trait bonus for matching elemental alignments. This holds true for story bondmates, too.
-            - Nameless, General, and Legendary adventurers all provide the exact same trait bonuses.
-    
-        === "Example: Level 5 Stat Bondmate"
-    
-            - A Level 5 stat bondmate +
-                - A Level 70 (Copper Grade) unit will receive +7-8 trait points
-                - A Level 60 (Steel Grade) unit will receive +6-7 trait points
-                - A Level 50 (Iron Grade) until withh receive +5-6 trait points
-                - And so on 
-            - The trait bonus range is due to rounding and will vary by unit
-    
-        === "Example: Level 4 Stat Bondmate"
-        
-            - A Level 4 stat bondmate +
-                - A Level 70 (Copper Grade) unit will receive +6-7 trait points
-                - A Level 60 (Steel Grade) unit will receive +5-6 trait points
-                - A Level 50 (Iron Grade) until withh receive +4-5 trait points
-                - And so on
-            - The trait bonus range is due to rounding and will vary by unit
+        - A Level 4 stat bondmate +
+            - A Level 70 (Copper Grade) unit will receive +6-7 trait points
+            - A Level 60 (Steel Grade) unit will receive +5-6 trait points
+            - A Level 50 (Iron Grade) until withh receive +4-5 trait points
+            - And so on
+        - The trait bonus range is due to rounding and will vary by unit
 
 !!! warning "Flaming-Heart Requirements" 
 
