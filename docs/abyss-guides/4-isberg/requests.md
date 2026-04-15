@@ -81,7 +81,7 @@
         - Routing Tip: From the entrance if you auto-move to the hotspring it will take you through the first set of Discovery Points. Select the auto-resume button (upper-left boot icon) to continue. Auto-move to the Fountain and exit next.  
         - To spawn the Bigfoot boss you will need 1) a Trifia mushroom in your inventory and 2) encounter a Bigfoot fight. If these conditions are not met, then the boss will not appear and the request will fail. Use the Fountain and hot spring on the floor to recover prior to engaging the boss.
         - The boss fight is against a Bigfoot + 2 Bigfoot Child in the frontline, 2 Bigfoot Child in the backline.
-        - After the fight you will be given the option to "Spare" or "Kill" the Bigfoot and its child. The former gives a new bondmate and the latter gives additional gold. 
+        - After the fight you will be given the option to "Let them go" or "Slay them both". The former gives a new bondmate and the latter gives additional gold. 
         - <span style="color: #F2473A">Warning!</span> Remember to pick up the Salted Pork request item next to the Harken before exiting. It's easy to miss.
         - Return to the Guild and submit the request.
 
