@@ -86,7 +86,7 @@
         - Some enemies will do an out-of-turn action, a unique action, or give in-battle text to signal they can be captured.
     - Binding Rope
         - Sold at the Item Shop for 200 gold. 
-        - DEX is the single most critical factor for capturing a bandit. Ninjas and Thiefs are good units to bring. The Grip Gloves seem to provide a small, marginal benefit based on limited testing. 
+        - DEX is the single most critical factor for capturing a bounty. Ninjas and Thiefs are recommended. The Grip Gloves seem to provide a small, marginal benefit based on limited testing. 
         - The rope message is a helpful indicator:
             - Knocked away means that its HP is still too high. 
             - A "Miss" means the bounty can be captured, but that the unit's DEX is too low for a 100% guarantee. 
