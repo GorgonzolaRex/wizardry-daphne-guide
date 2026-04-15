@@ -1,5 +1,11 @@
 # Passives Skill Levels
 
+!!! warning "Work in Progress"
+    - Data is being reviewed and updated on an ongoing basis. 
+    - If you can confirm values please share in the comments or on the [Discord](https://discord.gg/CQETxvUW). 
+
+### Overview
+
 ### Class Passives 
 
 === "Fighter"
@@ -19,11 +25,11 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |-------------------|----------|----|----|----|----|----|----|----|
     | HP Up             |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Defense UP        |          |    |    |    |    |    |    |    |
-    | Magic Defense Up &emsp; &emsp;   | Barbara* &emsp; &emsp;  | 4  | 6  | 8  | 10 | 14 | 16 | 18 |
+    | Defense Up        |          |    |    |    |    |    |    |    |
+    | Magic Defense Up  | Barbara* &emsp; &emsp;  | 4  | 6  | 8  | 10 | 14 | 16 | 18 |
     | Resistance Up     |          |    |    |    |    |    |    |    |
     
      </div>
@@ -35,7 +41,7 @@
     | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |-----------------------|----------|----|----|----|----|----|----|----|
     | Surety Up             | Viviana* | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Action Speed Up &emsp; &emsp; &emsp; &emsp;      | Bakesh* &emsp; &emsp; &emsp; &emsp;  | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
+    | Action Speed Up &emsp; &emsp; &emsp;     | Bakesh* &emsp; &emsp; &emsp;  | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     | Evastion Up           | Jean*    |    |    |    |    |    |    |    |
     | Disarm Trap Up        |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     | Evade Trap Up         |          | 1  | 2  | 3  | 4  | 5  |    |    |
@@ -49,7 +55,7 @@
     | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |------------------|----------|----|----|----|-----|-----|-----|-----|
     | Divine Up        |          | 1  |  2 |  3 |  4  |  5  |     |     |
-    | Magic Defense Up &emsp; &emsp; &emsp; &emsp; |          |    |    |    |     |     |     |     |
+    | Magic Defense Up &emsp; &emsp; &emsp; |          |    |    |    |     |     |     |     |
     
      </div>
 
@@ -60,7 +66,7 @@
     | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |-------------------|----------|----|----|----|----|----|----|----|
     | MP Up             |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Magic Power Up &emsp; &emsp; &emsp; &emsp;   |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
+    | Magic Power Up &emsp; &emsp; &emsp;    |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     | Detect Up         |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     
      </div>
@@ -69,7 +75,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp; &emsp;   | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |-----------------|----------|----|----|----|----|----|----|----|
     | SP Up           |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     | Surety UP       |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
