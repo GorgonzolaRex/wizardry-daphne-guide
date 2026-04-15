@@ -13,6 +13,8 @@
     | Accuracy Up     | Chloe    | 1  | 2  | 3  | 4  | 5  |    |    |
     | Defense Up      | Chloe*   |    |    |    |    |    |    |    |
 
+    </div>
+
 === "Knight"
 
     | Passive Name      | Inherit  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
@@ -55,7 +57,7 @@
     | Surety UP       |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     | Evasion Up      |          |    |    |    |    |    |    |    |
 
-    <div> 
+     
     
 === "Samurai" 
 
