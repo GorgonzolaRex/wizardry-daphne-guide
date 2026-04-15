@@ -99,7 +99,7 @@
 
 === "Per Level" 
 
-    <div class="nofilter-table nosort-table" markdown>
+    <div class="nofilter-table nosort-table narrow-table" markdown>
     
     | Name          | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
@@ -133,9 +133,64 @@
 
 ### Legendary 
 
-Alice
-Lana
-Yeka
+#### Aldric - Wisdom of the Crafty Dwarf 
+
+
+
+#### Alice - Blessings of Agora
+
+      !!! note "This duration extension does not extend the turn of any debuffs inflicted directly by equipment (Staff of Weakness, etc)"
+
+=== "Blessings of Agora" 
+
+    <div class = "nosort-table nofilter-table" markdown>  
+    
+    | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
+    |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
+    |   1   |              1             |                   1                   |                1                |                      1                     |  
+    |   2   |              0             |                   1                   |                0                |                      1                     |  
+    |   3   |              1             |                   2                   |                0                |                      1                     |  
+    |   4   |              0             |                   2                   |                0                |                      1                     |  
+    |   5   |              1             |                   3                   |                1                |                      2                     |  
+    |   6   |              0             |                   3                   |                0                |                      2                     |  
+    |   7   |              1             |                   4                   |                -                |                      -                     |  
+
+    </div>  
+
+=== "Chaos Deified (Personal Request - Dark)"
+
+    <div class = "nosort-table nofilter-table" markdown>  
+    
+    | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
+    |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
+    |   1   |              1             |                   1                   |                1                |                      1                     |  
+    |   2   |              0             |                   1                   |                0                |                      1                     |  
+    |   3   |              1             |                   2                   |                0                |                      1                     |  
+    |   4   |              0             |                   2                   |                0                |                      1                     |  
+    |   5   |              1             |                   3                   |                1                |                      2                     |  
+    |   6   |              0             |                   3                   |                0                |                      2                     |  
+    |   7   |              1             |                   4                   |                -                |                      -                     |  
+
+    </div>
+
+=== "Innocent Fanaticism (Personal Request - Light)"
+
+    <div class = "nosort-table nofilter-table" markdown>  
+    
+    | Level | Turn Count Increase (self) | Cumulative Turn Count Increase (self) | Turn Count Increase (inherited) | Cumulative Turn Count Increase (inherited) |  
+    |:-----:|:--------------------------:|:-------------------------------------:|:-------------------------------:|:------------------------------------------:|  
+    |   1   |              1             |                   1                   |                1                |                      1                     |  
+    |   2   |              0             |                   1                   |                0                |                      1                     |  
+    |   3   |              1             |                   2                   |                0                |                      1                     |  
+    |   4   |              0             |                   2                   |                0                |                      1                     |  
+    |   5   |              1             |                   3                   |                1                |                      2                     |  
+    |   6   |              0             |                   3                   |                0                |                      2                     |  
+    |   7   |              1             |                   4                   |                -                |                      -                     |  
+
+    </div>
+
+
+
 
 
 
