@@ -17,7 +17,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
     | HP Up           | Benjamin | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
     | Attack Up       | Gaston   | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
@@ -30,7 +30,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | HP Up             |          | 4  | 6  | 8  | 10 | 12 | 14 | 6  |
     | Defense Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
@@ -43,7 +43,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
     | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2  | 4  | 4  |   |   |   |
     | Action Speed Up       | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
@@ -57,7 +57,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
     | Divine Power Up  |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |
     | Magic Defense Up |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |   
@@ -68,7 +68,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | MP Up             |          | 4  |   |   |   |   |  |   |
     | Magic Power Up    |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
@@ -80,7 +80,7 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
     | SP Up           |          | 4  | 6  | 8  |    |    |    |    |
     | Surety Up       |          | 2  | 2  | 4  |    |    |    |    |
