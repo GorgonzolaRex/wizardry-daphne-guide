@@ -21,5 +21,5 @@ Once the requirements are met, the "request" will be available upon entering the
 
 ## Maps:
 
-  ??? note "Maps"
-     ![](img/crypt-of-house-owen.jpg)
+??? note "Maps"
+    ![](img/crypt-of-house-owen.jpg)
