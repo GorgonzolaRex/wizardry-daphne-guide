@@ -157,6 +157,7 @@ Hamstring,Active,,"Minor physical attack on all enemies in the frontmost enemy r
 Heavy Attack,Active,True,Moderate physical attack with high Accuracy on 1 enemy.,Efficacy increased based on skill level. Probability and Defense Power increased further.,4,Fighter,,Gandolfo,
 Heretical Blessing,Passive,,Reduces damage taken from enemies for everyone in the user's row if that row has only evil or neutral allies.,,,,,,
 Hiding,Active,True,Makes the user hidden and increases multiple abilities.,Multiple abilities increased further while Hidden cancellation rate decreased based on skill level.,9,Thief,Thief-specific,Viviana,
+High Lady Ever on the Battlefield,Discipline,,"Continuously increases each stat, with Attack Power and Surety increased even further.",Attack Power and Surety increased further based on skill level.,,,,Abenius,
 Honest Living,Passive,,"Increases Tolerance of Curse, Skill-binding, and Fear for user and all adjacent good allies.",,,,,Olive,
 Hot-Blooded Adventurer,Discipline,,Continuously increases each stat. Attack Power increased further.,Evasion and Poison Tolerance increased further based on skill level.,,,,Gaston,
 Human Fighter Discipline,Discipline,,Continuously increases each stat.,Stats increased further based on skill level.,,,,Human-Fig,
