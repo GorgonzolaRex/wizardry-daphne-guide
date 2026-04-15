@@ -6,6 +6,9 @@
 
 ### Overview
 
+- Per Level not totals
+- Inherits with a * refer to potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4). 
+
 ### Class Passives 
 
 === "Fighter"
