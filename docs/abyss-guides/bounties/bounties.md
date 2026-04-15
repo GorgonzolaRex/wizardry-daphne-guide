@@ -91,7 +91,7 @@
             - Knocked away means that its HP is still too high. 
             - A "Miss" means the bounty can be captured, but that the unit's DEX is too low for a 100% guarantee. 
             - Each time you throw a rope the game rolls against the unit's DEX stat for a % capture rate. You can try again with that unit, but if their DEX is too low the effective capture rate might be 0%. 
-        - It make take several attempts to successfully capture a bounty even at very low HP. 
+        - It may take several attempts to successfully capture a bounty even at very low HP. 
     - If you accidentally kill the bounty, then you must exit the dungeon, Cursed Wheel, return to the Guild and re-accept the bounty, and try again.
     - There are achievements for capturing a bounty 1, 5, 10, and 20 times.  
     
