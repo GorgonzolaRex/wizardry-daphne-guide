@@ -19,11 +19,11 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |-------------------|----------|----|----|----|----|----|----|----|
     | HP Up             |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     | Defense UP        |          |    |    |    |    |    |    |    |
-    | Magic Defense Up &emsp;  | Barbara* &emsp; | 4  | 6  | 8  | 10 | 14 | 16 | 18 |
+    | Magic Defense Up &emsp; &emsp;   | Barbara* &emsp; &emsp;  | 4  | 6  | 8  | 10 | 14 | 16 | 18 |
     | Resistance Up     |          |    |    |    |    |    |    |    |
     
      </div>
@@ -91,17 +91,17 @@
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
     
-    | Name &emsp; &emsp;  &emsp;         | Stat &emsp;  &emsp;      | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name &emsp; &emsp;  &emsp; &emsp;  &emsp;        | Stat &emsp;  &emsp; &emsp; &emsp;     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Dwarf         | HP                  | 4 | 2 | 2 | 2  | 4  | 2  | 2  | 2  | 2  | 6  | 2  | 2  | 4  | 4  |
     | Human Priest  | MP                  | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
-    | Human Fighter &emsp; &emsp; | Attack Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
+    | Human Fighter &emsp; &emsp; &emsp; &emsp; | Attack Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Elf Mage      | Magic Power         | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Elf Priest    | Divine Power        | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  |
     | Beast Thief   | Accuracy            | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  | 
     | Human Ninja   | Action Speed        | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-    | Human Samurai | Attack, Magic Power &emsp; | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
-    
+    | Human Samurai | Attack, Magic Power &emsp; &emsp; &emsp; | 1 | 1 | 1 | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  | 1  |
+        
     </div>
 
 === "Totals" 
