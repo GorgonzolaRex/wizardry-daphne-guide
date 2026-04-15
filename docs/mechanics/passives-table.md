@@ -172,7 +172,7 @@
     |                                | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:-------------------------------|----|----|----|----|----|----|----|
     | Turn Count Increase            | 1  | -  | 1  | -  | 1  | -  | 1  |   
-    | Cumulative Turn Count Increase | 1  | 1  | 2  | 2  | 3  | 3  | 4  |       
+    | Cumulative Turn Count Increase  &emsp;  &emsp;  | 1  | 1  | 2  | 2  | 3  | 3  | 4  |       
     
     </div>  
 
@@ -183,7 +183,7 @@
     |                                | L1 | L2 | L3 | L4 | L5 | L6 | 
     |:-------------------------------|----|----|----|----|----|----|
     | Turn Count Increase            | 1  | -  | -  | -  | 1  | -  | 
-    | Cumulative Turn Count Increase | 1  | 1  | 1  | 1  | 2  | 2  |      
+    | Cumulative Turn Count Increase  &emsp;  &emsp;  | 1  | 1  | 1  | 1  | 2  | 2  |      
     
     </div>  
 
