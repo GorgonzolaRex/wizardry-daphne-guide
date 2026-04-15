@@ -7,7 +7,7 @@
 ### Overview
 
 - The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
-- A blank space ` ` means that we have no information on that entry.
+- A blank space `   ` means that we have no information on that entry.
 - A `-` means that nothing is gained at that level. 
 - Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
 - Inherits with <span style="color: cyan">Name A*</span> refer to inherits from their alternative style. 
@@ -198,6 +198,8 @@
     | SP Recovery                    | 4  | 1 (5) | 2 (7) | 1 (8) | 2 (10) |        | 3 (13) |   
     | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |        |        |        |       
 
+    </div> 
+
 === "Inherited" 
 
     <div class="nofilter-table nosort-table equipment-table" markdown>
@@ -205,7 +207,9 @@
     |                                | L1 | L2    | L3    | L4    | L5     | L6    | 
     |:-------------------------------|----|-------|-------|-------|-------|--------|
     | SP Recovery                    | 2  | 1 (3) | 1 (4) | 1 (5) | 1 (6) | 1 (7)  |    
-    | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |       |        |         
+    | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |       |        |      
+
+    </div> 
 
 #### Lanaville - Queen of Love and War 
 
@@ -218,7 +222,9 @@
     
     |                                | L1  | L2      | L3      | L4      | L5      | L6      | L7      | 
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
-    | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 12  | 10 (22) | 12 (34) | 10 (44) | 14 (58) | 10 (68) | 17 (85) |   
+    | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 12  | 10 (22) | 12 (34) | 10 (44) | 14 (58) | 10 (68) | 17 (85) |
+
+    </div> 
 
 === "Inherited" 
 
@@ -228,4 +234,4 @@
     |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
     | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
 
-
+    </div> 
