@@ -7,5 +7,6 @@ nav:
   - Mechanics: mechanics
   - Strategies: strategies
   - Events: events
+  - Bounties: './abyss-guides/bounties/bounties.md'
   - Appendices: appendices
   - Tools: tools
