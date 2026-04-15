@@ -36,8 +36,8 @@
     |:------------------|:---------|----|----|----|----|----|----|----|
     | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
     | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P*</span> &emsp; &emsp;  |2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Resistance Up     |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P*</span> &emsp; &emsp; | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Resistance Up     |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -48,10 +48,10 @@
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
     | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
-    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Disarm Trap Up        |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Evade Trap Up         |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Disarm Trap Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evade Trap Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -61,8 +61,8 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
-    | Divine Power Up  |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Magic Defense Up |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Divine Power Up  |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Magic Defense Up |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -73,8 +73,8 @@
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | MP Up             |          | 4  |   |   |   |   |  |   |
-    | Magic Power Up    |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
-    | Detect Up         |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Magic Power Up    |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detect Up         |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -86,7 +86,7 @@
     |:----------------|:---------|----|----|----|----|----|----|----|
     | SP Up           |          | 4  | 6 (10)  | 8 (18)  |    |    |    |    |
     | Surety Up       |          | 2  | 2 (4)  | 4 (8)  |    |    |    |    |
-    | Evasion Up      |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evasion Up      |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -101,7 +101,7 @@
 
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Name &emsp; &emsp; &emsp;           | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name &emsp; &emsp; &emsp; &emsp;           | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Beast-Thi     | Accuracy            | 2 | 1 | 1 | 1  | 2  | 1  | 1  | 1  | 1  | 3  | 1  | 1  | 2  | 2  | 
     | Dwarf-Kni     | HP                  | 4 | 2 | 2 | 2  | 4  | 2  | 2  | 2  | 2  | 6  | 2  | 2  | 4  | 4  |
@@ -118,7 +118,7 @@
 
     <div class="nofilter-table nosort-table narrow-table" markdown>
     
-    | Name &emsp; &emsp; &emsp;         | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
+    | Name &emsp; &emsp; &emsp; &emsp;         | Stat     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
     | Beast-Thi     | Accuracy           | 2 | 3 | 4 | 5  | 7  | 9  | 9  | 10 | 11 | 14 | 15 | 16 | 18 | 20 |
     | Dwarf-Kni     | HP                 | 4 | 6 | 8 | 10 | 14 | 16 | 18 | 20 | 22 | 28 | 30 | 32 | 36 | 40 |
@@ -142,7 +142,7 @@
     |                   | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|----|----|----|----|----|----|----|
     | Detect            | 2  |    |    |    |    |    |    |   
-    | Disarm Trap &emsp; &emsp;      | 5  |    |    |    |    |    |    |       
+    | Disarm Trap &emsp; &emsp; &emsp; &emsp;      | 5  |    |    |    |    |    |    |       
     | Evade Trap        | 2  |    |    |    |    |    |    |       
 
     </div>  
@@ -154,7 +154,7 @@
     |                   | L1 | L2 | L3 | L4 | L5 | L6 |  
     |:------------------|----|----|----|----|----|----|
     | Detect            | 1  | 1 (2) | 2 (4)  | 2 (6)  | 2 (8)  | 2 (10)  |       
-    | Disarm Trap &emsp; &emsp;       | 3  | 2 (5) | 4 (9)  | 2 (11)  | 4 (15)  | 2 (17)  |           
+    | Disarm Trap &emsp; &emsp; &emsp; &emsp;       | 3  | 2 (5) | 4 (9)  | 2 (11)  | 4 (15)  | 2 (17)  |           
     | Evade Trap        | 1  | 1 (2) | 2 (4)  | 2 (6) | 2 (8)  | 2 (10)  |           
 
     </div>  
@@ -195,7 +195,7 @@
     |                                | L1 | L2    | L3    | L4    | L5     | L6     | L7     | 
     |:-------------------------------|----|-------|-------|-------|--------|--------|--------|
     | SP Recovery                    | 4  | 1 (5) | 2 (7) | 1 (8) | 2 (10) |        | 3 (13) |   
-    | Attack Power  &emsp;  &emsp;   | -  | -     | 6     | 2 (8) |        |        |        |       
+    | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |        |        |        |       
 
 === "Inherited" 
 
@@ -204,7 +204,7 @@
     |                                | L1 | L2    | L3    | L4    | L5     | L6    | 
     |:-------------------------------|----|-------|-------|-------|-------|--------|
     | SP Recovery                    | 2  | 1 (3) | 1 (4) | 1 (5) | 1 (6) | 1 (7)  |    
-    | Attack Power  &emsp;  &emsp;   | -  | -     | 6     | 2 (8) |       |        |         
+    | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |       |        |         
 
 
 
