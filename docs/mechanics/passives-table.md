@@ -12,6 +12,7 @@
 - Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
 - Inherits with <span style="color: cyan">Name A*</span> refer to inherits from their alternative style. 
 - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
+- Inherits - max is level 6 if not the class or legendary unit (self values). 
 
 ### Class  
 
@@ -186,7 +187,7 @@
     
     </div>  
 
-#### Debra - Blessings of the Beastfolk Goddess
+#### Debra - Blessings of the Beastfolk Goddess 
 
 === "Self" 
 
@@ -206,8 +207,25 @@
     | SP Recovery                    | 2  | 1 (3) | 1 (4) | 1 (5) | 1 (6) | 1 (7)  |    
     | Attack Power  &emsp;  &emsp; &emsp; &emsp;   | -  | -     | 6     | 2 (8) |       |        |         
 
+#### Lanaville - Queen of Love and War 
 
+- Note 1
+- Note 2
+- 
+=== "Self" 
 
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    |                                | L1  | L2      | L3      | L4      | L5      | L6      | L7      | 
+    |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
+    | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 12  | 10 (22) | 12 (34) | 10 (44) | 14 (58) | 10 (68) | 17 (85) |   
 
+=== "Inherited" 
+
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
+    |                                | L1  | L2      | L3      | L4      | L5      | L6      | L7      | 
+    |:-------------------------------|-----|---------|---------|---------|---------|---------|---------|
+    | HP Recovery &emsp;  &emsp; &emsp; &emsp;                    | 6  | 5 (11) | 6 (17) | 6 (23) | 7 (30) | 8 (38) | 
 
 
