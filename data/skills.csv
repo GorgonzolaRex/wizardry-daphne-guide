@@ -117,6 +117,7 @@ Eyes of the Hawk,Passive,,"While exploring, there is a chance to detect various 
 Eyes That Know the Future,Passive,True,"By glimpsing the future, the user can act against a dangerous situation. Chance to evade or reduce the first received damage higher than 50% of own max HP. Activation rate greatly reduced if learned by anyone other than Shelirionach.",Activation rate increased based on skill level.,,,,Shelirionach,
 Faith in the God of the Forge,Discipline,,"Continuously increases each stat, HP and Disarm Trap increased further.",HP and Disarm Trap increased further based on skill level.,,,,Valdor,
 Faith of the Wicked,Passive,,Increases Critical Tolerance and Insta-Kill Tolerance for user and all adjacent evil allies.,,,,,Galina,
+Feat of Swiftness,Passive,,"If the attack target has not yet taken a turn, damage dealt increases the more the user's Action Speed exceeds the opponent's.",,,,,Abenius,
 FERU,Damage,True,Launches an orb of air that deals minor air spell damage to 1 enemy.,Efficacy increased based on skill level.,1,Mage,,Jarmil,
 Fire Demon's Brand,Passive,,Continuously increases each stat and Surety while Attack Power is increased further.,Attack Power and Surety increased further based on skill level.,,,,Gerulf,
 Fire Formation,Passive,,Increases damage to air type enemies for user and adjacent fire type allies if there are at least 2 fire type allies adjacent to the user.,,,,,Alex,
