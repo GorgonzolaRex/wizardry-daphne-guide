@@ -95,7 +95,7 @@
 
 === "Per Level" 
 
-    <div class="nofilter-table nosort-table equipment-table narrow table" markdown>
+    <div class="nofilter-table nosort-table narrow table" markdown>
     
     | Name &emsp; &emsp;  &emsp; &emsp;  &emsp;        | Stat &emsp;  &emsp; &emsp; &emsp;     | L1| L2| L3| L4 | L5 | L6 | L7 | L8 | L9 | L10| L11| L12| L13| L14|
     | :------------ | :------- | --| --| --| ---| ---| ---| ---| ---| ---| ---| ---| ---| ---| -- |
