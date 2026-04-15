@@ -4,9 +4,9 @@
 
 === "Fighter"
 
-    <div class="nofilter-table nosort-table large-table" markdown>
+    <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Passive Name &emsp;    | Inherit  &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
+    | Passive Name &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |-----------------|----------|----|----|----|----|----|----|----|
     | HP Up           | Benjamin | 4  | 6  | 8  | 10 | 14 | 16 | 18 |
     | Attack Up       | Gaston   | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
