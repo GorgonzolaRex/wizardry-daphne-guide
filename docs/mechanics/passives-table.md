@@ -31,9 +31,9 @@
     | Passive Name &emsp; &emsp; &emsp;      | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |:------------------|:---------|----|----|----|----|----|----|----|
     | HP Up             |          | 4  | 6  | 8  | 10 | 12 | 14 | 6  |
-    | Defense Up        |          |    |    |    |    |    |    |    |
-    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P*</span> &emsp; &emsp;  | 4  | 6  | 8  | 10 | 14 | 16 | 18 |
-    | Resistance Up     |          |    |    |    |    |    |    |    |
+    | Defense Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P*</span> &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4 | 5 |
+    | Resistance Up     |          | 2  | 2  | 4  | 4  | 4  | 4  | 5   |
     
      </div>
 
@@ -43,11 +43,11 @@
     
     | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |:----------------------|:---------|----|----|----|----|----|----|----|
-    | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Action Speed Up &emsp; &emsp;      | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Evasion Up           | <span style="color: DarkOrange">Jean P*</span>    |    |    |    |    |    |    |    |
-    | Disarm Trap Up        |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Evade Trap Up         |          | 1  | 2  | 3  | 4  | 5  |    |    |
+    | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2  | 4  | 4  |   |   |   |
+    | Action Speed Up &emsp; &emsp;      | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Disarm Trap Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Evade Trap Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     
      </div>
 
@@ -57,8 +57,8 @@
     
     | Passive Name &emsp; &emsp;    | Inherit  &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
-    | Divine Up        |          | 1  |  2 |  3 |  4  |  5  |     |     |
-    | Magic Defense Up &emsp; &emsp; |          |    |    |    |     |     |     |     |
+    | Divine Power Up                |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |
+    | Magic Defense Up &emsp; &emsp; |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |   
     
      </div>
 
@@ -68,9 +68,9 @@
     
     | Passive Name      | Inherit  &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |:------------------|:---------|----|----|----|----|----|----|----|
-    | MP Up             |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Magic Power Up &emsp; &emsp;    |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Detect Up         |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
+    | MP Up             |          | 4  |   |   |   |   |  |   |
+    | Magic Power Up &emsp; &emsp;    |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Detect Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     
      </div>
 
@@ -80,9 +80,9 @@
     
     | Passive Name &emsp; &emsp; &emsp;    | Inherit  &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 |
     |:----------------|:---------|----|----|----|----|----|----|----|
-    | SP Up           |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Surety UP       |          | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
-    | Evasion Up      |          |    |    |    |    |    |    |    |
+    | SP Up           |          | 4  | 6  | 8  |    |    |    |    |
+    | Surety UP       |          | 2  | 2  | 4  |    |    |    |    |
+    | Evasion Up      |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
     
      </div>
 
@@ -131,6 +131,10 @@
     </div>
 
 ### Legendary 
+
+Alice
+Lana
+Yeka
 
 
 
