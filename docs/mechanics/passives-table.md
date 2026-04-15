@@ -6,7 +6,9 @@
 
 ### Overview
 
-- The values listed are per level -not- totals. We plan to add that information in the future. 
+- The numeric value in the cell is what is gained per level. The number in '(#)' is the cumulative total up to that level. 
+- A blank space ' ' means that we have no information on that entry.
+- A '-' means that nothing is gained at that level. 
 - Inherits with <span style="color: DarkOrange">Name P*</span> refer to Potential inherits. Full list [here](../../adventurers/adventurer-quicklist/#__tabbed_1_4).
 - Inherits with <span style="color: cyan">Name A*</span> refer to inherits from their alternative style. 
 - The majority of class passives follow a similar pattern per level for a maximum of +25 to a stat.
@@ -32,10 +34,10 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
-    | HP Up             |          | 4  | 6  | 8  | 10 | 12 | 14 | 6  |
-    | Defense Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
-    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P*</span> &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4 | 5 |
-    | Resistance Up     |          | 2  | 2  | 4  | 4  | 4  | 4  | 5   |
+    | HP Up             |          | 4  | 6 (10)  | 8 (18)  | 10 (28) | 12 (40)  | 14 (54) | 6 (60)  |
+    | Defense Up        |          | 2  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Magic Defense Up  | <span style="color: DarkOrange">Barbara P*</span> &emsp; &emsp;  |2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Resistance Up     |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -45,11 +47,11 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------------|:---------|----|----|----|----|----|----|----|
-    | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2  | 4  | 4  |   |   |   |
-    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
-    | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
-    | Disarm Trap Up        |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
-    | Evade Trap Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Surety Up             | <span style="color: DarkOrange">Viviana P*</span> | 2  | 2 (4)  | 4 (8)  | 4 (12)  |   |   |   |
+    | Action Speed Up       | <span style="color: DarkOrange">Bakesh P*</span> &emsp; &emsp; &emsp;  | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evasion Up            | <span style="color: DarkOrange">Jean P*</span>    | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Disarm Trap Up        |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Evade Trap Up         |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -59,8 +61,8 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:-----------------|:---------|----|----|----|-----|-----|-----|-----|
-    | Divine Power Up  |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |
-    | Magic Defense Up |          | 2  | 2 | 4  | 4  | 4  | 4  | 5  |   
+    | Divine Power Up  |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Magic Defense Up |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -71,8 +73,8 @@
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|:---------|----|----|----|----|----|----|----|
     | MP Up             |          | 4  |   |   |   |   |  |   |
-    | Magic Power Up    |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
-    | Detect Up         |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | Magic Power Up    |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
+    | Detect Up         |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -82,9 +84,9 @@
     
     | Passive Name &emsp; &emsp; &emsp;     | Inherit  &emsp; &emsp; &emsp; &emsp;  | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:----------------|:---------|----|----|----|----|----|----|----|
-    | SP Up           |          | 4  | 6  | 8  |    |    |    |    |
-    | Surety Up       |          | 2  | 2  | 4  |    |    |    |    |
-    | Evasion Up      |          | 2  | 2  | 4  | 4  | 4  | 4  | 5  |
+    | SP Up           |          | 4  | 6 (10)  | 8 (18)  |    |    |    |    |
+    | Surety Up       |          | 2  | 2 (4)  | 4 (8)  |    |    |    |    |
+    | Evasion Up      |          | 2 (4)  | 4 (8)  | 4 (12)  | 4 (16)  | 4 (20)  | 5 (25)  |
     
      </div>
 
@@ -92,9 +94,6 @@
 
     - To be added
 
-=== "All"
-
-    - To be added
 
 ### Anonymous 
 
@@ -143,7 +142,7 @@
     |                   | L1 | L2 | L3 | L4 | L5 | L6 | L7 | 
     |:------------------|----|----|----|----|----|----|----|
     | Detect            | 2  |    |    |    |    |    |    |   
-    | Disarm Trap       | 5  |    |    |    |    |    |    |       
+    | Disarm Trap &emsp; &emsp;      | 5  |    |    |    |    |    |    |       
     | Evade Trap        | 2  |    |    |    |    |    |    |       
 
     </div>  
@@ -154,9 +153,9 @@
     
     |                   | L1 | L2 | L3 | L4 | L5 | L6 |  
     |:------------------|----|----|----|----|----|----|
-    | Detect            | 1  | 1 (2) | 2 (4)  | 2 (6)  | 2  | 2  |       
-    | Disarm Trap       | 3  | 2 (5) | 4 (9)  | 2 (11)  | 4  | 2  |           
-    | Evade Trap        | 1  | 1 (2) | 2 (4)  | 2 (6) | 2  | 2  |           
+    | Detect            | 1  | 1 (2) | 2 (4)  | 2 (6)  | 2 (8)  | 2 (10)  |       
+    | Disarm Trap &emsp; &emsp;       | 3  | 2 (5) | 4 (9)  | 2 (11)  | 4 (15)  | 2 (17)  |           
+    | Evade Trap        | 1  | 1 (2) | 2 (4)  | 2 (6) | 2 (8)  | 2 (10)  |           
 
     </div>  
 
@@ -187,10 +186,25 @@
     
     </div>  
 
+#### Debra - Blessings of the Beastfolk Goddess
 
+=== "Self" 
 
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+    
+    |                                | L1 | L2    | L3    | L4    | L5     | L6     | L7     | 
+    |:-------------------------------|----|-------|-------|-------|--------|--------|--------|
+    | SP Recovery                    | 4  | 1 (5) | 2 (7) | 1 (8) | 2 (10) |        | 3 (13) |   
+    | Attack Power  &emsp;  &emsp;   | -  | -     | 6     | 2 (8) |        |        |        |       
 
+=== "Inherited" 
 
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
+    |                                | L1 | L2    | L3    | L4    | L5     | L6    | 
+    |:-------------------------------|----|-------|-------|-------|-------|--------|
+    | SP Recovery                    | 2  | 1 (3) | 1 (4) | 1 (5) | 1 (6) | 1 (7)  |    
+    | Attack Power  &emsp;  &emsp;   | -  | -     | 6     | 2 (8) |       |        |         
 
 
 
