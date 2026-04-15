@@ -20,7 +20,7 @@
     | HP Up           | Benjamin | 4  | 6  | 8  | 10 | 14 | 16 | 18 |
     | Attack Up       | Gaston   | 2  | 3  | 4  | 5  | 7  | 8  | 9  |
     | Accuracy Up     | Chloe    | 1  | 2  | 3  | 4  | 5  |    |    |
-    | Defense Up      | Chloe*   |    |    |    |    |    |    |    |
+    | Defense Up      | <span style="color: DarkOrange">Chloe</span>   |    |    |    |    |    |    |    |
     
      </div>
      
