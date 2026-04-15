@@ -4,5 +4,7 @@ nav:
   - Merging: './merging.md'
   - Damage Mechanics: './damage-mechanics.md'
   - Map Variations: './map-variations.md'
-  - Trust Guide: './trust/trust.md'
-  - Trust Dialogue Table: './trust/table.md'
+  - Trust: 
+    - Guide: './trust/trust.md'
+    - Tavern and Camp Table: './trust/table.md'
+  
