@@ -6,21 +6,23 @@
 
 ### Betrayer Bunny 
 
-=== "How to Acquire"
+??? "Details" 
 
-    - To be added.
-
-=== "Skill - Critical Tolerance"
-
-    <figure markdown>
-    ![](./img/betrayer-bunny-skill.png)
-    </figure>
-
-=== "Portrait"
-
-    <figure markdown>
-    ![](./img/betrayer-bunny.png)
-    </figure>
+    === "How to Acquire"
+    
+        - To be added.
+    
+    === "Skill - Critical Tolerance"
+    
+        <figure markdown>
+        ![](./img/betrayer-bunny-skill.png)
+        </figure>
+    
+    === "Portrait"
+    
+        <figure markdown>
+        ![](./img/betrayer-bunny.png)
+        </figure>
 
 ### Bigfoot's Offspring
 
@@ -163,15 +165,13 @@
 
 ## Minor Harken Beyond the Blizzard
 
-## Blizzard Blocking the Path 
-
 ### Kanosuke, the Loyal Samurai 
 
 ??? note "Details"
 
     === "How to Acquire"
 
-        - Rewarded automatically at the end of [Recovery of Oni Treasure](../../../events/vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni). 
+        - Rewarded automatically at the end of [Recovery of Oni Treasure](../../../../events/vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni). 
 
     === "Skill - Bind Tolerance"
 
@@ -184,6 +184,8 @@
         <figure markdown>
         ![](./img/kanosuke.png)
         </figure>
+
+## Blizzard Blocking the Path 
 
 ### Exquisite Jewel Trout
 
