@@ -2,10 +2,25 @@
 
 !!! warning "Bondmates are listed in the order of the story according to the Cursed Wheel progression point at which they are met."
 
-!!! warning "Work in Progress. To be added soon:"
-    - Betrayer Bunny
-
 ## Snowy Forest Minor Harken
+
+### Betrayer Bunny 
+
+=== "How to Acquire"
+
+    - To be added.
+
+=== "Skill - Critical Tolerance"
+
+    <figure markdown>
+    ![](./img/betrayer-bunny-skill.png)
+    </figure>
+
+=== "Portrait"
+
+    <figure markdown>
+    ![](./img/betrayer-bunny.png)
+    </figure>
 
 ### Bigfoot's Offspring
 
@@ -147,6 +162,28 @@
         </figure>
 
 ## Minor Harken Beyond the Blizzard
+
+## Blizzard Blocking the Path 
+
+### Kanosuke, the Loyal Samurai 
+
+??? note "Details"
+
+    === "How to Acquire"
+
+        - Rewarded automatically at the end of [Recovery of Oni Treasure](../../../events/vendetta-on-the-island-of-the-wailing-oni/vendetta-on-the-island-of-the-wailing-oni). 
+
+    === "Skill - Bind Tolerance"
+
+        <figure markdown>
+        ![](./img/kanosuke-skill.png)
+        </figure>
+
+    === "Portrait"
+
+        <figure markdown>
+        ![](./img/kanosuke.png)
+        </figure>
 
 ### Exquisite Jewel Trout
 
