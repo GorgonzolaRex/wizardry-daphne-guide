@@ -13,8 +13,8 @@
 
     === "How to Acquire"
 
-        - [Recovery of Salted Pork](../../../abyss-guides/4-isberg/requests.md#recovery-of-salted-pork)
-        - Must choose to "Spare" the Bigfoot and its child at the end of the request
+        - [Recovery of Salted Pork](../../../abyss-guides/4-isberg/requests.md#recovery-of-salted-pork).
+        - Must choose to "Let them go" at the end of the request.
 
     === "Skill - Accuracy"
 
@@ -27,6 +27,13 @@
         <figure markdown>
         ![](./img/bigfoots-offspring.PNG)
         </figure>
+
+    === "Farming" 
+
+        - As of 4/15 the bondmate ending is bugged, but there is a workaround. See the request page for details. 
+        - You only need to do 2 Discovery Points for a Bigfoot encounter and the Trifia. Be sure to "Let them go" and to collect the Salted Pork before exiting the floor. 
+        - The Bigfoot encounters at the Discovery Points are on par with the difficulty of the boss fight. They both have multiple OOT attacks at low HP. The most annoying is their "bad breath" attack so either bring 1-2 Priests to cast Makalki or burst them down quickly. 
+        - To reset the request CW to Deepsnow Hinterlands Entrance and then Minor Harken Beyond the Blizzard (R5).    
 
 ## Village Shut Away in Silence
 
