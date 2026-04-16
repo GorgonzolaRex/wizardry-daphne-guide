@@ -14,18 +14,6 @@
 
 ## Overview
 
-!!! tip "Critical Information Summary"
-
-    - Each league (x, y, z) can only be cleared once. You -cannot- reset or return to a cleared league by Cursed Wheeling. 
-    - Hero's Sigil: Dark
-        - Referred in-game as both a sigil and a "medal". It functions as a passive ability and is listed on a unit's Stats page below Relic Powers. Future seasons will offer additional medals, but only one can be equipped at a time. 
-        - It is a one-time only reward for clearing each league. Each clear gives an additional level to a maximum of L4.   
-        - The medal reduces Dark-type damage and gives +5 HP at L1, +5 MP at L2, and +5 SP at L3. The L4 bonus remains unknown. These bonuses are doubled for Dark units. It is unknown if the Dark-type damage scales with each level.  
-        - All members in your battlefront roster receive the medal even if they do not fight. This means a maximum of 8 units can reach L4, 4 units can reach L3, etc. 
-    - We -strongly- recommend that 
-    - The Hero's Award mission requires 6,500 points to . 
-
-
 ### League Structure 
 
 There are 4 leagues this season. 
@@ -43,16 +31,54 @@ There are 4 leagues this season.
 
 ### Hero's Sigil: Dark
 
-<div class="nofilter-table nosort-table equipment-table" markdown>
+=== "Basics" 
 
-| League Name &emsp; &emsp; &emsp;     | Aspirant | Adept | Elite | Hero | Max Level | 
-|:-------------------------------------|:--------:|:-----:|:-----:|:----:|:---------:|
-| Aspirant                             | +1       | +1    | +1    | +1   | 4         |     
-| Adept                                |          | +1    | +1    | +1   | 3         |
-| Elite                                |          |       | +1    | +1   | 2         |
-| Hero                                 |          |       |       | +1   | 1         | 
- 
-</div>
+    - Referred to in-game as both a sigil and a "medal". It is a passive skill listed under a unit's Stat page. Future seasons will offer additional medals, but only one can be equipped at a time. 
+    - One-time only reward for clearing each league. Each clear gives an additional level to a maximum of L4.   
+    - The medal reduces Dark-type damage and gives +5 HP at L1, +5 MP at L2, and +5 SP at L3. The L4 bonus remains unknown. These bonuses are doubled for Dark units. It is unknown if the Dark-type damage scales with each level.  
+    - All members in your battlefront roster receive the medal even if they do not fight. 
+
+=== "Leveling Mechanics"
+
+    - <span style="color: #F2473A">Warning!</span> As a one-time reward it cannot be farmed or transferred to another unit.  
+    - Each time you clear a league all the units in the battlefront roster recieve 100 EXP (or 1 level) toward the passive skill. 
+    - Since you cannot go back and redo an already cleared league this means that only the first 8 units you selected for the Aspirant league have the potential to reach L4. 
+    - The roster expands by +4 each league, so you can continue to add 4 new members to receive the medal, but at a lower max level. See the table below.
+    - We recommend you think very carefully about what units you want to prioritize, especially with the 2x bonus for Dark units. 
+    
+    <div class="nofilter-table nosort-table equipment-table" markdown>
+
+    | Units initially registered in...     | 
+    | League Name &emsp; &emsp; &emsp;     | Aspirant | Adept | Elite | Hero | Max Level | Max # of Units | 
+    |:-------------------------------------|:--------:|:-----:|:-----:|:----:|:---------:|:--------------:|
+    | Aspirant                             | +1       | +1    | +1    | +1   | 4         | 8              |     
+    | Adept                                |          | +1    | +1    | +1   | 3         | 4              | 
+    | Elite                                |          |       | +1    | +1   | 2         | 4              |
+    | Hero                                 |          |       |       | +1   | 1         | 4              |
+     
+    </div>
+
+## League Matches
+
+!!! warning "Details for each match will be forthcoming." 
+
+### Aspirant
+
+### Adept
+
+### Elite
+
+### Hero
+
+
+
+
+
+
+
+
+
+
 
 
 
