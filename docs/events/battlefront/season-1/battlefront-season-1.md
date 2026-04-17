@@ -10,10 +10,13 @@
     - The Hero's Sigil: Dark ("medal") is a one-time only reward for the units in your battlefront roster. Think -very- carefully about what units would benefit the most as you receive an additional level per league clear. 
     - You cannot redo a league even if you Cursed Wheel and reset the event. 
     - There is a significant difficulty spike from the Elite to Hero Leagues. As of this writing no "whale" has cleared the Hero League. It does not appear to be clearable for F2P or even long-term, highly-invested "dolphins". This may change with more refined strategies over the next week or two. 
-    - The Hero's Award mission requires a total of 6,500 points. For F2P there are weekly missions that allow you to gain additional points. There are some serious issues to know in advance:
+    - The Hero's Award mission requires a total of 6,500 points. For F2P there are weekly missions that allow you to gain additional points. 
+    - There are some serious issues to know in advance:
         - If you clear the Elite League, then you are permanently locked into the Hero League for weekly missions or completing any remaining achievements under the Hero's Award mission. 
-        - We -strongly- recommend that you use the Aspirant and Adept Leagues to complete the damage, class (Knight, Mage), race (Human), and Type (Dark) achievements.
+        - Strongly recommend the average player wait to clear the Elite League until the end of the season. 
+        - Use the Aspirant and Adept Leagues to complete the damage, class (Knight, Mage), race (Human), and Type (Dark) achievements. These may not be feasible for the average player if you are locked into the Elite or Hero Leagues. 
         - It is possible to get all 6,500 points right now without doing any Hero League matches.  
+    - You can leave after any match. The only consequence is having to redo progress in your current League. 
     
 ## Unlock Condition
 
@@ -46,7 +49,7 @@ There are 4 leagues this season.
     - Referred to in-game as both a sigil and a "medal". It is a passive skill listed under a unit's Stat page. Future seasons will offer additional medals, but only one can be equipped at a time. 
     - One-time only reward for clearing each league. Each clear gives an additional level to a maximum of L4.   
     - The medal reduces Dark-type damage and gives +5 HP at L1, +5 MP at L2, and +5 SP at L3. The L4 bonus remains unknown. These bonuses are doubled for Dark units. It is unknown if the Dark-type damage scales with each level.  
-    - All members in your battlefront roster receive the medal even if they do not fight. 
+    - All members in your battlefront roster receive the medal even if they do not participate. 
 
 === "Leveling Mechanics"
 
