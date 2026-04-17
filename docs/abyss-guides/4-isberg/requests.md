@@ -7,13 +7,13 @@
 ??? tip "Things To Know In Advance"
 
     - We recommend you wait to do the Guild requests until after you have beaten the Abyss at least once. Several requests require: 
-        - The second reversal power, which requires clearing GWO 4-3 
-        - Completion of other requests, which are listed as "pre-requisites" 
-    - The enemy difficulty is on par or higher than mobs found on the final set of floors
-    - All requests are reset if you Cursed Wheel to a different Abyss 
-    - The game saves the state of the entrire map after defeating the GWO, including unlocked shortcuts (stumps, mines)
-        - To update the map you have to "wheel-in-place" 2x on Truth of the Beautiful Ore
-        - Before starting a request (or multiple requests) do the above step and then Cursed Wheel to your desired node
+        - The second reversal power, which requires clearing GWO 4-3. 
+        - Completion of other requests, which are listed as pre-requisites. 
+    - The enemy difficulty is on par or higher than mobs found on the final set of floors.
+    - All requests are reset if you Cursed Wheel to a different Abyss. 
+    - The game saves the state of the entrire map after defeating the GWO, including unlocked shortcuts (stumps, mines).
+        - To update the map you have to "wheel-in-place" 2x on Truth of the Beautiful Ore.
+        - Before starting a request (or multiple requests) do the above step and then Cursed Wheel to your desired node.
     
 ## Snowy Forest Minor Harken
 
@@ -120,7 +120,7 @@
     - "Perfect" Ending Requirements
     
         - Knowledge of [reversing nullstones](./important-request-gwo.md#saving-iris) 
-            - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request
+            - The nullstone in the upper left-hand corner of Route 3 cannot already be reversed before you accept the request.
         - Cursed Wheel: Short Rest in the Cabin
             - North Lakeshore Cabin: "Fixed it up" (Maya needs to be accessible) 
             - Dwarves' Cave: Any 
@@ -131,7 +131,7 @@
     === "Walkthrough"
     
         - Accept the request from Marta at the Guild and go to Route 3.
-        - <span style="color: #F2473A">Warning!</span> Reverse the Stonefolk in the NW corner before entering the Mayor's House to avoid unnecessary fights.
+        - <span style="color: #F2473A">Warning!</span> Reverse the Stonefolk in the NW corner -before- entering the Mayor's House to avoid unnecessary fights.
         - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box (Box Carved with a Snowdrop Motif), Crude Map, and a Doll. Step outside and watch a cutscene of hostile animals and monsters invading the town. All of the enemy groups can be avoided and are not mandatory for successful completion. 
         - The goal is to find the 2 hidden boxes drawn on the crude map. It is possible to collect both boxes without fighting any enemies. Note that the final (3rd) box is not accessible until the end of the request.  
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
@@ -177,20 +177,19 @@
         - [Recovery of Salted Pork](./requests.md#recovery-of-salted-pork) 
         - [Find my Sister Lisa](./requests.md#find-my-sister-lisa) 
     - Request Failure
-        - Pre-requisites requests not completed 
-        - Did not receive the Dried Fish Fragment from the little girl at the Guild 
-        - Exiting to the world map and returning
+        - Pre-requisites requests not completed. 
+        - Did not receive the Dried Fish Fragment from the little girl at the Guild. 
+        - Exiting to the world map and returning.
+        - Using all of your flames ("Rise again") and being forced to "Accept death". 
     - Reset Request
-        - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed
+        - Cursed Wheel to Blizzard Blocking the Path, which will keep the pre-requisite requests flagged as completed.
 
 ??? note "Request Guide" 
 
     === "Walkthrough"
 
         - Accept the request. If both prerequisite requests are completed, then the little girl will give you the Dried Fish Fragment. 
-        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search.
-        - Running away more than twice results in request failure. 
-        - Note: As of 1/5, Discord members have reported that if the Nullshadow kills you and you revive, then instead of despawning it will result in request failure. This is currently undergoing verification.
+        - Head to Route 4. The kitty is only located in one of the 3 non-removable blizzard zones. For extra fun the Nullshadow will always appear behind you after entering a blizzard zone and stalk you throughout the search. Running away more than twice results in request failure. 
         - Finding the kitty is basically a game of hot-and-cold. It will make audible sounds as you explore with pop-up flavor text depending on your distance from its location. See Meow-chanics ₍^. .^₎.  The kitty will always be on the ground in the brush. Its location is randomized, but it tends to appear close to the swirling blizzards. 
         - Find the kitty once in each of the 3 blizzard zones. The first two times it will run away. On the third attempt you will be prompted to use the Dried Fish Fragment as bait and the request will be completed.
         - The kitty is now permanently located at the Guild. It can also see Lulu!
