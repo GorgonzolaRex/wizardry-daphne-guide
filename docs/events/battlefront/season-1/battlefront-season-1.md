@@ -7,9 +7,11 @@
 
 !!! danger "Critical Information"
 
-    - The Hero's Sigil: Dark ("medal") is a one-time only reward for the units in your battlefront roster. Think -very- carefully about what units would benefit the most as you receive an additional level per league clear. 
     - You cannot redo an already cleared league even if you Cursed Wheel and reset the event. 
-    - There is a significant difficulty spike from the Elite to Hero Leagues. As of this writing no "whale" has cleared the Hero League. It does not appear to be clearable for F2P or even long-term, highly-invested "dolphins". This may change with more refined strategies over the next week or two. 
+    - The Hero's Sigil: Dark ("medal")
+        - One-time only reward for the units in your battlefront roster. It cannot be reset, farmed, or transferred to another unit.  
+        - Think -very- carefully about what units would benefit the most as you receive an additional level per league clear. 
+    - There is a significant difficulty spike from the Elite to Hero Leagues. It does not appear to be clearable for F2P or even long-term, highly-invested "dolphins". This may change with more refined strategies over the next week or two. 
     - The Hero's Award mission requires a total of 6,500 points. For F2P there are weekly missions that allow you to gain additional points. 
     - There are some serious issues to know in advance:
         - If you clear the Elite League, then you are permanently locked into the Hero League for weekly missions or completing any remaining achievements under the Hero's Award mission. 
