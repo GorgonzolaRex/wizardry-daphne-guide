@@ -5,6 +5,16 @@
     - We will be updating this page over the coming days. For now we have included the most critical information.
     - The most recent information is located on our [Discord](https://discord.gg/PTBu6WgV) under the Forums - Battlefront of Heroes - Season 1 channel. 
 
+!!! warning "Critical Information"
+
+    - The Hero's Sigil: Dark ("medal") is a one-time only reward for the units in your battlefront roster. Think -very- carefully about what units would benefit the most as you receive an additional level per league clear. 
+    - You cannot redo a league even if you Cursed Wheel and reset the event. 
+    - There is a significant difficulty spike from the Elite to Hero Leagues. As of this writing no "whale" has cleared the Hero League. It does not appear to be clearable for F2P or even long-term, highly-invested "dolphins". This may change with more refined strategies over the next week or two. 
+    - The Hero's Award mission requires a total of 6,500 points. For F2P there are weekly missions that allow you to gain additional points. There are some serious issues to know in advance:
+        - If you clear the Elite League, then you are permanently locked into the Hero League for weekly missions or completing any remaining achievements under the Hero's Award mission. 
+        - We -strongly- recommend that you use the Aspirant and Adept Leagues to complete the damage, class (Knight, Mage), race (Human), and Type (Dark) achievements.
+        - It is possible to get all 6,500 points right now without doing any Hero League matches.  
+    
 ## Unlock Condition
 
 - Go to Royal Capital Luknalia for a short cutscene and proceed to the Beginning Abyss - BF2.
