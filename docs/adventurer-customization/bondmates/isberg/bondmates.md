@@ -75,6 +75,12 @@
         ![](./img/maya-and-marta.png)
         </figure>
 
+    === "Farming"
+        - Not much to not aside from reversing the Stonefolk before entering the Mayor's House to skip the mobs along the way. 
+        - It is possible to auto-move from the Mayor's House to both boxes without encountering any enemies. You do need to pay attention once you are by the SW housing area since there is a mob roaming around that area. 
+        - Double-check your CW toggles are set-up properly to ensure Maya is able to leave the cabin to be reunited with her mother. 
+
+
 ### Stonefolk Visiting the Gravestone
 
 ??? note "Details"
@@ -324,6 +330,17 @@
         <figure markdown>
         ![](./img/william.png)
         </figure>
+
+    === "Farming" 
+
+        - William is the easiest of the faction 2 bondmates to farm due to an "exploit" that is still present that lets you skip collecting all of the tablets and the Bigfoot boss fight. 
+        - Head directly to the end of the Bigfoot Cave and interact with the Stonefolk ("Noah" is the name of their child). The request will show up as "Completed."
+        - Return to the Royal Capital and submit the request. William will run away per usual. Return to the Bigfoot Cave and speak with him next to his Stonefolk wife. You will be automatically taken outside and receive the bondmate screen.
+        - To reset CW back to Hinterlands Entrance and then to Short Rest in the Cabin with the correct toggles. 
+
+        - Lightbearer note: 
+            - Found it most time-efficient to head directly to the Bigfoot Cave from the entrance of R10 without reversing the blizzard zone in the center of the map to open the shortcut. When you exit back to the R9 Harken all the enemies along the way should not have repopulated. 
+            - There is a Bigfoot Cave map variation that is a straight shot south from the entrance. Would recommend re-rolling the map to get this variation if you plan to farm it in 1-2 big sessions. 
 
 ## Truth of the Beautiful Ore
 
