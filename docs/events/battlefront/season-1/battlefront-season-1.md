@@ -2,8 +2,9 @@
 
 !!! warning " Work In Progress"
 
-    - The page will be heavily updated over the coming days with match details. For now we have included the most critical information to know upfront.
-    - For the most up-to-date information and strategies visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel. 
+    - The page will be heavily updated over the coming days with more details. 
+    - For the next 24 hours we have included the most critical information to know upfront in the red box below.
+    - Visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel for the most up-to-date information and strategies. 
 
 !!! danger "Critical Information"
 
@@ -19,7 +20,9 @@
         - Use the Aspirant and Adept Leagues to complete the damage, class (Knight, Mage), race (Human), and Type (Dark) achievements. These may not be feasible for the average player if you are locked into the Elite or Hero Leagues. 
         - It is possible to get all 6,500 points right now without doing any Hero League matches.  
     - You can leave after any match. The only consequence is having to redo progress in your current League. 
-    
+
+----------------Work-in-Progress----------------
+
 ## Unlock Condition
 
 - Go to Royal Capital Luknalia for a short cutscene and proceed to the Beginning Abyss - BF2.
@@ -29,9 +32,13 @@
 
 ## Overview
 
+### Arena Buffs 
+
+- Forthcoming. 
+
 ### League Structure 
 
-There are 4 leagues this season. 
+- There are 4 leagues this season. You can register 4 additional units per league up to a maximum of 20. Each league has +5 additional matches.
 
 <div class="nofilter-table nosort-table equipment-table" markdown>
 
