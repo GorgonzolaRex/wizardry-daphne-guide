@@ -8,7 +8,7 @@
 
 !!! danger "Critical Information"
 
-    - You cannot redo an already cleared league even if you Cursed Wheel and reset the event. 
+    - Once you clear all matches in a League you are automatically advanced to the next tier. You cannot Cursed Wheel or re-accept the invitation to reattempt a previously cleared League. 
     - The Hero's Sigil: Dark ("medal")
         - One-time only reward for the units in your battlefront roster. It cannot be reset, farmed, or transferred to another unit.  
         - Think -very- carefully about what units would benefit the most as you receive an additional level per league clear. 
