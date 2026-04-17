@@ -227,15 +227,15 @@
 
         - Talk to Vigo, accept the request, and go to Route 5.
         - Each blizzard zone has an area you can check to find the best spot to dry his fish. 
-        - The prompt generally shows up upon entering a blizzard zone and you will be given a brief description. The conditions are randomized on every run. Note that you asses a location, decline, and come back later. 
+        - The prompt generally shows up upon entering a blizzard zone and you will be given a brief description. The conditions are randomized on every run. You can decline and re-accept any location. 
         - Conditions: 
             - "The air here feels dry to you" 
             - "You can feel a brisk breeze, gusts rippling your clothing" 
             - "There is a slight dampness in the air here"
-        - The bondmate ending requires 1) an active blizzard zone and 2) a location with "The air here feels dry to you." The zones directly beneath the Harken and the Fountain work 100% of the time. The other locations have given inconsistent results or may be bugged. 
+        - The bondmate ending requires 1) an active blizzard zone and 2) a location with "The air here feels dry to you." The zones directly beneath the Harken and the Fountain work 100% of the time. During testing the other locations have given inconsistent results or may be bugged. 
         - Upon selecting a spot, you will be forced into 3 back-to-back fights. You may leave at any time, but your reward will be impacted. 
-    - If you are having difficulty fighting the enemies while frozen you can reverse the blizzard zone before confirming the location. This does lock you out of the bondmate ending. 
-        - Once all 3 battles are completed, you are teleported back to the tavern with the request completed. You will obtain some gold and an Ice-Wind Trout.
+        - If you cannot complete the fights while frozen, then you can reverse the blizzard zone before confirming the location. This does lock you out of the bondmate ending. 
+        - Once all 3 battles are completed, you will be teleported back to the Tavern to watch a brief cutscene and receive your reward. 
 
             ??? warning "Normal Rewards"
 
