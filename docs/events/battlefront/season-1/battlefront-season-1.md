@@ -8,6 +8,7 @@
 
 !!! danger "Critical Information"
 
+    - You can leave after any match - you are not permanently barred if you need to exit. The only consequence is having to Cursed Wheel to reset the event and redo progress in your current League. 
     - Once you clear all matches in a League you are automatically advanced to the next tier. You cannot Cursed Wheel or re-accept the invitation to reattempt a previously cleared League. 
     - The Hero's Sigil: Dark ("medal")
         - One-time only reward for the units in your battlefront roster. It cannot be reset, farmed, or transferred to another unit.  
@@ -19,7 +20,6 @@
         - Strongly recommend the average player wait to clear the Elite League until the end of the season. 
         - Use the Aspirant and Adept Leagues to complete the damage, class (Knight, Mage), race (Human), and Type (Dark) achievements. These may not be feasible for the average player if you are locked into the Elite or Hero Leagues. 
         - It is possible to get all 6,500 points right now without doing any Hero League matches.  
-    - You can leave after any match. The only consequence is having to redo progress in your current League. 
     - Fortitude does not recover between matches. It does increase in the background and will be applied after exiting the arena. 
     - Recovery items of any kind are prohibited.
 
