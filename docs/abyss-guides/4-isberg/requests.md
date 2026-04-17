@@ -136,7 +136,7 @@
         - The goal is to find the 2 hidden boxes drawn on the crude map. It is possible to collect both boxes without fighting any enemies. Note that the final (3rd) box is not accessible until the end of the request.  
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
 
-        Additional bondmate ending steps: 
+         Additional bondmate ending steps: 
         
         - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return to Route 3 and take her to the reversed nullstone for a cutscene. The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
         - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
@@ -214,11 +214,10 @@
 
 ??? warning "Important Notes"
 
-    - Pre-requisite Requests
-        - None
+    - Pre-requisites
+        - MC has been promoted to Copper Grade. 
     - Must step foot into Route 6 and then exit. 
     - To save time you will want to Cursed Wheel to a node where all of the blizzard zones are still active. 
-    - If you are having issues with being frozen you can reverse the blizzard zone before doing the back-to-back fights.
     - A few of the blizzard zones do not appear to work properly for the bondmate. Whether this is a bug or intentional is not known.
 
 
@@ -227,26 +226,28 @@
     === "Walkthrough"
 
         - Talk to Vigo, accept the request, and go to Route 5.
-        - The basic task is to check each blizzard zone, including ones that have trees that can be reversed, to find the best spot for him to dry his fish. The prompt usually shows up upon entering a blizzard zone and you will be given a brief description of the area. The conditions are randomized on every run. You can check a spot out, decline, and come back later. 
+        - Each blizzard zone has an area you can check to find the best spot to dry his fish. 
+        - The prompt generally shows up upon entering a blizzard zone and you will be given a brief description. The conditions are randomized on every run. Note that you asses a location, decline, and come back later. 
         - Conditions: 
             - "The air here feels dry to you" 
             - "You can feel a brisk breeze, gusts rippling your clothing" 
             - "There is a slight dampness in the air here"
-            - For the bondmate you must select "The air here feels dry to you".
-        - Upon selecting a spot, you will be forced into 3 back-to-back fights. You may tap out at any time. It is ideal to select a dry location where the Ice Storm may be removed via Right Hand of Reversal technique if possible.
+        - The bondmate ending requires 1) an active blizzard zone and 2) a location with "The air here feels dry to you." The zones directly beneath the Harken and the Fountain work 100% of the time. The other locations have given inconsistent results or may be bugged. 
+        - Upon selecting a spot, you will be forced into 3 back-to-back fights. You may leave at any time, but your reward will be impacted. 
+    - If you are having difficulty fighting the enemies while frozen you can reverse the blizzard zone before confirming the location. This does lock you out of the bondmate ending. 
         - Once all 3 battles are completed, you are teleported back to the tavern with the request completed. You will obtain some gold and an Ice-Wind Trout.
 
             ??? warning "Normal Rewards"
 
                 - Gem of Org x20 (first-time only)
-                - 4,000 Gold
+                - 4,000 Gold or 6,000 Gold if completed in an active blizzard zone
                 - Ice-Wind Trout (restores 150 HP to one row)
 
             ??? warnings "Rewards - Bondmate Ending" 
             
                 - Gem of Org x20 (first-time only)
                 - Bondmate: Exquisite Jewel Trout (HP)
-                - 13,000 Gold
+                - 13,000 Gold (6,000 base + 7,000 bonus)
                 - Ultimate Ice-Wind Trout (restores 250 HP to one row)
 
     === "Battle Variations"
