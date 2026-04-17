@@ -58,7 +58,7 @@ There are 4 leagues this season.
     
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
-    | Units initially registered in...     | 
+    | Units initially registered in...     | ...can reach the following max levels                        |
     | League Name &emsp; &emsp; &emsp;     | Aspirant | Adept | Elite | Hero | Max Level | Max # of Units | 
     |:-------------------------------------|:--------:|:-----:|:-----:|:----:|:---------:|:--------------:|
     | Aspirant                             | +1       | +1    | +1    | +1   | 4         | 8              |     
