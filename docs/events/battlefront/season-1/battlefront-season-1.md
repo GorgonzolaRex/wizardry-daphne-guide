@@ -2,8 +2,8 @@
 
 !!! warning " Work In Progress"
 
-    - We will be updating this page over the coming days. For now we have included the most critical information.
-    - The most recent information is located on our [Discord](https://discord.gg/PTBu6WgV) under the Forums - Battlefront of Heroes - Season 1 channel. 
+    - The page will be heavily updated over the coming days. For now we have included the most critical information to know upfront.
+    - For the most up-to-date information and strategies visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel. 
 
 !!! danger "Critical Information"
 
