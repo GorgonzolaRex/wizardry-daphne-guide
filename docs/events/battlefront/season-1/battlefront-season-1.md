@@ -5,7 +5,7 @@
     - We will be updating this page over the coming days. For now we have included the most critical information.
     - The most recent information is located on our [Discord](https://discord.gg/PTBu6WgV) under the Forums - Battlefront of Heroes - Season 1 channel. 
 
-!!! warning "Critical Information"
+!!! danger "Critical Information"
 
     - The Hero's Sigil: Dark ("medal") is a one-time only reward for the units in your battlefront roster. Think -very- carefully about what units would benefit the most as you receive an additional level per league clear. 
     - You cannot redo a league even if you Cursed Wheel and reset the event. 
@@ -75,23 +75,23 @@ There are 4 leagues this season.
 
 ## League Matches
 
-!!! warning "Details for each match will be forthcoming." 
+!!! warning "Details for each match will be forthcoming. These entries are placeholders." 
 
 ### Aspirant
 
-    ??? danger "Match 1"
+??? danger "Match 1"
 
 ### Adept
 
-    ??? danger "Match 1"
+??? danger "Match 1"
 
 ### Elite
 
-    ??? danger "Match 1"
+??? danger "Match 1"
 
 ### Hero
 
-    ??? danger "Match 1"
+??? danger "Match 1"
 
 
 
