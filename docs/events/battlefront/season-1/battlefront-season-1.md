@@ -8,7 +8,7 @@
 
 !!! danger "Critical Information"
 
-    - You can leave after any match - you are not permanently barred if you need to exit. The only consequence is having to Cursed Wheel to reset the event and redo progress in your current League. 
+    - You can leave after any match - you are not permanently barred if you need to exit. The game will automatically Cursed Wheel you back to the point before you registered for your latest League. 
     - Once you clear all matches in a League you are automatically advanced to the next tier. You cannot Cursed Wheel or re-accept the invitation to reattempt a previously cleared League. 
     - The Hero's Sigil: Dark ("medal")
         - One-time only reward for the units in your battlefront roster. It cannot be reset, farmed, or transferred to another unit.  
