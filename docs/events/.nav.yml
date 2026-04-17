@@ -16,6 +16,8 @@ nav:
   - Recurring:
     - Adventurer Retrieval: './recurring-events/adv-retrieval.md'
     - Gold Ore Collection: './recurring-events/gold-ore.md'
+  - Battlefront of Heroes: 
+    - Season 1: './battlefront/season-1/battlefront-season-1.md' 
   - Class Trials:
     - Fighter Trials: './fighter-proving-grounds/fighter-proving-grounds-guide.md'
     - Mage Trials: './mage-proving-grounds/mage-proving-grounds-guide.md'
