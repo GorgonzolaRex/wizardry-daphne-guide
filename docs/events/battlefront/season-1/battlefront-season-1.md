@@ -20,6 +20,8 @@
         - Use the Aspirant and Adept Leagues to complete the damage, class (Knight, Mage), race (Human), and Type (Dark) achievements. These may not be feasible for the average player if you are locked into the Elite or Hero Leagues. 
         - It is possible to get all 6,500 points right now without doing any Hero League matches.  
     - You can leave after any match. The only consequence is having to redo progress in your current League. 
+    - Fortitude does not recover between matches. It does increase in the background and will be applied after exiting the arena. 
+    - Recovery items of any kind are prohibited.
 
 ----------------Work-in-Progress----------------
 
