@@ -87,13 +87,13 @@
 
             ??? warning "Rewards"
             
-                ??? note "Spare"
+                ??? note "Let them go"
                     - Bondmate: Bigfoot's Offspring (Accuracy) 
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold
                     - Trifia removed from inventory 
                 
-                ??? note "Kill" 
+                ??? note "Slay them both" 
                     - Gem of Org x20 (one-time only)
                     - 8,000 Gold 
                     - Additional gold from request giver if you have a Trifia mushroom in your inventory
@@ -131,10 +131,13 @@
     === "Walkthrough"
     
         - Accept the request from Marta at the Guild and go to Route 3.
+        - <span style="color: #F2473A">Warning!</span> Reverse the Stonefolk in the NW corner before entering the Mayor's House to avoid unnecessary fights.
         - Head to the Mayor's house in the middle of the map. Obtain the Town Register from the desk and then tap the shiny object on the bottom right of the bookcase for a box (Box Carved with a Snowdrop Motif), Crude Map, and a Doll. Step outside and watch a cutscene of hostile animals and monsters invading the town. All of the enemy groups can be avoided and are not mandatory for successful completion. 
-        - The objective is to find the 3 hidden boxes drawn on the crude map. Note that the final (third) box is not accessible until the end of the request. 
-        - Go to the far northwest house and reverse the nullstone in the backyard. If you cannot do so, then the request will fail upon exiting. If you have finished all the listed steps, then Lulu will inform you the request is completed.
+        - The goal is to find the 2 hidden boxes drawn on the crude map. It is possible to collect both boxes without fighting any enemies. Note that the final (3rd) box is not accessible until the end of the request.  
         - Return to the Guild, submit the request, and receive 10,000 Gold, 1 Junk, and Gem of Org x20 (one-time only).
+
+        Additional bondmate ending steps: 
+        
         - Head to Route 9, enter the cabin, and speak with Maya by the fire. Return to Route 3 and take her to the reversed nullstone for a cutscene. The route is now open. Go down the path and prepare for a challenging fight against a Snowpeak Cyclops + Hobgoblin in the frontline, 3 Ice Slimes backline.
         - Pick up the last hidden box further down the path at (X:0, Y:16). Return to Maya and the Stonefolk for a cutscene. 
         - Head back to the Guild and submit the request to view the bondmate ending. 
