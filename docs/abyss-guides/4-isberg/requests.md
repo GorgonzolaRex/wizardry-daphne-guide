@@ -143,7 +143,8 @@
         - Head back to the Guild and submit the request to view the bondmate ending. 
 
             ??? warning "Rewards"
-    
+
+                - Gem of Org x20 (first-time only)
                 - Achievement: The Two are Always Together
                 - Bondmate: Maya and Auntie Marta (Fear Tolerance)
                 - 12,000 Gold   
@@ -196,7 +197,7 @@
     
             ??? warning "Rewards"
         
-                - Gem of Org x20
+                - Gem of Org x20 (first-time only)
                 - 12,500 Gold
                 - Deepsnow Hinterlands Roar Junk
                 - Deepsnow Hinterlands Fey Roar Junk 
@@ -211,22 +212,42 @@
 
 ### Special Local Delicacy
 
-??? "Important Notes"
+??? warning "Important Notes"
 
     - Pre-requisite Requests
         - None
+    - Must step foot into Route 6 and then exit. 
     - To save time you will want to Cursed Wheel to a node where all of the blizzard zones are still active. 
+    - If you are having issues with being frozen you can reverse the blizzard zone before doing the back-to-back fights.
     - A few of the blizzard zones do not appear to work properly for the bondmate. Whether this is a bug or intentional is not known.
+
 
 ??? note "Request Guide"
 
     === "Walkthrough"
 
-        - Accept the request and go to Route 5.
-        - Simply go to every Ice Storm zone, including ones that have trees that can be reversed. Typically the interaction zone is near the middle of the zones. When you enter the cutscene, you will get a description of the zone. These conditions are always randomized on every run. You are allowed to go to a spot and leave and come back later.
-        - The options here are "The air here feels dry to you", "You can feel a brisk breeze, gusts rippling your clothing", "There is a slight dampness in the air here". You are looking for "The air here feels dry to you".
-        - Upon selecting a spot, simply go through a 3 stage battle similar to that of previous abyss. You may tap out at any time. It is ideal to select a dry location where the Ice Storm may be removed via Right Hand of Reversal technique if possible.
-        - Once all 3 battles are completed, you are teleported back to the tavern with the request completed. You will obtain some gold and an ice-wind trout.
+        - Talk to Vigo, accept the request, and go to Route 5.
+        - The basic task is to check each blizzard zone, including ones that have trees that can be reversed, to find the best spot for him to dry his fish. The prompt usually shows up upon entering a blizzard zone and you will be given a brief description of the area. The conditions are randomized on every run. You can check a spot out, decline, and come back later. 
+        - Conditions: 
+            - "The air here feels dry to you" 
+            - "You can feel a brisk breeze, gusts rippling your clothing" 
+            - "There is a slight dampness in the air here"
+            - For the bondmate you must select "The air here feels dry to you".
+        - Upon selecting a spot, you will be forced into 3 back-to-back fights. You may tap out at any time. It is ideal to select a dry location where the Ice Storm may be removed via Right Hand of Reversal technique if possible.
+        - Once all 3 battles are completed, you are teleported back to the tavern with the request completed. You will obtain some gold and an Ice-Wind Trout.
+
+            ??? warning "Normal Rewards"
+
+                - Gem of Org x20 (first-time only)
+                - 4,000 Gold
+                - Ice-Wind Trout (restores 150 HP to one row)
+
+            ??? warnings "Rewards - Bondmate Ending" 
+            
+                - Gem of Org x20 (first-time only)
+                - Bondmate: Exquisite Jewel Trout (HP)
+                - 13,000 Gold
+                - Ultimate Ice-Wind Trout (restores 250 HP to one row)
 
     === "Battle Variations"
 
@@ -239,13 +260,10 @@
             - 2nd battle = 3 Snow Slimes frontline, 3 Ice Clouds in the middle, 2 Ice Clouds backline
             - 3rd Battle = 2 Snow Hawks frontline, 2 Snow Hawks in the middle, 2 Big Snow Hawks backline
 
-    === "Bondmate"
+    === "Bondmate" 
 
-        ??? warning "Ultimate Ice-Wind Trout"
-
-            - The conditions are not entirely known, but some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen).
-            - Upon completion, you will get an Ultimate Ice-Wind Trout instead, which heals slightly more than the normal trout.
-            - In addition, you will get the bondmate "Exquisite Jewel Trout" (HP).
+        - The conditions are not entirely known, but some suggestions involve doing the fight with the ice storm active in the area, and then taking extra time in the last fight (essentially become frozen).
+        - Upon completion, you will get the "Exquisite Jewel Trout" (HP) bondmate and Ultimate Ice-Wind Trout consumable item. 
 
 ## Slaying the White Wolves
 
