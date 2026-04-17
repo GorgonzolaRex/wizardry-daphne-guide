@@ -2,7 +2,7 @@
 
 !!! warning " Work In Progress"
 
-    - The page will be heavily updated over the coming days. For now we have included the most critical information to know upfront.
+    - The page will be heavily updated over the coming days with match details. For now we have included the most critical information to know upfront.
     - For the most up-to-date information and strategies visit the [Discord](https://discord.gg/PTBu6WgV) and go to the the Forums - Battlefront of Heroes - Season 1 channel. 
 
 !!! danger "Critical Information"
@@ -60,9 +60,11 @@ There are 4 leagues this season.
     - <span style="color: #F2473A">Warning!</span> As a one-time reward it cannot be farmed or transferred to another unit.  
     - Each time you clear a league all the units in the battlefront roster recieve 100 EXP (or 1 level) toward the passive skill. 
     - Since you cannot go back and redo an already cleared league this means that only the first 8 units you selected for the Aspirant league have the potential to reach L4. 
-    - The roster expands by +4 each league, so you can continue to add 4 new members to receive the medal, but at a lower max level. See the table below.
+    - The roster expands by +4 each league, so you can continue to add 4 new members to receive the medal, but at a lower max level. See the table in the next tab.
     - We recommend you think very carefully about what units you want to prioritize, especially with the 2x bonus for Dark units. 
-    
+
+=== "Max Level per League Entry Point"
+
     <div class="nofilter-table nosort-table equipment-table" markdown>
 
     | League Name &emsp; &emsp; &emsp;     | Aspirant | Adept | Elite | Hero | Max Level | Max # of Units | 
@@ -73,6 +75,8 @@ There are 4 leagues this season.
     | Hero                                 |          |       |       | +1   | 1         | 4              |
      
     </div>
+
+
 
 ## League Matches
 
