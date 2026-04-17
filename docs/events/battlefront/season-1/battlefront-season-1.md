@@ -44,6 +44,8 @@ There are 4 leagues this season.
 
 ### Hero's Sigil: Dark
 
+!!! warning "Review this section carefully before registering for the Aspirant League."
+
 === "Basics" 
 
     - Referred to in-game as both a sigil and a "medal". It is a passive skill listed under a unit's Stat page. Future seasons will offer additional medals, but only one can be equipped at a time. 
