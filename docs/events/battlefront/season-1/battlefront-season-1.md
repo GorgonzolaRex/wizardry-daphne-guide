@@ -61,7 +61,7 @@
 
     - Referred to in-game as both a sigil and a "medal". It is a passive skill listed under a unit's Stat page. Future seasons will offer additional medals, but only one can be equipped at a time. 
     - One-time only reward for clearing each league. Each clear gives an additional level to a maximum of L4.   
-    - The medal reduces Dark-type damage and gives +5 HP at L1, +5 MP at L2, +5 SP at L3, and another +5 HP at L4. These bonuses are doubled for Dark units. It is unknown if the Dark-type damage scales with each level.  
+    - The medal reduces Dark-type damage and gives +5 HP at L1, +5 MP at L2, +5 SP at L3, and another +5 HP at L4. These bonuses are doubled for Dark units. It is unknown if the Dark-type damage reduction scales with each level.  
     - All members in your battlefront roster receive the medal even if they do not participate. 
 
 === "Leveling Mechanics"
