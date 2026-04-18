@@ -237,18 +237,20 @@
         - If you cannot complete the fights while frozen, then you can reverse the blizzard zone before confirming the location. This does lock you out of the bondmate ending. 
         - Once all 3 battles are completed, you will be teleported back to the Tavern to watch a brief cutscene and receive your reward. 
 
-            ??? warning "Normal Rewards"
+            ??? warning "Rewards"
 
-                - Gem of Org x20 (first-time only)
-                - 4,000 Gold or 6,000 Gold if completed in an active blizzard zone
-                - Ice-Wind Trout (restores 150 HP to one row)
+                === "Normal Ending" 
 
-            ??? warnings "Rewards - Bondmate Ending" 
+                    - Gem of Org x20 (first-time only)
+                    - 6,000 Gold base + bonus of 4,000 Gold or 6,000 Gold if completed in an active blizzard zone
+                    - Ice-Wind Trout (restores 150 HP to one row)
+                    
+                === "Bondmate Ending" 
             
-                - Gem of Org x20 (first-time only)
-                - Bondmate: Exquisite Jewel Trout (HP)
-                - 13,000 Gold (6,000 base + 7,000 bonus)
-                - Ultimate Ice-Wind Trout (restores 250 HP to one row)
+                    - Gem of Org x20 (first-time only)
+                    - Bondmate: Exquisite Jewel Trout (HP)
+                    - 13,000 Gold (6,000 base + 7,000 bonus)
+                    - Ultimate Ice-Wind Trout (restores 250 HP to one row)
 
     === "Battle Variations"
 
