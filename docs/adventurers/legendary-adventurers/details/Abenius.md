@@ -67,17 +67,26 @@
 
     Simple but effective. Not exactly flashy, but still one of the best fighters in the game.
 
-??? info "Shiro's Analysis"
+??? info "Karkarov's Analysis"
 
-    Starting from her inheritance we have basically free attack on the enemy. While in case of harder enemies/bosses the impact is quite small and rarely will make a difference (assuming it’s not leveled) the case is different if we got for all around dungeon clear or for farming purposes. In those cases it's a good push towards faster fights. Whenever it kills one of the enemies in the group or slightly weakens a stronger one doing not only damage but also giving him ACC debuff. In the end it's a really good skill for self inheritance but not so good on others because of lowered activation rate.
+    Abenius Alt skin has arrived as well as an Abenius quest... What does this bring to the table, should you care, is alt Abenius worth considering for resource spends?
 
-    Moving on to her passive, it's a really amazing one especially for second abyss/middle floors of third abyss or both Le Bicken and Hundredfold Blossom caves. Not only does her passive buff her damage vs Magical Beast but also reduces damage received from them. Lucky for her those are really common enemy types so she’ll have a good bunch of time to shine.
+    First we have to consider that base Abenius was already a good character, and is now available in Adventurer Bone II pulls.  So this means discipline etc are not as big a challenge as it would be for other banner only legends.  Plus it helps Altbenius already has a great base character with alt class available.  Even if the alt class is Priest that still at least adds some versatility to fighter even if it isn't "much".  All in all she is well positioned from a "base" level to begin with, which matters.
 
-    Moving to her discipline. While in the earlier phase of the game I was really skeptical of her and Lana's, it turned out to be a really good one as we arrive in abyss 3 and we have quite a few enemies that tend to proc charm/confusion. And those are one of the most annoying statuses. It’s one of rare cases where I’d say that it’s worth going for a disc. 
+    To go over the high level stuff Abenius is a light element fighter thats a good alignment human lady.  Not a ton of synergies happening here but it makes her one of the few who can really capitalize on alt Adams formation buff (which is very strong though VERY limited), and of course Lana.  She does get a minor speed kicker for being a lady which turns out to be a little more valuable than usual for reasons... though it is still very very minor.
 
-    Her class change is priest, which is one of my favorite options for fighter class. Having it saved me really many times against annoying statuses from enemies like vampire/succubus/gorgon. Not only is it good for cleanse and sometimes emergency healing (assuming you carry staff and you’re not too lazy to swap weapons). But it’s also a good potential for faster fight setup on bosses giving you more buffers in a team and speeding up for example porto on everyone. Overall very solid class change for supportive reasons. On top of it Priest Weapon Mastery helps a bit with attack.
+    Ok what has changed with the Alt?  First there is her new passive skill: Feat of Swiftness.  This skill gives Abenius bonus damage if an enemy has not yet acted based on how much faster Abenius is than the enemy.  Well since building your team to be faster than your enemies is Wizardry 101 this is pretty much a win for Abenius.  You should simply be faster than your enemies on a developed party 95+% of the time.  How big is the damage bonus.... I honestly am not sure.  The fact that it relies on how much faster Abenius is than the enemy, and knowing exactly what that gap is ... well it's difficult... makes this very hard to meaningfully test.  So it is very unclear how strong this skill is but on paper it "seems ok".
 
-    To sum it up I believe that Abenius is one of best options when it comes for a fighter (and the best one for general content) thanks to having overall really solid class options, unique passive, inheritance and discipline. I would personally invest in inheritance firstly because it’ll be useful in more situations than more charm/conf resistance but in the end it's a matter of personal opinion on what you find best. Her only downgrade is that her unique doesn’t active on ambush. But at least that way you don’t lose the Assault Guard turn.
+    What about the inherit?  Now she has "Oblivion Slash".... and this one is just plain good.  Effectively it is the opposite of Flutterdream Flash, instead of attacking at the start Oblivion Slash has a chance to proc when an enemy is dropped to a HP threshhold where Abenius could possibly kill them with one hit of the skill.  That doesn't mean she will (though it is likely) only that she "might".  It can still miss or low roll like any other melee attack.  However unlike Flutterdream she can do it more than once a fight, only her proc rate goes down as she sees multiple uses.  It also procs off any attack that does damage to an enemy getting them into that "hp threshhold".  This means spells, aoes where there are multiple chances to proc, or Abenius's own attacks.  It is limited to only 1 proc per turn though, turn being defined as the space of time between Abenius's last action and next action.  
+    
+    As an inhherit I think it doesn't have huge value because the proc rate and damage do slightly decrease, but it also falls to once per fight period.  That said the whales out there who want to save a minute on their farm route or build meta pvp teams "just in case" are certainly going to see a lot of value in a team of multiple melee monsters who can all Oblivion Slash.  The short of it is even though I think as an inherit it is only "ok", that means it isn't bad or nonsense to inherit it.  On Abenius herself it is a lot more than "ok" it is a great passive DPS skill bringing a very nice clean up tool on low hp mobs.
+
+    Lastly what about that new discipline?  It is Surety and Attack power.  There is no better discipline for fighters (at least not yet) than surety and attack power.  This is just plain meta, the end.
+
+    So with these changes we see Altbenius with Flutter, Oblivion, her speed based extra damage, and meta discipline is effectively a alpha striking fighter from hell.  Put her in the front row with a spear, or even give her a bow in the back row as silly as that sounds, and she can be oblivioning enemies that barely survive an AOE regardless of position, hitting the "optimum" low hp target almost every fight, give her moment of finality and she can proc her own skill in case someone lives it, and of course you can just give her a traditional front row fighter weapon and see her crush things there too.  Her only real drawback is yeah she should have a slightly better second class and she doesn't play with the Alice buff.  Those aren't huge drawbacks.
+
+    With the release of this Alt skin it is my opinion Abenius is now one of the best "stock fighters" in the game and worth serious consideration in many party makeups.
+
 
 ## Adventurer Pull Plans
 
@@ -86,5 +95,10 @@
 
 ??? note "Lynd's Pull Plan"
     She's hot so I pulled immediately. At some point I blanked out and she had some discipline levels and Inherit leveled. I'll max her when she rolls around again.
+
+??? note "Karkarov's Pull Plan"
+    I have always liked Abenius so I was going to pull to try to get one copy of the Alt skin no matter what.  Then I saw the Altbenius's kit, her really nice new design, and I pulled... well, more than one copy.  Her Gacha gear is also fairly solid, especially the two hand sword which increases damage on full HP enemies and reduces SP cost by -3 on skills that cost 13 or more SP.  I don't know if I would "pull for it" but it is worth mentioning.
+    
+    TLDR: If you are looking for a good fighter that fits fairly easily into a party, if you use Alt Adam, or if you already used Abenius to begin with... This is a very solid character to pull for.  While I haven't done it (yet) I am considering ways to get her slotted into my main team.
 
 {% endblock ReviewsAndAnalysis %}
