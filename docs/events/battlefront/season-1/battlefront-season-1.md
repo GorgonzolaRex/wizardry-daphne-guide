@@ -91,27 +91,69 @@
 
 !!! warning "Details for each match will be forthcoming. These entries are placeholders." 
 
-### Aspirant
+### Aspirant League
+
+    === "Match 1"
+
+        === "Fight Image"
+            ![](./img/)
+
+        === "Fight Details"
+            - Frontline: Air Cloud 2x, Skeleton 1x
+            - Backline: Goblin Mage 2x
+
+    === "Match 2"
+
+        === "Fight Image"
+            ![](./img/)
+
+        === "Fight Details"
+            - Frontline: Vorpal Bunny 2x
+            - Backline: Skeleton Archer 3x
+
+    === "Match 3"
+
+        === "Fight Image"
+            ![](./img/)
+
+        === "Fight Details"
+            - Frontline: Skeleton Knight 2x
+            - Backline: Red Spinner Woman 2x
+
+    === "Match 4"
+
+        === "Fight Image"
+            ![](./img/)
+
+        === "Fight Details"
+            - Frontline: Scorpion Lady 1x, Goblin Archer 1x
+            - Backline: Goblin Archer 1x
+
+    === "Match 5"
+
+        === "Fight Image"
+            ![](./img/)
+
+        === "Fight Details"
+            - Frontline: Knight-Butcher Ent 2x
+            - Backline: Skeleton Mage 1x
+
+### Adept League
+
+??? danger "Match "
+
+    === "Fight Image"
+        ![](./img/)
+
+    === "Fight Details"
+        - Frontline: 
+        - Backline: 
+
+### Elite League
 
 ??? danger "Match 1"
 
-??? danger "Match 2"
-
-??? danger "Match 3"
-
-??? danger "Match 4"
-
-??? danger "Match 5"
-
-### Adept
-
-??? danger "Match 1"
-
-### Elite
-
-??? danger "Match 1"
-
-### Hero
+### Heroic League
 
 ??? danger "Match 1"
 
